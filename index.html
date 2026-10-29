@@ -93,7 +93,7 @@ async function readReplay(name, blob) {
   return { name, text: name.endsWith('.gz') ? await gunzip(blob) : await blob.text() };
 }
 
-let games = [];
+let games = [], downloads = {};
 async function run(replays) {
   await ready;
   const { extract, COLS, csv } = modules['extract.js'];
@@ -116,11 +116,14 @@ async function run(replays) {
   $('timeline_game').innerHTML = games.map((g, i) => `<option value="${i}">${g.name}</option>`).join('');
   for (const g of games) prepare(g);
   current = 0;
+  shown = null;
   showTimeline();
-  // download links
-  const link = (label, file, text) => `<a download="${file}" href="${URL.createObjectURL(new Blob([text], { type: 'text/csv' }))}">${label}</a>`;
-  $('downloads').innerHTML = `<p>${link('eu-stats.csv', 'eu-stats.csv', csv(euCols, eu))} · ${link('new-stats.csv', 'new-stats.csv', csv(advCols, advRows))}</p>` +
-    games.map(g => `<p>${g.name}: ` + Object.keys(COLS).map(k => link(k + '.csv', `${g.name}-${k}.csv`, csv(COLS[k], g.tables[k]))).join(' · ') + '</p>').join('');
+  // download links: each file is only written out when its link is clicked
+  downloads = { 'eu-stats.csv': () => csv(euCols, eu), 'new-stats.csv': () => csv(advCols, advRows) };
+  for (const g of games) for (const k of Object.keys(COLS)) downloads[`${g.name}-${k}.csv`] = () => csv(COLS[k], g.tables[k]);
+  const link = file => `<a href="#" data-file="${file}">${file}</a>`;
+  $('downloads').innerHTML = `<p>${link('eu-stats.csv')} · ${link('new-stats.csv')}</p>` +
+    games.map(g => `<p>${g.name}: ` + Object.keys(COLS).map(k => link(`${g.name}-${k}.csv`)).join(' · ') + '</p>').join('');
   $('results').hidden = false;
   $('status_text').textContent = `${replays.length} replay(s) done.` + (adv.length < eu.length ? ' Advanced stats skip yellow-flag and other non-CTF maps.' : '');
 }
@@ -215,10 +218,21 @@ function drawFrame() {
   $('frame_text').textContent = `${fmt(current)} (${current.toFixed(2)} s). Ring = carrying a flag, green ring = has a powerup.`;
 }
 
+let shown = null;          // which game's list the table holds now
 function showTimeline() {
   const g = games[+$('timeline_game').value];
   if (!g) return;
   const list = $('timeline_list').value, cols = modules['extract.js'].COLS[list];
+  // the events list is the whole game: when it is already showing, just move the highlight
+  if (list === 'events' && shown === g) {
+    const trs = $('timeline_table').tBodies[0].rows, at = Math.max(0, g.tables.events.findIndex(r => r.seconds >= current));
+    $('timeline_table').querySelector('tr.at')?.classList.remove('at');
+    if (trs[at]) trs[at].classList.add('at');
+    $('time_input').value = fmt(current);
+    drawFrame();
+    return;
+  }
+  shown = list === 'events' ? g : null;
   const rows = list === 'events' ? g.tables.events : g.tables[list].filter(r => r.seconds >= current - 5 && r.seconds <= current + 20);
   const table = $('timeline_table'), esc = v => String(v ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;');
   let at = rows.findIndex(r => r.seconds >= current);
@@ -234,6 +248,14 @@ function jump(t) { if (Number.isFinite(t)) { current = t; showTimeline(); } }
 
 $('timeline_game').onchange = () => jump(0);
 $('timeline_list').onchange = showTimeline;
+$('downloads').onclick = e => {
+  const a = e.target.closest('a[data-file]');
+  if (!a) return;
+  e.preventDefault();
+  const url = URL.createObjectURL(new Blob([downloads[a.dataset.file]()], { type: 'text/csv' })), tmp = document.createElement('a');
+  tmp.href = url; tmp.download = a.dataset.file; tmp.click();
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+};
 $('time_go').onclick = () => jump(parseTime($('time_input').value));
 $('time_input').onkeydown = e => { if (e.key === 'Enter') $('time_go').click(); };
 document.querySelectorAll('[data-step]').forEach(b => b.onclick = () => jump(current + +b.dataset.step));

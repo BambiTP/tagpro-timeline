@@ -30,8 +30,10 @@ const COLS = { events: ['seconds', 'event', 'player', 'team', 'x', 'y', 'details
   positions: ['seconds', 'player', 'x', 'y', 'vx', 'vy', 'angle', 'spin', 'alive', 'flag', 'powerups'] };
 const r3 = v => v == null ? '' : Math.round(v * 1000) / 1000;
 const r2 = v => Math.round(v * 100) / 100;
+const MOVES = [['rx', 'x', 2.5], ['ry', 'y', 2.5], ['lx', 'vx', 2.5], ['ly', 'vy', 2.5], ['a', 'angle', 180 / Math.PI], ['ra', 'spin', 180 / Math.PI]];
 
 function extract(file) {
+  if (file.extracted) return file.extracted;           // the browser page passes the same replay to all three scripts
   let text = typeof file === 'string' ? fs.readFileSync(file) : file.text;
   if (typeof file === 'string' && file.endsWith('.gz')) text = zlib.gunzipSync(text);
   const recs = [];
@@ -106,13 +108,12 @@ function extract(file) {
     } else if (u.name) names[person[id]] = u.name;
     if (u.team && u.team !== s.team) { if (s.team) ev(t, 'switch team', id, null, null, `now ${TEAM[u.team]}`); s.team = u.team; }
     let moved = false;
-    for (const [f, k, m] of [['rx', 'x', 2.5], ['ry', 'y', 2.5], ['lx', 'vx', 2.5], ['ly', 'vy', 2.5],
-      ['a', 'angle', 180 / Math.PI], ['ra', 'spin', 180 / Math.PI]])
-      if (u[f] != null) { s[k] = u[f] * m; moved = true; }
+    for (const [f, k, m] of MOVES) if (u[f] != null) { s[k] = u[f] * m; moved = true; }
     const counted = [];
-    for (const [f, v] of Object.entries(u)) {
+    for (const f in u) {
+      const v = u[f];
+      if (f.charCodeAt(0) !== 115 || f[1] !== '-' || typeof v !== 'number') continue;   // only s-* totals
       const stat = f.slice(2);
-      if (!f.startsWith('s-') || typeof v !== 'number') continue;
       const gain = first ? 0 : v - (s.stats[stat] || 0);
       if (gain > 0 && STATS[stat]) counted.push(STATS[stat]);
       if (gain > 0 && stat === 'prevent') (s.prevent ??= []).push([t, s.x, s.y]);
@@ -235,10 +236,13 @@ function extract(file) {
     else ev(c.t, c.word, c.id, c.x, c.y, 'counted by the server only');
   });
   // where a player was at an earlier moment (for stretches whose start is only known afterwards)
+  const track = new Map();
+  for (const p of positions) { if (!track.has(p.player)) track.set(p.player, []); track.get(p.player).push(p); }
   const at = (id, ms) => {
-    let best = null;
-    for (const p of positions) { if (p.ms > ms) break; if (p.player === name(id)) best = p; }
-    return best ? [best.x, best.y] : [null, null];
+    const rows = track.get(name(id)) || [];
+    let lo = 0, hi = rows.length;
+    while (lo < hi) { const m = (lo + hi) >> 1; if (rows[m].ms <= ms) lo = m + 1; else hi = m; }
+    return lo ? [rows[lo - 1].x, rows[lo - 1].y] : [null, null];
   };
   // button and block: each s-support step is credited at the end of a 5 s window, so a stretch is the
   // union of [step - 5 s, step] (this reproduces tagpro.eu's start and stop times)
@@ -278,7 +282,9 @@ function extract(file) {
       .map(k => `${k === 'captures' ? 'caps' : k === 'powerups' ? 'pups' : k} ${st[k] || 0}`).join(', '));
   events.sort((a, b) => a.ms - b.ms);
   for (const rows of [events, keypresses, positions]) for (const r of rows) r.seconds = sec(r.ms);
-  return { events, keypresses, positions, meta, tiles: startTiles };   // tiles: the map at load, tiles[x][y]
+  const result = { events, keypresses, positions, meta, tiles: startTiles };
+  if (typeof file === 'object') file.extracted = result;
+  return result;   // tiles: the map at load, tiles[x][y]
 }
 
 const cell = v => /[",\n]/.test(String(v)) ? `"${String(v).replace(/"/g, '""')}"` : String(v);
