@@ -1,0 +1,116 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TagPro timeline</title>
+<style>
+  body { font-family: sans-serif; font-size: 14px; margin: 16px; }
+  .scroll { overflow: auto; max-height: 400px; border: 1px solid #999; margin-bottom: 16px; }
+  table { border-collapse: collapse; font-size: 12px; }
+  th, td { padding: 1px 6px; border-bottom: 1px solid #ddd; white-space: nowrap; text-align: left; }
+  th { position: sticky; top: 0; background: #eee; }
+  section { margin-bottom: 16px; }
+</style>
+</head>
+<body>
+<h1>TagPro timeline</h1>
+<p>Turns TagPro replays into readable files (events, key presses, positions) and stats: the getStatsFromEU
+stats and the advanced stats. Everything runs in your browser; nothing is uploaded.
+Code and instructions for doing many replays at once: <a href="https://github.com/BambiTP/tagpro-timeline">github.com/BambiTP/tagpro-timeline</a>.</p>
+
+<section>
+  <label>Your replay files (.ndjson or .ndjson.gz, one or many):
+    <input id="replay_files" type="file" accept=".ndjson,.gz" multiple></label>
+  <p>Or try an NALTP game: <select id="preview_select"><option value="">choose a game</option></select>
+    <button id="preview_button">Load</button></p>
+  <p id="status_text"></p>
+</section>
+
+<section id="results" hidden>
+  <h2>Downloads</h2>
+  <div id="downloads"></div>
+  <h2>getStatsFromEU stats</h2>
+  <div class="scroll"><table id="eu_table"></table></div>
+  <h2>Advanced stats</h2>
+  <div class="scroll"><table id="new_table"></table></div>
+  <h2>Events <select id="events_game"></select></h2>
+  <div class="scroll"><table id="events_table"></table></div>
+</section>
+
+<script>
+const $ = id => document.getElementById(id);
+const modules = {};
+
+// run the three Node scripts here: give them a module object and stand-ins for what they require
+async function loadScript(name) {
+  const text = (await (await fetch(name)).text()).replace(/^#!.*\n/, '');
+  const module = { exports: {} };
+  const stub = { fs: {}, zlib: {}, path: { basename: s => s.split('/').pop(), join: (...a) => a.join('/') } };
+  const require = n => n.startsWith('./') ? modules[n.slice(2)] : stub[n];
+  new Function('module', 'exports', 'require', '__dirname', 'process', text)(module, module.exports, require, '.', { argv: [] });
+  modules[name] = module.exports;
+}
+const ready = (async () => { for (const n of ['extract.js', 'eu-stats.js', 'new-stats.js']) await loadScript(n); })();
+
+async function gunzip(blob) {
+  return await new Response(blob.stream().pipeThrough(new DecompressionStream('gzip'))).text();
+}
+async function readReplay(name, blob) {
+  return { name, text: name.endsWith('.gz') ? await gunzip(blob) : await blob.text() };
+}
+
+let games = [];
+async function run(replays) {
+  await ready;
+  const { extract, COLS, csv } = modules['extract.js'];
+  games = [];
+  const eu = [], adv = [];
+  for (const r of replays) {
+    $('status_text').textContent = `Working on ${r.name} ...`;
+    await new Promise(res => setTimeout(res));            // let the page redraw
+    try {
+      games.push({ name: r.name.split('.')[0], tables: extract(r) });
+      eu.push(...modules['eu-stats.js'].gameStats(r));
+      try { adv.push(...modules['new-stats.js'].gameStats(r)); } catch (e) { console.warn(r.name, e.message); }
+    } catch (e) { $('status_text').textContent = `${r.name}: could not read it (${e.message})`; return; }
+  }
+  const euCols = modules['eu-stats.js'].COLUMNS, advCols = [...new Set(adv.flatMap(r => Object.keys(r)))];
+  const round = v => typeof v === 'number' ? Math.round(v * 100) / 100 : v;
+  const advRows = adv.map(r => Object.fromEntries(advCols.map(c => [c, round(r[c] ?? 0)])));
+  fillTable('eu_table', euCols, eu);
+  fillTable('new_table', advCols, advRows);
+  $('events_game').innerHTML = games.map((g, i) => `<option value="${i}">${g.name}</option>`).join('');
+  showEvents();
+  // download links
+  const link = (label, file, text) => `<a download="${file}" href="${URL.createObjectURL(new Blob([text], { type: 'text/csv' }))}">${label}</a>`;
+  $('downloads').innerHTML = `<p>${link('eu-stats.csv', 'eu-stats.csv', csv(euCols, eu))} · ${link('new-stats.csv', 'new-stats.csv', csv(advCols, advRows))}</p>` +
+    games.map(g => `<p>${g.name}: ` + Object.keys(COLS).map(k => link(k + '.csv', `${g.name}-${k}.csv`, csv(COLS[k], g.tables[k]))).join(' · ') + '</p>').join('');
+  $('results').hidden = false;
+  $('status_text').textContent = `${replays.length} replay(s) done.` + (adv.length < eu.length ? ' Advanced stats skip yellow-flag and other non-CTF maps.' : '');
+}
+
+function fillTable(id, cols, rows) {
+  const esc = v => String(v ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;');
+  $(id).innerHTML = '<thead><tr>' + cols.map(c => `<th>${esc(c)}</th>`).join('') + '</tr></thead><tbody>' +
+    rows.map(r => '<tr>' + cols.map(c => `<td>${esc(r[c])}</td>`).join('') + '</tr>').join('') + '</tbody>';
+}
+function showEvents() {
+  const g = games[+$('events_game').value];
+  if (g) fillTable('events_table', modules['extract.js'].COLS.events, g.tables.events);
+}
+
+$('events_game').onchange = showEvents;
+$('replay_files').onchange = async e => run(await Promise.all([...e.target.files].map(f => readReplay(f.name, f))));
+$('preview_button').onclick = async () => {
+  const file = $('preview_select').value;
+  if (!file) return;
+  $('status_text').textContent = 'Downloading the replay ...';
+  run([await readReplay(file, await (await fetch('replays/' + file)).blob())]);
+};
+fetch('replays/previews.json').then(r => r.json()).then(list => {
+  $('preview_select').innerHTML += list.map(p => `<option value="${p.file}">${p.label}</option>`).join('');
+});
+</script>
+</body>
+</html>

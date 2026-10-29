@@ -1,0 +1,2082 @@
+seconds,event,player,team,x,y,details
+-19.147,join,DiegoOnMac,blue,,,
+-19.042,join,sick,blue,,,
+-18.998,message,,,,,You're playing Capture The Flag! Grab the other team's flag and bring it to yours to score. Stop the other team from grabbing your flag.
+-18.994,join,WhiffProQuo,blue,,,
+-18.927,join,oatz_mgoatz,red,,,
+-18.897,respawn,DiegoOnMac,blue,24,18,
+-18.876,respawn,sick,blue,26,17,
+-18.876,respawn,WhiffProQuo,blue,28,17,
+-18.876,respawn,oatz_mgoatz,red,7,5,
+-18.407,join,GOBLIN,blue,,,
+-18.358,message,,,,,You're playing Capture The Flag! Grab the other team's flag and bring it to yours to score. Stop the other team from grabbing your flag.
+-18.357,join,Quaky20,red,,,
+-18.329,respawn,GOBLIN,blue,28,19,
+-18.299,join,Lax11K,red,,,
+-18.276,respawn,Quaky20,red,6,5,
+-18.237,respawn,Lax11K,red,6,9,
+-18.132,join,Riley_2025,red,,,
+-18.076,respawn,Riley_2025,red,8,7,
+-0.31,block start,Riley_2025,red,8,7,
+0,game start,,,,,"map Shake; ctf; private group; Chicago 5, IL; length 600 s; red team ARPO; blue team AFUR; red flag at 7.5,6.5; blue flag at 27.5,18.5; replay b535fc39-ad01-41db-b34e-efa080c2f14f"
+0.857,boost used,Lax11K,red,5.5,11.5,
+0.876,portal used,Lax11K,red,4.5,11.5,
+1.308,gate change,,,12,10,2 tiles turned red
+1.59,gate change,,,12,10,2 tiles turned off
+2.041,bomb used,Quaky20,red,1.5,10.5,
+2.175,boost used,GOBLIN,blue,29.5,13.5,
+2.197,portal used,GOBLIN,blue,30.5,13.5,
+2.197,boost used,GOBLIN,blue,28.5,12.5,
+2.657,boost used,Riley_2025,red,17.5,12.5,
+3.157,prevent start,DiegoOnMac,blue,22.6,16.55,up to 1 s before the first counted second
+3.157,prevent start,sick,blue,27.2,12.775,up to 1 s before the first counted second
+3.157,prevent start,WhiffProQuo,blue,29.05,15.675,up to 1 s before the first counted second
+3.157,prevent start,GOBLIN,blue,26,14.575,up to 1 s before the first counted second
+4.007,grab,Riley_2025,red,26.925,19.8,blue flag
+4.157,prevent stop,DiegoOnMac,blue,21.5,16.225,1 s counted
+4.157,prevent stop,sick,blue,27.3,12.25,1 s counted
+4.157,prevent stop,WhiffProQuo,blue,28.675,16.65,1 s counted
+4.157,prevent stop,GOBLIN,blue,22.275,12.825,1 s counted
+4.158,boost used,Lax11K,red,6.5,12.5,
+4.325,bomb used,oatz_mgoatz,red,20.5,1.5,
+4.69,pop,Riley_2025,red,25.7,14.975,"carrying blue flag; returned by sick; splat at 25.7,14.975"
+4.69,block stop,Riley_2025,red,25.7,14.975,5.00 s
+4.876,portal ready,,,4.5,11.5,
+5.007,block start,oatz_mgoatz,red,23.2,10.525,
+5.157,prevent start,sick,blue,25.875,13.65,up to 1 s before the first counted second
+5.157,prevent start,WhiffProQuo,blue,26.975,14.8,up to 1 s before the first counted second
+5.34,grab,oatz_mgoatz,red,26.225,17.475,blue flag; previous carrier Riley_2025 popped 0.65 s earlier
+5.34,handoff,Riley_2025,red,25.7,14.975,
+5.74,gate change,,,12,10,2 tiles turned red
+6.157,prevent stop,sick,blue,26.45,14.85,1 s counted
+6.157,prevent stop,WhiffProQuo,blue,28.075,14.575,1 s counted
+6.157,prevent start,Quaky20,red,10.775,8.85,up to 1 s before the first counted second
+6.157,prevent start,Lax11K,red,7.8,4.925,up to 1 s before the first counted second
+6.199,portal ready,,,30.5,13.5,
+6.574,gate change,,,12,10,2 tiles turned off
+7.69,respawn,Riley_2025,red,10,8,
+8.24,gate change,,,12,10,2 tiles turned red
+8.657,gate change,,,12,10,2 tiles turned off
+8.99,gate change,,,12,10,2 tiles turned blue
+9.191,good handoff,Riley_2025,red,12.85,10.85,
+9.725,bomb used,oatz_mgoatz,red,14.5,23.5,
+9.924,gate change,,,12,10,2 tiles turned off
+10.007,pop,oatz_mgoatz,red,15.4,17.1,"carrying blue flag; returned by WhiffProQuo; splat at 15.4,17.1"
+10.007,block stop,oatz_mgoatz,red,15.4,17.1,5.00 s
+10.859,boost ready,,,5.5,11.5,
+11.075,gate change,,,23,15,2 tiles turned red
+11.158,prevent start,sick,blue,22.525,16.65,up to 1 s before the first counted second
+11.308,gate change,,,23,15,2 tiles turned off
+12.058,boost used,DiegoOnMac,blue,5.5,11.5,
+12.075,portal used,DiegoOnMac,blue,4.5,11.5,
+12.176,boost ready,,,29.5,13.5,
+12.196,boost ready,,,28.5,12.5,
+12.659,boost ready,,,17.5,12.5,
+13.007,respawn,oatz_mgoatz,red,6,4,
+14.158,boost ready,,,6.5,12.5,
+14.324,block start,DiegoOnMac,blue,5,7.45,
+15.608,boost used,WhiffProQuo,blue,17.5,12.5,
+15.99,gate change,,,23,15,2 tiles turned blue
+16.04,gate change,,,23,15,2 tiles turned off
+16.075,portal ready,,,4.5,11.5,
+16.157,prevent start,WhiffProQuo,blue,23.975,14.85,up to 1 s before the first counted second
+17.157,prevent stop,WhiffProQuo,blue,32.975,16.275,1 s counted
+17.35,bomb used,WhiffProQuo,blue,33.5,14.5,
+17.957,boost used,oatz_mgoatz,red,29.5,13.5,
+18.024,portal used,oatz_mgoatz,red,30.5,13.5,
+18.157,prevent start,WhiffProQuo,blue,27.75,17.575,up to 1 s before the first counted second
+18.456,boost used,DiegoOnMac,blue,6.5,12.5,
+18.54,grab,oatz_mgoatz,red,26.975,20.2,blue flag; previous carrier oatz_mgoatz popped 8.53 s earlier
+18.974,grab,DiegoOnMac,blue,6.75,7.675,red flag
+19.157,prevent stop,sick,blue,25.6,16.475,8 s counted
+19.157,prevent stop,WhiffProQuo,blue,26.375,15.85,1 s counted
+19.157,prevent stop,Quaky20,red,6.925,4.6,13 s counted
+19.157,prevent stop,Lax11K,red,7.9,4.625,13 s counted
+19.324,pop,DiegoOnMac,blue,6.325,5.125,"carrying red flag; returned by Quaky20; splat at 6.325,5.125"
+19.324,block stop,DiegoOnMac,blue,6.325,5.125,5.00 s
+19.94,boost used,oatz_mgoatz,red,28.5,12.5,
+20.157,prevent start,Quaky20,red,7.675,3.825,up to 1 s before the first counted second
+20.157,prevent start,Lax11K,red,7.575,2.825,up to 1 s before the first counted second
+20.34,block start,WhiffProQuo,blue,24.75,12.775,
+20.44,handoff,DiegoOnMac,blue,6.325,5.125,
+20.44,grab,GOBLIN,blue,5.925,5.8,red flag; previous carrier DiegoOnMac popped 1.12 s earlier
+21.157,prevent stop,Quaky20,red,9.125,6.8,1 s counted
+21.157,prevent stop,Lax11K,red,8.625,4.825,1 s counted
+21.491,gate change,,,12,10,2 tiles turned red
+21.708,gate change,,,12,10,2 tiles turned off
+22.025,portal ready,,,30.5,13.5,
+22.058,boost ready,,,5.5,11.5,
+22.324,respawn,DiegoOnMac,blue,25,19,
+22.774,boost used,GOBLIN,blue,5.5,11.5,
+23.174,button start,GOBLIN,blue,1,7.3,
+23.875,block start,GOBLIN,blue,4.7,6.075,
+25.024,gate change,,,12,10,2 tiles turned red
+25.34,block stop,WhiffProQuo,blue,8.725,8.3,5.00 s
+25.456,portal used,Riley_2025,red,30.5,13.5,
+25.541,gate change,,,12,10,2 tiles turned off
+25.609,boost ready,,,17.5,12.5,
+26.174,good handoff,DiegoOnMac,blue,27.7,15.075,
+26.507,block start,Lax11K,red,10.05,7.575,
+26.725,gate change,,,12,10,2 tiles turned red
+26.79,gate change,,,12,10,2 tiles turned off
+27.54,boost used,sick,blue,17.5,12.5,
+27.958,boost ready,,,29.5,13.5,
+28.074,gate change,,,23,15,2 tiles turned blue
+28.174,button stop,GOBLIN,blue,22.675,14.35,5.00 s
+28.34,pop,Quaky20,red,21.4,14.1,"tagged by GOBLIN; splat at 21.4,14.1"
+28.356,message,,,,,You can only pass through gates that are off or the same color as you. Nearby buttons can change the color of gates.
+28.407,gate change,,,23,15,2 tiles turned off
+28.457,boost ready,,,6.5,12.5,
+28.624,block start,WhiffProQuo,blue,7.05,6.025,
+28.875,pop,GOBLIN,blue,23.525,17.25,"carrying red flag; returned by Riley_2025; splat at 23.525,17.25"
+28.875,block stop,GOBLIN,blue,23.525,17.25,5.00 s
+29.124,grab,WhiffProQuo,blue,7.3,6.225,red flag; previous carrier GOBLIN popped 0.25 s earlier
+29.125,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+29.457,portal ready,,,30.5,13.5,
+29.941,boost ready,,,28.5,12.5,
+31.34,respawn,Quaky20,red,5,8,
+31.507,block stop,Lax11K,red,18.95,13.475,5.00 s
+31.707,boost used,WhiffProQuo,blue,6.5,12.5,
+31.874,respawn,GOBLIN,blue,30,15,
+32.043,bomb ready,,,1.5,10.5,
+32.607,boost used,GOBLIN,blue,29.5,13.5,
+32.625,portal used,GOBLIN,blue,30.5,13.5,
+32.775,boost ready,,,5.5,11.5,
+33.624,pop,WhiffProQuo,blue,14.775,14.925,"carrying red flag; returned by Lax11K; splat at 14.775,14.925"
+33.624,block stop,WhiffProQuo,blue,14.775,14.925,5.00 s
+34.325,bomb ready,,,20.5,1.5,
+34.859,block start,oatz_mgoatz,red,19.05,9.6,
+35.49,gate change,,,12,10,2 tiles turned red
+35.776,gate change,,,12,10,2 tiles turned off
+36.157,prevent start,Lax11K,red,10.05,7.425,up to 1 s before the first counted second
+36.624,respawn,WhiffProQuo,blue,24,17,
+36.626,portal ready,,,30.5,13.5,
+37.157,prevent start,Quaky20,red,6.775,11.65,up to 1 s before the first counted second
+37.158,bomb used,DiegoOnMac,blue,20.5,1.5,
+37.257,boost used,Quaky20,red,5.5,11.5,
+37.324,portal used,Quaky20,red,4.5,11.5,
+37.542,boost ready,,,17.5,12.5,
+38.408,bomb used,DiegoOnMac,blue,1.5,10.5,
+38.559,block start,Riley_2025,red,25.375,16.925,
+39.274,gate change,,,12,10,2 tiles turned blue
+39.49,gate change,,,12,10,2 tiles turned off
+39.725,bomb ready,,,14.5,23.5,
+39.859,pop,oatz_mgoatz,red,10.75,17.125,"carrying blue flag; returned by sick; splat at 10.75,17.125"
+39.859,block stop,oatz_mgoatz,red,10.75,17.125,5.00 s
+40.107,grab,Riley_2025,red,26.575,18.625,blue flag; previous carrier oatz_mgoatz popped 0.25 s earlier
+41.325,portal ready,,,4.5,11.5,
+41.708,boost ready,,,6.5,12.5,
+42.474,boost used,Riley_2025,red,28.5,12.5,
+42.507,bomb used,sick,blue,14.5,23.5,
+42.607,boost ready,,,29.5,13.5,
+42.858,respawn,oatz_mgoatz,red,7,8,
+43.457,boost used,Riley_2025,red,17.5,12.5,
+43.559,pop,Riley_2025,red,16.075,12.35,"carrying blue flag; returned by DiegoOnMac; splat at 16.075,12.35"
+43.559,block stop,Riley_2025,red,16.075,12.35,5.00 s
+45.474,gate change,,,12,10,2 tiles turned blue
+45.708,gate change,,,12,10,2 tiles turned off
+46.557,respawn,Riley_2025,red,4,6,
+47.26,boost ready,,,5.5,11.5,
+47.35,bomb ready,,,33.5,14.5,
+47.558,gate change,,,23,15,2 tiles turned blue
+47.74,gate change,,,23,15,2 tiles turned off
+48.158,prevent start,DiegoOnMac,blue,24.125,17.125,up to 1 s before the first counted second
+48.158,prevent start,sick,blue,25.425,13.1,up to 1 s before the first counted second
+48.158,prevent start,WhiffProQuo,blue,25.15,16.725,up to 1 s before the first counted second
+48.391,boost used,Riley_2025,red,5.5,11.5,
+48.442,boost used,Riley_2025,red,6.5,12.5,
+48.974,boost used,oatz_mgoatz,red,29.5,13.5,
+49.007,portal used,oatz_mgoatz,red,30.5,13.5,
+50.157,prevent stop,DiegoOnMac,blue,31.425,14.25,2 s counted
+50.224,bomb used,DiegoOnMac,blue,33.5,14.5,
+50.857,gate change,,,23,15,2 tiles turned red
+50.991,pop,sick,blue,23.9,14.65,"tagged by oatz_mgoatz; splat at 23.9,14.65"
+51.024,gate change,,,23,15,2 tiles turned off
+51.157,prevent start,DiegoOnMac,blue,23.45,17.425,up to 1 s before the first counted second
+51.157,prevent stop,sick,blue,23.9,14.65,3 s counted
+51.157,prevent stop,WhiffProQuo,blue,21.625,17.35,3 s counted
+51.59,portal used,Quaky20,red,4.5,11.5,
+51.69,block start,Quaky20,red,8,2,
+51.89,block start,Riley_2025,red,17.125,16.9,
+52.157,prevent stop,DiegoOnMac,blue,19.375,20.525,1 s counted
+52.475,boost ready,,,28.5,12.5,
+53.008,portal ready,,,30.5,13.5,
+53.459,boost ready,,,17.5,12.5,
+53.724,grab,Riley_2025,red,25.425,17.825,blue flag; previous carrier Riley_2025 popped 10.16 s earlier
+53.99,respawn,sick,blue,25,17,
+55.373,boost used,Riley_2025,red,28.5,12.5,
+55.591,portal ready,,,4.5,11.5,
+56.157,prevent stop,Lax11K,red,14.325,7.25,20 s counted
+56.258,boost used,DiegoOnMac,blue,17.5,12.5,
+56.69,block stop,Quaky20,red,9.175,6.475,5.00 s
+56.89,pop,Riley_2025,red,10.275,2.425,"carrying blue flag; returned by DiegoOnMac; splat at 10.275,2.425"
+56.89,block stop,Riley_2025,red,10.275,2.425,5.00 s
+58.392,boost ready,,,5.5,11.5,
+58.442,boost ready,,,6.5,12.5,
+58.975,boost ready,,,29.5,13.5,
+59.107,block start,Lax11K,red,20.075,5.125,
+59.158,prevent stop,Quaky20,red,12.475,5.85,22 s counted
+59.89,respawn,Riley_2025,red,6,4,
+59.991,grab,oatz_mgoatz,red,25.35,18.35,blue flag; previous carrier Riley_2025 popped 3.10 s earlier
+60.001,pup spawn,,,15.5,19.5,rolling bomb
+60.004,pup spawn,,,19.5,5.5,rolling bomb
+60.358,pup taken,,,19.5,5.5,rolling bomb
+60.374,pup pickup,GOBLIN,blue,18.025,4.8,rolling bomb
+60.657,pup taken,,,15.5,19.5,rolling bomb
+60.675,pup pickup,WhiffProQuo,blue,15.9,18.775,rolling bomb
+60.701,message,,,,,You have the Rolling Bomb power up! It gives a one-time invulnerability from being tagged.
+62.558,boost used,Riley_2025,red,5.5,11.5,
+62.64,boost used,Riley_2025,red,6.5,12.5,
+63.559,boost used,oatz_mgoatz,red,29.5,13.5,
+64.074,grab,GOBLIN,blue,7.725,5.625,red flag; previous carrier WhiffProQuo popped 30.45 s earlier
+64.107,block stop,Lax11K,red,21.75,11.65,5.00 s
+65.241,block start,GOBLIN,blue,5.225,7.125,
+65.374,boost ready,,,28.5,12.5,
+65.99,portal used,GOBLIN,blue,4.5,11.5,
+66.24,block start,Riley_2025,red,27.475,20,
+66.259,boost ready,,,17.5,12.5,
+66.841,gate change,,,23,15,2 tiles turned red
+67.141,gate change,,,23,15,2 tiles turned off
+67.158,bomb ready,,,20.5,1.5,
+68.058,boost used,oatz_mgoatz,red,28.5,12.5,
+68.408,bomb ready,,,1.5,10.5,
+68.44,gate change,,,23,15,2 tiles turned red
+68.457,pop,DiegoOnMac,blue,22.15,13.325,"tagged by Riley_2025; splat at 22.15,13.325"
+68.89,gate change,,,12,10,2 tiles turned blue
+69.09,gate change,,,12,10,2 tiles turned off
+69.14,block start,Lax11K,red,14.2,12.8,
+69.991,portal ready,,,4.5,11.5,
+70.09,gate change,,,23,15,2 tiles turned off
+70.224,explosion,,,9.775,14.95,
+70.241,pup ended,GOBLIN,blue,9.8,14.925,rolling bomb
+71.24,block stop,Riley_2025,red,23.125,17.475,5.00 s
+71.457,respawn,DiegoOnMac,blue,27,15,
+71.508,block start,oatz_mgoatz,red,20.4,18.725,
+72.508,bomb ready,,,14.5,23.5,
+72.559,boost ready,,,5.5,11.5,
+72.641,boost ready,,,6.5,12.5,
+73.258,gate change,,,23,15,2 tiles turned red
+73.559,boost ready,,,29.5,13.5,
+73.79,bomb used,GOBLIN,blue,20.5,1.5,
+73.825,gate change,,,23,15,2 tiles turned off
+74.107,boost used,sick,blue,17.5,12.5,
+74.14,block stop,Lax11K,red,16.225,12.525,5.00 s
+74.558,pop,GOBLIN,blue,23.825,12.875,"carrying red flag; returned by Riley_2025; splat at 23.825,12.875"
+74.558,block stop,GOBLIN,blue,23.825,12.875,9.32 s
+74.808,grab,WhiffProQuo,blue,6.9,5.625,red flag; previous carrier GOBLIN popped 0.25 s earlier
+75.474,gate change,,,23,15,2 tiles turned red
+75.591,block start,Riley_2025,red,25.6,19.85,
+75.757,gate change,,,23,15,2 tiles turned off
+76.508,pop,oatz_mgoatz,red,13.175,22.5,"carrying blue flag; returned by DiegoOnMac; splat at 13.175,22.5"
+76.508,block stop,oatz_mgoatz,red,13.175,22.5,5.00 s
+77.208,bomb used,DiegoOnMac,blue,14.5,23.5,
+77.257,grab,Riley_2025,red,26.675,19.325,blue flag; previous carrier oatz_mgoatz popped 0.75 s earlier
+77.557,respawn,GOBLIN,blue,29,20,
+78.06,boost ready,,,28.5,12.5,
+78.79,block start,Quaky20,red,24,14.975,
+79.507,respawn,oatz_mgoatz,red,9,5,
+79.607,gate change,,,23,15,2 tiles turned blue
+79.808,gate change,,,23,15,2 tiles turned off
+80.225,bomb ready,,,33.5,14.5,
+80.591,pop,Riley_2025,red,23.6,6.725,"carrying blue flag; returned by DiegoOnMac; splat at 23.6,6.725"
+80.591,block stop,Riley_2025,red,23.6,6.725,5.00 s
+80.674,pup ended,WhiffProQuo,blue,21.15,8.15,rolling bomb
+82.857,gate change,,,23,15,2 tiles turned blue
+83.007,pop,Lax11K,red,23.425,13.05,"tagged by WhiffProQuo; splat at 23.425,13.05"
+83.106,gate change,,,23,15,2 tiles turned off
+83.158,prevent start,DiegoOnMac,blue,24.8,12.125,up to 1 s before the first counted second
+83.158,prevent start,GOBLIN,blue,24,17.675,up to 1 s before the first counted second
+83.257,grab,Quaky20,red,26.575,16.85,blue flag; previous carrier Riley_2025 popped 2.67 s earlier
+83.362,message,,,,,You can only capture the flag if your team's flag is at base. Keep running until your team's flag is returned!
+83.362,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+83.59,respawn,Riley_2025,red,6,7,
+83.79,pop,Quaky20,red,27.55,17.625,"carrying blue flag; returned by GOBLIN; splat at 27.55,17.625"
+83.79,block stop,Quaky20,red,27.55,17.625,5.00 s
+84.108,boost ready,,,17.5,12.5,
+84.158,prevent stop,DiegoOnMac,blue,27.8,15.15,1 s counted
+84.158,prevent stop,GOBLIN,blue,26.875,17.95,1 s counted
+85.14,block start,GOBLIN,blue,27,16.7,
+85.157,prevent start,DiegoOnMac,blue,28.375,15.025,up to 1 s before the first counted second
+85.157,prevent start,GOBLIN,blue,27,16.7,up to 1 s before the first counted second
+85.259,score,,,,,red 0 - blue 1
+85.275,cap,WhiffProQuo,blue,26.15,18.9,red flag
+85.573,boost used,DiegoOnMac,blue,29.5,13.5,
+85.641,boost used,DiegoOnMac,blue,28.5,12.5,
+85.79,flaccid,Quaky20,red,27.55,17.625,
+85.975,block start,sick,blue,4.975,9.925,
+86.007,respawn,Lax11K,red,5,8,
+86.157,prevent stop,DiegoOnMac,blue,25.675,10.5,1 s counted
+86.175,boost used,sick,blue,5.5,11.5,
+86.177,prevent start,WhiffProQuo,blue,26.525,17.9,up to 1 s before the first counted second
+86.19,portal used,sick,blue,4.5,11.5,
+86.308,block start,Riley_2025,red,15.175,11.425,
+86.407,grab,sick,blue,7.475,3.8,red flag
+86.558,boost used,Riley_2025,red,17.5,12.5,
+86.79,respawn,Quaky20,red,7,8,
+86.84,boost used,sick,blue,6.5,12.5,
+86.925,gate change,,,23,15,2 tiles turned red
+87.007,gate change,,,23,15,2 tiles turned off
+88.641,bomb used,oatz_mgoatz,red,33.5,14.5,
+90.14,block stop,GOBLIN,blue,25.825,17.85,5.00 s
+90.19,portal ready,,,4.5,11.5,
+90.975,pop,sick,blue,24.025,18.625,"carrying red flag; returned by Riley_2025; splat at 24.025,18.625"
+90.975,block stop,sick,blue,24.025,18.625,5.00 s
+91.057,grab,oatz_mgoatz,red,27.725,17.65,blue flag; previous carrier Quaky20 popped 7.27 s earlier
+91.157,prevent stop,WhiffProQuo,blue,27,16.825,5 s counted
+91.157,prevent stop,GOBLIN,blue,25.175,17.35,6 s counted
+91.157,prevent start,Quaky20,red,2.95,8.2,up to 1 s before the first counted second
+91.958,bomb used,DiegoOnMac,blue,1.5,10.5,
+92.53,gate change,,,23,15,2 tiles turned blue
+92.774,block stop,Riley_2025,red,25.075,17.9,6.47 s
+92.856,gate change,,,23,15,2 tiles turned off
+93.157,button start,DiegoOnMac,blue,6.225,7.225,
+93.974,respawn,sick,blue,26,16,
+94.008,gate change,,,23,15,2 tiles turned red
+94.257,grab,DiegoOnMac,blue,7.9,6.525,red flag; previous carrier sick popped 3.28 s earlier
+94.324,gate change,,,23,15,2 tiles turned off
+95.157,prevent stop,Quaky20,red,8.175,7.175,4 s counted
+95.29,block start,GOBLIN,blue,13.475,12,
+95.574,boost ready,,,29.5,13.5,
+95.641,boost ready,,,28.5,12.5,
+95.791,block start,DiegoOnMac,blue,4.475,8.575,
+95.99,portal used,DiegoOnMac,blue,4.5,11.5,
+96.176,boost ready,,,5.5,11.5,
+96.358,boost used,Quaky20,red,5.5,11.5,
+96.56,boost ready,,,17.5,12.5,
+96.841,boost ready,,,6.5,12.5,
+97.192,boost used,oatz_mgoatz,red,17.5,12.5,
+97.508,gate change,,,12,10,2 tiles turned blue
+98.157,button stop,DiegoOnMac,blue,11,8.6,5.00 s
+98.607,gate change,,,12,10,2 tiles turned off
+98.69,block start,Riley_2025,red,13.85,13.3,
+99.992,portal ready,,,4.5,11.5,
+100.29,block stop,GOBLIN,blue,7.8,10.725,5.00 s
+100.339,boost used,Riley_2025,red,6.5,12.5,
+100.791,pop,DiegoOnMac,blue,4.475,8.925,"carrying red flag; returned by Riley_2025; splat at 4.475,8.925"
+100.791,block stop,DiegoOnMac,blue,4.475,8.925,5.00 s
+100.94,block start,Lax11K,red,26.15,17.025,
+101.174,prevent start,Quaky20,red,8.875,6.575,up to 1 s before the first counted second
+101.174,prevent start,Riley_2025,red,5.25,8.875,up to 1 s before the first counted second
+101.49,portal used,GOBLIN,blue,4.5,11.5,
+103.441,gate change,,,12,10,2 tiles turned blue
+103.791,respawn,DiegoOnMac,blue,25,19,
+103.792,bomb ready,,,20.5,1.5,
+104.324,block start,sick,blue,15.15,6.45,
+104.324,block start,Quaky20,red,10.775,7,
+104.358,gate change,,,12,10,2 tiles turned off
+104.809,gate change,,,12,10,2 tiles turned red
+104.941,block start,oatz_mgoatz,red,18.85,3.75,
+105.341,bomb used,oatz_mgoatz,red,20.5,1.5,
+105.492,portal ready,,,4.5,11.5,
+105.675,gate change,,,12,10,2 tiles turned off
+105.94,block stop,Lax11K,red,24.325,17.325,5.00 s
+106.358,boost ready,,,5.5,11.5,
+106.44,gate change,,,12,10,2 tiles turned blue
+106.825,gate change,,,12,10,2 tiles turned off
+107.192,boost ready,,,17.5,12.5,
+107.208,bomb ready,,,14.5,23.5,
+107.29,boost used,DiegoOnMac,blue,29.5,13.5,
+108.19,boost used,oatz_mgoatz,red,17.5,12.5,
+108.606,block stop,Riley_2025,red,9,8.075,9.92 s
+109.058,boost used,sick,blue,5.5,11.5,
+109.074,portal used,sick,blue,4.5,11.5,
+109.29,grab,sick,blue,8,2,red flag; previous carrier DiegoOnMac popped 8.50 s earlier
+109.324,block stop,sick,blue,6.475,6,5.00 s
+109.324,block stop,Quaky20,red,7.35,6.325,5.00 s
+109.424,gate change,,,23,15,2 tiles turned red
+109.84,gate change,,,23,15,2 tiles turned off
+109.941,pop,oatz_mgoatz,red,9.85,2.875,"carrying blue flag; returned by WhiffProQuo; splat at 9.85,2.875"
+109.941,block stop,oatz_mgoatz,red,9.85,2.875,5.00 s
+110.174,prevent stop,Quaky20,red,7.25,8.2,9 s counted
+110.174,prevent stop,Riley_2025,red,9.425,7.175,9 s counted
+110.34,boost ready,,,6.5,12.5,
+110.691,pop,sick,blue,6.925,11.25,"carrying red flag; returned by Quaky20; splat at 6.925,11.25"
+111.174,prevent start,Quaky20,red,7.725,10.375,up to 1 s before the first counted second
+111.174,prevent start,Riley_2025,red,9.25,8.9,up to 1 s before the first counted second
+111.457,block start,Riley_2025,red,8.95,9.7,
+111.674,grab,Lax11K,red,26.025,17.375,blue flag; previous carrier oatz_mgoatz popped 1.73 s earlier
+112.69,flaccid,sick,blue,6.925,11.25,
+112.74,grab,DiegoOnMac,blue,7.1,7.075,red flag; previous carrier sick popped 2.05 s earlier
+112.94,respawn,oatz_mgoatz,red,5,7,
+112.982,pop,DiegoOnMac,blue,7.175,6.5,"carrying red flag; returned by Quaky20; splat at 7.175,6.5"
+113.075,portal ready,,,4.5,11.5,
+113.174,prevent stop,Riley_2025,red,12.325,11.45,2 s counted
+113.69,respawn,sick,blue,29,16,
+114.324,block start,Quaky20,red,7.175,7.525,
+114.357,block start,oatz_mgoatz,red,5.95,6.1,
+114.989,flaccid,DiegoOnMac,blue,7.175,6.5,
+115.674,boost used,Lax11K,red,28.5,12.5,
+115.691,gate change,,,23,15,2 tiles turned blue
+115.941,gate change,,,23,15,2 tiles turned off
+115.99,respawn,DiegoOnMac,blue,29,15,
+116.176,prevent start,oatz_mgoatz,red,8.875,5.725,up to 1 s before the first counted second
+116.457,block stop,Riley_2025,red,18.725,14.35,5.00 s
+117.074,portal used,GOBLIN,blue,4.5,11.5,
+117.291,boost ready,,,29.5,13.5,
+118.075,boost used,oatz_mgoatz,red,6.5,12.5,
+118.193,boost ready,,,17.5,12.5,
+118.459,block start,GOBLIN,blue,5.8,5.65,
+118.642,bomb ready,,,33.5,14.5,
+119.06,boost ready,,,5.5,11.5,
+119.357,block stop,oatz_mgoatz,red,9.325,10.6,5.00 s
+119.757,block stop,Quaky20,red,6.775,8.075,5.43 s
+120.359,pup spawn,,,19.5,5.5,juke juice
+120.659,pup spawn,,,15.5,19.5,rolling bomb
+121.076,portal ready,,,4.5,11.5,
+121.175,prevent stop,oatz_mgoatz,red,11.225,11.375,5 s counted
+121.291,bomb used,DiegoOnMac,blue,14.5,23.5,
+121.44,pup taken,,,15.5,19.5,rolling bomb
+121.457,pup pickup,DiegoOnMac,blue,14.425,22,rolling bomb
+121.96,bomb ready,,,1.5,10.5,
+122.176,grab,GOBLIN,blue,6,5.975,red flag; previous carrier DiegoOnMac popped 9.19 s earlier
+122.176,prevent stop,Quaky20,red,6.125,6.925,11 s counted
+122.962,pup taken,,,19.5,5.5,juke juice
+122.977,pup pickup,WhiffProQuo,blue,17.575,5.025,juke juice
+123.029,message,,,,,You have the Juke Juice power up! It increases your acceleration.
+123.175,button start,GOBLIN,blue,8.925,3.4,
+123.459,pop,GOBLIN,blue,10.525,2,"carrying red flag; returned by Quaky20; splat at 10.525,2"
+123.459,block stop,GOBLIN,blue,10.525,2,5.00 s
+123.524,block start,DiegoOnMac,blue,14.35,16.125,
+124.178,block start,WhiffProQuo,blue,19.5,6.45,
+124.524,boost used,Lax11K,red,17.5,12.5,
+124.911,block start,Lax11K,red,18.775,10.35,
+125.457,flaccid,GOBLIN,blue,10.525,2,
+125.675,boost ready,,,28.5,12.5,
+125.957,gate change,,,12,10,2 tiles turned red
+126.174,prevent start,Quaky20,red,10.65,8.675,up to 1 s before the first counted second
+126.457,respawn,GOBLIN,blue,27,15,
+126.49,gate change,,,12,10,2 tiles turned off
+127.091,grab,WhiffProQuo,blue,7.75,6.425,red flag; previous carrier GOBLIN popped 3.63 s earlier
+127.174,prevent stop,Quaky20,red,9.075,8.75,1 s counted
+128.026,gate change,,,23,15,2 tiles turned blue
+128.079,boost ready,,,6.5,12.5,
+128.175,button stop,GOBLIN,blue,23.5,15,5.00 s
+128.241,bomb used,WhiffProQuo,blue,1.5,10.5,
+128.357,gate change,,,23,15,2 tiles turned off
+128.524,block stop,DiegoOnMac,blue,7,6.075,5.00 s
+129.176,prevent start,oatz_mgoatz,red,7.5,7.425,up to 1 s before the first counted second
+129.176,prevent start,Quaky20,red,6,5.45,up to 1 s before the first counted second
+129.178,pop,WhiffProQuo,blue,6.75,7.05,"carrying red flag; returned by oatz_mgoatz; splat at 6.75,7.05"
+129.178,block stop,WhiffProQuo,blue,6.75,7.05,5.00 s
+129.911,pop,Lax11K,red,16.95,18.125,"carrying blue flag; returned by sick; splat at 16.95,18.125"
+129.911,block stop,Lax11K,red,16.95,18.125,5.00 s
+130.125,block start,DiegoOnMac,blue,9.75,5.95,
+131.425,grab,Riley_2025,red,27.675,18.925,blue flag; previous carrier Lax11K popped 1.51 s earlier
+131.542,block start,Riley_2025,red,27.675,18.925,
+131.774,boost used,DiegoOnMac,blue,5.5,11.5,
+132.175,respawn,WhiffProQuo,blue,28,18,
+132.756,gate change,,,23,15,2 tiles turned blue
+132.84,boost used,Riley_2025,red,28.5,12.5,
+132.907,respawn,Lax11K,red,5,5,
+133.107,gate change,,,23,15,2 tiles turned off
+133.907,portal used,DiegoOnMac,blue,4.5,11.5,
+134.527,boost ready,,,17.5,12.5,
+135.041,grab,DiegoOnMac,blue,7.45,4.5,red flag; previous carrier WhiffProQuo popped 5.86 s earlier
+135.175,prevent stop,oatz_mgoatz,red,9.95,6.55,6 s counted
+135.175,prevent stop,Quaky20,red,6.55,7.975,6 s counted
+135.346,bomb ready,,,20.5,1.5,
+136.542,pop,Riley_2025,red,11.525,1.175,"carrying blue flag; returned by GOBLIN; splat at 11.525,1.175"
+136.542,block stop,Riley_2025,red,11.525,1.175,5.00 s
+137.076,boost used,oatz_mgoatz,red,17.5,12.5,
+137.39,gate change,,,23,15,2 tiles turned red
+137.441,gate change,,,23,15,2 tiles turned off
+137.658,grab,oatz_mgoatz,red,25.05,16.9,blue flag; previous carrier Riley_2025 popped 1.12 s earlier
+137.908,portal ready,,,4.5,11.5,
+138.407,bomb used,DiegoOnMac,blue,20.5,1.5,
+138.707,explosion,,,19,7.1,
+138.724,pup ended,DiegoOnMac,blue,19.05,7.325,rolling bomb
+139.191,block start,oatz_mgoatz,red,23.65,18.9,
+139.324,gate change,,,12,10,2 tiles turned blue
+139.458,gate change,,,23,15,2 tiles turned blue
+139.475,gate change,,,12,10,2 tiles turned off
+139.54,respawn,Riley_2025,red,8,6,
+139.576,gate change,,,23,15,2 tiles turned off
+141.575,gate change,,,23,15,2 tiles turned red
+141.626,pop,DiegoOnMac,blue,29.825,16.775,"carrying red flag; returned by Quaky20; splat at 29.825,16.775"
+141.626,block stop,DiegoOnMac,blue,29.825,16.775,11.50 s
+141.776,boost ready,,,5.5,11.5,
+141.841,gate change,,,23,15,2 tiles turned off
+142.04,block start,GOBLIN,blue,9.05,7.6,
+142.841,boost ready,,,28.5,12.5,
+142.974,pup ended,WhiffProQuo,blue,16.425,10.1,juke juice
+143.175,prevent start,Riley_2025,red,9.6,6.475,up to 1 s before the first counted second
+143.34,block start,Lax11K,red,25.575,15.675,
+144.191,pop,oatz_mgoatz,red,17.05,7.025,"carrying blue flag; returned by WhiffProQuo; splat at 17.05,7.025"
+144.191,block stop,oatz_mgoatz,red,17.05,7.025,5.00 s
+144.44,grab,Quaky20,red,27.125,18.6,blue flag; previous carrier oatz_mgoatz popped 0.25 s earlier
+144.625,respawn,DiegoOnMac,blue,23,19,
+145.608,block start,Quaky20,red,26.1,19.075,
+146.507,boost used,GOBLIN,blue,5.5,11.5,
+146.558,portal used,GOBLIN,blue,4.5,11.5,
+146.958,grab,GOBLIN,blue,7.375,4.35,red flag; previous carrier DiegoOnMac popped 5.33 s earlier
+147.078,boost ready,,,17.5,12.5,
+147.174,prevent stop,Riley_2025,red,7.125,6.9,4 s counted
+147.192,respawn,oatz_mgoatz,red,10,4,
+148.675,gate change,,,23,15,2 tiles turned blue
+148.94,gate change,,,23,15,2 tiles turned off
+149.906,block stop,Lax11K,red,24.875,18.725,6.57 s
+149.957,boost used,sick,blue,29.5,13.5,
+150.026,portal used,sick,blue,30.5,13.5,
+150.475,boost used,WhiffProQuo,blue,17.5,12.5,
+150.559,portal ready,,,4.5,11.5,
+150.608,pop,Quaky20,red,27.825,17.925,"carrying blue flag; returned by sick; splat at 27.825,17.925"
+150.608,block stop,Quaky20,red,27.825,17.925,5.00 s
+150.611,message,,,,,"You were tagged by a player and dropped the flag! When you have a flag, the other team can pop you."
+151.007,pop,GOBLIN,blue,17.325,16.85,"carrying red flag; returned by oatz_mgoatz; splat at 17.325,16.85"
+151.007,block stop,GOBLIN,blue,17.325,16.85,8.97 s
+151.107,grab,Lax11K,red,26,17.85,blue flag; previous carrier Quaky20 popped 0.50 s earlier
+151.293,bomb ready,,,14.5,23.5,
+151.763,gate change,,,23,15,2 tiles turned blue
+151.958,pop,Riley_2025,red,22.25,15.975,"tagged by sick; splat at 22.25,15.975"
+152.157,gate change,,,23,15,2 tiles turned off
+152.957,block start,sick,blue,25.525,12.7,
+153.207,block start,Lax11K,red,32.625,16.175,
+153.308,boost used,sick,blue,28.5,12.5,
+153.607,respawn,Quaky20,red,5,5,
+153.724,bomb used,Lax11K,red,33.5,14.5,
+154.007,respawn,GOBLIN,blue,26,18,
+154.027,portal ready,,,30.5,13.5,
+154.957,respawn,Riley_2025,red,11,7,
+155.324,gate change,,,23,15,2 tiles turned blue
+155.574,gate change,,,23,15,2 tiles turned off
+155.676,bomb used,DiegoOnMac,blue,14.5,23.5,
+156.508,boost ready,,,5.5,11.5,
+156.747,grab,DiegoOnMac,blue,7.975,7.975,red flag; previous carrier GOBLIN popped 5.74 s earlier
+156.991,block start,DiegoOnMac,blue,6.5,6.15,
+157.058,gate change,,,12,10,2 tiles turned blue
+157.258,gate change,,,12,10,2 tiles turned off
+157.957,block stop,sick,blue,8.575,5.1,5.00 s
+158.174,button start,sick,blue,8.4,4.825,
+158.174,button start,oatz_mgoatz,red,26.575,17.6,
+158.207,pop,Lax11K,red,17.125,1.475,"carrying blue flag; returned by WhiffProQuo; splat at 17.125,1.475"
+158.207,block stop,Lax11K,red,17.125,1.475,5.00 s
+158.243,bomb ready,,,1.5,10.5,
+158.457,grab,oatz_mgoatz,red,26.6,17.65,blue flag; previous carrier Lax11K popped 0.25 s earlier
+159.639,boost used,DiegoOnMac,blue,5.5,11.5,
+159.725,boost used,DiegoOnMac,blue,6.5,12.5,
+159.956,boost ready,,,29.5,13.5,
+160.475,boost ready,,,17.5,12.5,
+160.559,gate change,,,23,15,2 tiles turned red
+161.208,respawn,Lax11K,red,7,10,
+161.326,gate change,,,12,10,2 tiles turned blue
+161.455,message,,,,,You can only pass through gates that are off or the same color as you. Nearby buttons can change the color of gates.
+161.457,pop,WhiffProQuo,blue,22.025,13.475,"tagged by oatz_mgoatz; splat at 22.025,13.475"
+161.608,gate change,,,23,15,2 tiles turned off
+161.991,pop,DiegoOnMac,blue,26.825,19.525,"carrying red flag; returned by Riley_2025; splat at 26.825,19.525"
+161.991,block stop,DiegoOnMac,blue,26.825,19.525,5.00 s
+162.176,block start,oatz_mgoatz,red,23.2,15.975,
+162.457,gate change,,,23,15,2 tiles turned red
+163.174,button stop,sick,blue,10.875,9.275,5.00 s
+163.174,button stop,oatz_mgoatz,red,23.125,15.4,5.00 s
+163.31,boost ready,,,28.5,12.5,
+163.59,gate change,,,12,10,2 tiles turned off
+163.876,gate change,,,23,15,2 tiles turned off
+164.357,gate change,,,23,15,2 tiles turned red
+164.457,respawn,WhiffProQuo,blue,25,16,
+164.989,respawn,DiegoOnMac,blue,25,20,
+165.174,prevent start,Lax11K,red,8.55,7.65,up to 1 s before the first counted second
+165.208,gate change,,,23,15,2 tiles turned off
+165.507,boost used,GOBLIN,blue,17.5,12.5,
+166.39,portal used,GOBLIN,blue,4.5,11.5,
+167.176,pop,oatz_mgoatz,red,15.475,5.35,"carrying blue flag; returned by sick; splat at 15.475,5.35"
+167.176,block stop,oatz_mgoatz,red,15.475,5.35,5.00 s
+168.19,prevent start,DiegoOnMac,blue,27.625,19.15,up to 1 s before the first counted second
+168.408,bomb ready,,,20.5,1.5,
+169.641,boost ready,,,5.5,11.5,
+169.726,boost ready,,,6.5,12.5,
+170.174,respawn,oatz_mgoatz,red,9,6,
+170.394,portal ready,,,4.5,11.5,
+170.839,boost used,WhiffProQuo,blue,28.5,12.5,
+170.924,boost used,WhiffProQuo,blue,29.5,13.5,
+170.973,portal used,WhiffProQuo,blue,30.5,13.5,
+171.19,prevent start,WhiffProQuo,blue,26.85,21.5,up to 1 s before the first counted second
+171.775,bomb used,GOBLIN,blue,1.5,10.5,
+173.174,grab,Quaky20,red,27.975,18.375,blue flag; previous carrier oatz_mgoatz popped 6.00 s earlier
+173.19,prevent stop,DiegoOnMac,blue,27.45,19.2,5 s counted
+173.19,prevent stop,WhiffProQuo,blue,26.2,17.2,2 s counted
+173.192,prevent start,oatz_mgoatz,red,8.9,7.8,up to 1 s before the first counted second
+174.974,portal ready,,,30.5,13.5,
+174.975,gate change,,,12,10,2 tiles turned red
+175.508,boost ready,,,17.5,12.5,
+176.107,gate change,,,12,10,2 tiles turned off
+176.457,block start,Quaky20,red,27.55,17.85,
+177.191,prevent stop,oatz_mgoatz,red,13.4,6.925,4 s counted
+177.257,portal used,GOBLIN,blue,4.5,11.5,
+180.84,boost ready,,,28.5,12.5,
+180.926,boost used,DiegoOnMac,blue,17.5,12.5,
+180.928,boost ready,,,29.5,13.5,
+181.19,bomb used,WhiffProQuo,blue,20.5,1.5,
+181.26,portal ready,,,4.5,11.5,
+181.446,pup spawn,,,15.5,19.5,juke juice
+181.457,pop,Quaky20,red,23.15,6.8,"carrying blue flag; returned by DiegoOnMac; splat at 23.15,6.8"
+181.457,block stop,Quaky20,red,23.15,6.8,5.00 s
+182.06,pup taken,,,15.5,19.5,juke juice
+182.074,pup pickup,Riley_2025,red,15.825,18.875,juke juice
+182.963,pup spawn,,,19.5,5.5,rolling bomb
+183.024,pup taken,,,19.5,5.5,rolling bomb
+183.041,pup pickup,oatz_mgoatz,red,19.5,5.85,rolling bomb
+183.726,bomb ready,,,33.5,14.5,
+183.94,block start,sick,blue,13.45,17.375,
+184.44,block start,GOBLIN,blue,11.6,7.25,
+184.457,respawn,Quaky20,red,9,5,
+185.676,bomb ready,,,14.5,23.5,
+186.008,block start,DiegoOnMac,blue,13,5.15,
+186.19,prevent start,WhiffProQuo,blue,24.6,18.025,up to 1 s before the first counted second
+186.84,block start,Lax11K,red,7.025,7.175,
+187.307,grab,oatz_mgoatz,red,27.575,17.425,blue flag; previous carrier Quaky20 popped 5.85 s earlier
+188.057,block start,Quaky20,red,6.25,5.625,
+188.174,button start,Riley_2025,red,26.525,15.8,
+188.19,prevent stop,WhiffProQuo,blue,29.275,15.15,2 s counted
+188.19,prevent start,Quaky20,red,6.25,5.625,up to 1 s before the first counted second
+188.406,boost used,WhiffProQuo,blue,29.5,13.5,
+188.491,boost used,WhiffProQuo,blue,28.5,12.5,
+188.724,boost used,sick,blue,5.5,11.5,
+188.741,portal used,sick,blue,4.5,11.5,
+188.876,grab,DiegoOnMac,blue,6.275,5.5,red flag; previous carrier DiegoOnMac popped 26.89 s earlier
+188.99,block start,oatz_mgoatz,red,23.825,17.825,
+189.19,prevent stop,Quaky20,red,6.875,6.95,1 s counted
+189.19,prevent stop,Lax11K,red,8.1,6.925,24 s counted
+189.44,block stop,GOBLIN,blue,8.9,8.675,5.00 s
+190.224,block stop,sick,blue,5.85,9.65,6.28 s
+190.24,block start,GOBLIN,blue,8.95,8.4,
+190.925,gate change,,,12,10,2 tiles turned blue
+190.927,boost ready,,,17.5,12.5,
+191.008,pop,DiegoOnMac,blue,7.35,6.175,"carrying red flag; returned by Lax11K; splat at 7.35,6.175"
+191.008,block stop,DiegoOnMac,blue,7.35,6.175,5.00 s
+191.19,prevent start,Quaky20,red,4.875,10,up to 1 s before the first counted second
+191.19,prevent start,Lax11K,red,7.95,7.05,up to 1 s before the first counted second
+191.426,gate change,,,12,10,2 tiles turned off
+192.743,portal ready,,,4.5,11.5,
+192.858,gate change,,,23,15,2 tiles turned red
+193.174,button stop,Riley_2025,red,22.975,14.8,5.00 s
+193.79,gate change,,,23,15,2 tiles turned off
+193.975,explosion,,,11.375,7.5,
+193.99,pup ended,oatz_mgoatz,red,11.325,7.5,rolling bomb
+193.99,block stop,oatz_mgoatz,red,11.325,7.5,5.00 s
+194.008,respawn,DiegoOnMac,blue,25,17,
+194.04,block stop,Quaky20,red,8.025,5.275,5.98 s
+194.09,block stop,Lax11K,red,7.975,6.225,7.25 s
+194.339,grab,GOBLIN,blue,7.775,6.4,red flag; previous carrier DiegoOnMac popped 3.33 s earlier
+195.19,prevent stop,Quaky20,red,7.125,6.3,4 s counted
+195.19,prevent stop,Lax11K,red,4.775,5.925,4 s counted
+195.24,pop,GOBLIN,blue,5.8,6.4,"carrying red flag; returned by Quaky20; splat at 5.8,6.4"
+195.24,block stop,GOBLIN,blue,5.8,6.4,5.00 s
+195.478,score,,,,,red 1 - blue 1
+195.491,cap,oatz_mgoatz,red,7.65,6.225,blue flag
+195.826,block start,Riley_2025,red,27.35,18.875,
+195.857,grab,WhiffProQuo,blue,7.5,5.25,red flag; previous carrier GOBLIN popped 0.62 s earlier
+195.857,handoff,GOBLIN,blue,5.8,6.4,
+196.097,pop,WhiffProQuo,blue,7.3,5.65,"carrying red flag; returned by oatz_mgoatz; splat at 7.3,5.65"
+196.097,flaccid,GOBLIN,blue,5.8,6.4,
+196.098,message,,,,,"You were tagged by a player and dropped the flag! When you have a flag, the other team can pop you."
+196.19,prevent start,oatz_mgoatz,red,6.975,6.55,up to 1 s before the first counted second
+196.19,prevent start,Quaky20,red,7.15,7.45,up to 1 s before the first counted second
+196.19,prevent start,Lax11K,red,3.275,6.6,up to 1 s before the first counted second
+196.257,block start,sick,blue,7.85,4.875,
+197.19,prevent start,DiegoOnMac,blue,26.825,17.9,up to 1 s before the first counted second
+197.291,block start,DiegoOnMac,blue,26.825,17.9,
+197.407,bomb used,Riley_2025,red,33.5,14.5,
+197.457,boost used,oatz_mgoatz,red,6.5,12.5,
+197.79,block start,oatz_mgoatz,red,5.85,11.775,
+198.107,flaccid,WhiffProQuo,blue,7.3,5.65,
+198.19,prevent stop,oatz_mgoatz,red,8.725,12.55,2 s counted
+198.24,respawn,GOBLIN,blue,29,15,
+198.407,boost ready,,,29.5,13.5,
+198.492,boost ready,,,28.5,12.5,
+198.726,boost ready,,,5.5,11.5,
+198.958,gate change,,,23,15,2 tiles turned blue
+199.107,respawn,WhiffProQuo,blue,27,17,
+199.19,prevent stop,DiegoOnMac,blue,22.9,15.25,2 s counted
+199.191,gate change,,,23,15,2 tiles turned off
+199.79,bomb used,Riley_2025,red,14.5,23.5,
+200.107,boost used,DiegoOnMac,blue,17.5,12.5,
+200.474,gate change,,,12,10,2 tiles turned blue
+200.54,gate change,,,12,10,2 tiles turned off
+200.607,grab,Riley_2025,red,26,18.45,blue flag
+200.774,grab,DiegoOnMac,blue,10.15,8.225,red flag; previous carrier WhiffProQuo popped 4.68 s earlier
+200.826,block stop,Riley_2025,red,28.9,16.875,5.00 s
+200.858,pop,Riley_2025,red,29.1,16.8,"carrying blue flag; returned by GOBLIN; splat at 29.1,16.8"
+201.191,prevent stop,Quaky20,red,7.9,5.45,5 s counted
+201.191,prevent stop,Lax11K,red,6.95,5.525,5 s counted
+201.257,block stop,sick,blue,7,4.525,5.00 s
+201.324,grab,oatz_mgoatz,red,26.575,17.275,blue flag; previous carrier Riley_2025 popped 0.47 s earlier
+201.324,handoff,Riley_2025,red,29.1,16.8,
+201.775,bomb ready,,,1.5,10.5,
+202.074,pup ended,Riley_2025,red,29.1,16.8,juke juice
+202.291,pop,DiegoOnMac,blue,3.825,10.125,"carrying red flag; returned by Quaky20; splat at 3.825,10.125"
+202.291,block stop,DiegoOnMac,blue,3.825,10.125,5.00 s
+202.674,boost used,Quaky20,red,5.5,11.5,
+202.79,pop,oatz_mgoatz,red,28,16.25,"carrying blue flag; returned by GOBLIN; splat at 28,16.25"
+202.79,flaccid,Riley_2025,red,29.1,16.8,
+202.79,block stop,oatz_mgoatz,red,28,16.25,5.00 s
+203.174,button start,WhiffProQuo,blue,25.2,16.825,
+203.174,button start,Quaky20,red,9.95,14.7,
+203.19,prevent start,Lax11K,red,4.275,9.775,up to 1 s before the first counted second
+203.324,handoff,DiegoOnMac,blue,3.825,10.125,
+203.324,grab,sick,blue,6.875,6.825,red flag; previous carrier DiegoOnMac popped 1.03 s earlier
+203.857,respawn,Riley_2025,red,10,5,
+204.058,gate change,,,23,15,2 tiles turned blue
+204.19,prevent stop,Lax11K,red,7.15,8.9,1 s counted
+204.774,gate change,,,12,10,2 tiles turned red
+204.791,flaccid,DiegoOnMac,blue,3.825,10.125,
+204.791,pop,sick,blue,12.55,8.025,"carrying red flag; returned by Lax11K; splat at 12.55,8.025"
+204.791,flaccid,oatz_mgoatz,red,28,16.25,
+205.076,gate change,,,12,10,2 tiles turned off
+205.29,respawn,DiegoOnMac,blue,28,18,
+205.79,respawn,oatz_mgoatz,red,6,5,
+206.459,block start,GOBLIN,blue,29.95,14.025,
+206.474,block start,oatz_mgoatz,red,6.475,5.475,
+206.79,flaccid,sick,blue,12.55,8.025,
+206.926,gate change,,,12,10,2 tiles turned red
+207.075,boost used,GOBLIN,blue,29.5,13.5,
+207.457,boost ready,,,6.5,12.5,
+207.79,respawn,sick,blue,24,17,
+208.174,button stop,WhiffProQuo,blue,23.25,15.2,5.00 s
+208.174,button stop,Quaky20,red,11.075,8.575,5.00 s
+208.19,prevent start,WhiffProQuo,blue,23.25,15.2,up to 1 s before the first counted second
+208.274,gate change,,,12,10,2 tiles turned off
+208.407,block start,Riley_2025,red,23.325,12.7,
+208.474,gate change,,,23,15,2 tiles turned off
+209.191,prevent start,Quaky20,red,9.25,6.625,up to 1 s before the first counted second
+209.191,prevent start,Lax11K,red,2.9,9,up to 1 s before the first counted second
+209.626,boost used,Riley_2025,red,28.5,12.5,
+209.626,bomb used,Lax11K,red,1.5,10.5,
+209.724,portal used,Riley_2025,red,30.5,13.5,
+210.109,boost ready,,,17.5,12.5,
+210.225,grab,Riley_2025,red,26.925,19.8,blue flag; previous carrier oatz_mgoatz popped 7.43 s earlier
+210.857,boost used,DiegoOnMac,blue,6.5,12.5,
+210.973,portal used,DiegoOnMac,blue,4.5,11.5,
+211.19,prevent stop,WhiffProQuo,blue,27.925,12.8,3 s counted
+211.19,prevent stop,Quaky20,red,5.6,5.85,2 s counted
+211.19,prevent stop,Lax11K,red,7.725,6.875,2 s counted
+211.194,bomb ready,,,20.5,1.5,
+211.207,grab,GOBLIN,blue,6.975,4.625,red flag; previous carrier sick popped 6.42 s earlier
+211.44,gate change,,,23,15,2 tiles turned red
+211.459,pop,GOBLIN,blue,6.75,6.075,"carrying red flag; returned by Quaky20; splat at 6.75,6.075"
+211.459,block stop,GOBLIN,blue,6.75,6.075,5.00 s
+211.707,block start,DiegoOnMac,blue,7.65,5.375,
+211.775,pop,sick,blue,22.9,15.775,"tagged by oatz_mgoatz; splat at 22.9,15.775"
+211.809,gate change,,,23,15,2 tiles turned off
+212.19,prevent start,Quaky20,red,3.775,7.475,up to 1 s before the first counted second
+212.19,prevent start,Lax11K,red,8.45,8.325,up to 1 s before the first counted second
+212.675,boost ready,,,5.5,11.5,
+213.19,prevent stop,Quaky20,red,3.925,7.5,1 s counted
+213.19,prevent stop,Lax11K,red,9.525,7.8,1 s counted
+213.407,pop,Riley_2025,red,16.65,3.825,"carrying blue flag; returned by DiegoOnMac; splat at 16.65,3.825"
+213.407,block stop,Riley_2025,red,16.65,3.825,5.00 s
+213.457,flaccid,GOBLIN,blue,6.75,6.075,
+213.725,portal ready,,,30.5,13.5,
+214.198,grab,oatz_mgoatz,red,26.275,17.025,blue flag; previous carrier Riley_2025 popped 0.79 s earlier
+214.457,respawn,GOBLIN,blue,26,18,
+214.474,pop,oatz_mgoatz,red,26.7,18.375,"carrying blue flag; returned by GOBLIN; splat at 26.7,18.375"
+214.474,block stop,oatz_mgoatz,red,26.7,18.375,8.00 s
+214.774,respawn,sick,blue,27,15,
+214.974,portal ready,,,4.5,11.5,
+215.19,prevent start,Quaky20,red,8.6,5.75,up to 1 s before the first counted second
+215.19,prevent start,Lax11K,red,12.275,6.275,up to 1 s before the first counted second
+215.575,bomb used,DiegoOnMac,blue,20.5,1.5,
+216.407,respawn,Riley_2025,red,6,7,
+216.474,flaccid,oatz_mgoatz,red,26.7,18.375,
+216.64,grab,DiegoOnMac,blue,7.525,5.075,red flag; previous carrier GOBLIN popped 5.18 s earlier
+216.707,block stop,DiegoOnMac,blue,7.525,5.075,5.00 s
+216.724,gate change,,,23,15,2 tiles turned blue
+216.891,pop,DiegoOnMac,blue,6.475,5.85,"carrying red flag; returned by Quaky20; splat at 6.475,5.85"
+217.075,boost ready,,,29.5,13.5,
+217.358,gate change,,,23,15,2 tiles turned off
+217.474,respawn,oatz_mgoatz,red,6,6,
+218.674,boost used,Riley_2025,red,5.5,11.5,
+218.89,flaccid,DiegoOnMac,blue,6.475,5.85,
+219.191,boost used,sick,blue,29.5,13.5,
+219.239,portal used,sick,blue,30.5,13.5,
+219.626,boost ready,,,28.5,12.5,
+219.89,respawn,DiegoOnMac,blue,28,16,
+220.19,prevent start,Riley_2025,red,6.4,8.275,up to 1 s before the first counted second
+220.808,block start,Riley_2025,red,8.275,10.725,
+220.858,boost ready,,,6.5,12.5,
+221.19,prevent stop,Quaky20,red,10.4,11.025,6 s counted
+221.19,prevent stop,Riley_2025,red,9.2,11.775,1 s counted
+221.458,boost used,GOBLIN,blue,17.5,12.5,
+221.874,block start,WhiffProQuo,blue,7.825,8.325,
+222.076,gate change,,,23,15,2 tiles turned blue
+222.191,prevent start,Quaky20,red,8.375,10.075,up to 1 s before the first counted second
+222.924,gate change,,,23,15,2 tiles turned off
+223.19,prevent start,DiegoOnMac,blue,28.775,13.075,up to 1 s before the first counted second
+223.19,prevent start,sick,blue,23.475,15.825,up to 1 s before the first counted second
+223.24,portal ready,,,30.5,13.5,
+224.775,boost used,DiegoOnMac,blue,28.5,12.5,
+224.79,grab,Riley_2025,red,26.475,19.2,blue flag; previous carrier oatz_mgoatz popped 10.32 s earlier
+224.89,portal used,DiegoOnMac,blue,30.5,13.5,
+225.191,prevent stop,DiegoOnMac,blue,27.025,21.025,2 s counted
+225.191,prevent stop,sick,blue,26.375,18.25,2 s counted
+225.808,pop,Riley_2025,red,30.375,15.325,"carrying blue flag; returned by sick; splat at 30.375,15.325"
+225.808,block stop,Riley_2025,red,30.375,15.325,5.00 s
+226.09,boost used,WhiffProQuo,blue,6.5,12.5,
+226.19,prevent start,DiegoOnMac,blue,27.625,15.225,up to 1 s before the first counted second
+226.19,prevent start,sick,blue,29.775,15.425,up to 1 s before the first counted second
+226.208,portal used,WhiffProQuo,blue,4.5,11.5,
+226.29,block start,oatz_mgoatz,red,28.925,18.325,
+226.506,grab,oatz_mgoatz,red,28.35,18.125,blue flag; previous carrier Riley_2025 popped 0.70 s earlier
+226.506,handoff,Riley_2025,red,30.375,15.325,
+226.69,grab,WhiffProQuo,blue,7.15,4.95,red flag; previous carrier DiegoOnMac popped 9.80 s earlier
+226.712,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+226.874,block stop,WhiffProQuo,blue,7,5.825,5.00 s
+226.941,pop,WhiffProQuo,blue,6.775,6.475,"carrying red flag; returned by Lax11K; splat at 6.775,6.475"
+227.19,prevent stop,DiegoOnMac,blue,27.05,14.275,1 s counted
+227.19,prevent stop,sick,blue,28.375,14.4,1 s counted
+227.408,bomb ready,,,33.5,14.5,
+228.207,good handoff,Riley_2025,red,30.375,15.325,
+228.675,boost ready,,,5.5,11.5,
+228.808,respawn,Riley_2025,red,9,4,
+228.875,boost used,Quaky20,red,5.5,11.5,
+228.89,portal ready,,,30.5,13.5,
+228.94,flaccid,WhiffProQuo,blue,6.775,6.475,
+229.191,boost ready,,,29.5,13.5,
+229.79,bomb ready,,,14.5,23.5,
+229.941,respawn,WhiffProQuo,blue,26,17,
+230.21,portal ready,,,4.5,11.5,
+231.19,prevent stop,Quaky20,red,8.525,6.475,9 s counted
+231.19,prevent stop,Lax11K,red,9.55,9.175,16 s counted
+231.29,pop,oatz_mgoatz,red,11.45,17.75,"carrying blue flag; returned by GOBLIN; splat at 11.45,17.75"
+231.29,block stop,oatz_mgoatz,red,11.45,17.75,5.00 s
+231.46,boost ready,,,17.5,12.5,
+231.607,gate change,,,12,10,2 tiles turned red
+233.091,gate change,,,12,10,2 tiles turned off
+233.19,prevent start,WhiffProQuo,blue,25.075,18.25,up to 1 s before the first counted second
+233.241,boost used,sick,blue,17.5,12.5,
+234.19,prevent stop,WhiffProQuo,blue,24.525,18.975,1 s counted
+234.191,prevent start,Quaky20,red,7.25,6.95,up to 1 s before the first counted second
+234.191,prevent start,Lax11K,red,8.65,7.175,up to 1 s before the first counted second
+234.29,respawn,oatz_mgoatz,red,8,6,
+234.775,boost ready,,,28.5,12.5,
+235.207,gate change,,,12,10,2 tiles turned blue
+235.407,gate change,,,12,10,2 tiles turned off
+235.558,gate change,,,23,15,2 tiles turned blue
+235.842,gate change,,,23,15,2 tiles turned off
+236.091,boost ready,,,6.5,12.5,
+236.507,bomb used,sick,blue,14.5,23.5,
+237.19,prevent start,sick,blue,23.05,17.4,up to 1 s before the first counted second
+237.19,prevent stop,Quaky20,red,9.1,6.525,3 s counted
+237.19,prevent stop,Lax11K,red,8.55,5.15,3 s counted
+237.639,boost used,sick,blue,29.5,13.5,
+237.658,portal used,sick,blue,30.5,13.5,
+238.656,gate change,,,23,15,2 tiles turned blue
+238.823,gate change,,,23,15,2 tiles turned off
+238.875,boost ready,,,5.5,11.5,
+239.19,prevent stop,sick,blue,21.525,15.175,2 s counted
+239.626,bomb ready,,,1.5,10.5,
+241.66,portal ready,,,30.5,13.5,
+242.061,pup spawn,,,15.5,19.5,juke juice
+242.424,pup taken,,,15.5,19.5,juke juice
+242.44,pup pickup,Quaky20,red,15.25,17.975,juke juice
+242.466,message,,,,,You have the Juke Juice power up! It increases your acceleration.
+243.026,pup spawn,,,19.5,5.5,juke juice
+243.241,boost ready,,,17.5,12.5,
+243.39,block start,Quaky20,red,15.2,19.525,
+243.558,pup taken,,,19.5,5.5,juke juice
+243.574,pup pickup,oatz_mgoatz,red,19.725,5.45,juke juice
+244.691,block start,Riley_2025,red,19.05,19.3,
+245.19,prevent start,WhiffProQuo,blue,21.425,20.4,up to 1 s before the first counted second
+245.575,bomb ready,,,20.5,1.5,
+246.091,gate change,,,12,10,2 tiles turned blue
+246.19,prevent start,Lax11K,red,11.225,6.225,up to 1 s before the first counted second
+246.476,gate change,,,12,10,2 tiles turned off
+246.69,block start,GOBLIN,blue,10.05,8.8,
+246.707,block start,DiegoOnMac,blue,13.225,5,
+247.19,prevent start,oatz_mgoatz,red,11.1,6.25,up to 1 s before the first counted second
+247.224,boost used,sick,blue,17.5,12.5,
+247.643,boost ready,,,29.5,13.5,
+248.191,prevent start,sick,blue,27,21.225,up to 1 s before the first counted second
+248.339,boost used,GOBLIN,blue,5.5,11.5,
+248.357,grab,Riley_2025,red,26.2,17.625,blue flag; previous carrier oatz_mgoatz popped 17.07 s earlier
+248.374,portal used,GOBLIN,blue,4.5,11.5,
+249.191,prevent stop,sick,blue,27,18.45,1 s counted
+249.191,prevent stop,WhiffProQuo,blue,27.825,17.275,4 s counted
+249.39,block stop,Quaky20,red,29.55,16.275,6.00 s
+249.691,pop,Riley_2025,red,29.65,13.775,"carrying blue flag; returned by WhiffProQuo; splat at 29.65,13.775"
+249.691,block stop,Riley_2025,red,29.65,13.775,5.00 s
+250.19,prevent start,sick,blue,29.3,16.075,up to 1 s before the first counted second
+250.391,bomb used,WhiffProQuo,blue,33.5,14.5,
+250.407,block start,WhiffProQuo,blue,31.8,14.025,
+250.89,gate change,,,23,15,2 tiles turned blue
+250.976,gate change,,,23,15,2 tiles turned off
+251.375,bomb used,GOBLIN,blue,1.5,10.5,
+251.69,grab,GOBLIN,blue,6.65,6.45,red flag; previous carrier WhiffProQuo popped 24.75 s earlier
+251.69,flaccid,Riley_2025,red,29.65,13.775,
+251.974,grab,Quaky20,red,25.95,18.175,blue flag; previous carrier Riley_2025 popped 2.28 s earlier
+252.19,prevent stop,sick,blue,21.575,22.7,2 s counted
+252.19,prevent stop,oatz_mgoatz,red,9.25,7.125,5 s counted
+252.19,prevent stop,Lax11K,red,10.75,4.25,6 s counted
+252.375,portal ready,,,4.5,11.5,
+252.691,respawn,Riley_2025,red,5,8,
+252.79,block start,Lax11K,red,13.525,2.925,
+253.308,block start,Riley_2025,red,5.65,8.65,
+253.575,boost used,Quaky20,red,29.5,13.5,
+253.608,pop,GOBLIN,blue,12.4,1.85,"carrying red flag; returned by oatz_mgoatz; splat at 12.4,1.85"
+253.608,block stop,GOBLIN,blue,12.4,1.85,6.92 s
+253.624,boost used,Quaky20,red,28.5,12.5,
+253.857,grab,DiegoOnMac,blue,6.875,6.125,red flag; previous carrier GOBLIN popped 0.25 s earlier
+255.19,gate change,,,12,10,2 tiles turned blue
+255.275,boost used,Riley_2025,red,6.5,12.5,
+255.357,portal used,DiegoOnMac,blue,4.5,11.5,
+255.407,block stop,WhiffProQuo,blue,11.15,8.5,5.00 s
+255.539,gate change,,,12,10,2 tiles turned off
+255.892,block start,sick,blue,17.525,10.9,
+255.892,block start,oatz_mgoatz,red,8.325,6.325,
+256.175,pop,DiegoOnMac,blue,8.375,5.075,"carrying red flag; returned by oatz_mgoatz; splat at 8.375,5.075"
+256.175,block stop,DiegoOnMac,blue,8.375,5.075,9.47 s
+256.19,prevent start,oatz_mgoatz,red,8.225,6,up to 1 s before the first counted second
+256.19,prevent start,Lax11K,red,9.675,6.925,up to 1 s before the first counted second
+256.19,prevent start,Riley_2025,red,3.325,7.5,up to 1 s before the first counted second
+256.607,respawn,GOBLIN,blue,29,20,
+257.227,boost ready,,,17.5,12.5,
+257.407,block start,Quaky20,red,19.2,5.9,
+257.557,block start,WhiffProQuo,blue,10.7,7.225,
+257.79,block stop,Lax11K,red,10.075,7.25,5.00 s
+258.175,button start,DiegoOnMac,blue,8.375,5.075,
+258.34,boost ready,,,5.5,11.5,
+258.574,gate change,,,23,15,2 tiles turned blue
+258.79,gate change,,,23,15,2 tiles turned off
+259.09,block stop,Riley_2025,red,12.025,3.625,5.78 s
+259.174,respawn,DiegoOnMac,blue,25,21,
+259.359,portal ready,,,4.5,11.5,
+259.674,boost used,GOBLIN,blue,17.5,12.5,
+260.059,gate change,,,12,10,2 tiles turned blue
+260.074,gate change,,,12,10,2 tiles turned off
+260.191,prevent stop,Riley_2025,red,13.7,3.2,4 s counted
+260.324,grab,GOBLIN,blue,7.65,6.4,red flag; previous carrier DiegoOnMac popped 4.15 s earlier
+260.892,block stop,sick,blue,7.35,4.975,5.00 s
+260.892,block stop,oatz_mgoatz,red,8.075,5.525,5.00 s
+261.19,prevent stop,oatz_mgoatz,red,7.575,6.425,5 s counted
+261.19,prevent stop,Lax11K,red,8.425,8.975,5 s counted
+261.791,portal used,GOBLIN,blue,4.5,11.5,
+262.224,boost used,oatz_mgoatz,red,5.5,11.5,
+262.407,pop,Quaky20,red,9.65,11.65,"carrying blue flag; returned by sick; splat at 9.65,11.65"
+262.407,block stop,Quaky20,red,9.65,11.65,5.00 s
+262.44,pup ended,Quaky20,red,9.65,11.65,juke juice
+262.557,block stop,WhiffProQuo,blue,9.1,9.375,5.00 s
+262.724,gate change,,,23,15,2 tiles turned blue
+263.174,button start,sick,blue,10.15,12.475,
+263.175,pop,Riley_2025,red,23.375,13.025,"tagged by DiegoOnMac; splat at 23.375,13.025"
+263.175,button stop,DiegoOnMac,blue,23.4,15,5.00 s
+263.34,gate change,,,23,15,2 tiles turned off
+263.573,pup ended,oatz_mgoatz,red,18.675,10.35,juke juice
+263.574,boost ready,,,29.5,13.5,
+263.625,boost ready,,,28.5,12.5,
+264.191,prevent start,DiegoOnMac,blue,24.625,17.2,up to 1 s before the first counted second
+264.808,gate change,,,23,15,2 tiles turned red
+265.024,gate change,,,23,15,2 tiles turned off
+265.275,boost ready,,,6.5,12.5,
+265.407,respawn,Quaky20,red,7,9,
+265.607,gate change,,,23,15,2 tiles turned blue
+265.792,portal ready,,,4.5,11.5,
+265.81,gate change,,,23,15,2 tiles turned off
+266.174,respawn,Riley_2025,red,7,7,
+266.19,prevent start,WhiffProQuo,blue,24.975,15.9,up to 1 s before the first counted second
+266.508,bomb ready,,,14.5,23.5,
+267.875,gate change,,,12,10,2 tiles turned blue
+268.174,button start,Quaky20,red,15.375,10.425,
+269.174,block start,DiegoOnMac,blue,25.35,17.5,
+269.357,gate change,,,23,15,2 tiles turned red
+269.677,boost ready,,,17.5,12.5,
+269.724,block start,WhiffProQuo,blue,26.45,15.675,
+269.808,gate change,,,23,15,2 tiles turned off
+270.59,gate change,,,23,15,2 tiles turned red
+271.539,gate change,,,23,15,2 tiles turned off
+272.227,boost ready,,,5.5,11.5,
+272.24,block start,GOBLIN,blue,20,2.45,
+272.475,gate change,,,23,15,2 tiles turned red
+272.79,bomb used,GOBLIN,blue,20.5,1.5,
+273.174,button stop,sick,blue,10.85,8.725,10.00 s
+273.174,button stop,Quaky20,red,23.45,15.25,5.00 s
+273.574,boost used,oatz_mgoatz,red,29.5,13.5,
+273.607,portal used,oatz_mgoatz,red,30.5,13.5,
+273.89,gate change,,,23,15,2 tiles turned off
+274.174,block stop,DiegoOnMac,blue,25.625,16.725,5.00 s
+274.724,block stop,WhiffProQuo,blue,27.625,14.2,5.00 s
+274.94,boost used,GOBLIN,blue,28.5,12.5,
+275.24,gate change,,,12,10,2 tiles turned off
+277.24,pop,GOBLIN,blue,31.275,15.275,"carrying red flag; returned by Riley_2025; splat at 31.275,15.275"
+277.24,block stop,GOBLIN,blue,31.275,15.275,5.00 s
+277.608,portal ready,,,30.5,13.5,
+277.974,grab,sick,blue,7.85,6.375,red flag; previous carrier GOBLIN popped 0.73 s earlier
+278.174,button start,Riley_2025,red,29.9,14.65,
+278.64,boost used,Lax11K,red,17.5,12.5,
+279.027,portal used,DiegoOnMac,blue,30.5,13.5,
+279.89,block start,GOBLIN,blue,31.275,15.275,
+279.925,portal used,sick,blue,4.5,11.5,
+280.24,respawn,GOBLIN,blue,29,16,
+280.391,bomb ready,,,33.5,14.5,
+281.376,bomb ready,,,1.5,10.5,
+281.841,gate change,,,23,15,2 tiles turned red
+282.19,prevent stop,DiegoOnMac,blue,21.9,19.975,18 s counted
+282.674,boost used,Lax11K,red,5.5,11.5,
+283.027,portal ready,,,30.5,13.5,
+283.174,button stop,Riley_2025,red,23.55,14.85,5.00 s
+283.309,gate change,,,23,15,2 tiles turned off
+283.576,boost ready,,,29.5,13.5,
+283.925,portal ready,,,4.5,11.5,
+284.19,prevent start,GOBLIN,blue,24.425,15.725,up to 1 s before the first counted second
+284.708,block start,sick,blue,19.475,11.35,
+284.89,block stop,GOBLIN,blue,24.825,15.8,5.00 s
+284.943,boost ready,,,28.5,12.5,
+285.39,bomb used,DiegoOnMac,blue,14.5,23.5,
+287.991,boost used,Quaky20,red,29.5,13.5,
+288.024,portal used,Quaky20,red,30.5,13.5,
+288.395,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+288.407,grab,Quaky20,red,26.725,19.425,blue flag; previous carrier Quaky20 popped 26.00 s earlier
+288.641,boost ready,,,17.5,12.5,
+289.191,prevent stop,WhiffProQuo,blue,27.7,14.75,23 s counted
+289.191,prevent stop,GOBLIN,blue,22.475,16.425,5 s counted
+289.708,pop,sick,blue,20.7,18.425,"carrying red flag; returned by Lax11K; splat at 20.7,18.425"
+289.708,block stop,sick,blue,20.7,18.425,5.00 s
+289.957,grab,DiegoOnMac,blue,7.175,6.3,red flag; previous carrier sick popped 0.25 s earlier
+290.857,boost used,GOBLIN,blue,17.5,12.5,
+292.026,portal ready,,,30.5,13.5,
+292.675,boost ready,,,5.5,11.5,
+292.707,respawn,sick,blue,29,16,
+293.174,button start,Quaky20,red,9.95,9.75,
+294.674,block start,DiegoOnMac,blue,2.2,9.575,
+295.891,bomb used,DiegoOnMac,blue,1.5,10.5,
+297.226,boost used,DiegoOnMac,blue,5.5,11.5,
+297.292,boost used,DiegoOnMac,blue,6.5,12.5,
+297.707,block start,GOBLIN,blue,8.525,6.6,
+297.707,block start,Quaky20,red,20.325,13.925,
+297.992,boost ready,,,29.5,13.5,
+298.106,gate change,,,23,15,2 tiles turned red
+298.174,button stop,Quaky20,red,22.225,14.7,5.00 s
+298.559,gate change,,,23,15,2 tiles turned off
+299.325,gate change,,,23,15,2 tiles turned red
+299.674,pop,DiegoOnMac,blue,26.625,21.15,"carrying red flag; returned by oatz_mgoatz; splat at 26.625,21.15"
+299.674,block stop,DiegoOnMac,blue,26.625,21.15,5.00 s
+299.858,gate change,,,23,15,2 tiles turned off
+300.29,gate change,,,23,15,2 tiles turned blue
+300.79,gate change,,,23,15,2 tiles turned off
+300.86,boost ready,,,17.5,12.5,
+301.191,boost used,Quaky20,red,17.5,12.5,
+302.023,portal used,Quaky20,red,4.5,11.5,
+302.19,prevent start,Riley_2025,red,12.975,5.7,up to 1 s before the first counted second
+302.43,pup spawn,,,15.5,19.5,juke juice
+302.607,grab,GOBLIN,blue,7.875,6.3,red flag; previous carrier DiegoOnMac popped 2.93 s earlier
+302.674,respawn,DiegoOnMac,blue,28,16,
+302.791,bomb ready,,,20.5,1.5,
+303.19,prevent stop,Riley_2025,red,8.775,5.8,1 s counted
+303.474,block start,DiegoOnMac,blue,27.8,16.45,
+303.56,pup spawn,,,19.5,5.5,juke juice
+304.007,gate change,,,12,10,2 tiles turned blue
+304.309,gate change,,,12,10,2 tiles turned off
+304.441,block start,sick,blue,10.35,9.35,
+304.441,block start,Lax11K,red,8.175,8.975,
+304.724,block stop,GOBLIN,blue,4.925,11.25,7.02 s
+304.809,pop,Quaky20,red,5.425,10.375,"carrying blue flag; returned by WhiffProQuo; splat at 5.425,10.375"
+304.809,block stop,Quaky20,red,5.425,10.375,7.10 s
+306.025,portal ready,,,4.5,11.5,
+306.974,pup taken,,,15.5,19.5,juke juice
+306.99,pup pickup,DiegoOnMac,blue,16.475,17.925,juke juice
+307.057,grab,oatz_mgoatz,red,26.225,18,blue flag; previous carrier Quaky20 popped 2.25 s earlier
+307.106,pup taken,,,19.5,5.5,juke juice
+307.124,pup pickup,Lax11K,red,18,5.5,juke juice
+307.226,boost ready,,,5.5,11.5,
+307.292,boost ready,,,6.5,12.5,
+307.808,respawn,Quaky20,red,9,6,
+308.225,block start,oatz_mgoatz,red,29.025,15.525,
+309.058,gate change,,,23,15,2 tiles turned blue
+309.191,boost used,oatz_mgoatz,red,29.5,13.5,
+309.24,gate change,,,23,15,2 tiles turned off
+309.375,block stop,DiegoOnMac,blue,18.925,18.775,5.90 s
+309.441,block stop,sick,blue,24.8,13.8,5.00 s
+309.441,block stop,Lax11K,red,24.425,12.95,5.00 s
+309.456,block start,DiegoOnMac,blue,18.925,18.775,
+310.174,portal used,sick,blue,30.5,13.5,
+311.193,boost ready,,,17.5,12.5,
+312.876,bomb used,GOBLIN,blue,20.5,1.5,
+313.19,prevent start,sick,blue,25.825,16.5,up to 1 s before the first counted second
+313.225,pop,oatz_mgoatz,red,12.225,5.225,"carrying blue flag; returned by DiegoOnMac; splat at 12.225,5.225"
+313.225,block stop,oatz_mgoatz,red,12.225,5.225,5.00 s
+314.141,gate change,,,12,10,2 tiles turned red
+314.175,portal ready,,,30.5,13.5,
+314.308,gate change,,,12,10,2 tiles turned off
+314.325,pop,WhiffProQuo,blue,12.325,8.025,"tagged by Quaky20; splat at 12.325,8.025"
+314.407,grab,Lax11K,red,26.225,17.2,blue flag; previous carrier oatz_mgoatz popped 1.18 s earlier
+314.456,block stop,DiegoOnMac,blue,9.8,7.5,5.00 s
+314.658,block start,Lax11K,red,26.7,17.825,
+315.19,prevent stop,sick,blue,26.85,17.825,2 s counted
+315.191,boost used,Riley_2025,red,5.5,11.5,
+315.256,portal used,Riley_2025,red,4.5,11.5,
+315.391,bomb ready,,,14.5,23.5,
+316.225,respawn,oatz_mgoatz,red,9,10,
+317.325,respawn,WhiffProQuo,blue,25,15,
+318.06,boost used,Riley_2025,red,17.5,12.5,
+318.324,gate change,,,23,15,2 tiles turned blue
+318.41,pop,Riley_2025,red,22.125,13.575,"tagged by WhiffProQuo; splat at 22.125,13.575"
+318.525,gate change,,,23,15,2 tiles turned off
+318.54,bomb used,Lax11K,red,14.5,23.5,
+319.192,boost ready,,,29.5,13.5,
+319.256,portal ready,,,4.5,11.5,
+319.644,boost used,GOBLIN,blue,29.5,13.5,
+319.658,pop,Lax11K,red,8,5.95,"carrying blue flag; returned by DiegoOnMac; splat at 8,5.95"
+319.658,block stop,Lax11K,red,8,5.95,5.00 s
+319.659,portal used,GOBLIN,blue,30.5,13.5,
+319.857,gate change,,,12,10,2 tiles turned blue
+319.876,score,,,,,red 1 - blue 2
+319.89,cap,GOBLIN,blue,26.75,19.675,red flag
+320.075,gate change,,,12,10,2 tiles turned off
+320.19,prevent start,GOBLIN,blue,27.725,16.6,up to 1 s before the first counted second
+320.374,grab,oatz_mgoatz,red,26,17.925,blue flag; previous carrier Lax11K popped 0.72 s earlier
+320.689,boost used,GOBLIN,blue,28.5,12.5,
+320.974,grab,DiegoOnMac,blue,6.225,4.975,red flag
+321.19,prevent stop,GOBLIN,blue,25.8,10.35,1 s counted
+321.407,respawn,Riley_2025,red,10,4,
+322.473,boost used,DiegoOnMac,blue,6.5,12.5,
+322.657,respawn,Lax11K,red,9,9,
+323.361,block start,oatz_mgoatz,red,32.5,14.775,
+323.39,bomb used,oatz_mgoatz,red,33.5,14.5,
+323.66,portal ready,,,30.5,13.5,
+324.308,gate change,,,23,15,2 tiles turned blue
+324.457,gate change,,,23,15,2 tiles turned off
+325.024,gate change,,,12,10,2 tiles turned blue
+325.191,boost ready,,,5.5,11.5,
+325.406,gate change,,,12,10,2 tiles turned off
+325.891,bomb ready,,,1.5,10.5,
+326.525,block start,Lax11K,red,12.45,7.475,
+326.974,pup ended,DiegoOnMac,blue,21.775,19.65,juke juice
+327.107,pup ended,Lax11K,red,9.65,7.4,juke juice
+327.425,block start,GOBLIN,blue,18.75,15.15,
+328.063,boost ready,,,17.5,12.5,
+328.361,pop,oatz_mgoatz,red,14.55,13.75,"carrying blue flag; returned by GOBLIN; splat at 14.55,13.75"
+328.361,block stop,oatz_mgoatz,red,14.55,13.75,5.00 s
+328.607,grab,Riley_2025,red,26.475,17.4,blue flag; previous carrier oatz_mgoatz popped 0.25 s earlier
+329.644,boost ready,,,29.5,13.5,
+329.79,boost used,DiegoOnMac,blue,17.5,12.5,
+329.94,block start,DiegoOnMac,blue,18.4,10,
+329.94,block start,Riley_2025,red,27.1,15.8,
+330.489,boost used,Riley_2025,red,29.5,13.5,
+330.691,boost ready,,,28.5,12.5,
+331.357,respawn,oatz_mgoatz,red,9,10,
+331.525,block stop,Lax11K,red,15.75,10.775,5.00 s
+332.208,gate change,,,12,10,2 tiles turned blue
+332.226,pop,oatz_mgoatz,red,10.1,10.225,"tagged by sick; splat at 10.1,10.225"
+332.324,gate change,,,12,10,2 tiles turned off
+332.475,boost ready,,,6.5,12.5,
+332.54,block start,Lax11K,red,17.5,12.325,
+333.492,gate change,,,23,15,2 tiles turned red
+333.69,gate change,,,23,15,2 tiles turned off
+334.358,block start,Quaky20,red,28.175,18.125,
+334.608,boost used,DiegoOnMac,blue,28.5,12.5,
+334.94,block stop,DiegoOnMac,blue,23.775,9.35,5.00 s
+335.225,respawn,oatz_mgoatz,red,8,7,
+335.675,pop,Riley_2025,red,20.4,12,"carrying blue flag; returned by WhiffProQuo; splat at 20.4,12"
+335.675,block stop,Riley_2025,red,20.4,12,5.74 s
+335.924,grab,Quaky20,red,27.2,17.975,blue flag; previous carrier Riley_2025 popped 0.25 s earlier
+336.457,gate change,,,12,10,2 tiles turned red
+336.74,gate change,,,12,10,2 tiles turned off
+337.807,block stop,Lax11K,red,26.45,17.15,5.27 s
+338.474,block start,Riley_2025,red,20.4,12,
+338.49,block start,oatz_mgoatz,red,14.15,16,
+338.675,respawn,Riley_2025,red,10,3,
+339.358,pop,Quaky20,red,31.675,14.1,"carrying blue flag; returned by WhiffProQuo; splat at 31.675,14.1"
+339.358,block stop,Quaky20,red,31.675,14.1,5.00 s
+339.399,message,,,,,"You were tagged by a player and dropped the flag! When you have a flag, the other team can pop you."
+339.791,boost ready,,,17.5,12.5,
+340.191,prevent start,WhiffProQuo,blue,30.375,15.45,up to 1 s before the first counted second
+340.191,prevent start,GOBLIN,blue,25.175,18.4,up to 1 s before the first counted second
+340.491,score,,,,,red 1 - blue 3
+340.494,boost ready,,,29.5,13.5,
+340.508,cap,DiegoOnMac,blue,26.425,19.125,red flag
+341.191,prevent start,DiegoOnMac,blue,27.375,17.9,up to 1 s before the first counted second
+341.29,boost used,Riley_2025,red,17.5,12.5,
+341.474,gate change,,,23,15,2 tiles turned blue
+341.957,gate change,,,23,15,2 tiles turned off
+342.191,prevent stop,GOBLIN,blue,22.15,14.425,2 s counted
+342.357,respawn,Quaky20,red,9,6,
+342.54,grab,Lax11K,red,26.225,18.675,blue flag; previous carrier Quaky20 popped 3.18 s earlier
+342.657,grab,sick,blue,7.775,7.025,red flag
+342.876,bomb ready,,,20.5,1.5,
+343.19,prevent stop,DiegoOnMac,blue,26.225,17.875,2 s counted
+343.19,prevent stop,WhiffProQuo,blue,27.55,18.65,3 s counted
+344.091,block stop,oatz_mgoatz,red,26.975,18,5.60 s
+344.358,block start,Lax11K,red,23.325,21.375,
+344.395,block stop,GOBLIN,blue,10.775,5.225,16.97 s
+344.609,boost ready,,,28.5,12.5,
+345.04,block stop,Riley_2025,red,22.05,19.6,6.57 s
+346.707,bomb used,Quaky20,red,20.5,1.5,
+347.624,gate change,,,23,15,2 tiles turned red
+348.06,boost used,WhiffProQuo,blue,6.5,12.5,
+348.106,boost used,WhiffProQuo,blue,5.5,11.5,
+348.143,gate change,,,23,15,2 tiles turned off
+348.158,portal used,WhiffProQuo,blue,4.5,11.5,
+348.173,button start,Quaky20,red,12.35,7.3,
+348.225,block start,Riley_2025,red,20.35,11.425,
+348.54,bomb ready,,,14.5,23.5,
+349.358,pop,Lax11K,red,8.625,10.525,"carrying blue flag; returned by DiegoOnMac; splat at 8.625,10.525"
+349.358,block stop,Lax11K,red,8.625,10.525,5.00 s
+350.625,score,,,,,red 1 - blue 4
+350.643,cap,sick,blue,26.55,16.95,red flag
+350.757,block start,Quaky20,red,16.625,9.6,
+351.157,grab,Riley_2025,red,26.075,17.575,blue flag; previous carrier Lax11K popped 1.80 s earlier
+351.158,gate change,,,12,10,2 tiles turned blue
+351.292,boost ready,,,17.5,12.5,
+351.375,block start,DiegoOnMac,blue,11.5,13.2,
+351.84,gate change,,,12,10,2 tiles turned off
+351.925,gate change,,,23,15,2 tiles turned red
+352.158,portal ready,,,4.5,11.5,
+352.241,gate change,,,23,15,2 tiles turned off
+352.357,respawn,Lax11K,red,9,7,
+352.925,gate change,,,23,15,2 tiles turned red
+353.173,button stop,Quaky20,red,23.225,15.575,5.00 s
+353.19,prevent start,sick,blue,24.55,20.2,up to 1 s before the first counted second
+353.225,pop,Riley_2025,red,23.4,21.45,"carrying blue flag; returned by sick; splat at 23.4,21.45"
+353.225,block stop,Riley_2025,red,23.4,21.45,5.00 s
+353.392,bomb ready,,,33.5,14.5,
+354.341,grab,oatz_mgoatz,red,27.175,17.15,blue flag; previous carrier Riley_2025 popped 1.12 s earlier
+354.425,boost used,WhiffProQuo,blue,17.5,12.5,
+354.606,block start,Lax11K,red,6.225,6.375,
+354.691,gate change,,,23,15,2 tiles turned off
+354.757,grab,DiegoOnMac,blue,8.15,7.025,red flag
+354.875,bomb used,GOBLIN,blue,1.5,10.5,
+355.19,prevent stop,sick,blue,24.85,19.575,2 s counted
+355.643,block start,oatz_mgoatz,red,26.975,16.35,
+355.757,block stop,Quaky20,red,25.375,17.55,5.00 s
+356.225,respawn,Riley_2025,red,7,7,
+356.375,pop,DiegoOnMac,blue,7.6,2.65,"carrying red flag; returned by Lax11K; splat at 7.6,2.65"
+356.375,block stop,DiegoOnMac,blue,7.6,2.65,5.00 s
+356.774,gate change,,,23,15,2 tiles turned blue
+356.974,gate change,,,23,15,2 tiles turned off
+357.039,boost used,sick,blue,29.5,13.5,
+357.156,boost used,sick,blue,28.5,12.5,
+357.19,prevent start,Lax11K,red,8.3,4.2,up to 1 s before the first counted second
+358.062,boost ready,,,6.5,12.5,
+358.107,boost ready,,,5.5,11.5,
+358.374,flaccid,DiegoOnMac,blue,7.6,2.65,
+359.192,prevent start,Riley_2025,red,10,11.6,up to 1 s before the first counted second
+359.375,respawn,DiegoOnMac,blue,29,17,
+359.606,block stop,Lax11K,red,10.775,6.475,5.00 s
+360.643,pop,oatz_mgoatz,red,14.2,3.375,"carrying blue flag; returned by sick; splat at 14.2,3.375"
+360.643,block stop,oatz_mgoatz,red,14.2,3.375,5.00 s
+361.407,grab,Quaky20,red,26.8,17.1,blue flag; previous carrier oatz_mgoatz popped 0.76 s earlier
+363.207,prevent stop,Lax11K,red,14.275,6,6 s counted
+363.207,prevent stop,Riley_2025,red,14.075,1.35,4 s counted
+363.64,respawn,oatz_mgoatz,red,5,4,
+364.426,boost ready,,,17.5,12.5,
+364.926,block start,Quaky20,red,28.8,15.375,
+366.241,block start,sick,blue,18.975,12.725,
+366.975,pup spawn,,,15.5,19.5,tagpro
+367.04,boost ready,,,29.5,13.5,
+367.108,pup spawn,,,19.5,5.5,tagpro
+367.158,boost ready,,,28.5,12.5,
+367.208,prevent start,oatz_mgoatz,red,9.95,6.35,up to 1 s before the first counted second
+367.526,boost used,sick,blue,17.5,12.5,
+367.825,pup taken,,,15.5,19.5,tagpro
+367.84,pup pickup,DiegoOnMac,blue,15.575,18.35,tagpro
+368.208,prevent stop,oatz_mgoatz,red,13.075,6,1 s counted
+368.29,pup taken,,,19.5,5.5,tagpro
+368.308,pup pickup,Lax11K,red,18.75,5.775,tagpro
+369.207,prevent start,oatz_mgoatz,red,12.35,4.025,up to 1 s before the first counted second
+369.24,bomb used,DiegoOnMac,blue,14.5,23.5,
+369.658,grab,sick,blue,8.175,6.125,red flag; previous carrier DiegoOnMac popped 13.28 s earlier
+369.926,pop,Quaky20,red,25.45,15.975,"carrying blue flag; returned by DiegoOnMac; splat at 25.45,15.975"
+369.926,block stop,Quaky20,red,25.45,15.975,5.00 s
+370.207,prevent stop,oatz_mgoatz,red,9.05,5.325,1 s counted
+370.957,boost used,sick,blue,5.5,11.5,
+371.09,boost used,sick,blue,6.5,12.5,
+371.207,prevent start,DiegoOnMac,blue,30.675,15.025,up to 1 s before the first counted second
+371.241,pop,sick,blue,7.85,11.9,"carrying red flag; returned by Riley_2025; splat at 7.85,11.9"
+371.241,block stop,sick,blue,7.85,11.9,5.00 s
+371.94,bomb used,DiegoOnMac,blue,33.5,14.5,
+372.207,prevent start,oatz_mgoatz,red,6.175,11.475,up to 1 s before the first counted second
+372.575,handoff,sick,blue,7.85,11.9,
+372.575,grab,GOBLIN,blue,7.1,6.825,red flag; previous carrier sick popped 1.33 s earlier
+372.924,respawn,Quaky20,red,6,7,
+373.207,prevent stop,DiegoOnMac,blue,13.525,18,2 s counted
+373.207,prevent stop,oatz_mgoatz,red,8.2,10.2,1 s counted
+373.24,grab,Lax11K,red,26.075,17.475,blue flag; previous carrier Quaky20 popped 3.31 s earlier
+374.24,respawn,sick,blue,25,19,
+375.025,gate change,,,12,10,2 tiles turned blue
+375.09,gate change,,,12,10,2 tiles turned off
+375.225,good handoff,sick,blue,24.3,18.35,
+375.358,pop,Quaky20,red,11.55,6.275,"tagged by DiegoOnMac; splat at 11.55,6.275"
+375.406,message,,,,,An opponent that had the TagPro power up tagged you - so you were popped! Players that are green have TagPro.
+375.99,gate change,,,23,15,2 tiles turned blue
+376.156,boost used,Lax11K,red,29.5,13.5,
+376.225,gate change,,,23,15,2 tiles turned off
+376.24,boost used,Lax11K,red,28.5,12.5,
+376.709,bomb ready,,,20.5,1.5,
+377.126,gate change,,,12,10,2 tiles turned blue
+377.258,gate change,,,12,10,2 tiles turned off
+377.526,boost ready,,,17.5,12.5,
+378.107,block start,DiegoOnMac,blue,19.175,4.325,
+378.357,respawn,Quaky20,red,7,10,
+378.875,pop,Riley_2025,red,20.075,5.775,"tagged by DiegoOnMac; splat at 20.075,5.775"
+379.157,bomb used,GOBLIN,blue,20.5,1.5,
+379.241,block start,GOBLIN,blue,19.85,2.175,
+380.958,boost ready,,,5.5,11.5,
+381.092,boost ready,,,6.5,12.5,
+381.19,portal used,Lax11K,red,4.5,11.5,
+381.274,portal used,oatz_mgoatz,red,30.5,13.5,
+381.389,gate change,,,23,15,2 tiles turned blue
+381.475,boost used,WhiffProQuo,blue,5.5,11.5,
+381.69,gate change,,,23,15,2 tiles turned off
+381.875,respawn,Riley_2025,red,11,4,
+382.241,block start,Lax11K,red,7.2,3.95,
+382.824,pup ended,DiegoOnMac,blue,26.8,17.475,tagpro
+383.307,pup ended,Lax11K,red,8.8,8.2,tagpro
+383.54,block stop,DiegoOnMac,blue,27.775,18.575,5.43 s
+383.957,block start,DiegoOnMac,blue,28.45,18.525,
+384.207,block start,Quaky20,red,27.15,15.975,
+384.241,pop,GOBLIN,blue,28.925,15.15,"carrying red flag; returned by Quaky20; splat at 28.925,15.15"
+384.241,block stop,GOBLIN,blue,28.925,15.15,5.00 s
+384.257,grab,WhiffProQuo,blue,8,6.1,red flag; previous carrier GOBLIN popped 0.02 s earlier
+384.29,boost used,Riley_2025,red,17.5,12.5,
+384.624,gate change,,,23,15,2 tiles turned red
+384.69,gate change,,,23,15,2 tiles turned off
+384.876,bomb ready,,,1.5,10.5,
+385.191,portal ready,,,4.5,11.5,
+385.276,portal ready,,,30.5,13.5,
+385.373,boost used,Lax11K,red,6.5,12.5,
+386.157,boost ready,,,29.5,13.5,
+386.242,boost ready,,,28.5,12.5,
+386.956,boost used,DiegoOnMac,blue,28.5,12.5,
+387.241,respawn,GOBLIN,blue,25,17,
+387.241,pop,Lax11K,red,5.55,4.625,"carrying blue flag; returned by sick; splat at 5.55,4.625"
+387.241,block stop,Lax11K,red,5.55,4.625,5.00 s
+387.69,block start,Lax11K,red,5.55,4.625,
+388.724,grab,oatz_mgoatz,red,26.125,17.375,blue flag; previous carrier Lax11K popped 1.48 s earlier
+388.957,block stop,DiegoOnMac,blue,14.9,6.7,5.00 s
+388.975,block start,WhiffProQuo,blue,15.55,4.45,
+389.207,block stop,Quaky20,red,24.125,16.225,5.00 s
+389.908,block start,oatz_mgoatz,red,24.725,19.475,
+390.241,respawn,Lax11K,red,8,9,
+390.325,boost used,GOBLIN,blue,29.5,13.5,
+390.858,block start,sick,blue,8.525,9.4,
+390.94,portal used,Quaky20,red,30.5,13.5,
+391.407,gate change,,,23,15,2 tiles turned blue
+391.477,boost ready,,,5.5,11.5,
+391.659,gate change,,,23,15,2 tiles turned off
+391.863,message,,,,,You can only capture the flag if your team's flag is at base. Keep running until your team's flag is returned!
+392.69,block stop,Lax11K,red,7.225,9.25,5.00 s
+393.274,block start,Lax11K,red,6.75,9.55,
+393.29,boost used,sick,blue,5.5,11.5,
+393.341,portal used,sick,blue,4.5,11.5,
+393.975,pop,WhiffProQuo,blue,32.85,15.15,"carrying red flag; returned by Quaky20; splat at 32.85,15.15"
+393.975,block stop,WhiffProQuo,blue,32.85,15.15,5.00 s
+394.207,prevent start,Lax11K,red,5.125,10.2,up to 1 s before the first counted second
+394.276,gate change,,,12,10,2 tiles turned blue
+394.292,boost ready,,,17.5,12.5,
+394.475,gate change,,,12,10,2 tiles turned off
+394.908,pop,oatz_mgoatz,red,10.55,2.675,"carrying blue flag; returned by GOBLIN; splat at 10.55,2.675"
+394.908,block stop,oatz_mgoatz,red,10.55,2.675,5.00 s
+394.94,portal ready,,,30.5,13.5,
+395.007,block start,oatz_mgoatz,red,10.55,2.675,
+395.34,grab,Riley_2025,red,27.875,17.9,blue flag; previous carrier oatz_mgoatz popped 0.43 s earlier
+395.374,boost ready,,,6.5,12.5,
+395.524,grab,sick,blue,8.15,5.3,red flag; previous carrier WhiffProQuo popped 1.55 s earlier
+395.858,pop,sick,blue,7.225,5.65,"carrying red flag; returned by Lax11K; splat at 7.225,5.65"
+395.858,block stop,sick,blue,7.225,5.65,5.00 s
+396.457,gate change,,,23,15,2 tiles turned red
+396.607,gate change,,,23,15,2 tiles turned off
+396.957,boost ready,,,28.5,12.5,
+396.974,respawn,WhiffProQuo,blue,26,15,
+397.341,portal ready,,,4.5,11.5,
+397.657,boost used,Riley_2025,red,17.5,12.5,
+397.857,flaccid,sick,blue,7.225,5.65,
+397.906,respawn,oatz_mgoatz,red,5,5,
+397.957,boost used,DiegoOnMac,blue,6.5,12.5,
+398.857,respawn,sick,blue,26,19,
+399.241,bomb ready,,,14.5,23.5,
+399.424,block start,Quaky20,red,26.5,17.325,
+400.007,block stop,oatz_mgoatz,red,7.2,5.95,5.00 s
+400.075,block start,WhiffProQuo,blue,14.675,12.1,
+400.257,block stop,Lax11K,red,10.475,4.325,6.98 s
+400.325,boost ready,,,29.5,13.5,
+401.207,prevent start,oatz_mgoatz,red,6.875,6.1,up to 1 s before the first counted second
+401.207,prevent stop,Lax11K,red,11.875,1.975,7 s counted
+401.624,score,,,,,red 2 - blue 4
+401.64,cap,Riley_2025,red,6.975,5.15,blue flag
+401.941,bomb ready,,,33.5,14.5,
+402.208,prevent start,sick,blue,27.1,18.675,up to 1 s before the first counted second
+402.208,prevent start,Lax11K,red,10.8,4.1,up to 1 s before the first counted second
+402.208,prevent start,Riley_2025,red,5.95,5.7,up to 1 s before the first counted second
+403.291,boost ready,,,5.5,11.5,
+403.907,bomb used,Quaky20,red,33.5,14.5,
+404.208,prevent stop,sick,blue,25.325,19.2,2 s counted
+404.208,prevent stop,Riley_2025,red,1.05,8.925,2 s counted
+404.24,grab,Quaky20,red,29.75,15.825,blue flag
+404.292,bomb used,Riley_2025,red,1.5,10.5,
+404.424,block stop,Quaky20,red,24.475,18.75,5.00 s
+405.04,grab,WhiffProQuo,blue,7.925,6.025,red flag; previous carrier sick popped 9.18 s earlier
+405.075,block stop,WhiffProQuo,blue,7.8,6.1,5.00 s
+405.207,prevent stop,oatz_mgoatz,red,8.1,7.05,4 s counted
+405.207,prevent stop,Lax11K,red,6.95,6.525,3 s counted
+405.291,pop,WhiffProQuo,blue,8.175,6.2,"carrying red flag; returned by oatz_mgoatz; splat at 8.175,6.2"
+406.208,bomb used,sick,blue,14.5,23.5,
+406.208,prevent start,oatz_mgoatz,red,8.725,8.875,up to 1 s before the first counted second
+406.208,prevent start,Lax11K,red,6.55,6.375,up to 1 s before the first counted second
+406.208,prevent start,Riley_2025,red,5.15,7.05,up to 1 s before the first counted second
+407.143,block start,Quaky20,red,18.7,14.9,
+407.29,flaccid,WhiffProQuo,blue,8.175,6.2,
+407.658,boost ready,,,17.5,12.5,
+407.959,boost ready,,,6.5,12.5,
+408.207,prevent stop,Riley_2025,red,10.35,10.8,2 s counted
+408.29,respawn,WhiffProQuo,blue,24,18,
+408.691,gate change,,,12,10,2 tiles turned blue
+409.158,bomb ready,,,20.5,1.5,
+409.607,gate change,,,12,10,2 tiles turned off
+410.674,block start,Riley_2025,red,14.9,13.775,
+411.474,boost used,Riley_2025,red,17.5,12.5,
+411.974,gate change,,,12,10,2 tiles turned blue
+412.143,pop,Quaky20,red,15.475,13.1,"carrying blue flag; returned by sick; splat at 15.475,13.1"
+412.143,block stop,Quaky20,red,15.475,13.1,5.00 s
+412.324,gate change,,,12,10,2 tiles turned off
+412.56,gate change,,,12,10,2 tiles turned red
+412.576,pop,DiegoOnMac,blue,10.3,9.675,"tagged by oatz_mgoatz; splat at 10.3,9.675"
+412.59,gate change,,,12,10,2 tiles turned off
+412.69,gate change,,,23,15,2 tiles turned red
+412.74,gate change,,,23,15,2 tiles turned off
+413.54,grab,Riley_2025,red,25.6,17,blue flag; previous carrier Quaky20 popped 1.40 s earlier
+414.19,gate change,,,23,15,2 tiles turned blue
+414.424,gate change,,,23,15,2 tiles turned off
+415.14,respawn,Quaky20,red,7,9,
+415.574,respawn,DiegoOnMac,blue,26,19,
+415.674,pop,Riley_2025,red,28.425,17.95,"carrying blue flag; returned by sick; splat at 28.425,17.95"
+415.674,block stop,Riley_2025,red,28.425,17.95,5.00 s
+416.257,boost used,GOBLIN,blue,5.5,11.5,
+417.39,boost used,Lax11K,red,6.5,12.5,
+418.207,prevent stop,oatz_mgoatz,red,13.925,8.125,12 s counted
+418.207,prevent start,Quaky20,red,6.65,6.55,up to 1 s before the first counted second
+418.506,boost used,sick,blue,28.5,12.5,
+418.675,respawn,Riley_2025,red,6,6,
+419.189,boost used,DiegoOnMac,blue,29.5,13.5,
+419.225,portal used,DiegoOnMac,blue,30.5,13.5,
+420.508,gate change,,,23,15,2 tiles turned blue
+421.207,prevent stop,Quaky20,red,10.125,10.725,3 s counted
+421.475,boost ready,,,17.5,12.5,
+421.94,gate change,,,23,15,2 tiles turned off
+422.207,prevent stop,Lax11K,red,12.8,5.3,16 s counted
+423.226,portal ready,,,30.5,13.5,
+424.975,bomb used,DiegoOnMac,blue,20.5,1.5,
+426.258,boost ready,,,5.5,11.5,
+426.59,gate change,,,23,15,2 tiles turned red
+426.809,gate change,,,23,15,2 tiles turned off
+427.391,boost ready,,,6.5,12.5,
+427.491,grab,oatz_mgoatz,red,25.55,17.45,blue flag; previous carrier Riley_2025 popped 11.82 s earlier
+427.827,pup spawn,,,15.5,19.5,rolling bomb
+428.291,pup spawn,,,19.5,5.5,rolling bomb
+428.424,pup taken,,,15.5,19.5,rolling bomb
+428.44,pup pickup,Quaky20,red,14.275,19.6,rolling bomb
+428.487,message,,,,,You have the Rolling Bomb power up! It gives a one-time invulnerability from being tagged.
+428.507,boost ready,,,28.5,12.5,
+429.191,boost ready,,,29.5,13.5,
+430.257,pup taken,,,19.5,5.5,rolling bomb
+430.274,pup pickup,DiegoOnMac,blue,17.825,5.25,rolling bomb
+430.507,block start,DiegoOnMac,blue,18.225,5.15,
+430.507,block start,sick,blue,14.175,17.6,
+431.208,prevent start,Lax11K,red,11.025,7.425,up to 1 s before the first counted second
+431.974,gate change,,,23,15,2 tiles turned red
+432.124,gate change,,,23,15,2 tiles turned off
+433.107,boost used,Riley_2025,red,17.5,12.5,
+433.241,gate change,,,23,15,2 tiles turned red
+433.457,boost used,sick,blue,5.5,11.5,
+433.49,portal used,sick,blue,4.5,11.5,
+433.842,gate change,,,23,15,2 tiles turned off
+433.909,bomb ready,,,33.5,14.5,
+434.207,prevent start,Riley_2025,red,8.175,2.025,up to 1 s before the first counted second
+434.293,bomb ready,,,1.5,10.5,
+435.29,grab,DiegoOnMac,blue,7.775,5.7,red flag; previous carrier WhiffProQuo popped 30.00 s earlier
+435.507,block stop,DiegoOnMac,blue,7.675,5.7,5.00 s
+435.64,explosion,,,6.725,5.975,
+435.659,pup ended,DiegoOnMac,blue,6.7,5.975,rolling bomb
+436.089,boost used,Lax11K,red,6.5,12.5,
+436.208,prevent stop,Lax11K,red,6.075,12.375,5 s counted
+436.208,prevent stop,Riley_2025,red,9.4,4.225,2 s counted
+436.209,bomb ready,,,14.5,23.5,
+437.492,portal ready,,,4.5,11.5,
+437.891,bomb used,oatz_mgoatz,red,14.5,23.5,
+439.457,block start,oatz_mgoatz,red,23.125,6.075,
+440.81,portal used,sick,blue,4.5,11.5,
+440.924,bomb used,DiegoOnMac,blue,1.5,10.5,
+441.756,block stop,sick,blue,7.225,4.95,11.25 s
+443.107,boost ready,,,17.5,12.5,
+443.208,gate change,,,12,10,2 tiles turned blue
+443.457,gate change,,,12,10,2 tiles turned off
+443.46,boost ready,,,5.5,11.5,
+444.274,gate change,,,12,10,2 tiles turned red
+444.457,pop,oatz_mgoatz,red,16.1,12.425,"carrying blue flag; returned by sick; splat at 16.1,12.425"
+444.457,block stop,oatz_mgoatz,red,16.1,12.425,5.00 s
+444.558,block start,DiegoOnMac,blue,15.225,17.025,
+444.608,gate change,,,12,10,2 tiles turned off
+444.707,grab,Quaky20,red,27.3,18.475,blue flag; previous carrier oatz_mgoatz popped 0.25 s earlier
+444.81,portal ready,,,4.5,11.5,
+445.075,gate change,,,12,10,2 tiles turned blue
+445.658,boost used,WhiffProQuo,blue,17.5,12.5,
+446.008,gate change,,,23,15,2 tiles turned blue
+446.075,gate change,,,23,15,2 tiles turned off
+446.09,boost ready,,,6.5,12.5,
+446.508,block start,Quaky20,red,25.725,14,
+446.858,gate change,,,12,10,2 tiles turned off
+447.457,respawn,oatz_mgoatz,red,8,5,
+447.731,message,,,,,"When the other teams has your flag, chase the flag carrier down and tag them to return it to your base."
+447.857,bomb used,WhiffProQuo,blue,33.5,14.5,
+448.274,gate change,,,23,15,2 tiles turned blue
+448.357,gate change,,,23,15,2 tiles turned off
+448.44,pup ended,Quaky20,red,19.675,5.625,rolling bomb
+449.293,boost used,DiegoOnMac,blue,5.5,11.5,
+449.441,boost used,DiegoOnMac,blue,6.5,12.5,
+449.558,pop,DiegoOnMac,blue,7.3,12.025,"carrying red flag; returned by Lax11K; splat at 7.3,12.025"
+449.558,block stop,DiegoOnMac,blue,7.3,12.025,5.00 s
+451.207,prevent start,oatz_mgoatz,red,8.6,7.875,up to 1 s before the first counted second
+451.508,pop,Quaky20,red,14.525,1.075,"carrying blue flag; returned by GOBLIN; splat at 14.525,1.075"
+451.508,block stop,Quaky20,red,14.525,1.075,5.00 s
+451.807,grab,Riley_2025,red,26.35,18.5,blue flag; previous carrier Quaky20 popped 0.30 s earlier
+452.157,block start,oatz_mgoatz,red,8.625,5.975,
+452.557,respawn,DiegoOnMac,blue,26,17,
+453.207,prevent start,Lax11K,red,8.4,8.5,up to 1 s before the first counted second
+453.559,boost used,Riley_2025,red,29.5,13.5,
+453.623,boost used,Riley_2025,red,28.5,12.5,
+453.99,gate change,,,23,15,2 tiles turned blue
+454.274,gate change,,,23,15,2 tiles turned off
+454.507,respawn,Quaky20,red,11,5,
+454.976,bomb ready,,,20.5,1.5,
+455.24,gate change,,,12,10,2 tiles turned blue
+455.659,boost ready,,,17.5,12.5,
+456.059,gate change,,,12,10,2 tiles turned off
+456.207,prevent stop,oatz_mgoatz,red,15.125,7.8,5 s counted
+457.09,boost used,DiegoOnMac,blue,17.5,12.5,
+457.84,block start,WhiffProQuo,blue,7.8,8.875,
+458.208,prevent start,Quaky20,red,8.625,7.125,up to 1 s before the first counted second
+458.49,block start,Riley_2025,red,16.625,16.975,
+459.293,boost ready,,,5.5,11.5,
+459.442,boost ready,,,6.5,12.5,
+462.026,boost used,WhiffProQuo,blue,5.5,11.5,
+462.09,portal used,WhiffProQuo,blue,4.5,11.5,
+462.59,grab,WhiffProQuo,blue,7.275,5.225,red flag; previous carrier DiegoOnMac popped 13.03 s earlier
+462.84,pop,WhiffProQuo,blue,7.25,6.275,"carrying red flag; returned by Quaky20; splat at 7.25,6.275"
+462.84,block stop,WhiffProQuo,blue,7.25,6.275,5.00 s
+463.49,pop,Riley_2025,red,20.275,3.65,"carrying blue flag; returned by sick; splat at 20.275,3.65"
+463.49,block stop,Riley_2025,red,20.275,3.65,5.00 s
+463.56,boost ready,,,29.5,13.5,
+463.626,boost ready,,,28.5,12.5,
+464.84,flaccid,WhiffProQuo,blue,7.25,6.275,
+464.857,bomb used,sick,blue,20.5,1.5,
+464.924,gate change,,,23,15,2 tiles turned blue
+465.157,gate change,,,23,15,2 tiles turned off
+465.207,prevent start,DiegoOnMac,blue,23.35,14.775,up to 1 s before the first counted second
+465.84,respawn,WhiffProQuo,blue,24,20,
+465.89,grab,oatz_mgoatz,red,26.45,17.15,blue flag; previous carrier Riley_2025 popped 2.40 s earlier
+466.091,portal ready,,,4.5,11.5,
+466.207,prevent stop,DiegoOnMac,blue,26.075,17.15,1 s counted
+466.49,respawn,Riley_2025,red,11,5,
+467.091,pop,oatz_mgoatz,red,30.95,16.9,"carrying blue flag; returned by DiegoOnMac; splat at 30.95,16.9"
+467.091,block stop,oatz_mgoatz,red,30.95,16.9,14.93 s
+467.097,boost ready,,,17.5,12.5,
+467.89,bomb ready,,,14.5,23.5,
+468.707,boost used,Riley_2025,red,17.5,12.5,
+469.089,flaccid,oatz_mgoatz,red,30.95,16.9,
+469.207,prevent start,DiegoOnMac,blue,29.5,14.6,up to 1 s before the first counted second
+469.207,prevent start,sick,blue,26.275,18.175,up to 1 s before the first counted second
+469.207,prevent start,WhiffProQuo,blue,23.3,16,up to 1 s before the first counted second
+469.274,boost used,DiegoOnMac,blue,29.5,13.5,
+469.341,boost used,DiegoOnMac,blue,28.5,12.5,
+470.09,respawn,oatz_mgoatz,red,10,4,
+470.207,prevent stop,DiegoOnMac,blue,22.25,10.35,1 s counted
+470.925,bomb ready,,,1.5,10.5,
+472.028,boost ready,,,5.5,11.5,
+472.208,prevent stop,sick,blue,22.8,18.525,3 s counted
+472.208,prevent stop,WhiffProQuo,blue,25.425,18.85,3 s counted
+472.541,boost used,DiegoOnMac,blue,6.5,12.5,
+472.59,bomb used,Riley_2025,red,14.5,23.5,
+472.608,boost used,DiegoOnMac,blue,5.5,11.5,
+472.673,portal used,DiegoOnMac,blue,4.5,11.5,
+472.908,block start,oatz_mgoatz,red,18.425,10.95,
+473.174,button start,GOBLIN,blue,5.675,8.5,
+473.207,prevent start,sick,blue,24.35,17.075,up to 1 s before the first counted second
+473.207,prevent start,WhiffProQuo,blue,25.825,18.05,up to 1 s before the first counted second
+473.574,bomb used,Quaky20,red,1.5,10.5,
+473.69,block start,WhiffProQuo,blue,25.95,18.125,
+474.107,grab,DiegoOnMac,blue,6.825,5.125,red flag; previous carrier WhiffProQuo popped 11.27 s earlier
+474.207,prevent stop,Quaky20,red,9.075,7.925,16 s counted
+474.207,prevent stop,Lax11K,red,7.775,5.675,21 s counted
+475.125,block start,DiegoOnMac,blue,5.6,7.275,
+475.374,portal used,oatz_mgoatz,red,30.5,13.5,
+476.675,portal ready,,,4.5,11.5,
+476.79,grab,oatz_mgoatz,red,27.6,18.6,blue flag; previous carrier oatz_mgoatz popped 9.70 s earlier
+477.208,prevent stop,sick,blue,27.15,17.9,4 s counted
+477.208,prevent stop,WhiffProQuo,blue,24.325,16.675,4 s counted
+477.724,gate change,,,12,10,2 tiles turned blue
+477.858,bomb ready,,,33.5,14.5,
+477.908,pop,oatz_mgoatz,red,29.9,15.825,"carrying blue flag; returned by sick; splat at 29.9,15.825"
+477.908,block stop,oatz_mgoatz,red,29.9,15.825,5.00 s
+478.174,button stop,GOBLIN,blue,10.825,8.6,5.00 s
+478.207,prevent start,sick,blue,29.15,16.15,up to 1 s before the first counted second
+478.207,prevent start,WhiffProQuo,blue,21.95,16.925,up to 1 s before the first counted second
+478.71,boost ready,,,17.5,12.5,
+479.157,block start,Quaky20,red,18.925,19.45,
+479.207,prevent stop,WhiffProQuo,blue,19.225,17.775,1 s counted
+479.276,boost ready,,,29.5,13.5,
+479.341,gate change,,,12,10,2 tiles turned off
+479.343,boost ready,,,28.5,12.5,
+479.374,portal ready,,,30.5,13.5,
+479.558,block stop,WhiffProQuo,blue,17.875,18.4,5.87 s
+479.708,gate change,,,12,10,2 tiles turned blue
+479.907,flaccid,oatz_mgoatz,red,29.9,15.825,
+480.125,pop,DiegoOnMac,blue,18.825,18.925,"carrying red flag; returned by Lax11K; splat at 18.825,18.925"
+480.125,block stop,DiegoOnMac,blue,18.825,18.925,5.00 s
+480.407,gate change,,,12,10,2 tiles turned off
+480.907,respawn,oatz_mgoatz,red,9,6,
+482.541,boost ready,,,6.5,12.5,
+482.609,boost ready,,,5.5,11.5,
+483.124,respawn,DiegoOnMac,blue,24,19,
+483.207,prevent stop,sick,blue,32.325,14.875,5 s counted
+483.524,grab,Quaky20,red,28.25,18.675,blue flag; previous carrier oatz_mgoatz popped 5.62 s earlier
+483.649,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+483.857,bomb used,sick,blue,33.5,14.5,
+484.157,pop,Quaky20,red,25.7,16,"carrying blue flag; returned by sick; splat at 25.7,16"
+484.157,block stop,Quaky20,red,25.7,16,5.00 s
+486.157,flaccid,Quaky20,red,25.7,16,
+487.158,respawn,Quaky20,red,8,8,
+487.457,boost used,WhiffProQuo,blue,17.5,12.5,
+488.425,pup spawn,,,15.5,19.5,tagpro
+488.74,pup taken,,,15.5,19.5,tagpro
+488.757,pup pickup,Riley_2025,red,15.775,19.525,tagpro
+489.276,pop,sick,blue,14.325,18.975,"tagged by Riley_2025; splat at 14.325,18.975"
+490.258,pup spawn,,,19.5,5.5,tagpro
+490.308,block start,DiegoOnMac,blue,11.675,18.75,
+490.49,pup taken,,,19.5,5.5,tagpro
+490.508,pup pickup,Quaky20,red,17.875,4.9,tagpro
+490.525,pop,WhiffProQuo,blue,19.175,4.725,"tagged by Quaky20; splat at 19.175,4.725"
+490.65,message,,,,,An opponent that had the TagPro power up tagged you - so you were popped! Players that are green have TagPro.
+491.524,gate change,,,23,15,2 tiles turned red
+491.807,block start,oatz_mgoatz,red,18.15,6.75,
+492.058,gate change,,,23,15,2 tiles turned off
+492.274,respawn,sick,blue,23,17,
+492.607,grab,Lax11K,red,26.25,18.625,blue flag; previous carrier Quaky20 popped 8.45 s earlier
+493.157,grab,DiegoOnMac,blue,8,6.8,red flag; previous carrier DiegoOnMac popped 13.03 s earlier
+493.258,gate change,,,23,15,2 tiles turned blue
+493.524,respawn,WhiffProQuo,blue,29,16,
+493.609,gate change,,,23,15,2 tiles turned off
+493.707,boost used,Lax11K,red,29.5,13.5,
+493.758,boost used,Lax11K,red,28.5,12.5,
+494.858,bomb ready,,,20.5,1.5,
+495.29,portal used,WhiffProQuo,blue,30.5,13.5,
+495.308,pop,DiegoOnMac,blue,7.95,4.35,"carrying red flag; returned by oatz_mgoatz; splat at 7.95,4.35"
+495.308,block stop,DiegoOnMac,blue,7.95,4.35,5.00 s
+495.758,gate change,,,12,10,2 tiles turned blue
+495.958,block start,sick,blue,25.125,9.325,
+496.224,prevent start,oatz_mgoatz,red,8.65,5.425,up to 1 s before the first counted second
+496.308,gate change,,,12,10,2 tiles turned off
+496.807,block stop,oatz_mgoatz,red,8.375,6.475,5.00 s
+497.224,prevent start,Riley_2025,red,10.725,6.475,up to 1 s before the first counted second
+497.258,gate change,,,23,15,2 tiles turned blue
+497.291,block start,WhiffProQuo,blue,24.3,15.875,
+497.458,boost ready,,,17.5,12.5,
+497.524,gate change,,,23,15,2 tiles turned off
+497.925,score,,,,,red 3 - blue 4
+497.94,cap,Lax11K,red,8.225,5.725,blue flag
+498.075,boost used,GOBLIN,blue,5.5,11.5,
+498.107,portal used,GOBLIN,blue,4.5,11.5,
+498.174,button start,GOBLIN,blue,7.65,2.025,
+498.225,prevent start,Lax11K,red,7.2,5.825,up to 1 s before the first counted second
+498.307,respawn,DiegoOnMac,blue,26,16,
+498.607,boost used,WhiffProQuo,blue,17.5,12.5,
+499.29,portal ready,,,30.5,13.5,
+500.091,bomb used,sick,blue,20.5,1.5,
+500.274,gate change,,,23,15,2 tiles turned blue
+500.491,grab,WhiffProQuo,blue,7.2,7.025,red flag; previous carrier DiegoOnMac popped 5.18 s earlier
+500.958,pop,sick,blue,8.725,5.525,"tagged by Riley_2025; splat at 8.725,5.525"
+500.958,block stop,sick,blue,8.725,5.525,5.00 s
+501.225,prevent stop,oatz_mgoatz,red,5.125,11.3,5 s counted
+501.225,prevent stop,Lax11K,red,6.725,5.55,3 s counted
+501.225,prevent stop,Riley_2025,red,7.325,6.4,4 s counted
+501.242,boost used,oatz_mgoatz,red,6.5,12.5,
+502.108,portal ready,,,4.5,11.5,
+502.224,prevent start,DiegoOnMac,blue,23.35,15.125,up to 1 s before the first counted second
+502.291,pop,WhiffProQuo,blue,1.15,10,"carrying red flag; returned by Lax11K; splat at 1.15,10"
+502.291,block stop,WhiffProQuo,blue,1.15,10,5.00 s
+502.525,gate change,,,23,15,2 tiles turned off
+502.59,bomb ready,,,14.5,23.5,
+502.907,gate change,,,12,10,2 tiles turned blue
+503.174,button stop,GOBLIN,blue,11.325,8.6,5.00 s
+503.225,prevent start,Lax11K,red,1.525,8.5,up to 1 s before the first counted second
+503.225,prevent start,Riley_2025,red,3.675,8.625,up to 1 s before the first counted second
+503.575,bomb ready,,,1.5,10.5,
+503.69,grab,Quaky20,red,26.225,17.175,blue flag
+503.708,boost ready,,,29.5,13.5,
+503.757,pup ended,Riley_2025,red,5.1,7.825,tagpro
+503.758,boost ready,,,28.5,12.5,
+503.858,gate change,,,12,10,2 tiles turned off
+503.958,respawn,sick,blue,25,15,
+504.023,boost used,DiegoOnMac,blue,29.5,13.5,
+504.09,portal used,DiegoOnMac,blue,30.5,13.5,
+504.19,block start,oatz_mgoatz,red,27.1,12.9,
+504.225,prevent stop,DiegoOnMac,blue,26.325,21.975,2 s counted
+504.624,pop,DiegoOnMac,blue,26.95,19.575,"tagged by Quaky20; splat at 26.95,19.575"
+504.624,pop,Quaky20,red,27.05,18.675,"carrying blue flag; returned by DiegoOnMac; splat at 27.05,18.675"
+505.29,respawn,WhiffProQuo,blue,26,16,
+505.49,pup ended,Quaky20,red,27.05,18.675,tagpro
+506.39,bomb used,GOBLIN,blue,1.5,10.5,
+506.624,flaccid,Quaky20,red,27.05,18.675,
+506.79,grab,GOBLIN,blue,5.15,6.975,red flag; previous carrier WhiffProQuo popped 4.50 s earlier
+506.99,grab,oatz_mgoatz,red,27.775,17.05,blue flag; previous carrier Quaky20 popped 2.37 s earlier
+507.225,prevent stop,Lax11K,red,9.7,4.7,4 s counted
+507.225,prevent stop,Riley_2025,red,10.15,8.575,4 s counted
+507.226,gate change,,,12,10,2 tiles turned red
+507.625,respawn,DiegoOnMac,blue,26,17,
+507.625,respawn,Quaky20,red,4,7,
+507.707,gate change,,,12,10,2 tiles turned off
+507.757,block start,DiegoOnMac,blue,26,17,
+508.075,boost ready,,,5.5,11.5,
+508.091,portal ready,,,30.5,13.5,
+508.609,boost ready,,,17.5,12.5,
+509.09,block start,GOBLIN,blue,9.7,5.275,
+509.19,pop,oatz_mgoatz,red,24.3,20.95,"carrying blue flag; returned by DiegoOnMac; splat at 24.3,20.95"
+509.19,block stop,oatz_mgoatz,red,24.3,20.95,5.00 s
+510.107,gate change,,,23,15,2 tiles turned blue
+510.376,boost used,Riley_2025,red,17.5,12.5,
+511.139,portal used,GOBLIN,blue,4.5,11.5,
+511.225,prevent start,sick,blue,26.1,17.725,up to 1 s before the first counted second
+511.225,prevent start,WhiffProQuo,blue,22.85,15,up to 1 s before the first counted second
+511.243,boost ready,,,6.5,12.5,
+511.374,boost used,Quaky20,red,5.5,11.5,
+511.707,bomb used,DiegoOnMac,blue,14.5,23.5,
+512.04,gate change,,,23,15,2 tiles turned off
+512.19,respawn,oatz_mgoatz,red,6,5,
+512.757,block stop,DiegoOnMac,blue,7.3,5.8,5.00 s
+513.858,bomb ready,,,33.5,14.5,
+514.024,boost ready,,,29.5,13.5,
+514.09,pop,GOBLIN,blue,16.4,1,"carrying red flag; returned by Lax11K; splat at 16.4,1"
+514.09,block stop,GOBLIN,blue,16.4,1,5.00 s
+514.724,boost used,Riley_2025,red,29.5,13.5,
+514.74,portal used,Riley_2025,red,30.5,13.5,
+515.14,portal ready,,,4.5,11.5,
+515.224,prevent start,oatz_mgoatz,red,7.375,5.1,up to 1 s before the first counted second
+516.224,prevent stop,sick,blue,25.925,12.35,5 s counted
+516.224,prevent stop,WhiffProQuo,blue,29.075,12.975,5 s counted
+516.224,prevent start,Quaky20,red,10.4,5.625,up to 1 s before the first counted second
+517.092,respawn,GOBLIN,blue,25,15,
+517.757,block start,GOBLIN,blue,24.6,14.6,
+517.808,bomb used,WhiffProQuo,blue,33.5,14.5,
+518.107,portal used,DiegoOnMac,blue,4.5,11.5,
+518.224,prevent stop,oatz_mgoatz,red,6.975,12.125,3 s counted
+518.225,prevent start,Lax11K,red,9.8,6.725,up to 1 s before the first counted second
+518.402,gate change,,,23,15,2 tiles turned blue
+518.607,block start,oatz_mgoatz,red,8.175,13.525,
+518.74,portal ready,,,30.5,13.5,
+518.774,gate change,,,23,15,2 tiles turned off
+519.225,prevent start,sick,blue,25.175,13.025,up to 1 s before the first counted second
+519.225,prevent start,WhiffProQuo,blue,23.975,18.725,up to 1 s before the first counted second
+519.525,boost used,Riley_2025,red,28.5,12.5,
+520.377,boost ready,,,17.5,12.5,
+521.377,boost ready,,,5.5,11.5,
+522.108,portal ready,,,4.5,11.5,
+522.374,boost used,GOBLIN,blue,6.5,12.5,
+522.74,grab,GOBLIN,blue,6.575,9.425,red flag; previous carrier GOBLIN popped 8.65 s earlier
+522.907,portal used,Riley_2025,red,30.5,13.5,
+523.207,block start,Riley_2025,red,26.2,21.35,
+523.224,prevent stop,Quaky20,red,7.875,4.825,7 s counted
+523.224,prevent stop,Lax11K,red,6,4.1,5 s counted
+523.574,grab,Riley_2025,red,26.55,18.7,blue flag; previous carrier oatz_mgoatz popped 14.38 s earlier
+523.607,block stop,oatz_mgoatz,red,24.125,17.625,5.00 s
+523.774,pop,GOBLIN,blue,7.675,4.875,"carrying red flag; returned by Quaky20; splat at 7.675,4.875"
+523.774,block stop,GOBLIN,blue,7.675,4.875,6.02 s
+523.825,block start,DiegoOnMac,blue,6.925,6.775,
+524.224,prevent stop,sick,blue,27.725,16.05,5 s counted
+524.224,prevent stop,WhiffProQuo,blue,25.025,16.125,5 s counted
+524.224,prevent start,Quaky20,red,9.025,3.975,up to 1 s before the first counted second
+524.224,prevent start,Lax11K,red,6.825,6.175,up to 1 s before the first counted second
+524.725,boost ready,,,29.5,13.5,
+525.425,boost used,DiegoOnMac,blue,5.5,11.5,
+525.457,portal used,DiegoOnMac,blue,4.5,11.5,
+525.774,flaccid,GOBLIN,blue,7.675,4.875,
+526.574,grab,DiegoOnMac,blue,7.025,5.15,red flag; previous carrier GOBLIN popped 2.80 s earlier
+526.775,respawn,GOBLIN,blue,25,19,
+526.81,boost used,oatz_mgoatz,red,29.5,13.5,
+526.909,portal ready,,,30.5,13.5,
+527.224,prevent stop,Quaky20,red,7.775,7.4,3 s counted
+527.224,prevent stop,Lax11K,red,7.175,8.325,3 s counted
+528.174,button start,Quaky20,red,10.475,4.3,
+528.207,pop,Riley_2025,red,14.85,0.975,"carrying blue flag; returned by sick; splat at 14.85,0.975"
+528.207,block stop,Riley_2025,red,14.85,0.975,5.00 s
+528.74,grab,oatz_mgoatz,red,28.025,18.175,blue flag; previous carrier Riley_2025 popped 0.53 s earlier
+528.825,pop,DiegoOnMac,blue,14.75,1.025,"carrying red flag; returned by Quaky20; splat at 14.75,1.025"
+528.825,block stop,DiegoOnMac,blue,14.75,1.025,5.00 s
+529.224,prevent start,Lax11K,red,8.7,6.05,up to 1 s before the first counted second
+529.458,portal ready,,,4.5,11.5,
+529.526,boost ready,,,28.5,12.5,
+530.091,bomb ready,,,20.5,1.5,
+531.208,respawn,Riley_2025,red,5,10,
+531.693,portal used,Riley_2025,red,4.5,11.5,
+531.825,respawn,DiegoOnMac,blue,26,15,
+532.157,gate change,,,12,10,2 tiles turned red
+532.225,prevent start,Quaky20,red,11.65,8.45,up to 1 s before the first counted second
+532.241,block start,oatz_mgoatz,red,15.525,17.425,
+532.375,boost ready,,,6.5,12.5,
+533.174,button stop,Quaky20,red,11.025,9.2,5.00 s
+533.19,button start,Riley_2025,red,7.8,5.525,
+533.757,gate change,,,12,10,2 tiles turned off
+533.94,block start,DiegoOnMac,blue,21.55,9.55,
+534.224,prevent start,Riley_2025,red,6.775,8.8,up to 1 s before the first counted second
+535.406,boost used,Riley_2025,red,6.5,12.5,
+535.426,boost ready,,,5.5,11.5,
+535.694,portal ready,,,4.5,11.5,
+536.225,prevent stop,Riley_2025,red,15.225,14.075,2 s counted
+536.393,bomb ready,,,1.5,10.5,
+536.41,boost used,oatz_mgoatz,red,28.5,12.5,
+536.524,boost used,Riley_2025,red,17.5,12.5,
+536.81,boost ready,,,29.5,13.5,
+536.841,bomb used,DiegoOnMac,blue,20.5,1.5,
+537.059,boost used,sick,blue,29.5,13.5,
+537.241,pop,oatz_mgoatz,red,27.55,16.225,"carrying blue flag; returned by sick; splat at 27.55,16.225"
+537.241,block stop,oatz_mgoatz,red,27.55,16.225,5.00 s
+537.925,gate change,,,23,15,2 tiles turned red
+538.058,bomb used,DiegoOnMac,blue,1.5,10.5,
+538.19,button stop,Riley_2025,red,22.75,15.125,5.00 s
+538.225,gate change,,,23,15,2 tiles turned off
+538.907,grab,DiegoOnMac,blue,5.675,6.225,red flag; previous carrier DiegoOnMac popped 10.08 s earlier
+539.225,prevent stop,Quaky20,red,9.975,7.625,7 s counted
+539.225,prevent stop,Lax11K,red,7.425,6.775,10 s counted
+539.907,portal used,WhiffProQuo,blue,4.5,11.5,
+540.242,respawn,oatz_mgoatz,red,5,7,
+540.376,pop,DiegoOnMac,blue,12.6,3.05,"carrying red flag; returned by Quaky20; splat at 12.6,3.05"
+540.376,block stop,DiegoOnMac,blue,12.6,3.05,6.44 s
+541.225,prevent start,Lax11K,red,11.75,4.9,up to 1 s before the first counted second
+541.391,grab,WhiffProQuo,blue,7.075,5.05,red flag; previous carrier DiegoOnMac popped 1.01 s earlier
+541.418,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+541.708,bomb ready,,,14.5,23.5,
+542.225,prevent stop,Lax11K,red,10.2,6.625,1 s counted
+543.008,boost used,WhiffProQuo,blue,5.5,11.5,
+543.207,block start,DiegoOnMac,blue,12.6,3.05,
+543.375,respawn,DiegoOnMac,blue,27,16,
+543.908,portal ready,,,4.5,11.5,
+544.09,block start,Quaky20,red,20.15,3.85,
+544.54,block start,oatz_mgoatz,red,11.575,11.95,
+545.407,boost ready,,,6.5,12.5,
+546.411,boost ready,,,28.5,12.5,
+546.525,boost ready,,,17.5,12.5,
+546.858,grab,Riley_2025,red,26.475,18.825,blue flag; previous carrier oatz_mgoatz popped 9.62 s earlier
+546.975,bomb used,sick,blue,14.5,23.5,
+547.06,boost ready,,,29.5,13.5,
+547.809,bomb ready,,,33.5,14.5,
+548.108,boost used,Riley_2025,red,29.5,13.5,
+548.174,boost used,Riley_2025,red,28.5,12.5,
+548.189,button start,Lax11K,red,21.175,16.15,
+548.623,block stop,DiegoOnMac,blue,17.875,5.35,5.42 s
+548.741,pup spawn,,,15.5,19.5,tagpro
+549.641,pup taken,,,15.5,19.5,tagpro
+549.657,pup pickup,sick,blue,14.125,18.5,tagpro
+550.107,block stop,oatz_mgoatz,red,19,6.35,5.57 s
+550.324,boost used,Riley_2025,red,17.5,12.5,
+550.357,block stop,Quaky20,red,20.5,5.35,6.27 s
+550.491,pup spawn,,,19.5,5.5,tagpro
+550.824,block start,DiegoOnMac,blue,18.875,5.7,
+550.907,pup taken,,,19.5,5.5,tagpro
+550.924,pup pickup,GOBLIN,blue,19.775,5.4,tagpro
+552.809,gate change,,,23,15,2 tiles turned red
+553.009,boost ready,,,5.5,11.5,
+553.189,button stop,Lax11K,red,22.9,15.2,5.00 s
+553.774,gate change,,,23,15,2 tiles turned off
+555.824,block stop,DiegoOnMac,blue,22.225,12.65,5.00 s
+556.325,pop,Lax11K,red,21.075,11.5,"tagged by sick; splat at 21.075,11.5"
+556.426,portal used,Riley_2025,red,4.5,11.5,
+557.34,boost used,GOBLIN,blue,5.5,11.5,
+557.924,pop,oatz_mgoatz,red,20,16.075,"tagged by sick; splat at 20,16.075"
+558.108,boost ready,,,29.5,13.5,
+558.175,boost ready,,,28.5,12.5,
+559.007,block start,Riley_2025,red,15.55,6.05,
+559.324,respawn,Lax11K,red,8,8,
+560.326,boost ready,,,17.5,12.5,
+560.426,portal ready,,,4.5,11.5,
+560.924,respawn,oatz_mgoatz,red,9,10,
+560.941,gate change,,,12,10,2 tiles turned red
+560.958,pop,Quaky20,red,28.625,16.625,"tagged by sick; splat at 28.625,16.625"
+561.058,gate change,,,12,10,2 tiles turned off
+562.225,boost used,Lax11K,red,17.5,12.5,
+562.626,gate change,,,23,15,2 tiles turned red
+562.673,gate change,,,23,15,2 tiles turned off
+562.907,pop,Lax11K,red,26.6,16.075,"tagged by sick; splat at 26.6,16.075"
+563.957,respawn,Quaky20,red,5,5,
+564.007,pop,Riley_2025,red,13.225,21.85,"carrying blue flag; returned by DiegoOnMac; splat at 13.225,21.85"
+564.007,block stop,Riley_2025,red,13.225,21.85,5.00 s
+564.187,message,,,,,"When the other teams has your flag, chase the flag carrier down and tag them to return it to your base."
+564.19,score,,,,,red 3 - blue 5
+564.208,cap,WhiffProQuo,blue,27.35,18.9,red flag
+564.657,pup ended,sick,blue,31.475,15.75,tagpro
+565.908,pup ended,GOBLIN,blue,8.85,11.4,tagpro
+565.908,respawn,Lax11K,red,4,9,
+566.341,boost used,GOBLIN,blue,6.5,12.5,
+566.774,gate change,,,12,10,2 tiles turned red
+566.842,bomb ready,,,20.5,1.5,
+566.957,gate change,,,12,10,2 tiles turned off
+567.008,respawn,Riley_2025,red,5,9,
+567.107,bomb used,sick,blue,33.5,14.5,
+567.224,prevent start,sick,blue,32.95,17.35,up to 1 s before the first counted second
+567.224,prevent start,WhiffProQuo,blue,25.675,17.825,up to 1 s before the first counted second
+567.342,boost ready,,,5.5,11.5,
+567.39,grab,GOBLIN,blue,7,7.175,red flag
+567.59,block start,DiegoOnMac,blue,7.3,9.775,
+567.857,boost used,oatz_mgoatz,red,29.5,13.5,
+567.875,portal used,oatz_mgoatz,red,30.5,13.5,
+568.06,bomb ready,,,1.5,10.5,
+570.44,block start,GOBLIN,blue,7.325,4.425,
+570.508,block start,oatz_mgoatz,red,25.275,19.2,
+571.143,block start,Quaky20,red,25.625,19.075,
+571.876,portal ready,,,30.5,13.5,
+571.976,bomb used,DiegoOnMac,blue,1.5,10.5,
+572.227,boost ready,,,17.5,12.5,
+572.59,block stop,DiegoOnMac,blue,5.275,6.725,5.00 s
+573.574,grab,Quaky20,red,26.375,18.575,blue flag; previous carrier Riley_2025 popped 9.57 s earlier
+574.224,prevent stop,sick,blue,26.35,19.625,7 s counted
+574.224,prevent stop,WhiffProQuo,blue,26.675,17.525,7 s counted
+574.24,gate change,,,12,10,2 tiles turned red
+574.44,gate change,,,12,10,2 tiles turned off
+574.69,block start,DiegoOnMac,blue,6.575,6.2,
+575.19,bomb used,Riley_2025,red,20.5,1.5,
+575.44,pop,GOBLIN,blue,18.2,7.4,"carrying red flag; returned by Riley_2025; splat at 18.2,7.4"
+575.508,block stop,oatz_mgoatz,red,25.475,18.725,5.00 s
+575.511,block start,Lax11K,red,15.8,8.95,
+575.69,grab,DiegoOnMac,blue,7.425,6.625,red flag; previous carrier GOBLIN popped 0.25 s earlier
+576.143,pop,Quaky20,red,32.05,18.025,"carrying blue flag; returned by WhiffProQuo; splat at 32.05,18.025"
+576.143,block stop,Quaky20,red,32.05,18.025,5.00 s
+576.224,prevent start,sick,blue,26.375,18.175,up to 1 s before the first counted second
+576.224,prevent start,WhiffProQuo,blue,31.525,17.225,up to 1 s before the first counted second
+576.341,boost ready,,,6.5,12.5,
+576.975,bomb ready,,,14.5,23.5,
+577.839,boost used,DiegoOnMac,blue,5.5,11.5,
+577.858,boost ready,,,29.5,13.5,
+577.924,boost used,DiegoOnMac,blue,6.5,12.5,
+578.44,respawn,GOBLIN,blue,24,19,
+578.441,boost used,Lax11K,red,17.5,12.5,
+578.99,block start,Riley_2025,red,26.775,11.95,
+579.14,respawn,Quaky20,red,6,8,
+579.174,boost used,Riley_2025,red,28.5,12.5,
+579.31,boost used,Riley_2025,red,29.5,13.5,
+579.425,block stop,GOBLIN,blue,23.275,17.925,8.98 s
+579.69,pop,DiegoOnMac,blue,24,20.35,"carrying red flag; returned by Lax11K; splat at 24,20.35"
+579.69,block stop,DiegoOnMac,blue,24,20.35,5.00 s
+580.125,grab,Lax11K,red,26.275,18.725,blue flag; previous carrier Quaky20 popped 3.98 s earlier
+580.226,prevent stop,sick,blue,27.925,17.5,4 s counted
+580.226,prevent stop,WhiffProQuo,blue,26.95,15.85,4 s counted
+580.511,pop,Lax11K,red,27.675,18.3,"carrying blue flag; returned by sick; splat at 27.675,18.3"
+580.511,block stop,Lax11K,red,27.675,18.3,5.00 s
+581.226,prevent start,sick,blue,27.875,16.225,up to 1 s before the first counted second
+581.226,prevent start,WhiffProQuo,blue,26.175,15.5,up to 1 s before the first counted second
+582.156,portal used,oatz_mgoatz,red,30.5,13.5,
+582.326,bomb used,Riley_2025,red,14.5,23.5,
+582.54,flaccid,Lax11K,red,27.675,18.3,
+582.558,gate change,,,12,10,2 tiles turned red
+582.691,respawn,DiegoOnMac,blue,29,20,
+582.958,gate change,,,12,10,2 tiles turned off
+583.025,block start,oatz_mgoatz,red,26.95,20.375,
+583.225,prevent start,Quaky20,red,10.25,9.225,up to 1 s before the first counted second
+583.54,respawn,Lax11K,red,10,8,
+583.957,grab,Riley_2025,red,27.35,18.95,blue flag; previous carrier Lax11K popped 3.45 s earlier
+583.99,block stop,Riley_2025,red,27.35,18.95,5.00 s
+584.207,pop,Riley_2025,red,27.075,18.375,"carrying blue flag; returned by DiegoOnMac; splat at 27.075,18.375"
+586.157,portal ready,,,30.5,13.5,
+586.207,flaccid,Riley_2025,red,27.075,18.375,
+586.224,prevent start,DiegoOnMac,blue,26.9,15.575,up to 1 s before the first counted second
+587.207,respawn,Riley_2025,red,10,8,
+587.224,prevent start,Lax11K,red,7.6,6.575,up to 1 s before the first counted second
+587.675,gate change,,,12,10,2 tiles turned red
+587.74,grab,oatz_mgoatz,red,25.975,18.1,blue flag; previous carrier Riley_2025 popped 3.53 s earlier
+587.84,boost ready,,,5.5,11.5,
+587.925,boost ready,,,6.5,12.5,
+588.025,pop,oatz_mgoatz,red,26.5,18.725,"carrying blue flag; returned by DiegoOnMac; splat at 26.5,18.725"
+588.025,block stop,oatz_mgoatz,red,26.5,18.725,5.00 s
+588.091,gate change,,,12,10,2 tiles turned off
+588.174,button start,oatz_mgoatz,red,26.5,18.725,
+588.224,prevent stop,DiegoOnMac,blue,25.65,18.15,2 s counted
+588.224,prevent stop,sick,blue,26.75,17.325,7 s counted
+588.224,prevent stop,WhiffProQuo,blue,26.375,20.025,7 s counted
+588.443,boost ready,,,17.5,12.5,
+589.175,boost ready,,,28.5,12.5,
+589.31,boost ready,,,29.5,13.5,
+589.458,boost used,Riley_2025,red,17.5,12.5,
+589.624,gate change,,,23,15,2 tiles turned blue
+589.775,pop,Riley_2025,red,21.25,14.85,"tagged by DiegoOnMac; splat at 21.25,14.85"
+590.023,flaccid,oatz_mgoatz,red,26.5,18.725,
+590.29,block start,Quaky20,red,11.225,6.475,
+590.842,gate change,,,23,15,2 tiles turned off
+591.024,respawn,oatz_mgoatz,red,6,6,
+591.224,prevent stop,Quaky20,red,13.7,5.15,8 s counted
+592.774,respawn,Riley_2025,red,5,9,
+593.108,gate change,,,12,10,2 tiles turned red
+593.14,boost used,WhiffProQuo,blue,28.5,12.5,
+593.174,button stop,oatz_mgoatz,red,10.4,8.55,5.00 s
+593.19,boost used,WhiffProQuo,blue,29.5,13.5,
+593.59,block start,Lax11K,red,7.9,4.25,
+593.624,block start,Riley_2025,red,4.75,9.925,
+593.74,boost used,Riley_2025,red,5.5,11.5,
+593.773,portal used,Riley_2025,red,4.5,11.5,
+594.076,gate change,,,12,10,2 tiles turned off
+594.224,prevent start,sick,blue,26,12.475,up to 1 s before the first counted second
+594.224,prevent start,WhiffProQuo,blue,31,18.325,up to 1 s before the first counted second
+595.157,grab,Quaky20,red,26.85,16.85,blue flag; previous carrier oatz_mgoatz popped 7.13 s earlier
+595.224,prevent stop,sick,blue,27.175,15.225,1 s counted
+595.224,prevent stop,WhiffProQuo,blue,27.2,18.975,1 s counted
+595.29,block stop,Quaky20,red,26.3,17.85,5.00 s
+596.608,gate change,,,23,15,2 tiles turned red
+596.827,gate change,,,23,15,2 tiles turned off
+597.108,bomb ready,,,33.5,14.5,
+597.224,prevent start,Riley_2025,red,12.05,6.675,up to 1 s before the first counted second
+597.275,boost used,DiegoOnMac,blue,6.5,12.5,
+597.774,portal ready,,,4.5,11.5,
+598.225,gate change,,,12,10,2 tiles turned red
+598.357,gate change,,,12,10,2 tiles turned off
+598.59,block stop,Lax11K,red,6.575,7.575,5.00 s
+598.624,block stop,Riley_2025,red,8.45,5.025,5.00 s
+598.724,gate change,,,12,10,2 tiles turned blue
+598.858,score,,,,,red 4 - blue 5
+598.874,cap,Quaky20,red,8,6.625,blue flag
+598.94,gate change,,,12,10,2 tiles turned off
+599.124,grab,oatz_mgoatz,red,26.8,17.925,blue flag
+599.225,prevent start,Quaky20,red,6.775,5.5,up to 1 s before the first counted second
+599.46,boost ready,,,17.5,12.5,
+600.019,message,,,,,Clutch Time for held flags!
+600.021,message,,,,,"Play continues until all flags are returned. You can grab the flag from the enemy's base to keep them from capping, but only flags held at the start of Clutch Time can be used to score."
+600.021,message,,,,,"Play continues until all flags are returned. You can grab the flag from the enemy's base to keep them from capping, but only flags held at the start of Clutch Time can be used to score."
+600.89,boost used,sick,blue,17.5,12.5,
+601.976,bomb ready,,,1.5,10.5,
+603.141,boost ready,,,28.5,12.5,
+603.19,boost ready,,,29.5,13.5,
+603.741,boost ready,,,5.5,11.5,
+604.645,bomb used,DiegoOnMac,blue,1.5,10.5,
+605.191,bomb ready,,,20.5,1.5,
+605.857,block start,Riley_2025,red,7.625,7.725,
+606.224,prevent stop,Lax11K,red,14.975,8.225,19 s counted
+606.558,boost used,oatz_mgoatz,red,28.5,12.5,
+606.824,block start,Lax11K,red,15.75,9.825,
+607.276,boost ready,,,6.5,12.5,
+607.29,block start,GOBLIN,blue,8.7,8.725,
+607.406,block start,WhiffProQuo,blue,13.75,11.875,
+608.608,portal used,sick,blue,30.5,13.5,
+608.775,bomb used,DiegoOnMac,blue,20.5,1.5,
+609.29,block start,sick,blue,25.675,22,
+609.642,pup spawn,,,15.5,19.5,tagpro
+609.7,block start,oatz_mgoatz,red,18,13.825,
+610.224,prevent stop,Quaky20,red,15.875,5.025,11 s counted
+610.891,boost ready,,,17.5,12.5,
+610.908,pup spawn,,,19.5,5.5,rolling bomb
+611.156,boost used,DiegoOnMac,blue,6.5,12.5,
+611.224,boost used,DiegoOnMac,blue,5.5,11.5,
+611.274,portal used,DiegoOnMac,blue,4.5,11.5,
+612.207,grab,DiegoOnMac,blue,7.325,4.85,red flag; previous carrier DiegoOnMac popped 32.52 s earlier
+612.224,prevent stop,Riley_2025,red,11.625,6.8,15 s counted
+612.326,bomb ready,,,14.5,23.5,
+612.474,boost used,sick,blue,17.5,12.5,
+612.558,pup taken,,,19.5,5.5,rolling bomb
+612.574,pup pickup,Quaky20,red,18.375,4.475,rolling bomb
+612.608,portal ready,,,30.5,13.5,
+613.207,block stop,WhiffProQuo,blue,7.775,7.5,5.80 s
+613.657,block stop,GOBLIN,blue,9.8,5.275,6.37 s
+613.657,block stop,Riley_2025,red,9.975,6.275,7.80 s
+614.29,block stop,sick,blue,6.4,5.5,5.00 s
+614.29,block stop,Lax11K,red,7.175,6.05,7.47 s
+614.7,pop,oatz_mgoatz,red,9.225,2.275,"carrying blue flag; returned by GOBLIN; splat at 9.225,2.275"
+614.7,block stop,oatz_mgoatz,red,9.225,2.275,5.00 s
+614.73,game end,,,,,winner blue
+614.73,final stats,DiegoOnMac,blue,4.2,6.775,"registered, grabs 19, caps 1, hold 91, returns 16, tags 20, pops 20, prevent 44, pups 4, handoffs 2, flaccids 4, score 40, points 0"
+614.73,final stats,sick,blue,6.35,5.55,"registered, grabs 7, caps 1, hold 28, returns 19, tags 25, pops 10, prevent 68, pups 1, handoffs 1, flaccids 3, score 72, points 0"
+614.73,final stats,WhiffProQuo,blue,7.875,3.675,"registered, grabs 10, caps 2, hold 52, returns 9, tags 11, pops 11, prevent 87, pups 2, handoffs 0, flaccids 4, score 71, points 0"
+614.73,final stats,oatz_mgoatz,red,9.225,2.275,"registered, grabs 21, caps 1, hold 161, returns 8, tags 12, pops 22, prevent 59, pups 2, handoffs 0, flaccids 5, score 44, points 0"
+614.73,final stats,GOBLIN,blue,9.075,3.625,"registered, grabs 13, caps 1, hold 91, returns 10, tags 11, pops 12, prevent 16, pups 2, handoffs 1, flaccids 4, score 26, points 0"
+614.73,final stats,Quaky20,red,15.65,5.15,"registered, grabs 13, caps 1, hold 76, returns 15, tags 18, pops 15, prevent 153, pups 4, handoffs 0, flaccids 3, score 62, points 0"
+614.73,final stats,Lax11K,red,7.475,5.65,"registered, grabs 7, caps 1, hold 56, returns 12, tags 12, pops 9, prevent 204, pups 2, handoffs 0, flaccids 1, score 67, points 0"
+614.73,final stats,Riley_2025,red,8.65,4.725,"registered, grabs 17, caps 1, hold 71, returns 8, tags 11, pops 21, prevent 56, pups 2, handoffs 3, flaccids 3, score 17, points 0"

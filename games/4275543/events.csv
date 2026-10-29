@@ -1,0 +1,1884 @@
+seconds,event,player,team,x,y,details
+-19.987,join,Messi,blue,,,
+-19.876,respawn,Messi,blue,33,19,
+-19.105,join,fm,red,,,
+-19.027,respawn,fm,red,10,7,
+-18.926,join,meowza,red,,,
+-18.885,respawn,meowza,red,11,7,
+-18.771,join,Peach Farmer,blue,,,
+-18.729,join,Kep,blue,,,
+-18.662,join,Magnolia,blue,,,
+-18.628,respawn,Peach Farmer,blue,33,19,
+-18.609,respawn,Kep,blue,32,20,
+-18.609,respawn,Magnolia,blue,30,22,
+-18.405,join,omni,red,,,
+-18.3,respawn,omni,red,8,10,
+-18.135,join,fender,red,,,
+-18.101,respawn,fender,red,9,8,
+-13.295,leave,Peach Farmer,blue,33,19,
+-12.802,rejoin,Peach Farmer,blue,,,
+-12.758,respawn,Peach Farmer,blue,30,23,
+-9.201,leave,fm,red,10,7,
+-8.895,rejoin,fm,red,,,
+-8.859,respawn,fm,red,8,9,
+0,game start,,,,,"map Moon Base 2024; ctf; private group; Chicago 5, IL; length 600 s; red team MSCP; blue team MCAP; red flag at 7.5,7.5; blue flag at 34.5,22.5; replay dc28eb93-dcf9-421b-af20-e72470ba3bb0"
+0.008,block start,omni,red,8,10,
+1.074,block start,Kep,blue,31.475,18.95,
+1.291,block start,fender,red,11.2,10.125,
+2.559,bomb used,Peach Farmer,blue,32.5,28.5,
+2.675,bomb used,meowza,red,9.5,1.5,
+2.742,boost used,fm,red,3.5,2.5,
+2.758,boost used,fender,red,19.5,13.5,
+2.807,boost used,Peach Farmer,blue,38.5,27.5,
+2.974,boost used,Peach Farmer,blue,40.5,25.5,
+3.058,boost used,omni,red,15.5,18.5,
+3.175,portal used,fm,red,3.5,8.5,
+3.258,portal used,Peach Farmer,blue,38.5,21.5,
+3.258,boost used,Kep,blue,26.5,11.5,
+3.808,gate change,,,15.833,7.5,3 tiles turned blue
+3.857,gate change,,,15.833,7.5,3 tiles turned off
+4.242,prevent start,Messi,blue,30.125,20.35,up to 1 s before the first counted second
+4.242,prevent start,meowza,red,4.75,3.65,up to 1 s before the first counted second
+4.242,prevent start,Peach Farmer,blue,34.25,22.825,up to 1 s before the first counted second
+4.242,prevent start,fm,red,7.5,7.475,up to 1 s before the first counted second
+4.892,boost used,meowza,red,1.5,4.5,
+4.958,grab,fender,red,34.85,21.775,blue flag
+5.008,block stop,omni,red,31.4,21.075,5.00 s
+5.242,prevent stop,Messi,blue,32.425,21.975,1 s counted
+5.242,prevent stop,Peach Farmer,blue,33.125,22.7,1 s counted
+5.925,grab,Magnolia,blue,7.525,7.6,red flag
+6.074,block stop,Kep,blue,5.3,5.7,5.00 s
+6.164,pop,Magnolia,blue,7.55,6.975,"carrying red flag; returned by fm; splat at 7.55,6.975"
+6.241,prevent start,Messi,blue,33.125,22.85,up to 1 s before the first counted second
+6.241,prevent start,Peach Farmer,blue,33.9,26.475,up to 1 s before the first counted second
+6.291,pop,fender,red,34.975,27.4,"carrying blue flag; returned by Peach Farmer; splat at 34.975,27.4"
+6.291,block stop,fender,red,34.975,27.4,5.00 s
+7.176,portal ready,,,3.5,8.5,
+7.263,portal ready,,,38.5,21.5,
+8.175,flaccid,Magnolia,blue,7.55,6.975,
+8.291,flaccid,fender,red,34.975,27.4,
+9.175,respawn,Magnolia,blue,31,22,
+9.291,respawn,fender,red,10,8,
+11.774,boost used,Magnolia,blue,22.5,16.5,
+12.743,boost ready,,,3.5,2.5,
+12.759,boost ready,,,19.5,13.5,
+12.808,boost ready,,,38.5,27.5,
+12.975,boost ready,,,40.5,25.5,
+13.058,boost ready,,,15.5,18.5,
+13.157,portal used,fm,red,3.5,8.5,
+13.241,prevent stop,fm,red,1.975,3.025,9 s counted
+13.259,boost ready,,,26.5,11.5,
+13.977,boost used,fm,red,3.5,2.5,
+14.242,prevent start,fm,red,5.625,1.3,up to 1 s before the first counted second
+14.541,boost used,Magnolia,blue,19.5,13.5,
+14.894,boost ready,,,1.5,4.5,
+16.207,boost used,fender,red,26.5,11.5,
+17.157,portal ready,,,3.5,8.5,
+18.807,boost used,Magnolia,blue,1.5,4.5,
+18.825,block start,omni,red,32.875,23.3,
+19.192,portal used,Magnolia,blue,3.5,8.5,
+20.624,grab,omni,red,34.425,23.175,blue flag; previous carrier fender popped 14.33 s earlier
+21.241,prevent stop,Messi,blue,31.35,20.125,15 s counted
+21.241,prevent stop,Peach Farmer,blue,36.175,25.275,15 s counted
+21.541,boost used,fender,red,38.5,27.5,
+21.775,boost ready,,,22.5,16.5,
+22.057,portal used,fender,red,38.5,21.5,
+23.192,portal ready,,,3.5,8.5,
+23.825,pop,omni,red,32.275,11.975,"carrying blue flag; returned by Messi; splat at 32.275,11.975"
+23.825,block stop,omni,red,32.275,11.975,5.00 s
+23.978,boost ready,,,3.5,2.5,
+24.242,prevent start,Peach Farmer,blue,33.1,23.475,up to 1 s before the first counted second
+24.457,grab,fender,red,34.85,21.975,blue flag; previous carrier omni popped 0.63 s earlier
+24.542,boost ready,,,19.5,13.5,
+24.557,boost used,Magnolia,blue,3.5,2.5,
+25.242,prevent stop,Peach Farmer,blue,33.8,23.45,1 s counted
+25.791,block start,meowza,red,6.4,6.325,
+26.058,portal ready,,,38.5,21.5,
+26.207,boost ready,,,26.5,11.5,
+26.391,boost used,fender,red,40.5,25.5,
+26.675,block start,fender,red,39.1,21.775,
+26.741,portal used,fender,red,38.5,21.5,
+26.824,respawn,omni,red,11,7,
+28.808,boost ready,,,1.5,4.5,
+29.957,boost used,fender,red,22.5,16.5,
+29.975,gate change,,,26.167,22.5,3 tiles turned blue
+30.158,boost used,Peach Farmer,blue,26.5,11.5,
+30.175,gate change,,,26.167,22.5,3 tiles turned off
+30.742,portal ready,,,38.5,21.5,
+30.791,block stop,meowza,red,6.35,8.575,5.00 s
+31.274,boost used,Messi,blue,15.5,18.5,
+31.541,boost ready,,,38.5,27.5,
+31.675,pop,fender,red,6.85,10.45,"carrying blue flag; returned by Kep; splat at 6.85,10.45"
+31.675,block stop,fender,red,6.85,10.45,5.00 s
+32.559,bomb ready,,,32.5,28.5,
+32.607,boost used,omni,red,19.5,13.5,
+32.676,bomb ready,,,9.5,1.5,
+34.558,boost ready,,,3.5,2.5,
+34.675,respawn,fender,red,11,7,
+34.758,bomb used,meowza,red,9.5,1.5,
+34.958,grab,omni,red,34.8,21.525,blue flag; previous carrier fender popped 3.28 s earlier
+35.014,block start,fender,red,11.25,7.5,
+35.026,boost used,Messi,blue,3.5,2.5,
+35.525,block start,omni,red,33.325,23.675,
+36.391,boost ready,,,40.5,25.5,
+36.974,bomb used,omni,red,32.5,28.5,
+39.958,boost ready,,,22.5,16.5,
+40.014,block stop,fender,red,26.85,20.25,5.00 s
+40.158,boost ready,,,26.5,11.5,
+40.525,pop,omni,red,25.225,24.9,"carrying blue flag; returned by Peach Farmer; splat at 25.225,24.9"
+40.525,block stop,omni,red,25.225,24.9,5.00 s
+41.275,boost ready,,,15.5,18.5,
+41.807,block start,fender,red,30.925,22.35,
+42.242,grab,fender,red,33.225,22.575,blue flag; previous carrier omni popped 1.72 s earlier
+42.607,boost ready,,,19.5,13.5,
+43.524,respawn,omni,red,10,8,
+43.643,boost used,Magnolia,blue,15.5,18.5,
+43.657,boost used,fender,red,38.5,27.5,
+45.026,boost ready,,,3.5,2.5,
+46.057,boost used,Magnolia,blue,22.5,16.5,
+46.556,boost used,omni,red,19.5,13.5,
+46.807,pop,fender,red,29.775,14.2,"carrying blue flag; returned by Magnolia; splat at 29.775,14.2"
+46.807,block stop,fender,red,29.775,14.2,5.00 s
+47.941,boost used,Messi,blue,1.5,4.5,
+48.241,prevent start,Peach Farmer,blue,31.725,18.75,up to 1 s before the first counted second
+48.273,portal used,Messi,blue,3.5,8.5,
+49.241,prevent start,Magnolia,blue,32.85,17.725,up to 1 s before the first counted second
+49.541,block start,Kep,blue,8.675,6.675,
+49.808,respawn,fender,red,9,8,
+50.824,portal used,Peach Farmer,blue,38.5,21.5,
+51.874,boost used,Peach Farmer,blue,40.5,25.5,
+52.242,prevent stop,fm,red,2.925,4.225,38 s counted
+52.256,boost used,Messi,blue,3.5,2.5,
+52.275,portal ready,,,3.5,8.5,
+53.241,prevent start,fm,red,3.425,2.475,up to 1 s before the first counted second
+53.648,boost ready,,,15.5,18.5,
+53.658,boost ready,,,38.5,27.5,
+54.057,boost used,fender,red,26.5,11.5,
+54.107,grab,Kep,blue,7.9,6.175,red flag; previous carrier Magnolia popped 47.94 s earlier
+54.241,prevent stop,meowza,red,7.175,7.7,50 s counted
+54.241,prevent stop,fm,red,6.425,4.5,1 s counted
+54.541,pop,Kep,blue,6.575,6.675,"carrying red flag; returned by fm; splat at 6.575,6.675"
+54.541,block stop,Kep,blue,6.575,6.675,5.00 s
+54.591,boost used,Magnolia,blue,38.5,27.5,
+54.825,portal ready,,,38.5,21.5,
+54.958,block start,fender,red,33.675,20.775,
+55.091,grab,fender,red,33.675,20.775,blue flag; previous carrier fender popped 8.28 s earlier
+55.241,prevent start,meowza,red,7.425,8.45,up to 1 s before the first counted second
+55.241,prevent stop,Magnolia,blue,36.225,26.025,6 s counted
+55.241,prevent stop,Peach Farmer,blue,35.475,23.525,7 s counted
+55.241,prevent start,fm,red,7.25,5.825,up to 1 s before the first counted second
+56.058,boost ready,,,22.5,16.5,
+56.541,flaccid,Kep,blue,6.575,6.675,
+56.557,boost ready,,,19.5,13.5,
+57.241,prevent stop,meowza,red,13.35,5.275,2 s counted
+57.541,respawn,Kep,blue,32,20,
+57.941,boost ready,,,1.5,4.5,
+58.175,grab,Messi,blue,7.325,7.75,red flag; previous carrier Kep popped 3.63 s earlier
+58.242,prevent stop,fm,red,9.05,7.55,3 s counted
+58.375,block start,Kep,blue,31.3,20.675,
+59.757,block start,Peach Farmer,blue,30.125,20.975,
+59.958,pop,fender,red,29.275,16.675,"carrying blue flag; returned by Magnolia; splat at 29.275,16.675"
+59.958,block stop,fender,red,29.275,16.675,5.00 s
+60.002,pup spawn,,,16.5,6.5,rolling bomb
+60.004,pup spawn,,,25.5,23.5,juke juice
+60.441,block start,meowza,red,15.9,4.025,
+60.442,pup taken,,,25.5,23.5,juke juice
+60.457,pup pickup,omni,red,25.65,23.625,juke juice
+61.092,block start,omni,red,24.15,22.55,
+61.157,pup taken,,,16.5,6.5,rolling bomb
+61.158,gate change,,,26.167,22.5,3 tiles turned red
+61.175,pup pickup,meowza,red,16.15,5.225,rolling bomb
+61.242,gate change,,,26.167,22.5,3 tiles turned off
+61.675,gate change,,,15.833,7.5,3 tiles turned red
+61.874,boost ready,,,40.5,25.5,
+62.024,gate change,,,15.833,7.5,3 tiles turned off
+62.256,boost ready,,,3.5,2.5,
+62.925,boost used,Messi,blue,15.5,18.5,
+62.957,respawn,fender,red,11,6,
+63.242,prevent start,Kep,blue,29.8,21.6,up to 1 s before the first counted second
+63.242,prevent start,Peach Farmer,blue,27.8,19.85,up to 1 s before the first counted second
+64.058,boost ready,,,26.5,11.5,
+64.591,boost ready,,,38.5,27.5,
+64.724,boost used,meowza,red,26.5,11.5,
+64.757,block stop,Peach Farmer,blue,33.275,21.6,5.00 s
+64.758,bomb ready,,,9.5,1.5,
+65.141,boost used,fm,red,22.5,16.5,
+65.441,grab,meowza,red,34.025,21.275,blue flag; previous carrier fender popped 5.48 s earlier
+65.441,block stop,meowza,red,34.025,21.275,5.00 s
+66.041,block start,fm,red,33.425,21.75,
+66.092,block stop,Kep,blue,33.65,23.95,7.72 s
+66.092,block stop,omni,red,33.55,22.65,5.00 s
+66.241,prevent stop,Kep,blue,33.7,24.125,3 s counted
+66.241,prevent stop,Peach Farmer,blue,35.525,26.275,3 s counted
+66.274,boost used,meowza,red,40.5,25.5,
+66.857,portal used,fm,red,38.5,21.5,
+66.907,bomb used,Magnolia,blue,9.5,1.5,
+66.975,bomb ready,,,32.5,28.5,
+68.057,block start,Magnolia,blue,8.325,7.5,
+68.075,boost used,Peach Farmer,blue,38.5,27.5,
+68.741,gate change,,,26.167,22.5,3 tiles turned blue
+69.008,bomb used,Peach Farmer,blue,32.5,28.5,
+69.008,block start,Messi,blue,22.975,22.225,
+69.157,gate change,,,26.167,22.5,3 tiles turned off
+70.858,portal ready,,,38.5,21.5,
+71.041,block stop,fm,red,34.175,22.65,5.00 s
+71.208,block start,meowza,red,28.45,21.425,
+72.926,boost ready,,,15.5,18.5,
+73.057,block stop,Magnolia,blue,8.55,7.6,5.00 s
+74.008,pop,Messi,blue,4.525,8.825,"carrying red flag; returned by fender; splat at 4.525,8.825"
+74.008,block stop,Messi,blue,4.525,8.825,5.00 s
+74.242,prevent start,omni,red,8.025,9.575,up to 1 s before the first counted second
+74.242,prevent start,fender,red,4.825,7.75,up to 1 s before the first counted second
+74.725,boost ready,,,26.5,11.5,
+75.142,boost ready,,,22.5,16.5,
+76.191,explosion,,,25.6,19.425,
+76.208,pup ended,meowza,red,25.6,19.425,rolling bomb
+76.208,block stop,meowza,red,25.6,19.425,5.00 s
+76.274,boost ready,,,40.5,25.5,
+76.607,boost used,Peach Farmer,blue,22.5,16.5,
+77.007,respawn,Messi,blue,31,21,
+77.242,prevent stop,omni,red,11.775,9.675,3 s counted
+77.291,boost used,Peach Farmer,blue,15.5,18.5,
+78.075,boost ready,,,38.5,27.5,
+79.074,boost used,meowza,red,26.5,11.5,
+79.391,boost used,Peach Farmer,blue,19.5,13.5,
+79.874,pop,meowza,red,16.125,5.35,"carrying blue flag; returned by Peach Farmer; splat at 16.125,5.35"
+80.241,prevent start,omni,red,7.675,11.125,up to 1 s before the first counted second
+80.457,pup ended,omni,red,7.325,10.725,juke juice
+80.507,grab,fm,red,34.725,22.575,blue flag; previous carrier meowza popped 0.63 s earlier
+81.974,block start,fender,red,7.8,6.1,
+82.875,respawn,meowza,red,9,9,
+83.241,prevent stop,fender,red,2.875,3.35,9 s counted
+83.84,boost used,fender,red,3.5,2.5,
+84.241,prevent start,fender,red,8.05,2.825,up to 1 s before the first counted second
+85.241,prevent stop,fender,red,15.8,7.225,1 s counted
+86.241,prevent start,meowza,red,8.925,9.1,up to 1 s before the first counted second
+86.608,boost ready,,,22.5,16.5,
+87.291,boost ready,,,15.5,18.5,
+88.291,boost used,Messi,blue,22.5,16.5,
+88.307,block start,fm,red,21.55,12.175,
+89.075,boost ready,,,26.5,11.5,
+89.393,boost ready,,,19.5,13.5,
+90.492,boost used,Messi,blue,15.5,18.5,
+91.425,block stop,fender,red,28.15,16.45,9.45 s
+92.957,boost used,Peach Farmer,blue,26.5,11.5,
+93.241,prevent start,Messi,blue,31.35,18.75,up to 1 s before the first counted second
+93.307,pop,fm,red,20.45,12.8,"carrying blue flag; returned by Peach Farmer; splat at 20.45,12.8"
+93.307,block stop,fm,red,20.45,12.8,5.00 s
+93.841,boost ready,,,3.5,2.5,
+96.307,respawn,fm,red,10,8,
+96.426,boost used,fender,red,40.5,25.5,
+96.758,portal used,fender,red,38.5,21.5,
+96.909,bomb ready,,,9.5,1.5,
+97.091,boost used,Magnolia,blue,1.5,4.5,
+98.208,grab,fender,red,34.4,22.75,blue flag; previous carrier fm popped 4.90 s earlier
+98.242,prevent stop,Messi,blue,33.4,21.475,5 s counted
+98.292,boost ready,,,22.5,16.5,
+99.008,bomb ready,,,32.5,28.5,
+99.241,prevent start,fm,red,6.625,7.15,up to 1 s before the first counted second
+99.275,block start,Kep,blue,8.275,3.875,
+100.492,boost ready,,,15.5,18.5,
+100.557,block start,meowza,red,4.925,8.225,
+100.757,portal ready,,,38.5,21.5,
+100.892,bomb used,Messi,blue,32.5,28.5,
+100.959,boost used,fender,red,38.5,27.5,
+100.974,bomb used,omni,red,9.5,1.5,
+101.241,prevent stop,meowza,red,4.725,8.125,15 s counted
+101.241,prevent stop,omni,red,9.675,4.125,21 s counted
+101.241,prevent stop,fm,red,6.95,6.125,2 s counted
+101.257,grab,Kep,blue,8,5.775,red flag; previous carrier Messi popped 27.25 s earlier
+101.441,portal used,fender,red,38.5,21.5,
+102.957,boost ready,,,26.5,11.5,
+103.441,boost used,Peach Farmer,blue,22.5,16.5,
+103.807,block start,Messi,blue,28.875,18.6,
+103.807,block start,fm,red,8.65,12.5,
+104.275,pop,Kep,blue,13.275,15.975,"carrying red flag; returned by omni; splat at 13.275,15.975"
+104.275,block stop,Kep,blue,13.275,15.975,5.00 s
+104.541,block start,fender,red,22.55,12.125,
+105.124,grab,Magnolia,blue,7.15,8.275,red flag; previous carrier Kep popped 0.85 s earlier
+105.291,boost used,fender,red,19.5,13.5,
+105.442,portal ready,,,38.5,21.5,
+105.557,block stop,meowza,red,17.175,15.55,5.00 s
+106.426,boost ready,,,40.5,25.5,
+106.541,boost used,omni,red,15.5,18.5,
+106.641,boost used,Magnolia,blue,3.5,2.5,
+106.758,gate change,,,15.833,7.5,3 tiles turned blue
+106.825,gate change,,,15.833,7.5,3 tiles turned off
+106.907,portal used,fender,red,3.5,8.5,
+107.091,boost ready,,,1.5,4.5,
+107.274,respawn,Kep,blue,31,21,
+108.807,block stop,fm,red,4.6,7.6,5.00 s
+109.224,block stop,Messi,blue,5.05,7.525,5.42 s
+109.257,boost used,fender,red,1.5,4.5,
+109.541,pop,fender,red,1.775,3.95,"carrying blue flag; returned by Peach Farmer; splat at 1.775,3.95"
+109.541,block stop,fender,red,1.775,3.95,5.00 s
+110.657,block start,Magnolia,blue,13.525,8.675,
+110.908,portal ready,,,3.5,8.5,
+110.959,boost ready,,,38.5,27.5,
+111.523,boost used,Kep,blue,26.5,11.5,
+112.242,grab,omni,red,33.35,21.25,blue flag; previous carrier fender popped 2.70 s earlier
+112.541,respawn,fender,red,10,8,
+113.024,boost used,omni,red,38.5,27.5,
+113.443,boost ready,,,22.5,16.5,
+113.958,block start,fender,red,11.725,7.2,
+114.207,gate change,,,26.167,22.5,3 tiles turned red
+114.357,gate change,,,26.167,22.5,3 tiles turned off
+114.541,boost used,Kep,blue,40.5,25.5,
+114.857,portal used,Kep,blue,38.5,21.5,
+115.292,boost ready,,,19.5,13.5,
+115.657,pop,Magnolia,blue,34.575,26.575,"carrying red flag; returned by meowza; splat at 34.575,26.575"
+115.657,block stop,Magnolia,blue,34.575,26.575,5.00 s
+116.541,boost ready,,,15.5,18.5,
+116.641,grab,Messi,blue,8.425,6.825,red flag; previous carrier Magnolia popped 0.98 s earlier
+116.641,boost ready,,,3.5,2.5,
+116.675,block start,meowza,red,35.2,27.775,
+117.107,boost used,Peach Farmer,blue,22.5,16.5,
+117.774,boost used,Peach Farmer,blue,15.5,18.5,
+118.658,respawn,Magnolia,blue,31,22,
+118.858,portal ready,,,38.5,21.5,
+119.257,boost ready,,,1.5,4.5,
+120.057,gate change,,,15.833,7.5,3 tiles turned blue
+120.225,gate change,,,15.833,7.5,3 tiles turned off
+120.425,block stop,fender,red,16.325,5.175,6.47 s
+120.442,pup spawn,,,25.5,23.5,juke juice
+120.624,block start,Messi,blue,8.95,12.3,
+121.159,pup spawn,,,16.5,6.5,tagpro
+121.207,gate change,,,26.167,22.5,3 tiles turned red
+121.292,boost used,meowza,red,19.5,13.5,
+121.524,pup taken,,,16.5,6.5,tagpro
+121.527,boost ready,,,26.5,11.5,
+121.541,pup pickup,fender,red,16.675,5.35,tagpro
+121.624,gate change,,,26.167,22.5,3 tiles turned off
+121.658,gate change,,,15.833,7.5,3 tiles turned blue
+121.675,gate change,,,15.833,7.5,3 tiles turned off
+121.675,block stop,meowza,red,17.075,7.375,5.00 s
+121.776,pop,Peach Farmer,blue,16.275,5.125,"tagged by fender; splat at 16.275,5.125"
+122.124,pup taken,,,25.5,23.5,juke juice
+122.141,pup pickup,fm,red,23.825,22.725,juke juice
+122.191,gate change,,,26.167,22.5,3 tiles turned blue
+123.025,boost ready,,,38.5,27.5,
+123.107,gate change,,,26.167,22.5,3 tiles turned off
+124.541,boost ready,,,40.5,25.5,
+124.774,respawn,Peach Farmer,blue,32,20,
+125.274,boost used,Messi,blue,26.5,11.5,
+125.624,pop,Messi,blue,27.925,11.625,"carrying red flag; returned by fm; splat at 27.925,11.625"
+125.624,block stop,Messi,blue,27.925,11.625,5.00 s
+126.247,prevent start,fender,red,9.725,10.15,up to 1 s before the first counted second
+126.375,pop,Kep,blue,7.75,9.55,"tagged by fender; splat at 7.75,9.55"
+127.107,boost ready,,,22.5,16.5,
+127.109,score,,,,,red 1 - blue 0
+127.125,cap,omni,red,7.975,6.075,blue flag
+127.242,prevent start,omni,red,7.325,6.45,up to 1 s before the first counted second
+127.774,boost ready,,,15.5,18.5,
+128.275,grab,meowza,red,32.7,21.95,blue flag
+128.624,respawn,Messi,blue,35,19,
+128.924,pop,Magnolia,blue,4.55,1.975,"tagged by fender; splat at 4.55,1.975"
+128.957,portal used,meowza,red,38.5,21.5,
+129.242,prevent stop,omni,red,7.325,7.325,2 s counted
+129.242,prevent stop,fender,red,5.325,1.4,3 s counted
+129.374,respawn,Kep,blue,32,21,
+129.808,boost used,meowza,red,38.5,27.5,
+129.941,boost used,Peach Farmer,blue,22.5,16.5,
+130.524,boost used,fender,red,3.5,2.5,
+130.893,bomb ready,,,32.5,28.5,
+130.974,bomb ready,,,9.5,1.5,
+131.292,boost ready,,,19.5,13.5,
+131.841,boost used,meowza,red,15.5,18.5,
+131.925,respawn,Magnolia,blue,31,21,
+132.958,portal ready,,,38.5,21.5,
+133.241,prevent start,Peach Farmer,blue,30.425,24.975,up to 1 s before the first counted second
+133.291,score,,,,,red 2 - blue 0
+133.307,cap,meowza,red,5.8,6.975,blue flag
+133.707,boost used,Kep,blue,19.5,13.5,
+134.241,prevent start,Messi,blue,33.375,18.15,up to 1 s before the first counted second
+134.825,bomb used,meowza,red,9.5,1.5,
+135.241,prevent stop,Peach Farmer,blue,31,27.575,2 s counted
+135.242,prevent start,meowza,red,8.575,3.05,up to 1 s before the first counted second
+135.242,prevent start,Magnolia,blue,35.8,20.6,up to 1 s before the first counted second
+135.274,boost ready,,,26.5,11.5,
+135.507,bomb used,Peach Farmer,blue,32.5,28.5,
+136.241,prevent start,omni,red,11.325,8.25,up to 1 s before the first counted second
+136.241,prevent start,Peach Farmer,blue,33.75,25.65,up to 1 s before the first counted second
+136.541,pup ended,fender,red,19.95,16.125,tagpro
+136.741,block start,fm,red,33.625,24.3,
+137.741,boost used,Peach Farmer,blue,40.5,25.5,
+138.242,prevent stop,Magnolia,blue,27.8,23.525,3 s counted
+138.457,portal used,Peach Farmer,blue,38.5,21.5,
+138.958,gate change,,,26.167,22.5,3 tiles turned blue
+139.157,gate change,,,26.167,22.5,3 tiles turned off
+139.191,block start,Magnolia,blue,22.375,21.4,
+139.392,block start,fender,red,36.075,27.075,
+139.808,boost ready,,,38.5,27.5,
+139.941,boost ready,,,22.5,16.5,
+140.525,boost ready,,,3.5,2.5,
+141.375,boost used,fender,red,38.5,27.5,
+141.707,grab,fender,red,34.8,22.15,blue flag
+141.741,block stop,fm,red,34.05,23.175,5.00 s
+141.842,boost ready,,,15.5,18.5,
+142.141,pup ended,fm,red,33.825,23.125,juke juice
+142.241,prevent stop,Messi,blue,31.475,21.125,8 s counted
+142.241,prevent stop,Peach Farmer,blue,33.35,23.725,6 s counted
+142.463,portal ready,,,38.5,21.5,
+142.524,block start,fm,red,33.8,22.35,
+142.807,boost used,Magnolia,blue,1.5,4.5,
+143.708,boost ready,,,19.5,13.5,
+143.841,grab,Magnolia,blue,5.65,6.05,red flag; previous carrier Messi popped 18.22 s earlier
+144.191,pop,Magnolia,blue,7.2,8.025,"carrying red flag; returned by meowza; splat at 7.2,8.025"
+144.191,block stop,Magnolia,blue,7.2,8.025,5.00 s
+144.241,prevent start,Peach Farmer,blue,30.2,18.575,up to 1 s before the first counted second
+144.392,pop,fender,red,30.4,13.125,"carrying blue flag; returned by Messi; splat at 30.4,13.125"
+144.392,block stop,fender,red,30.4,13.125,5.00 s
+144.641,grab,fm,red,33.675,21.6,blue flag; previous carrier fender popped 0.25 s earlier
+145.241,prevent stop,Peach Farmer,blue,31.375,18.55,1 s counted
+146.191,flaccid,Magnolia,blue,7.2,8.025,
+147.191,respawn,Magnolia,blue,31,21,
+147.392,respawn,fender,red,11,7,
+147.524,pop,fm,red,36.875,23.3,"carrying blue flag; returned by Peach Farmer; splat at 36.875,23.3"
+147.524,block stop,fm,red,36.875,23.3,5.00 s
+147.742,boost ready,,,40.5,25.5,
+149.806,boost used,fender,red,19.5,13.5,
+149.857,block start,fender,red,18.925,12.35,
+150.257,prevent stop,omni,red,11.25,12.9,14 s counted
+150.524,respawn,fm,red,11,7,
+151.257,prevent start,Messi,blue,37.975,24.05,up to 1 s before the first counted second
+151.257,prevent start,Peach Farmer,blue,33.25,20.175,up to 1 s before the first counted second
+151.375,boost ready,,,38.5,27.5,
+151.473,boost used,Messi,blue,40.5,25.5,
+152.808,boost ready,,,1.5,4.5,
+153.007,boost used,Magnolia,blue,3.5,2.5,
+153.441,boost used,fender,red,38.5,27.5,
+153.907,portal used,fender,red,38.5,21.5,
+154.223,boost used,omni,red,15.5,18.5,
+154.257,pop,Magnolia,blue,9,17.2,"no enemy credited (spike, gate, explosion or self); splat at 9,17.2"
+154.258,prevent start,fm,red,6.5,6.575,up to 1 s before the first counted second
+154.607,grab,fender,red,35.8,23.1,blue flag; previous carrier fm popped 7.08 s earlier
+154.857,pop,fender,red,33.725,20.65,"carrying blue flag; returned by Peach Farmer; splat at 33.725,20.65"
+154.857,block stop,fender,red,33.725,20.65,5.00 s
+156.24,portal used,fm,red,3.5,8.5,
+156.257,prevent stop,fm,red,2,3,2 s counted
+156.857,flaccid,fender,red,33.725,20.65,
+157.19,boost used,fm,red,1.5,4.5,
+157.257,prevent start,fm,red,1,4.9,up to 1 s before the first counted second
+157.258,respawn,Magnolia,blue,30,22,
+157.857,respawn,fender,red,11,6,
+157.907,portal ready,,,38.5,21.5,
+159.674,boost used,Magnolia,blue,22.5,16.5,
+159.807,boost ready,,,19.5,13.5,
+160.241,portal ready,,,3.5,8.5,
+161.474,boost ready,,,40.5,25.5,
+161.524,block start,Kep,blue,8.8,7.225,
+161.658,block start,fender,red,24.3,9.975,
+161.675,block start,omni,red,37.7,23.95,
+161.874,boost used,fender,red,26.5,11.5,
+163.007,boost ready,,,3.5,2.5,
+163.441,boost ready,,,38.5,27.5,
+164.224,boost ready,,,15.5,18.5,
+164.741,boost used,fender,red,40.5,25.5,
+164.825,bomb ready,,,9.5,1.5,
+165.091,boost used,Peach Farmer,blue,38.5,27.5,
+165.425,portal used,fender,red,38.5,21.5,
+165.507,bomb ready,,,32.5,28.5,
+165.676,boost used,Magnolia,blue,3.5,2.5,
+166.192,grab,Magnolia,blue,7.125,6.175,red flag; previous carrier Magnolia popped 22.00 s earlier
+166.257,prevent stop,meowza,red,7.525,9.05,31 s counted
+166.257,prevent stop,fm,red,7.45,4.825,9 s counted
+166.458,grab,omni,red,34.525,22.675,blue flag; previous carrier fender popped 11.60 s earlier
+166.524,block stop,Kep,blue,8.275,3.3,5.00 s
+166.658,block stop,fender,red,36.025,22.825,5.00 s
+166.675,block stop,omni,red,34.05,22.4,5.00 s
+166.695,pop,omni,red,34,22.4,"carrying blue flag; returned by Peach Farmer; splat at 34,22.4"
+167.191,boost ready,,,1.5,4.5,
+167.391,block start,meowza,red,12.65,15.55,
+167.391,block start,Peach Farmer,blue,34.825,20.6,
+167.791,block start,fm,red,9.325,2.85,
+168.226,boost used,meowza,red,15.5,18.5,
+168.28,boost used,Magnolia,blue,19.5,13.5,
+168.692,flaccid,omni,red,34,22.4,
+169.107,bomb used,fender,red,32.5,28.5,
+169.425,portal ready,,,38.5,21.5,
+169.675,boost ready,,,22.5,16.5,
+169.707,respawn,omni,red,10,8,
+169.824,block start,Magnolia,blue,36.825,19.425,
+170.657,grab,fender,red,35.15,23.55,blue flag; previous carrier omni popped 3.96 s earlier
+171.274,prevent stop,Messi,blue,32.075,15.125,20 s counted
+171.274,prevent stop,Peach Farmer,blue,33.775,21.15,20 s counted
+171.875,boost ready,,,26.5,11.5,
+171.891,block start,Kep,blue,7.25,7.225,
+172.391,block stop,meowza,red,31.275,19.95,5.00 s
+172.391,block stop,Peach Farmer,blue,31.45,20.9,5.00 s
+172.791,block stop,fm,red,30.675,20.75,5.00 s
+174.741,boost ready,,,40.5,25.5,
+174.756,boost used,fender,red,26.5,11.5,
+174.824,pop,Magnolia,blue,39.875,24.925,"carrying red flag; returned by meowza; splat at 39.875,24.925"
+174.824,block stop,Magnolia,blue,39.875,24.925,5.00 s
+175.092,boost ready,,,38.5,27.5,
+175.274,prevent start,omni,red,9.975,4.7,up to 1 s before the first counted second
+175.307,boost used,fm,red,38.5,27.5,
+175.391,portal used,Peach Farmer,blue,38.5,21.5,
+175.676,boost ready,,,3.5,2.5,
+176.491,grab,Kep,blue,7.325,7.925,red flag; previous carrier Magnolia popped 1.67 s earlier
+176.891,pop,Kep,blue,6.125,6.45,"carrying red flag; returned by omni; splat at 6.125,6.45"
+176.891,block stop,Kep,blue,6.125,6.45,5.00 s
+177.157,score,,,,,red 3 - blue 0
+177.175,cap,fender,red,7.775,7.125,blue flag
+177.274,prevent stop,omni,red,6.175,4.85,2 s counted
+177.274,prevent start,Peach Farmer,blue,33.4,20.05,up to 1 s before the first counted second
+177.824,respawn,Magnolia,blue,33,20,
+178.227,boost ready,,,15.5,18.5,
+178.274,prevent start,omni,red,6.2,4,up to 1 s before the first counted second
+178.274,prevent start,fender,red,7.475,5.55,up to 1 s before the first counted second
+178.274,prevent stop,Peach Farmer,blue,27.725,18.625,1 s counted
+178.281,boost ready,,,19.5,13.5,
+178.891,flaccid,Kep,blue,6.125,6.45,
+179.074,bomb used,fender,red,9.5,1.5,
+179.392,portal ready,,,38.5,21.5,
+179.524,gate change,,,26.167,22.5,3 tiles turned red
+179.891,respawn,Kep,blue,32,20,
+180.042,gate change,,,26.167,22.5,3 tiles turned off
+180.175,boost used,Messi,blue,19.5,13.5,
+180.275,prevent stop,omni,red,12.675,14.75,2 s counted
+180.275,prevent stop,fender,red,4.775,11.325,2 s counted
+180.307,grab,meowza,red,33.775,20.675,blue flag
+181.124,gate change,,,26.167,22.5,3 tiles turned blue
+181.192,boost used,omni,red,15.5,18.5,
+181.525,pup spawn,,,16.5,6.5,juke juice
+181.657,boost used,meowza,red,40.5,25.5,
+181.791,block start,omni,red,15.825,10.525,
+181.956,pup taken,,,16.5,6.5,juke juice
+181.975,pup pickup,omni,red,16.2,7.075,juke juice
+182.125,pup spawn,,,25.5,23.5,rolling bomb
+182.274,prevent start,fender,red,6.7,8.3,up to 1 s before the first counted second
+182.307,portal used,meowza,red,38.5,21.5,
+182.692,gate change,,,15.833,7.5,3 tiles turned red
+182.742,pup taken,,,25.5,23.5,rolling bomb
+182.756,pup pickup,Magnolia,blue,24.15,23.175,rolling bomb
+182.994,gate change,,,15.833,7.5,3 tiles turned off
+183.124,gate change,,,26.167,22.5,3 tiles turned off
+183.774,gate change,,,26.167,22.5,3 tiles turned blue
+184.124,gate change,,,26.167,22.5,3 tiles turned off
+184.191,gate change,,,26.167,22.5,3 tiles turned red
+184.741,gate change,,,26.167,22.5,3 tiles turned off
+184.757,boost ready,,,26.5,11.5,
+185.242,block start,Messi,blue,4.375,1.075,
+185.274,prevent start,omni,red,10.825,8.6,up to 1 s before the first counted second
+185.314,boost used,meowza,red,26.5,11.5,
+185.315,boost ready,,,38.5,27.5,
+185.791,gate change,,,15.833,7.5,3 tiles turned red
+185.874,gate change,,,15.833,7.5,3 tiles turned off
+185.941,boost used,fm,red,22.5,16.5,
+186.308,portal ready,,,38.5,21.5,
+186.791,block stop,omni,red,9.3,9.8,5.00 s
+187.157,score,,,,,red 4 - blue 0
+187.175,cap,meowza,red,7.575,6.55,blue flag
+187.274,prevent start,meowza,red,7.575,6.55,up to 1 s before the first counted second
+187.324,block start,Magnolia,blue,7.2,9.85,
+188.275,prevent start,Kep,blue,32.7,18.2,up to 1 s before the first counted second
+190.177,boost ready,,,19.5,13.5,
+190.191,grab,Messi,blue,7.8,7.3,red flag; previous carrier Kep popped 13.30 s earlier
+190.242,block stop,Messi,blue,7.8,7.3,5.00 s
+190.275,prevent stop,meowza,red,7.35,8.15,3 s counted
+190.275,prevent stop,omni,red,6.2,6.225,5 s counted
+190.275,prevent stop,fender,red,8.8,7.025,8 s counted
+190.441,pop,Messi,blue,7.675,7.375,"carrying red flag; returned by meowza; splat at 7.675,7.375"
+190.524,block start,omni,red,6.075,6.35,
+191.024,boost used,Magnolia,blue,1.5,4.5,
+191.192,boost ready,,,15.5,18.5,
+191.275,prevent start,meowza,red,6.375,9.5,up to 1 s before the first counted second
+191.275,prevent start,omni,red,6,6.075,up to 1 s before the first counted second
+191.275,prevent start,fender,red,10.55,7.525,up to 1 s before the first counted second
+191.357,portal used,Magnolia,blue,3.5,8.5,
+191.658,boost ready,,,40.5,25.5,
+192.024,handoff,Messi,blue,7.675,7.375,
+192.024,grab,Magnolia,blue,5.75,6.425,red flag; previous carrier Messi popped 1.58 s earlier
+192.275,boost used,Peach Farmer,blue,19.5,13.5,
+192.275,prevent stop,meowza,red,7.975,9.3,1 s counted
+192.275,prevent stop,omni,red,8.275,7.625,1 s counted
+192.275,prevent stop,fender,red,12.95,9.4,1 s counted
+192.307,explosion,,,7.7,8.825,
+192.324,pup ended,Magnolia,blue,7.75,8.925,rolling bomb
+192.324,block stop,Magnolia,blue,7.75,8.925,5.00 s
+193.023,boost used,fm,red,38.5,27.5,
+193.407,good handoff,Messi,blue,7.675,7.375,
+193.441,respawn,Messi,blue,31,21,
+193.541,grab,fm,red,35.05,22.8,blue flag
+193.657,gate change,,,15.833,7.5,3 tiles turned red
+193.724,boost used,Magnolia,blue,15.5,18.5,
+193.84,gate change,,,15.833,7.5,3 tiles turned off
+194.274,prevent stop,Kep,blue,31.2,18.025,6 s counted
+194.558,gate change,,,26.167,22.5,3 tiles turned red
+194.575,pop,Magnolia,blue,25.525,23.3,"carrying red flag; returned by meowza; splat at 25.525,23.3"
+194.907,gate change,,,26.167,22.5,3 tiles turned off
+195.315,boost ready,,,26.5,11.5,
+195.358,portal ready,,,3.5,8.5,
+195.524,block stop,omni,red,28.175,15.05,5.00 s
+195.942,boost ready,,,22.5,16.5,
+196.191,boost used,fm,red,22.5,16.5,
+197.574,respawn,Magnolia,blue,33,20,
+198.041,block start,omni,red,34.175,21.925,
+198.959,score,,,,,red 5 - blue 0
+198.974,cap,fm,red,7.2,7.925,blue flag
+199.109,bomb ready,,,32.5,28.5,
+199.275,prevent start,Messi,blue,30.925,22.225,up to 1 s before the first counted second
+199.275,prevent start,Peach Farmer,blue,34.8,21.8,up to 1 s before the first counted second
+199.275,prevent start,fm,red,6.95,7.125,up to 1 s before the first counted second
+201.024,boost ready,,,1.5,4.5,
+201.774,bomb used,meowza,red,32.5,28.5,
+201.974,pup ended,omni,red,36.825,21.1,juke juice
+202.075,boost used,Magnolia,blue,26.5,11.5,
+202.275,boost ready,,,19.5,13.5,
+202.558,grab,meowza,red,33.15,23.1,blue flag
+202.574,boost used,Magnolia,blue,19.5,13.5,
+202.925,block start,fm,red,7.175,7.65,
+203.024,boost ready,,,38.5,27.5,
+203.041,block stop,omni,red,35.8,21.1,5.00 s
+203.257,pop,Magnolia,blue,9.475,17.325,"no enemy credited (spike, gate, explosion or self); splat at 9.475,17.325"
+203.275,prevent stop,Messi,blue,36.725,20.675,4 s counted
+203.275,prevent stop,Peach Farmer,blue,34.825,16.925,4 s counted
+203.725,boost ready,,,15.5,18.5,
+203.926,portal used,Messi,blue,38.5,21.5,
+204.274,prevent start,fender,red,11.5,9.6,up to 1 s before the first counted second
+204.757,boost used,Messi,blue,40.5,25.5,
+205.274,prevent stop,fender,red,10.925,11.775,1 s counted
+205.907,block start,Kep,blue,9.7,9.675,
+206.024,gate change,,,26.167,22.5,3 tiles turned red
+206.124,gate change,,,26.167,22.5,3 tiles turned off
+206.191,boost ready,,,22.5,16.5,
+206.257,respawn,Magnolia,blue,35,19,
+207.307,boost used,meowza,red,15.5,18.5,
+207.791,boost used,Messi,blue,22.5,16.5,
+207.926,portal ready,,,38.5,21.5,
+208.341,block start,omni,red,32.7,20.9,
+208.374,block stop,fm,red,7.45,8,5.45 s
+208.941,score,,,,,red 6 - blue 0
+208.957,cap,meowza,red,6.225,7.425,blue flag
+209.075,bomb ready,,,9.5,1.5,
+209.274,prevent start,meowza,red,6.6,7.1,up to 1 s before the first counted second
+209.274,prevent start,Magnolia,blue,32.2,19.325,up to 1 s before the first counted second
+210.274,prevent stop,meowza,red,6.1,7.05,1 s counted
+210.274,prevent stop,fm,red,7.35,5.75,11 s counted
+210.406,grab,Kep,blue,8.175,6.475,red flag; previous carrier Magnolia popped 15.83 s earlier
+210.907,pop,Kep,blue,7.375,7.625,"carrying red flag; returned by meowza; splat at 7.375,7.625"
+210.907,block stop,Kep,blue,7.375,7.625,5.00 s
+211.274,prevent start,meowza,red,5.85,8.2,up to 1 s before the first counted second
+211.274,prevent stop,Magnolia,blue,30.225,18.4,2 s counted
+211.274,prevent start,fm,red,8.6,2.15,up to 1 s before the first counted second
+211.275,bomb used,fm,red,9.5,1.5,
+212.074,boost ready,,,26.5,11.5,
+212.578,boost ready,,,19.5,13.5,
+212.757,grab,fender,red,32.925,22.15,blue flag
+212.907,flaccid,Kep,blue,7.375,7.625,
+213.649,portal used,fender,red,38.5,21.5,
+213.907,respawn,Kep,blue,34,19,
+214.091,boost used,fender,red,38.5,27.5,
+214.407,block start,fender,red,36.025,28.025,
+214.757,boost ready,,,40.5,25.5,
+215.507,boost used,Messi,blue,1.5,4.5,
+215.841,portal used,Messi,blue,3.5,8.5,
+217.307,boost ready,,,15.5,18.5,
+217.65,portal ready,,,38.5,21.5,
+217.791,boost ready,,,22.5,16.5,
+218.657,boost used,Magnolia,blue,3.5,2.5,
+219.274,prevent start,Kep,blue,34.4,18.125,up to 1 s before the first counted second
+219.274,prevent start,Peach Farmer,blue,35.45,19.9,up to 1 s before the first counted second
+219.341,block stop,omni,red,33.625,19.1,11.00 s
+219.407,pop,fender,red,37.125,21.1,"carrying blue flag; returned by Peach Farmer; splat at 37.125,21.1"
+219.407,block stop,fender,red,37.125,21.1,5.00 s
+219.841,portal ready,,,3.5,8.5,
+221.041,boost used,Peach Farmer,blue,40.5,25.5,
+221.595,boost used,Magnolia,blue,19.5,13.5,
+221.991,block start,fender,red,37.125,21.1,
+222.408,respawn,fender,red,9,9,
+223.958,portal used,Magnolia,blue,3.5,8.5,
+224.09,boost ready,,,38.5,27.5,
+224.675,block start,omni,red,32.525,23.05,
+225.508,boost ready,,,1.5,4.5,
+226.057,boost used,fender,red,22.5,16.5,
+226.874,grab,fender,red,31.225,21.55,blue flag; previous carrier fender popped 7.47 s earlier
+226.991,block stop,fender,red,35.125,23.475,5.00 s
+227.274,prevent stop,Kep,blue,36.625,25.15,8 s counted
+227.274,prevent stop,Peach Farmer,blue,29.75,20.4,8 s counted
+227.456,boost used,Kep,blue,38.5,27.5,
+227.875,pop,fender,red,39.975,23.95,"carrying blue flag; returned by Kep; splat at 39.975,23.95"
+227.959,portal ready,,,3.5,8.5,
+228.274,prevent start,Kep,blue,38.6,23.05,up to 1 s before the first counted second
+228.274,prevent start,Peach Farmer,blue,30.675,19.825,up to 1 s before the first counted second
+228.457,portal used,fm,red,3.5,8.5,
+228.657,boost ready,,,3.5,2.5,
+229.174,grab,omni,red,33.875,22.75,blue flag; previous carrier fender popped 1.30 s earlier
+229.274,prevent stop,Kep,blue,36,21.15,1 s counted
+229.274,prevent stop,Peach Farmer,blue,31.2,19.65,1 s counted
+229.675,pop,omni,red,33.1,20.925,"carrying blue flag; returned by Kep; splat at 33.1,20.925"
+229.675,block stop,omni,red,33.1,20.925,5.00 s
+230.874,respawn,fender,red,11,7,
+231.042,boost ready,,,40.5,25.5,
+231.074,boost used,Magnolia,blue,1.5,4.5,
+231.596,boost ready,,,19.5,13.5,
+231.675,flaccid,omni,red,33.1,20.925,
+231.775,bomb ready,,,32.5,28.5,
+232.457,portal ready,,,3.5,8.5,
+232.675,respawn,omni,red,8,10,
+233.708,portal used,fm,red,3.5,8.5,
+234.007,bomb used,Peach Farmer,blue,32.5,28.5,
+234.458,boost used,Magnolia,blue,3.5,2.5,
+234.508,gate change,,,26.167,22.5,3 tiles turned red
+234.724,gate change,,,26.167,22.5,3 tiles turned off
+235.291,boost used,omni,red,15.5,18.5,
+235.757,gate change,,,26.167,22.5,3 tiles turned red
+235.841,gate change,,,26.167,22.5,3 tiles turned off
+236.057,boost ready,,,22.5,16.5,
+236.274,prevent start,Kep,blue,32.825,21.225,up to 1 s before the first counted second
+237.274,prevent stop,meowza,red,13.425,10.2,26 s counted
+237.457,boost ready,,,38.5,27.5,
+237.708,portal ready,,,3.5,8.5,
+238.474,block start,Messi,blue,15.4,4.1,
+239.606,gate change,,,15.833,7.5,3 tiles turned blue
+240.69,boost used,meowza,red,19.5,13.5,
+241.074,boost ready,,,1.5,4.5,
+241.276,bomb ready,,,9.5,1.5,
+241.507,block start,fender,red,24.975,24.525,
+241.541,grab,omni,red,33.275,22.875,blue flag; previous carrier omni popped 11.87 s earlier
+241.707,boost used,Magnolia,blue,1.5,4.5,
+241.957,pup spawn,,,16.5,6.5,juke juice
+242.024,gate change,,,15.833,7.5,3 tiles turned off
+242.041,portal used,Magnolia,blue,3.5,8.5,
+242.275,prevent stop,Kep,blue,33.075,20.975,6 s counted
+242.524,block start,Magnolia,blue,4.55,5.275,
+242.641,portal used,omni,red,38.5,21.5,
+242.675,pup taken,,,16.5,6.5,juke juice
+242.691,pup pickup,Messi,blue,16.825,6.15,juke juice
+242.742,pup spawn,,,25.5,23.5,juke juice
+242.757,grab,Magnolia,blue,5.975,6.425,red flag; previous carrier Kep popped 31.85 s earlier
+242.806,pup taken,,,25.5,23.5,juke juice
+242.824,pup pickup,fender,red,25.15,24,juke juice
+243.274,prevent stop,fm,red,8.1,9.475,32 s counted
+244.241,block stop,Messi,blue,15.4,5.225,5.77 s
+244.458,boost ready,,,3.5,2.5,
+245.158,gate change,,,15.833,7.5,3 tiles turned red
+245.292,boost ready,,,15.5,18.5,
+245.408,gate change,,,15.833,7.5,3 tiles turned off
+245.607,block start,meowza,red,18.325,7.675,
+245.807,block start,fm,red,20.775,16.4,
+245.974,boost used,fm,red,22.5,16.5,
+246.041,portal ready,,,3.5,8.5,
+246.392,gate change,,,26.167,22.5,3 tiles turned blue
+246.643,portal ready,,,38.5,21.5,
+246.724,gate change,,,26.167,22.5,3 tiles turned off
+246.824,block stop,fender,red,32.825,24.675,5.32 s
+246.874,boost used,Magnolia,blue,26.5,11.5,
+247.007,boost used,omni,red,38.5,27.5,
+247.524,pop,Magnolia,blue,35.425,18.675,"carrying red flag; returned by fm; splat at 35.425,18.675"
+247.524,block stop,Magnolia,blue,35.425,18.675,5.00 s
+247.857,grab,Messi,blue,7.8,6.325,red flag; previous carrier Magnolia popped 0.33 s earlier
+250.524,respawn,Magnolia,blue,30,23,
+250.607,block stop,meowza,red,17.85,11.85,5.00 s
+250.69,boost ready,,,19.5,13.5,
+251.192,block start,Magnolia,blue,29.7,22.275,
+251.707,boost ready,,,1.5,4.5,
+251.774,block start,omni,red,20.85,11.85,
+251.824,block stop,fm,red,25.275,12.95,6.02 s
+252.175,boost used,omni,red,19.5,13.5,
+253.691,boost used,meowza,red,15.5,18.5,
+254.424,block start,Messi,blue,17.125,13.8,
+254.424,block start,fender,red,33.425,19.3,
+254.891,bomb used,meowza,red,9.5,1.5,
+255.975,boost ready,,,22.5,16.5,
+256.774,pop,omni,red,11.475,5.55,"carrying blue flag; returned by Kep; splat at 11.475,5.55"
+256.774,block stop,omni,red,11.475,5.55,5.00 s
+256.874,boost ready,,,26.5,11.5,
+257.008,boost ready,,,38.5,27.5,
+257.274,prevent start,Magnolia,blue,34.8,19.05,up to 1 s before the first counted second
+257.425,grab,fender,red,33.175,21.975,blue flag; previous carrier omni popped 0.65 s earlier
+258.274,prevent stop,Magnolia,blue,34.175,21.7,1 s counted
+258.958,boost used,Messi,blue,38.5,27.5,
+259.074,block start,omni,red,11.475,5.55,
+259.424,block stop,Messi,blue,36.175,27.125,5.00 s
+259.424,block stop,fender,red,35.75,27.95,5.00 s
+259.442,pop,fender,red,35.75,27.95,"carrying blue flag; returned by Magnolia; splat at 35.75,27.95"
+259.741,block start,fm,red,36.275,21.2,
+259.774,respawn,omni,red,8,10,
+260.274,prevent start,Magnolia,blue,34.375,27,up to 1 s before the first counted second
+261.007,block stop,Magnolia,blue,33.7,25.2,9.82 s
+262.175,boost ready,,,19.5,13.5,
+262.207,boost used,Peach Farmer,blue,26.5,11.5,
+262.224,boost used,Messi,blue,40.5,25.5,
+262.374,block start,meowza,red,34.15,23.475,
+262.441,respawn,fender,red,8,9,
+262.524,portal used,Messi,blue,38.5,21.5,
+262.691,pup ended,Messi,blue,38.025,25.175,juke juice
+262.807,pup ended,fender,red,8,9.25,juke juice
+263.18,score,,,,,red 6 - blue 1
+263.192,cap,Messi,blue,34.825,22.1,red flag
+263.224,boost used,omni,red,22.5,16.5,
+263.274,prevent start,Messi,blue,34.825,22.1,up to 1 s before the first counted second
+263.274,prevent start,Peach Farmer,blue,33.95,18.65,up to 1 s before the first counted second
+263.692,boost ready,,,15.5,18.5,
+264.008,bomb ready,,,32.5,28.5,
+264.042,grab,omni,red,32.2,20.925,blue flag; previous carrier fender popped 4.60 s earlier
+264.074,block stop,omni,red,33.9,21.85,5.00 s
+264.274,prevent stop,Messi,blue,29.1,21.6,1 s counted
+264.274,prevent stop,Magnolia,blue,35.425,21.775,4 s counted
+264.274,prevent stop,Peach Farmer,blue,32.775,19.4,1 s counted
+265.607,block start,Kep,blue,8.525,8.425,
+266.224,gate change,,,26.167,22.5,3 tiles turned blue
+266.274,prevent start,fender,red,8.5,7.225,up to 1 s before the first counted second
+266.524,portal ready,,,38.5,21.5,
+266.707,gate change,,,26.167,22.5,3 tiles turned off
+266.991,bomb used,omni,red,32.5,28.5,
+267.374,block stop,meowza,red,38.275,25.775,5.00 s
+267.375,block start,Messi,blue,20.925,21,
+268.391,portal used,Magnolia,blue,38.5,21.5,
+268.724,boost used,Messi,blue,15.5,18.5,
+268.958,boost ready,,,38.5,27.5,
+269.025,block start,omni,red,30.5,14.25,
+269.774,block stop,fm,red,26.55,14.275,10.03 s
+270.541,grab,Messi,blue,7.4,7.925,red flag
+270.925,block stop,Kep,blue,6.95,5.4,5.32 s
+271.274,prevent stop,fender,red,6.025,6.35,5 s counted
+271.874,boost used,fm,red,19.5,13.5,
+272.208,boost ready,,,26.5,11.5,
+272.225,boost ready,,,40.5,25.5,
+272.275,prevent start,fender,red,7.45,8.975,up to 1 s before the first counted second
+272.275,prevent start,fm,red,14.5,10.525,up to 1 s before the first counted second
+272.375,pop,Messi,blue,11.575,8.45,"carrying red flag; returned by fm; splat at 11.575,8.45"
+272.375,block stop,Messi,blue,11.575,8.45,5.00 s
+272.391,portal ready,,,38.5,21.5,
+273.091,boost used,Peach Farmer,blue,26.5,11.5,
+273.225,boost ready,,,22.5,16.5,
+273.324,button start,Magnolia,blue,32.95,20.875,
+273.931,portal used,meowza,red,38.5,21.5,
+274.025,pop,omni,red,25.95,15.225,"carrying blue flag; returned by Peach Farmer; splat at 25.95,15.225"
+274.025,portal used,fender,red,3.5,8.5,
+274.025,block stop,omni,red,25.95,15.225,5.00 s
+274.274,prevent start,Magnolia,blue,32.6,20.975,up to 1 s before the first counted second
+274.274,prevent stop,fender,red,2,2.95,2 s counted
+274.374,flaccid,Messi,blue,11.575,8.45,
+274.424,block start,meowza,red,38.775,25.775,
+274.69,boost used,fender,red,3.5,2.5,
+275.274,prevent start,fender,red,9.05,1.525,up to 1 s before the first counted second
+275.374,respawn,Messi,blue,33,19,
+276.274,prevent start,Peach Farmer,blue,30.025,21.225,up to 1 s before the first counted second
+277.025,respawn,omni,red,7,10,
+277.107,block start,omni,red,7,10,
+277.274,prevent stop,Magnolia,blue,29.175,23.525,3 s counted
+277.894,boost used,fender,red,1.5,4.5,
+277.925,block start,Kep,blue,1.025,5.625,
+277.932,portal ready,,,38.5,21.5,
+278.026,portal ready,,,3.5,8.5,
+278.057,boost used,meowza,red,38.5,27.5,
+278.224,gate change,,,26.167,22.5,3 tiles turned blue
+278.274,prevent start,Messi,blue,33.6,21.2,up to 1 s before the first counted second
+278.324,button stop,Magnolia,blue,23.825,22.475,5.00 s
+278.441,gate change,,,26.167,22.5,3 tiles turned off
+278.724,boost ready,,,15.5,18.5,
+278.807,portal used,Kep,blue,3.5,8.5,
+279.241,grab,meowza,red,34.85,22.55,blue flag; previous carrier omni popped 5.22 s earlier
+279.274,prevent stop,Messi,blue,33.575,21.575,1 s counted
+279.274,prevent stop,Peach Farmer,blue,34.7,24.4,3 s counted
+279.424,block stop,meowza,red,33.3,22.825,5.00 s
+279.49,boost used,Magnolia,blue,15.5,18.5,
+280.174,block start,Magnolia,blue,8.475,13.575,
+280.991,grab,Magnolia,blue,6.1,7.55,red flag; previous carrier Messi popped 8.62 s earlier
+280.991,gate change,,,26.167,22.5,3 tiles turned red
+281.157,gate change,,,26.167,22.5,3 tiles turned off
+281.274,prevent stop,fender,red,9.85,7.975,6 s counted
+281.274,prevent stop,fm,red,6.375,5.95,9 s counted
+281.724,block start,meowza,red,19.35,19.575,
+281.875,boost ready,,,19.5,13.5,
+281.925,boost used,Messi,blue,22.5,16.5,
+282.107,block stop,omni,red,19.125,15.85,5.00 s
+282.808,portal ready,,,3.5,8.5,
+283.092,boost ready,,,26.5,11.5,
+284.691,boost ready,,,3.5,2.5,
+284.891,bomb ready,,,9.5,1.5,
+285.174,pop,Magnolia,blue,14.825,13.2,"carrying red flag; returned by fm; splat at 14.825,13.2"
+285.174,block stop,Magnolia,blue,14.825,13.2,5.00 s
+285.857,bomb used,meowza,red,9.5,1.5,
+286.124,boost used,Peach Farmer,blue,3.5,2.5,
+286.157,grab,Kep,blue,8.425,3.95,red flag; previous carrier Magnolia popped 0.98 s earlier
+286.607,portal used,Peach Farmer,blue,3.5,8.5,
+286.724,block stop,meowza,red,5.025,11.975,5.00 s
+287.275,prevent start,fm,red,8.925,11.925,up to 1 s before the first counted second
+287.375,pop,Kep,blue,7.5,12.375,"carrying red flag; returned by fm; splat at 7.5,12.375"
+287.375,block stop,Kep,blue,7.5,12.375,9.45 s
+287.59,handoff,Kep,blue,7.5,12.375,
+287.59,grab,Peach Farmer,blue,5.9,6.05,red flag; previous carrier Kep popped 0.21 s earlier
+287.591,block start,Peach Farmer,blue,5.9,6.05,
+287.895,boost ready,,,1.5,4.5,
+288.058,boost ready,,,38.5,27.5,
+288.174,respawn,Magnolia,blue,34,19,
+288.275,prevent stop,fm,red,8.6,10,1 s counted
+288.607,boost used,Messi,blue,26.5,11.5,
+289.224,block start,omni,red,25.05,17.6,
+289.491,boost ready,,,15.5,18.5,
+290.374,respawn,Kep,blue,31,22,
+290.608,portal ready,,,3.5,8.5,
+291.407,good handoff,Kep,blue,30.175,22.45,
+291.824,boost used,Magnolia,blue,19.5,13.5,
+291.926,boost ready,,,22.5,16.5,
+292.591,pop,Peach Farmer,blue,12.2,16.9,"carrying red flag; returned by fm; splat at 12.2,16.9"
+292.591,block stop,Peach Farmer,blue,12.2,16.9,5.00 s
+293.557,portal used,fender,red,38.5,21.5,
+294.274,prevent start,omni,red,10.2,8.55,up to 1 s before the first counted second
+294.408,boost used,fender,red,40.5,25.5,
+294.675,block stop,omni,red,9.725,8.4,5.45 s
+295.591,respawn,Peach Farmer,blue,34,19,
+296.124,boost ready,,,3.5,2.5,
+296.274,prevent start,fm,red,11.525,8.95,up to 1 s before the first counted second
+296.624,boost used,Kep,blue,22.5,16.5,
+296.991,bomb ready,,,32.5,28.5,
+297.556,portal ready,,,38.5,21.5,
+298.057,block start,fm,red,8.25,6.85,
+298.541,block start,Kep,blue,7.15,12.4,
+298.607,boost ready,,,26.5,11.5,
+299.54,boost used,Magnolia,blue,1.5,4.5,
+299.608,block start,meowza,red,19.025,13.95,
+299.608,block start,Magnolia,blue,1.075,4,
+301.826,boost ready,,,19.5,13.5,
+302.275,prevent stop,omni,red,12.85,5,8 s counted
+302.676,pup spawn,,,16.5,6.5,tagpro
+302.806,pup spawn,,,25.5,23.5,rolling bomb
+302.857,boost used,meowza,red,19.5,13.5,
+303.207,grab,Magnolia,blue,7.7,7.55,red flag; previous carrier Peach Farmer popped 10.62 s earlier
+303.274,prevent stop,fm,red,10.25,8.3,7 s counted
+303.524,pup taken,,,16.5,6.5,tagpro
+303.541,pup pickup,Messi,blue,15.3,5.15,tagpro
+303.541,block stop,Kep,blue,10.7,7.65,5.00 s
+303.541,block stop,fm,red,10.25,8.475,5.48 s
+304.358,gate change,,,15.833,7.5,3 tiles turned blue
+304.409,boost ready,,,40.5,25.5,
+304.573,pup taken,,,25.5,23.5,rolling bomb
+304.591,pup pickup,Peach Farmer,blue,24.1,23.375,rolling bomb
+304.691,gate change,,,15.833,7.5,3 tiles turned off
+304.756,boost used,meowza,red,3.5,2.5,
+305.575,block stop,meowza,red,2.025,7.075,5.97 s
+305.724,portal used,meowza,red,3.5,8.5,
+305.792,pop,Magnolia,blue,1.575,6.775,"carrying red flag; returned by fm; splat at 1.575,6.775"
+305.792,block stop,Magnolia,blue,1.575,6.775,6.18 s
+306.057,gate change,,,26.167,22.5,3 tiles turned blue
+306.275,prevent start,fm,red,2.25,6.375,up to 1 s before the first counted second
+306.407,gate change,,,26.167,22.5,3 tiles turned off
+306.628,boost ready,,,22.5,16.5,
+307.242,score,,,,,red 7 - blue 1
+307.258,cap,meowza,red,6.625,5.975,blue flag
+307.274,prevent start,meowza,red,6.625,5.975,up to 1 s before the first counted second
+307.507,grab,fender,red,33.7,22.35,blue flag
+307.607,grab,Kep,blue,6.025,6.3,red flag; previous carrier Magnolia popped 1.81 s earlier
+307.675,block start,fm,red,5.925,7.8,
+307.741,boost used,omni,red,26.5,11.5,
+308.107,pop,meowza,red,7.9,9.775,"tagged by Messi; splat at 7.9,9.775"
+308.274,prevent stop,meowza,red,7.9,9.775,1 s counted
+308.274,prevent stop,fm,red,7.525,7.075,2 s counted
+308.792,respawn,Magnolia,blue,30,22,
+309.541,boost ready,,,1.5,4.5,
+309.725,portal ready,,,3.5,8.5,
+310.257,gate change,,,15.833,7.5,3 tiles turned red
+310.325,gate change,,,15.833,7.5,3 tiles turned off
+311.007,boost used,Peach Farmer,blue,15.5,18.5,
+311.107,respawn,meowza,red,7,10,
+311.457,gate change,,,26.167,22.5,3 tiles turned blue
+311.724,gate change,,,26.167,22.5,3 tiles turned off
+312.042,gate change,,,15.833,7.5,3 tiles turned blue
+312.241,gate change,,,15.833,7.5,3 tiles turned off
+312.525,boost used,fm,red,22.5,16.5,
+312.675,pop,fm,red,20.875,17.625,"tagged by Messi; splat at 20.875,17.625"
+312.675,block stop,fm,red,20.875,17.625,5.00 s
+312.858,boost ready,,,19.5,13.5,
+313.324,button start,Magnolia,blue,16.3,19.025,
+314.241,block start,fender,red,25.325,12.975,
+314.757,boost ready,,,3.5,2.5,
+314.825,gate change,,,26.167,22.5,3 tiles turned blue
+315.541,gate change,,,26.167,22.5,3 tiles turned off
+315.675,respawn,fm,red,8,9,
+315.858,bomb ready,,,9.5,1.5,
+316.224,gate change,,,26.167,22.5,3 tiles turned red
+316.657,block start,meowza,red,22.975,21.775,
+316.723,gate change,,,26.167,22.5,3 tiles turned off
+317.407,boost used,fender,red,38.5,27.5,
+317.741,boost ready,,,26.5,11.5,
+317.888,explosion,,,38,26.925,
+317.891,pup ended,Peach Farmer,blue,38,26.925,rolling bomb
+318.175,bomb used,fender,red,32.5,28.5,
+318.192,gate change,,,26.167,22.5,3 tiles turned blue
+318.324,button stop,Magnolia,blue,23.25,21.375,5.00 s
+318.541,pup ended,Messi,blue,29.8,21.325,tagpro
+318.575,boost used,fm,red,19.5,13.5,
+318.724,gate change,,,26.167,22.5,3 tiles turned off
+319.241,pop,fender,red,39.3,23.475,"carrying blue flag; returned by Peach Farmer; splat at 39.3,23.475"
+319.241,block stop,fender,red,39.3,23.475,5.00 s
+319.274,prevent start,Peach Farmer,blue,38.7,24.2,up to 1 s before the first counted second
+319.291,gate change,,,26.167,22.5,3 tiles turned blue
+319.824,grab,meowza,red,33.925,20.975,blue flag; previous carrier fender popped 0.58 s earlier
+319.907,gate change,,,26.167,22.5,3 tiles turned off
+320.274,prevent stop,Peach Farmer,blue,37.875,22.8,1 s counted
+320.508,portal used,Peach Farmer,blue,38.5,21.5,
+321.008,boost ready,,,15.5,18.5,
+321.307,boost used,Kep,blue,26.5,11.5,
+321.657,pop,meowza,red,29.3,21.275,"carrying blue flag; returned by Magnolia; splat at 29.3,21.275"
+321.657,block stop,meowza,red,29.3,21.275,5.00 s
+322.241,respawn,fender,red,11,7,
+322.275,prevent start,Messi,blue,33.6,21.275,up to 1 s before the first counted second
+322.275,prevent start,Magnolia,blue,28.925,23.65,up to 1 s before the first counted second
+322.526,boost ready,,,22.5,16.5,
+322.806,boost used,Peach Farmer,blue,40.5,25.5,
+322.841,block start,Peach Farmer,blue,39.9,24.475,
+323.274,prevent start,Peach Farmer,blue,38.975,24.225,up to 1 s before the first counted second
+323.275,prevent stop,Magnolia,blue,26.625,23.3,1 s counted
+323.657,flaccid,meowza,red,29.3,21.275,
+323.906,gate change,,,26.167,22.5,3 tiles turned blue
+324.091,gate change,,,26.167,22.5,3 tiles turned off
+324.508,portal ready,,,38.5,21.5,
+324.657,respawn,meowza,red,6,10,
+325.541,boost used,Magnolia,blue,15.5,18.5,
+326.175,block start,Messi,blue,34.175,26.4,
+326.44,portal used,Magnolia,blue,3.5,8.5,
+326.573,boost used,Magnolia,blue,3.5,2.5,
+327.408,boost ready,,,38.5,27.5,
+328.058,gate change,,,26.167,22.5,3 tiles turned blue
+328.075,pop,fm,red,25.275,22.025,"tagged by Kep; splat at 25.275,22.025"
+328.207,gate change,,,26.167,22.5,3 tiles turned off
+328.291,portal used,omni,red,38.5,21.5,
+328.576,boost ready,,,19.5,13.5,
+329.074,bomb used,meowza,red,9.5,1.5,
+330.441,portal ready,,,3.5,8.5,
+330.574,boost used,Kep,blue,22.5,16.5,
+331.075,respawn,fm,red,11,6,
+331.175,block stop,Messi,blue,34.1,20.875,5.00 s
+331.308,boost ready,,,26.5,11.5,
+332.257,block start,meowza,red,28.7,22.95,
+332.291,portal ready,,,38.5,21.5,
+332.691,block stop,Peach Farmer,blue,32.65,20.025,9.85 s
+332.807,boost ready,,,40.5,25.5,
+333.757,block start,Peach Farmer,blue,34.45,22.775,
+334.124,block start,Messi,blue,34.6,21.4,
+334.29,boost used,Magnolia,blue,1.5,4.5,
+334.875,block start,Kep,blue,26.1,22.7,
+334.891,grab,meowza,red,33.7,23.225,blue flag; previous carrier meowza popped 13.23 s earlier
+335.275,prevent stop,Messi,blue,31.75,21.7,13 s counted
+335.275,prevent stop,Peach Farmer,blue,34.125,23.25,12 s counted
+335.542,boost ready,,,15.5,18.5,
+336.574,boost ready,,,3.5,2.5,
+336.575,gate change,,,26.167,22.5,3 tiles turned blue
+337.075,gate change,,,26.167,22.5,3 tiles turned off
+337.257,pop,meowza,red,34.475,16.95,"carrying blue flag; returned by Peach Farmer; splat at 34.475,16.95"
+337.257,block stop,meowza,red,34.475,16.95,5.00 s
+337.274,prevent start,Peach Farmer,blue,33.6,17.325,up to 1 s before the first counted second
+338.274,prevent start,Messi,blue,31.425,16.375,up to 1 s before the first counted second
+338.425,boost used,fm,red,19.5,13.5,
+338.757,block stop,Peach Farmer,blue,33.625,19.2,5.00 s
+339.457,block stop,Messi,blue,31.2,19.5,5.33 s
+339.791,block start,Messi,blue,31.75,19.85,
+339.875,pop,Kep,blue,32.775,18.15,"carrying red flag; returned by fender; splat at 32.775,18.15"
+340.258,respawn,meowza,red,7,10,
+340.557,grab,Magnolia,blue,7.5,7.9,red flag; previous carrier Kep popped 0.68 s earlier
+340.574,boost ready,,,22.5,16.5,
+342.28,boost used,Magnolia,blue,3.5,2.5,
+342.874,respawn,Kep,blue,31,21,
+343.025,boost used,fm,red,22.5,16.5,
+344.277,boost used,Magnolia,blue,26.5,11.5,
+344.291,boost ready,,,1.5,4.5,
+344.707,block stop,Kep,blue,28.1,16.6,9.83 s
+345.428,block start,Kep,blue,28.35,16.65,
+345.473,block stop,Messi,blue,32.975,21.6,5.68 s
+345.708,score,,,,,red 7 - blue 2
+345.724,cap,Magnolia,blue,34.925,21.9,red flag
+346.291,prevent start,Magnolia,blue,33.15,23.475,up to 1 s before the first counted second
+348.176,bomb ready,,,32.5,28.5,
+348.292,prevent stop,Magnolia,blue,25.775,24.275,2 s counted
+348.426,boost ready,,,19.5,13.5,
+349.157,boost used,meowza,red,15.5,18.5,
+349.19,boost used,fender,red,40.5,25.5,
+349.291,prevent start,fm,red,13.975,9.375,up to 1 s before the first counted second
+349.491,block start,omni,red,31.775,20.7,
+349.507,portal used,fender,red,38.5,21.5,
+350.141,grab,Kep,blue,8.675,7.425,red flag
+350.291,prevent stop,fm,red,8.675,7.35,1 s counted
+350.428,pop,Kep,blue,6.725,7.425,"carrying red flag; returned by fm; splat at 6.725,7.425"
+350.428,block stop,Kep,blue,6.725,7.425,5.00 s
+350.575,block start,fender,red,34.7,23.175,
+351.292,prevent start,meowza,red,6.45,6.775,up to 1 s before the first counted second
+351.292,prevent start,fm,red,8.075,7.125,up to 1 s before the first counted second
+352.241,bomb used,fender,red,32.5,28.5,
+352.28,boost ready,,,3.5,2.5,
+352.425,flaccid,Kep,blue,6.725,7.425,
+353.025,boost ready,,,22.5,16.5,
+353.426,respawn,Kep,blue,34,19,
+353.509,portal ready,,,38.5,21.5,
+353.842,block start,Magnolia,blue,2.575,4.275,
+354.276,boost ready,,,26.5,11.5,
+354.291,grab,fender,red,35,22.3,blue flag; previous carrier meowza popped 17.03 s earlier
+354.291,prevent stop,Messi,blue,32.625,21.925,16 s counted
+354.291,prevent stop,Peach Farmer,blue,34.75,18.95,17 s counted
+355.057,block stop,omni,red,30.725,23.525,5.57 s
+355.575,pop,fender,red,33,24.825,"carrying blue flag; returned by Messi; splat at 33,24.825"
+355.575,block stop,fender,red,33,24.825,5.00 s
+356.291,prevent start,Messi,blue,31.975,26,up to 1 s before the first counted second
+356.291,prevent start,Kep,blue,30.1,19.65,up to 1 s before the first counted second
+356.291,prevent start,Peach Farmer,blue,33.975,25.1,up to 1 s before the first counted second
+357.291,prevent stop,Messi,blue,31.7,24.55,1 s counted
+357.291,prevent stop,Kep,blue,26.7,19.05,1 s counted
+357.291,prevent stop,Peach Farmer,blue,36.175,27.375,1 s counted
+357.574,flaccid,fender,red,33,24.825,
+357.591,boost used,Peach Farmer,blue,38.5,27.5,
+357.99,portal used,Peach Farmer,blue,38.5,21.5,
+358.292,prevent stop,fm,red,15.525,7.075,7 s counted
+358.34,gate change,,,26.167,22.5,3 tiles turned blue
+358.341,boost used,Magnolia,blue,3.5,2.5,
+358.574,respawn,fender,red,8,10,
+358.66,grab,Magnolia,blue,4.325,2.85,red flag; previous carrier Kep popped 8.23 s earlier
+358.842,block stop,Magnolia,blue,7.925,9.4,5.00 s
+358.958,pop,Magnolia,blue,8.375,9.975,"carrying red flag; returned by meowza; splat at 8.375,9.975"
+358.974,gate change,,,26.167,22.5,3 tiles turned off
+359.075,bomb ready,,,9.5,1.5,
+359.159,boost ready,,,15.5,18.5,
+359.191,boost ready,,,40.5,25.5,
+359.291,prevent stop,meowza,red,10.825,10.95,8 s counted
+359.741,boost used,fm,red,19.5,13.5,
+360.574,boost used,fender,red,15.5,18.5,
+360.957,flaccid,Magnolia,blue,8.375,9.975,
+361.057,gate change,,,26.167,22.5,3 tiles turned red
+361.123,gate change,,,26.167,22.5,3 tiles turned off
+361.958,respawn,Magnolia,blue,31,22,
+361.991,portal ready,,,38.5,21.5,
+362.291,prevent start,Peach Farmer,blue,29.5,22.6,up to 1 s before the first counted second
+363.524,pup spawn,,,16.5,6.5,juke juice
+363.791,portal used,meowza,red,38.5,21.5,
+364.575,pup spawn,,,25.5,23.5,tagpro
+365.491,gate change,,,26.167,22.5,3 tiles turned red
+365.508,pop,Messi,blue,25.1,23.475,"tagged by fender; splat at 25.1,23.475"
+365.591,gate change,,,15.833,7.5,3 tiles turned blue
+365.675,gate change,,,15.833,7.5,3 tiles turned off
+365.84,pup taken,,,16.5,6.5,juke juice
+365.857,pup pickup,Magnolia,blue,17.35,7.275,juke juice
+366.158,gate change,,,26.167,22.5,3 tiles turned off
+366.541,gate change,,,26.167,22.5,3 tiles turned blue
+366.592,pop,omni,red,25.6,23.975,"tagged by Kep; splat at 25.6,23.975"
+367.257,grab,Magnolia,blue,8.15,6.725,red flag; previous carrier Magnolia popped 8.30 s earlier
+367.275,gate change,,,26.167,22.5,3 tiles turned off
+367.591,boost ready,,,38.5,27.5,
+367.792,portal ready,,,38.5,21.5,
+368.307,boost used,Magnolia,blue,1.5,4.5,
+368.341,boost ready,,,3.5,2.5,
+368.442,gate change,,,26.167,22.5,3 tiles turned red
+368.458,pop,Kep,blue,24.175,21.275,"tagged by fm; splat at 24.175,21.275"
+368.507,respawn,Messi,blue,31,22,
+368.674,gate change,,,26.167,22.5,3 tiles turned off
+369.091,boost used,fender,red,22.5,16.5,
+369.592,respawn,omni,red,7,10,
+369.743,boost ready,,,19.5,13.5,
+370.157,pup taken,,,25.5,23.5,tagpro
+370.174,pup pickup,fm,red,24.225,23.2,tagpro
+370.291,prevent stop,Peach Farmer,blue,32.2,22.225,8 s counted
+370.374,grab,meowza,red,32.55,21.325,blue flag; previous carrier fender popped 14.80 s earlier
+370.575,boost ready,,,15.5,18.5,
+371.457,respawn,Kep,blue,33,20,
+371.557,portal used,Peach Farmer,blue,38.5,21.5,
+371.774,block start,Messi,blue,31.85,16.175,
+371.774,block start,omni,red,8.75,11.275,
+372.391,boost used,meowza,red,40.5,25.5,
+374.341,boost used,Peach Farmer,blue,38.5,27.5,
+375.091,boost used,omni,red,15.5,18.5,
+375.374,boost used,omni,red,19.5,13.5,
+375.557,portal ready,,,38.5,21.5,
+375.991,boost used,Messi,blue,26.5,11.5,
+376.774,block stop,Messi,blue,22.5,11.975,5.00 s
+377.207,block start,Peach Farmer,blue,27.175,14.825,
+378.307,boost ready,,,1.5,4.5,
+378.507,gate change,,,15.833,7.5,3 tiles turned red
+379.092,boost ready,,,22.5,16.5,
+381.041,gate change,,,15.833,7.5,3 tiles turned off
+382.207,block stop,omni,red,22.175,14.325,10.43 s
+382.241,bomb ready,,,32.5,28.5,
+382.391,boost ready,,,40.5,25.5,
+382.406,block stop,Peach Farmer,blue,22.875,14.975,5.20 s
+383.524,boost used,omni,red,22.5,16.5,
+384.341,boost ready,,,38.5,27.5,
+384.907,gate change,,,26.167,22.5,3 tiles turned red
+385.091,boost ready,,,15.5,18.5,
+385.175,pup ended,fm,red,12.6,4.575,tagpro
+385.324,gate change,,,26.167,22.5,3 tiles turned off
+385.374,boost ready,,,19.5,13.5,
+385.841,pup ended,Magnolia,blue,31.05,26.175,juke juice
+385.991,boost ready,,,26.5,11.5,
+386.407,boost used,meowza,red,15.5,18.5,
+387.407,block start,omni,red,27.75,21.15,
+387.407,block start,Peach Farmer,blue,17.2,17.95,
+387.724,block start,fm,red,16.275,13.325,
+388.207,boost used,fm,red,19.5,13.5,
+388.791,boost used,fm,red,26.5,11.5,
+389.608,bomb used,Magnolia,blue,32.5,28.5,
+391.041,block start,meowza,red,29.175,17.125,
+392.407,block stop,omni,red,30.525,18.15,5.00 s
+392.524,block start,Kep,blue,23.875,14.3,
+392.856,block stop,Peach Farmer,blue,32.325,17.8,5.45 s
+393.524,boost ready,,,22.5,16.5,
+394.974,portal used,meowza,red,38.5,21.5,
+395.443,boost used,meowza,red,38.5,27.5,
+395.741,boost used,Magnolia,blue,22.5,16.5,
+396.041,pop,meowza,red,32.25,26.2,"carrying blue flag; returned by Kep; splat at 32.25,26.2"
+396.041,block stop,meowza,red,32.25,26.2,5.00 s
+396.392,grab,fender,red,35.15,22.075,blue flag; previous carrier meowza popped 0.35 s earlier
+396.407,boost ready,,,15.5,18.5,
+396.507,block start,Magnolia,blue,26.175,24.825,
+397.924,block stop,fm,red,28.55,19.525,10.20 s
+398.208,boost ready,,,19.5,13.5,
+398.791,boost ready,,,26.5,11.5,
+398.974,portal ready,,,38.5,21.5,
+399.041,respawn,meowza,red,6,10,
+399.074,portal used,Magnolia,blue,38.5,21.5,
+400.224,boost used,fender,red,19.5,13.5,
+400.624,block stop,Kep,blue,32.3,23.975,8.10 s
+400.841,block start,meowza,red,8.1,12.725,
+401.507,pop,Magnolia,blue,38.1,24.225,"carrying red flag; returned by fm; splat at 38.1,24.225"
+401.507,block stop,Magnolia,blue,38.1,24.225,5.00 s
+402.292,prevent start,meowza,red,9.075,10.6,up to 1 s before the first counted second
+402.557,boost used,fm,red,40.5,25.5,
+402.707,block start,fm,red,39.95,23.2,
+403.075,portal ready,,,38.5,21.5,
+404.391,boost used,fender,red,15.5,18.5,
+404.508,respawn,Magnolia,blue,35,19,
+405.444,boost ready,,,38.5,27.5,
+405.742,boost ready,,,22.5,16.5,
+406.691,boost used,fm,red,26.5,11.5,
+407.441,bomb used,meowza,red,9.5,1.5,
+407.741,block stop,meowza,red,10.45,7.275,6.90 s
+408.293,prevent start,fm,red,12.1,9.05,up to 1 s before the first counted second
+409.675,block stop,fm,red,8.05,10.725,6.97 s
+410.024,score,,,,,red 8 - blue 2
+410.041,cap,fender,red,8,6.6,blue flag
+410.224,boost ready,,,19.5,13.5,
+410.293,prevent start,Magnolia,blue,31.825,21.875,up to 1 s before the first counted second
+410.293,prevent start,fender,red,7.5,6.7,up to 1 s before the first counted second
+411.808,boost used,fender,red,3.5,2.5,
+412.557,boost ready,,,40.5,25.5,
+413.524,boost used,Peach Farmer,blue,19.5,13.5,
+414.291,prevent stop,meowza,red,14.175,8.1,12 s counted
+414.291,prevent stop,fender,red,12.325,10.25,4 s counted
+414.292,prevent start,Messi,blue,30.525,21.175,up to 1 s before the first counted second
+414.391,boost ready,,,15.5,18.5,
+415.291,prevent start,Peach Farmer,blue,34.55,17.375,up to 1 s before the first counted second
+416.191,gate change,,,26.167,22.5,3 tiles turned red
+416.391,gate change,,,26.167,22.5,3 tiles turned off
+416.691,boost ready,,,26.5,11.5,
+417.292,prevent stop,Magnolia,blue,26.65,14.55,7 s counted
+418.292,prevent stop,Peach Farmer,blue,28.65,23.425,3 s counted
+418.325,button start,omni,red,30.325,22.45,
+419.307,gate change,,,15.833,7.5,3 tiles turned red
+419.608,bomb ready,,,32.5,28.5,
+419.69,gate change,,,15.833,7.5,3 tiles turned off
+420.291,prevent stop,Messi,blue,28.325,23.35,6 s counted
+420.806,gate change,,,26.167,22.5,3 tiles turned red
+421.808,boost ready,,,3.5,2.5,
+423.524,boost ready,,,19.5,13.5,
+423.692,block start,Magnolia,blue,3.275,6.85,
+424.257,boost used,Magnolia,blue,1.5,4.5,
+425.191,grab,Magnolia,blue,6.3,6.7,red flag; previous carrier Magnolia popped 23.68 s earlier
+425.291,prevent stop,fm,red,7.85,7.7,17 s counted
+425.841,pup spawn,,,16.5,6.5,juke juice
+425.841,block start,meowza,red,15.875,4.45,
+426.457,pup taken,,,16.5,6.5,juke juice
+426.474,pup pickup,meowza,red,16.025,5.075,juke juice
+427.224,gate change,,,15.833,7.5,3 tiles turned red
+427.257,block start,fm,red,15.6,12.925,
+427.557,gate change,,,15.833,7.5,3 tiles turned off
+427.624,boost used,Magnolia,blue,15.5,18.5,
+428.175,boost used,fm,red,22.5,16.5,
+428.692,pop,Magnolia,blue,29.85,20.475,"carrying red flag; returned by fm; splat at 29.85,20.475"
+428.692,block stop,Magnolia,blue,29.85,20.475,5.00 s
+428.925,boost used,meowza,red,26.5,11.5,
+429.191,grab,fm,red,34.225,21.2,blue flag
+429.707,gate change,,,26.167,22.5,3 tiles turned off
+429.824,gate change,,,26.167,22.5,3 tiles turned red
+429.907,block start,omni,red,23.65,22.15,
+429.991,boost used,meowza,red,38.5,27.5,
+430.073,boost used,fm,red,40.5,25.5,
+430.158,pup spawn,,,25.5,23.5,juke juice
+430.292,grab,Kep,blue,7.825,7.7,red flag; previous carrier Magnolia popped 1.60 s earlier
+430.925,gate change,,,26.167,22.5,3 tiles turned off
+431.175,bomb used,Peach Farmer,blue,32.5,28.5,
+431.425,pup taken,,,25.5,23.5,juke juice
+431.441,pup pickup,omni,red,24.25,22.625,juke juice
+431.574,portal used,Peach Farmer,blue,38.5,21.5,
+431.692,respawn,Magnolia,blue,33,19,
+431.774,block stop,meowza,red,34.775,19.875,5.93 s
+432.191,gate change,,,26.167,22.5,3 tiles turned red
+432.257,pop,fm,red,32,20.35,"carrying blue flag; returned by Magnolia; splat at 32,20.35"
+432.257,block stop,fm,red,32,20.35,5.00 s
+432.291,prevent start,Messi,blue,36.675,17.35,up to 1 s before the first counted second
+432.291,prevent start,Peach Farmer,blue,37.3,21.875,up to 1 s before the first counted second
+433.324,button stop,omni,red,23.15,21.575,15.00 s
+433.407,gate change,,,26.167,22.5,3 tiles turned off
+433.993,grab,meowza,red,34.6,21.2,blue flag; previous carrier fm popped 1.74 s earlier
+434.258,boost ready,,,1.5,4.5,
+434.291,prevent stop,Messi,blue,34.775,21.225,2 s counted
+434.291,prevent stop,Peach Farmer,blue,31.95,21.325,2 s counted
+435.257,respawn,fm,red,8,10,
+435.292,block start,meowza,red,29.875,25.35,
+435.575,portal ready,,,38.5,21.5,
+435.624,boost used,Magnolia,blue,19.5,13.5,
+435.741,block stop,omni,red,30.725,25.45,5.83 s
+436.575,block start,Kep,blue,13.725,11.4,
+436.907,gate change,,,26.167,22.5,3 tiles turned red
+437.108,gate change,,,26.167,22.5,3 tiles turned off
+437.441,bomb ready,,,9.5,1.5,
+437.625,boost ready,,,15.5,18.5,
+438.177,boost ready,,,22.5,16.5,
+438.926,boost ready,,,26.5,11.5,
+439.541,boost used,Peach Farmer,blue,15.5,18.5,
+439.992,boost ready,,,38.5,27.5,
+440.073,boost ready,,,40.5,25.5,
+440.291,prevent start,Messi,blue,32.075,19.95,up to 1 s before the first counted second
+440.292,pop,meowza,red,10.2,6.5,"carrying blue flag; returned by Peach Farmer; splat at 10.2,6.5"
+440.292,block stop,meowza,red,10.2,6.5,5.00 s
+440.824,block start,omni,red,15.625,19.95,
+440.891,block start,Magnolia,blue,6.825,6.975,
+441.108,boost used,fm,red,22.5,16.5,
+441.575,pop,Kep,blue,18.525,22.125,"carrying red flag; returned by omni; splat at 18.525,22.125"
+441.575,block stop,Kep,blue,18.525,22.125,5.00 s
+443.023,gate change,,,26.167,22.5,3 tiles turned red
+443.107,grab,Magnolia,blue,5.725,7.875,red flag; previous carrier Kep popped 1.53 s earlier
+443.274,gate change,,,26.167,22.5,3 tiles turned off
+443.291,respawn,meowza,red,9,9,
+444.574,respawn,Kep,blue,35,19,
+445.391,boost used,fm,red,26.5,11.5,
+445.441,block start,meowza,red,16.625,15.025,
+445.591,grab,omni,red,32.975,21.725,blue flag; previous carrier meowza popped 5.30 s earlier
+445.625,boost ready,,,19.5,13.5,
+445.824,block stop,omni,red,33.25,22.125,5.00 s
+445.841,pop,omni,red,33.275,22.525,"carrying blue flag; returned by Messi; splat at 33.275,22.525"
+445.891,pop,Magnolia,blue,17.875,9.2,"carrying red flag; returned by fm; splat at 17.875,9.2"
+445.891,block stop,Magnolia,blue,17.875,9.2,5.00 s
+446.307,boost used,fender,red,38.5,27.5,
+446.457,boost used,fender,red,40.5,25.5,
+446.474,pup ended,meowza,red,19.025,16.35,juke juice
+446.791,portal used,fender,red,38.5,21.5,
+447.257,boost used,Peach Farmer,blue,19.5,13.5,
+447.542,block start,fender,red,35.3,22.975,
+447.676,handoff,omni,red,33.275,22.525,
+447.676,grab,fender,red,34.65,22.4,blue flag; previous carrier omni popped 1.83 s earlier
+448.291,prevent stop,Messi,blue,32.05,21.475,8 s counted
+448.374,bomb used,fm,red,9.5,1.5,
+448.842,respawn,omni,red,10,8,
+448.892,respawn,Magnolia,blue,33,19,
+449.541,boost ready,,,15.5,18.5,
+449.874,portal used,fm,red,3.5,8.5,
+450.574,boost used,fm,red,3.5,2.5,
+450.792,portal ready,,,38.5,21.5,
+451.041,portal used,fender,red,38.5,21.5,
+451.109,boost ready,,,22.5,16.5,
+451.441,pup ended,omni,red,12.975,13.25,juke juice
+451.441,good handoff,omni,red,12.975,13.25,
+452.524,block stop,meowza,red,36.525,22.325,7.08 s
+452.542,pop,fender,red,38.625,25.95,"carrying blue flag; returned by Messi; splat at 38.625,25.95"
+452.542,block stop,fender,red,38.625,25.95,5.00 s
+453.291,prevent start,Messi,blue,38.275,24.525,up to 1 s before the first counted second
+453.291,prevent start,Kep,blue,35,22.175,up to 1 s before the first counted second
+453.291,prevent start,Peach Farmer,blue,31.95,24.075,up to 1 s before the first counted second
+453.791,boost used,omni,red,15.5,18.5,
+453.875,portal ready,,,3.5,8.5,
+454.241,boost used,Magnolia,blue,22.5,16.5,
+455.046,portal ready,,,38.5,21.5,
+455.291,prevent start,fm,red,3.775,6.125,up to 1 s before the first counted second
+455.391,boost ready,,,26.5,11.5,
+455.542,respawn,fender,red,7,10,
+455.642,boost used,fm,red,1.5,4.5,
+456.225,portal used,fm,red,3.5,8.5,
+456.291,prevent stop,Kep,blue,26.3,16.175,3 s counted
+456.308,boost ready,,,38.5,27.5,
+456.457,boost ready,,,40.5,25.5,
+456.575,boost used,Messi,blue,38.5,27.5,
+456.692,block start,Kep,blue,25.175,14.775,
+457.257,boost ready,,,19.5,13.5,
+457.841,block start,Magnolia,blue,3.55,1.4,
+458.741,boost used,Kep,blue,26.5,11.5,
+459.141,portal used,meowza,red,38.5,21.5,
+459.291,prevent stop,Messi,blue,39.175,24.6,6 s counted
+459.292,prevent start,fender,red,8.3,7.1,up to 1 s before the first counted second
+460.226,portal ready,,,3.5,8.5,
+460.291,prevent start,Messi,blue,39.5,23,up to 1 s before the first counted second
+460.574,boost ready,,,3.5,2.5,
+460.741,boost used,fm,red,3.5,2.5,
+460.757,boost used,Kep,blue,19.5,13.5,
+461.176,bomb ready,,,32.5,28.5,
+461.241,block start,meowza,red,35.2,22.75,
+461.624,grab,Kep,blue,9.55,8.6,red flag; previous carrier Magnolia popped 15.73 s earlier
+462.291,prevent stop,fender,red,6.75,6.825,3 s counted
+462.291,prevent stop,fm,red,5.425,4.3,7 s counted
+463.024,block start,omni,red,35.125,21.425,
+463.142,portal ready,,,38.5,21.5,
+463.175,bomb used,meowza,red,32.5,28.5,
+463.792,boost ready,,,15.5,18.5,
+464.242,boost ready,,,22.5,16.5,
+464.825,grab,omni,red,35.025,21.75,blue flag; previous carrier fender popped 12.28 s earlier
+464.874,block stop,Magnolia,blue,5.7,5.375,7.03 s
+464.892,pop,Kep,blue,4.425,4.875,"carrying red flag; returned by fm; splat at 4.425,4.875"
+464.892,block stop,Kep,blue,4.425,4.875,8.20 s
+465.142,grab,Magnolia,blue,5.725,5.85,red flag; previous carrier Kep popped 0.25 s earlier
+465.291,prevent stop,Messi,blue,33.9,17.4,5 s counted
+465.291,prevent stop,Peach Farmer,blue,34.9,17.125,12 s counted
+465.643,boost ready,,,1.5,4.5,
+466.575,boost ready,,,38.5,27.5,
+467.074,block stop,meowza,red,26.425,14.775,5.83 s
+467.49,boost used,Magnolia,blue,15.5,18.5,
+467.591,boost used,Messi,blue,22.5,16.5,
+467.891,respawn,Kep,blue,31,21,
+468.024,pop,omni,red,22.05,18.9,"carrying blue flag; returned by Peach Farmer; splat at 22.05,18.9"
+468.024,block stop,omni,red,22.05,18.9,5.00 s
+468.291,button start,fm,red,18.475,17.8,
+468.741,boost ready,,,26.5,11.5,
+468.925,gate change,,,26.167,22.5,3 tiles turned blue
+469.457,score,,,,,red 8 - blue 3
+469.474,cap,Magnolia,blue,33.05,22.05,red flag
+470.175,gate change,,,26.167,22.5,3 tiles turned off
+470.258,block start,meowza,red,30.375,17.425,
+470.291,prevent start,Magnolia,blue,36.9,20.3,up to 1 s before the first counted second
+470.358,block start,fender,red,26.05,24.475,
+470.741,boost ready,,,3.5,2.5,
+470.757,boost ready,,,19.5,13.5,
+470.907,grab,Messi,blue,8.95,8.725,red flag
+471.024,respawn,omni,red,11,6,
+471.291,prevent start,Kep,blue,32.625,22.375,up to 1 s before the first counted second
+471.558,boost used,fm,red,26.5,11.5,
+471.824,boost used,Messi,blue,1.5,4.5,
+471.925,block start,Messi,blue,1.325,4.575,
+472.291,prevent start,Peach Farmer,blue,30.125,23.325,up to 1 s before the first counted second
+472.492,portal used,Messi,blue,3.5,8.5,
+473.191,gate change,,,15.833,7.5,3 tiles turned red
+473.291,button stop,fm,red,18.275,6.375,5.00 s
+473.291,prevent stop,Magnolia,blue,30.175,16.45,3 s counted
+473.774,gate change,,,15.833,7.5,3 tiles turned off
+474.306,boost used,fender,red,38.5,27.5,
+474.357,gate change,,,15.833,7.5,3 tiles turned red
+474.906,grab,fender,red,35.4,23.3,blue flag; previous carrier omni popped 6.88 s earlier
+475.258,block stop,meowza,red,31.95,19.8,5.00 s
+475.358,pop,fender,red,34.25,20.25,"carrying blue flag; returned by Kep; splat at 34.25,20.25"
+475.358,block stop,fender,red,34.25,20.25,5.00 s
+476.106,gate change,,,15.833,7.5,3 tiles turned off
+476.492,portal ready,,,3.5,8.5,
+476.774,block start,Magnolia,blue,19.875,12.9,
+476.807,boost used,Magnolia,blue,19.5,13.5,
+476.925,pop,Messi,blue,14.9,4,"carrying red flag; returned by fm; splat at 14.9,4"
+476.925,block stop,Messi,blue,14.9,4,5.00 s
+477.357,flaccid,fender,red,34.25,20.25,
+477.49,boost ready,,,15.5,18.5,
+477.592,boost ready,,,22.5,16.5,
+477.724,portal used,meowza,red,38.5,21.5,
+478.307,prevent start,omni,red,11.275,3.1,up to 1 s before the first counted second
+478.357,respawn,fender,red,10,8,
+478.375,bomb ready,,,9.5,1.5,
+478.624,boost used,meowza,red,40.5,25.5,
+479.224,grab,Magnolia,blue,7.5,6.15,red flag; previous carrier Messi popped 2.30 s earlier
+479.307,prevent stop,omni,red,8.9,4.175,1 s counted
+479.891,portal used,Magnolia,blue,3.5,8.5,
+479.924,respawn,Messi,blue,32,21,
+480.091,block start,fender,red,10.825,10.225,
+481.223,boost used,Magnolia,blue,3.5,2.5,
+481.508,bomb used,omni,red,9.5,1.5,
+481.558,boost ready,,,26.5,11.5,
+481.725,portal ready,,,38.5,21.5,
+481.774,pop,Magnolia,blue,8.6,6.05,"carrying red flag; returned by fm; splat at 8.6,6.05"
+481.774,block stop,Magnolia,blue,8.6,6.05,5.00 s
+481.825,boost ready,,,1.5,4.5,
+482.307,prevent stop,Kep,blue,27.05,24.3,11 s counted
+482.492,boost used,omni,red,15.5,18.5,
+483.307,prevent start,Messi,blue,30.825,21.125,up to 1 s before the first counted second
+483.324,button start,omni,red,19,20.925,
+483.89,portal ready,,,3.5,8.5,
+484.057,gate change,,,26.167,22.5,3 tiles turned blue
+484.207,boost used,fender,red,26.5,11.5,
+484.307,prevent stop,Messi,blue,27.35,19.375,1 s counted
+484.308,boost ready,,,38.5,27.5,
+484.774,respawn,Magnolia,blue,31,21,
+484.925,grab,fender,red,34.075,21.45,blue flag; previous carrier fender popped 9.57 s earlier
+485.307,prevent stop,Peach Farmer,blue,34.9,24.2,13 s counted
+485.624,boost used,meowza,red,38.5,27.5,
+485.791,gate change,,,26.167,22.5,3 tiles turned off
+486.308,gate change,,,26.167,22.5,3 tiles turned blue
+486.457,pup spawn,,,16.5,6.5,juke juice
+486.807,boost ready,,,19.5,13.5,
+487.591,gate change,,,26.167,22.5,3 tiles turned off
+488.041,grab,Messi,blue,8.35,7.65,red flag; previous carrier Magnolia popped 6.27 s earlier
+488.075,gate change,,,26.167,22.5,3 tiles turned red
+488.291,pup taken,,,16.5,6.5,juke juice
+488.307,pup pickup,fm,red,16.25,7,juke juice
+488.324,button stop,omni,red,23.125,21.675,5.00 s
+488.324,button start,fm,red,16.25,7,
+488.625,pop,fender,red,29.7,17.05,"carrying blue flag; returned by Magnolia; splat at 29.7,17.05"
+488.625,boost ready,,,40.5,25.5,
+488.625,block stop,fender,red,29.7,17.05,8.53 s
+489.623,boost used,Messi,blue,1.5,4.5,
+490.006,portal used,Messi,blue,3.5,8.5,
+490.224,gate change,,,26.167,22.5,3 tiles turned off
+490.345,boost used,fm,red,19.5,13.5,
+490.524,boost used,Magnolia,blue,22.5,16.5,
+490.608,block start,fender,red,29.7,17.05,
+491.024,gate change,,,26.167,22.5,3 tiles turned red
+491.056,gate change,,,26.167,22.5,3 tiles turned off
+491.224,boost ready,,,3.5,2.5,
+491.225,gate change,,,26.167,22.5,3 tiles turned blue
+491.425,grab,meowza,red,33.45,22.525,blue flag; previous carrier fender popped 2.80 s earlier
+491.426,pup spawn,,,25.5,23.5,tagpro
+491.624,respawn,fender,red,10,7,
+492.408,pup taken,,,25.5,23.5,tagpro
+492.424,pup pickup,Kep,blue,24.2,22.925,tagpro
+492.491,gate change,,,26.167,22.5,3 tiles turned off
+492.493,boost ready,,,15.5,18.5,
+492.541,gate change,,,26.167,22.5,3 tiles turned red
+493.175,bomb ready,,,32.5,28.5,
+493.192,block start,meowza,red,34.725,19.2,
+493.324,button stop,fm,red,23.075,21.675,5.00 s
+493.491,gate change,,,26.167,22.5,3 tiles turned off
+493.691,gate change,,,26.167,22.5,3 tiles turned blue
+494.007,portal ready,,,3.5,8.5,
+494.024,block start,Peach Farmer,blue,22.925,21.675,
+494.208,boost ready,,,26.5,11.5,
+494.224,block start,fm,red,23.3,19.975,
+494.241,gate change,,,26.167,22.5,3 tiles turned off
+494.508,pop,omni,red,20.7,20.35,"tagged by Kep; splat at 20.7,20.35"
+494.924,block start,Magnolia,blue,18.675,13.325,
+495.608,block stop,fender,red,26.675,15.3,5.00 s
+495.625,boost ready,,,38.5,27.5,
+496.591,portal used,meowza,red,38.5,21.5,
+496.757,boost used,Messi,blue,40.5,25.5,
+497.041,boost used,Magnolia,blue,26.5,11.5,
+497.491,boost used,fm,red,38.5,27.5,
+497.507,respawn,omni,red,11,7,
+498.192,pop,meowza,red,38.4,26.925,"carrying blue flag; returned by Magnolia; splat at 38.4,26.925"
+498.192,block stop,meowza,red,38.4,26.925,5.00 s
+498.307,prevent start,Kep,blue,32.025,24.7,up to 1 s before the first counted second
+498.307,prevent start,Peach Farmer,blue,39.775,23.55,up to 1 s before the first counted second
+499.224,grab,fender,red,34.725,21.45,blue flag; previous carrier meowza popped 1.03 s earlier
+499.307,prevent stop,Kep,blue,32.7,26.8,1 s counted
+499.307,prevent stop,Peach Farmer,blue,37.575,23.725,1 s counted
+499.624,boost ready,,,1.5,4.5,
+499.691,bomb used,Magnolia,blue,32.5,28.5,
+499.924,block stop,Magnolia,blue,35.6,24.075,5.00 s
+499.924,block stop,fm,red,36.5,24.225,5.70 s
+500.345,boost ready,,,19.5,13.5,
+500.525,boost ready,,,22.5,16.5,
+500.592,portal ready,,,38.5,21.5,
+501.192,respawn,meowza,red,9,9,
+501.891,block start,omni,red,26,19.625,
+502.008,portal used,fm,red,38.5,21.5,
+503.057,boost used,fender,red,19.5,13.5,
+503.241,block start,Messi,blue,33.075,23.475,
+503.291,button start,fender,red,17.5,11.975,
+503.792,block stop,Peach Farmer,blue,33.375,22.825,9.77 s
+503.858,pop,omni,red,31.75,23,"tagged by Kep; splat at 31.75,23"
+504.308,boost used,meowza,red,15.5,18.5,
+506.009,portal ready,,,38.5,21.5,
+506.758,boost ready,,,40.5,25.5,
+506.857,respawn,omni,red,10,7,
+507.042,boost ready,,,26.5,11.5,
+507.425,pup ended,Kep,blue,34.65,22.6,tagpro
+507.492,boost ready,,,38.5,27.5,
+507.84,gate change,,,15.833,7.5,3 tiles turned red
+508.241,pop,Messi,blue,28.4,22.325,"carrying red flag; returned by fm; splat at 28.4,22.325"
+508.241,block stop,Messi,blue,28.4,22.325,5.00 s
+508.291,button stop,fender,red,17.725,6.75,5.00 s
+508.307,pup ended,fm,red,29.2,21.975,juke juice
+508.824,boost used,Peach Farmer,blue,22.5,16.5,
+509.106,gate change,,,15.833,7.5,3 tiles turned off
+509.357,block start,fender,red,17.325,6.55,
+510.191,gate change,,,15.833,7.5,3 tiles turned blue
+510.274,gate change,,,26.167,22.5,3 tiles turned red
+510.307,prevent start,omni,red,11.775,8.375,up to 1 s before the first counted second
+510.507,gate change,,,15.833,7.5,3 tiles turned off
+510.541,gate change,,,26.167,22.5,3 tiles turned off
+510.675,gate change,,,26.167,22.5,3 tiles turned blue
+510.691,block stop,omni,red,9.8,8,8.80 s
+510.773,gate change,,,26.167,22.5,3 tiles turned off
+510.925,block start,Magnolia,blue,7.825,7.325,
+510.957,grab,Magnolia,blue,7.825,7.325,red flag; previous carrier Messi popped 2.72 s earlier
+511.241,respawn,Messi,blue,31,21,
+511.307,prevent stop,omni,red,7.575,7.3,1 s counted
+511.508,bomb ready,,,9.5,1.5,
+511.691,portal used,Magnolia,blue,3.5,8.5,
+512.308,boost used,Magnolia,blue,3.5,2.5,
+513.057,boost ready,,,19.5,13.5,
+514.307,prevent start,Messi,blue,32.675,27.825,up to 1 s before the first counted second
+514.309,boost ready,,,15.5,18.5,
+514.357,pop,fender,red,7.95,14.75,"carrying blue flag; returned by Kep; splat at 7.95,14.75"
+514.357,block stop,fender,red,7.95,14.75,5.00 s
+514.831,bomb used,omni,red,9.5,1.5,
+515.692,portal ready,,,3.5,8.5,
+515.708,boost used,fm,red,19.5,13.5,
+515.791,block start,meowza,red,33.8,23.325,
+515.874,grab,meowza,red,33.8,23.325,blue flag; previous carrier fender popped 1.52 s earlier
+515.925,pop,Magnolia,blue,20.2,8.725,"carrying red flag; returned by fm; splat at 20.2,8.725"
+515.925,block stop,Magnolia,blue,20.2,8.725,5.00 s
+516.307,prevent stop,Messi,blue,33.225,22.7,2 s counted
+516.891,portal used,meowza,red,38.5,21.5,
+517.024,grab,Kep,blue,7.7,7.9,red flag; previous carrier Magnolia popped 1.10 s earlier
+517.357,respawn,fender,red,9,9,
+518.024,boost used,meowza,red,38.5,27.5,
+518.208,block start,Kep,blue,3.2,5.5,
+518.773,boost used,Kep,blue,1.5,4.5,
+518.825,boost ready,,,22.5,16.5,
+518.924,respawn,Magnolia,blue,31,21,
+519.191,gate change,,,26.167,22.5,3 tiles turned red
+519.274,gate change,,,26.167,22.5,3 tiles turned off
+520.541,boost used,Messi,blue,22.5,16.5,
+520.757,boost used,Peach Farmer,blue,15.5,18.5,
+520.791,pop,meowza,red,16.05,17.925,"carrying blue flag; returned by Peach Farmer; splat at 16.05,17.925"
+520.791,block stop,meowza,red,16.05,17.925,5.00 s
+520.891,portal ready,,,38.5,21.5,
+521.075,block start,fm,red,27.375,10.525,
+521.942,boost used,fm,red,26.5,11.5,
+522.057,grab,omni,red,33.225,21.175,blue flag; previous carrier meowza popped 1.27 s earlier
+522.308,boost ready,,,3.5,2.5,
+522.823,portal used,omni,red,38.5,21.5,
+523.208,pop,Kep,blue,19.225,13.1,"carrying red flag; returned by fender; splat at 19.225,13.1"
+523.208,block stop,Kep,blue,19.225,13.1,5.00 s
+523.824,respawn,meowza,red,10,7,
+524.207,grab,Messi,blue,7.65,7.725,red flag; previous carrier Kep popped 1.00 s earlier
+524.325,boost used,omni,red,40.5,25.5,
+525.407,boost used,Messi,blue,3.5,2.5,
+525.708,boost ready,,,19.5,13.5,
+526.075,block stop,fm,red,28.9,19.55,5.00 s
+526.207,respawn,Kep,blue,31,22,
+526.257,block start,Messi,blue,3.575,6.6,
+526.257,block start,omni,red,33.7,19.225,
+526.824,portal ready,,,38.5,21.5,
+528.025,boost ready,,,38.5,27.5,
+528.308,button start,meowza,red,10.625,9.525,
+528.774,boost ready,,,1.5,4.5,
+529.441,boost used,Magnolia,blue,19.5,13.5,
+529.692,bomb ready,,,32.5,28.5,
+529.891,gate change,,,15.833,7.5,3 tiles turned red
+529.957,portal used,Messi,blue,3.5,8.5,
+530.074,gate change,,,15.833,7.5,3 tiles turned off
+530.224,gate change,,,15.833,7.5,3 tiles turned blue
+530.441,gate change,,,15.833,7.5,3 tiles turned off
+530.541,boost ready,,,22.5,16.5,
+530.758,boost ready,,,15.5,18.5,
+530.974,boost used,meowza,red,1.5,4.5,
+531.257,pop,Messi,blue,5.125,0.975,"carrying red flag; returned by meowza; splat at 5.125,0.975"
+531.257,pop,omni,red,12.1,4.825,"carrying blue flag; returned by Kep; splat at 12.1,4.825"
+531.257,block stop,Messi,blue,5.125,0.975,5.00 s
+531.257,block stop,omni,red,12.1,4.825,5.00 s
+531.307,prevent start,meowza,red,4.75,1.775,up to 1 s before the first counted second
+531.307,prevent start,fender,red,8.325,6.2,up to 1 s before the first counted second
+531.307,prevent start,Peach Farmer,blue,31.25,21.625,up to 1 s before the first counted second
+531.942,boost ready,,,26.5,11.5,
+532.157,block start,Peach Farmer,blue,31.9,23.45,
+532.206,block start,Messi,blue,5.125,0.975,
+532.691,bomb used,fm,red,32.5,28.5,
+532.941,grab,Magnolia,blue,6.2,6.95,red flag; previous carrier Messi popped 1.68 s earlier
+533.29,gate change,,,15.833,7.5,3 tiles turned red
+533.308,button stop,meowza,red,16.75,6.475,5.00 s
+533.308,prevent stop,meowza,red,16.75,6.475,2 s counted
+533.308,prevent stop,fender,red,10.725,4.35,2 s counted
+533.475,gate change,,,15.833,7.5,3 tiles turned off
+533.574,block start,fm,red,36.925,18.05,
+533.794,block start,meowza,red,19.85,7.975,
+533.957,portal ready,,,3.5,8.5,
+534.257,respawn,Messi,blue,32,20,
+534.257,respawn,omni,red,8,9,
+534.325,boost ready,,,40.5,25.5,
+534.541,boost used,meowza,red,26.5,11.5,
+535.408,boost ready,,,3.5,2.5,
+535.841,boost used,fender,red,22.5,16.5,
+536.04,boost used,Magnolia,blue,15.5,18.5,
+537.307,prevent start,Messi,blue,33.85,21.05,up to 1 s before the first counted second
+538.508,grab,fender,red,33.2,22.475,blue flag; previous carrier omni popped 7.25 s earlier
+538.794,block stop,Messi,blue,33.825,20.775,6.59 s
+539.307,prevent stop,Messi,blue,33.525,21.725,2 s counted
+539.307,prevent stop,Peach Farmer,blue,35.25,22.2,8 s counted
+539.442,boost ready,,,19.5,13.5,
+539.724,portal used,Magnolia,blue,38.5,21.5,
+539.874,block start,Magnolia,blue,39.025,26,
+540.057,block stop,fm,red,34.85,22.775,6.48 s
+540.324,block stop,meowza,red,35.475,22.075,6.53 s
+540.973,boost ready,,,1.5,4.5,
+541.724,gate change,,,26.167,22.5,3 tiles turned red
+541.925,gate change,,,26.167,22.5,3 tiles turned off
+542.891,boost used,Magnolia,blue,38.5,27.5,
+543.374,block start,Kep,blue,13.375,4,
+543.725,portal ready,,,38.5,21.5,
+544.142,block stop,Peach Farmer,blue,32.225,21.45,11.98 s
+544.542,boost ready,,,26.5,11.5,
+544.832,bomb ready,,,9.5,1.5,
+544.874,pop,Magnolia,blue,30.75,25.8,"carrying red flag; returned by meowza; splat at 30.75,25.8"
+544.874,block stop,Magnolia,blue,30.75,25.8,5.00 s
+545.457,boost used,fender,red,3.5,2.5,
+545.841,boost ready,,,22.5,16.5,
+546.04,boost ready,,,15.5,18.5,
+546.641,grab,Messi,blue,5.9,6.425,red flag; previous carrier Magnolia popped 1.77 s earlier
+547.057,portal used,fender,red,3.5,8.5,
+547.874,respawn,Magnolia,blue,33,19,
+548.292,pup spawn,,,16.5,6.5,tagpro
+548.374,pup taken,,,16.5,6.5,tagpro
+548.374,block stop,Kep,blue,15.025,6.45,5.00 s
+548.391,pup pickup,Kep,blue,15.025,6.45,tagpro
+548.591,pop,omni,red,15.975,5.65,"tagged by Kep; splat at 15.975,5.65"
+548.908,bomb used,Messi,blue,9.5,1.5,
+551.058,portal ready,,,3.5,8.5,
+551.308,boost used,Magnolia,blue,19.5,13.5,
+551.591,respawn,omni,red,6,10,
+551.658,block start,Messi,blue,9.775,9.525,
+552.409,pup spawn,,,25.5,23.5,juke juice
+552.641,boost used,fender,red,1.5,4.5,
+552.892,boost ready,,,38.5,27.5,
+552.942,pup taken,,,25.5,23.5,juke juice
+552.957,pup pickup,fm,red,25.025,23.85,juke juice
+553.891,gate change,,,26.167,22.5,3 tiles turned red
+554.157,boost used,Messi,blue,22.5,16.5,
+554.691,gate change,,,26.167,22.5,3 tiles turned off
+554.856,gate change,,,15.833,7.5,3 tiles turned red
+555.007,boost used,omni,red,15.5,18.5,
+555.024,gate change,,,15.833,7.5,3 tiles turned off
+555.457,boost ready,,,3.5,2.5,
+556.658,pop,Messi,blue,34.875,16,"carrying red flag; returned by omni; splat at 34.875,16"
+556.658,block stop,Messi,blue,34.875,16,5.00 s
+557.042,pop,omni,red,35,16.3,"tagged by Kep; splat at 35,16.3"
+558.308,boost used,fender,red,26.5,11.5,
+558.974,block start,Magnolia,blue,14.6,9.3,
+559.657,respawn,Messi,blue,32,21,
+559.824,score,,,,,red 9 - blue 3
+559.841,cap,fender,red,8.325,6.275,blue flag
+560.041,respawn,omni,red,11,7,
+560.307,prevent start,fender,red,5.1,6.35,up to 1 s before the first counted second
+560.307,prevent start,fm,red,11.325,7.875,up to 1 s before the first counted second
+560.89,portal used,fender,red,3.5,8.5,
+561.025,block start,meowza,red,33.2,21.475,
+561.041,grab,meowza,red,33.2,21.475,blue flag
+561.224,boost used,Magnolia,blue,3.5,2.5,
+561.308,boost ready,,,19.5,13.5,
+561.541,boost used,Kep,blue,19.5,13.5,
+562.292,pop,fm,red,7.875,7.975,"tagged by Kep; splat at 7.875,7.975"
+562.308,prevent stop,fm,red,7.875,7.975,2 s counted
+562.574,grab,Kep,blue,8.2,7.45,red flag; previous carrier Messi popped 5.92 s earlier
+562.641,boost ready,,,1.5,4.5,
+562.691,bomb ready,,,32.5,28.5,
+563.307,prevent stop,fender,red,5.975,6.6,3 s counted
+563.391,pup ended,Kep,blue,7.075,6.3,tagpro
+564.041,block start,Kep,blue,7.825,6.25,
+564.159,boost ready,,,22.5,16.5,
+564.891,portal ready,,,3.5,8.5,
+565.008,boost ready,,,15.5,18.5,
+565.29,respawn,fm,red,9,8,
+566.025,pop,meowza,red,21.1,9.975,"carrying blue flag; returned by Peach Farmer; splat at 21.1,9.975"
+566.025,block stop,meowza,red,21.1,9.975,5.00 s
+568.058,block start,omni,red,22.4,14.25,
+568.309,boost ready,,,26.5,11.5,
+569.024,respawn,meowza,red,9,9,
+569.041,pop,Kep,blue,8.6,12.25,"carrying red flag; returned by fender; splat at 8.6,12.25"
+569.041,block stop,Kep,blue,8.6,12.25,5.00 s
+569.225,boost used,omni,red,22.5,16.5,
+569.307,prevent start,fm,red,9.775,8.175,up to 1 s before the first counted second
+569.824,grab,Magnolia,blue,7.6,8.125,red flag; previous carrier Kep popped 0.78 s earlier
+570.158,pop,Magnolia,blue,6.425,7.075,"carrying red flag; returned by meowza; splat at 6.425,7.075"
+570.158,block stop,Magnolia,blue,6.425,7.075,11.18 s
+570.307,prevent start,Peach Farmer,blue,30.2,20.75,up to 1 s before the first counted second
+570.307,prevent stop,fm,red,10.7,7.975,1 s counted
+570.624,boost used,Messi,blue,15.5,18.5,
+571.224,boost ready,,,3.5,2.5,
+571.543,boost ready,,,19.5,13.5,
+571.857,grab,omni,red,32.925,22.375,blue flag; previous carrier meowza popped 5.83 s earlier
+572.041,respawn,Kep,blue,30,23,
+572.158,flaccid,Magnolia,blue,6.425,7.075,
+572.307,prevent stop,Peach Farmer,blue,33.15,26.625,2 s counted
+572.624,bomb used,Peach Farmer,blue,32.5,28.5,
+572.941,boost used,meowza,red,1.5,4.5,
+572.957,pup ended,fm,red,6.425,5.8,juke juice
+573.058,pop,omni,red,33.55,18.45,"carrying blue flag; returned by Peach Farmer; splat at 33.55,18.45"
+573.058,block stop,omni,red,33.55,18.45,5.00 s
+573.157,respawn,Magnolia,blue,30,22,
+574.307,prevent start,Messi,blue,31.9,17.375,up to 1 s before the first counted second
+574.307,prevent start,Peach Farmer,blue,35.425,17.65,up to 1 s before the first counted second
+575.057,flaccid,omni,red,33.55,18.45,
+575.307,prevent stop,Peach Farmer,blue,36.75,20.475,1 s counted
+575.323,gate change,,,26.167,22.5,3 tiles turned blue
+575.342,portal used,Peach Farmer,blue,38.5,21.5,
+575.557,gate change,,,26.167,22.5,3 tiles turned off
+575.656,boost used,Peach Farmer,blue,38.5,27.5,
+576.058,respawn,omni,red,7,10,
+576.175,boost used,fm,red,3.5,2.5,
+576.308,prevent start,Peach Farmer,blue,31,27.15,up to 1 s before the first counted second
+576.574,boost used,Kep,blue,19.5,13.5,
+576.591,portal used,fm,red,3.5,8.5,
+577.308,prevent start,meowza,red,10.025,8.8,up to 1 s before the first counted second
+577.308,prevent start,fm,red,5.25,4.6,up to 1 s before the first counted second
+577.541,boost used,fender,red,40.5,25.5,
+577.991,block start,Kep,blue,8.325,6.25,
+578.908,bomb ready,,,9.5,1.5,
+579.226,boost ready,,,22.5,16.5,
+579.307,prevent start,omni,red,8.075,8.6,up to 1 s before the first counted second
+579.342,portal ready,,,38.5,21.5,
+580.592,portal ready,,,3.5,8.5,
+580.624,boost ready,,,15.5,18.5,
+581.157,bomb used,Kep,blue,9.5,1.5,
+581.307,prevent stop,meowza,red,7.15,6.975,4 s counted
+581.307,prevent stop,omni,red,9.8,10.825,2 s counted
+581.307,prevent stop,fm,red,7.125,5.35,4 s counted
+581.375,block start,Magnolia,blue,5.85,1.625,
+581.408,grab,Kep,blue,7.25,6.4,red flag; previous carrier Magnolia popped 11.25 s earlier
+582.724,block start,fender,red,37.375,27.95,
+582.941,boost ready,,,1.5,4.5,
+582.991,pop,Kep,blue,4.125,11.425,"carrying red flag; returned by fm; splat at 4.125,11.425"
+582.991,block stop,Kep,blue,4.125,11.425,5.00 s
+583.308,prevent start,omni,red,7.275,11.275,up to 1 s before the first counted second
+583.308,prevent start,fm,red,5.55,11.675,up to 1 s before the first counted second
+583.691,handoff,Kep,blue,4.125,11.425,
+583.691,grab,Magnolia,blue,6.2,6.875,red flag; previous carrier Kep popped 0.70 s earlier
+584.308,prevent stop,omni,red,9.025,9.375,1 s counted
+584.308,prevent stop,fm,red,7.225,12.35,1 s counted
+585.657,boost ready,,,38.5,27.5,
+585.992,respawn,Kep,blue,31,21,
+586.175,boost ready,,,3.5,2.5,
+586.19,portal used,fm,red,3.5,8.5,
+586.375,flaccid,Kep,blue,30.925,20.925,
+586.375,pop,Magnolia,blue,12,3.1,"carrying red flag; returned by meowza; splat at 12,3.1"
+586.375,block stop,Magnolia,blue,12,3.1,5.00 s
+586.575,boost ready,,,19.5,13.5,
+586.924,block start,meowza,red,13.4,4.6,
+587.007,boost used,fender,red,38.5,27.5,
+587.541,boost ready,,,40.5,25.5,
+587.624,grab,fender,red,34.3,23.7,blue flag; previous carrier omni popped 14.57 s earlier
+587.724,block stop,fender,red,32.875,21.925,5.00 s
+588.307,prevent stop,Messi,blue,33.6,17.6,14 s counted
+588.307,prevent stop,Peach Farmer,blue,31.625,19.95,12 s counted
+588.324,boost used,fm,red,3.5,2.5,
+589.274,boost used,omni,red,19.5,13.5,
+589.374,respawn,Magnolia,blue,30,23,
+589.757,block start,Kep,blue,21.45,17.225,
+590.191,portal ready,,,3.5,8.5,
+590.407,boost used,Peach Farmer,blue,22.5,16.5,
+591.041,boost used,Peach Farmer,blue,15.5,18.5,
+591.241,block start,fm,red,12.325,7.75,
+591.407,block start,Messi,blue,27.35,11.575,
+591.524,boost used,Messi,blue,26.5,11.5,
+592.957,grab,Messi,blue,7.925,6.85,red flag; previous carrier Magnolia popped 6.58 s earlier
+594.491,portal used,fender,red,3.5,8.5,
+594.906,boost used,Messi,blue,1.5,4.5,
+594.991,block stop,meowza,red,6.125,7.625,8.07 s
+596.241,block stop,Kep,blue,5.4,6.95,6.48 s
+596.307,prevent start,meowza,red,2.675,6.925,up to 1 s before the first counted second
+596.307,prevent start,fm,red,6.15,6.4,up to 1 s before the first counted second
+596.407,pop,Messi,blue,0.975,6.25,"carrying red flag; returned by meowza; splat at 0.975,6.25"
+596.407,block stop,Messi,blue,0.975,6.25,5.00 s
+596.774,block stop,fm,red,5.7,6.8,5.53 s
+597.007,boost ready,,,38.5,27.5,
+597.041,score,,,,,red 10 - blue 3
+597.057,cap,fender,red,6.775,5.8,blue flag
+597.308,prevent start,Magnolia,blue,31.175,23.875,up to 1 s before the first counted second
+597.308,prevent start,fender,red,6.75,6.775,up to 1 s before the first counted second
+598.325,boost ready,,,3.5,2.5,
+598.491,portal ready,,,3.5,8.5,
+599.275,boost ready,,,19.5,13.5,
+599.307,prevent stop,meowza,red,6.55,6.425,3 s counted
+599.307,prevent stop,Magnolia,blue,32.55,23.575,2 s counted
+599.307,prevent stop,fender,red,8.025,5.175,2 s counted
+599.307,prevent stop,fm,red,6.875,7.875,3 s counted
+599.357,grab,omni,red,32.9,22.625,blue flag
+599.408,respawn,Messi,blue,30,23,
+599.601,chat,Messi,blue,30,23,to all: gg
+600.038,game end,,,,,winner red
+600.038,final stats,Messi,blue,30,23,"registered, grabs 10, caps 1, hold 88, returns 5, tags 7, pops 10, prevent 131, pups 2, handoffs 1, flaccids 1, score 40, points 0"
+600.038,final stats,fm,red,7.8,8.05,"registered, grabs 4, caps 1, hold 23, returns 19, tags 20, pops 6, prevent 169, pups 4, handoffs 0, flaccids 0, score 69, points 0"
+600.038,final stats,meowza,red,6.025,7.15,"registered, grabs 12, caps 4, hold 113, returns 12, tags 12, pops 9, prevent 159, pups 2, handoffs 0, flaccids 1, score 83, points 0"
+600.038,final stats,Peach Farmer,blue,11.225,7.625,"registered, grabs 1, caps 0, hold 5, returns 17, tags 17, pops 2, prevent 167, pups 1, handoffs 0, flaccids 0, score 59, points 0"
+600.038,final stats,Kep,blue,5.275,7.7,"registered, grabs 12, caps 0, hold 67, returns 8, tags 15, pops 14, prevent 40, pups 2, handoffs 2, flaccids 5, score 24, points 0"
+600.038,final stats,Magnolia,blue,33.45,21.85,"registered, grabs 19, caps 2, hold 109, returns 7, tags 7, pops 20, prevent 34, pups 2, handoffs 0, flaccids 4, score 40, points 0"
+600.038,final stats,omni,red,35.05,20.75,"registered, grabs 12, caps 1, hold 64, returns 4, tags 4, pops 15, prevent 63, pups 3, handoffs 1, flaccids 3, score 25, points 0"
+600.038,final stats,fender,red,9.2,4.15,"registered, grabs 20, caps 4, hold 128, returns 4, tags 8, pops 16, prevent 52, pups 2, handoffs 0, flaccids 4, score 60, points 0"

@@ -1,0 +1,1523 @@
+seconds,event,player,team,x,y,details
+-19.98,message,,,,,You're playing Capture The Flag! Grab the other team's flag and bring it to yours to score. Stop the other team from grabbing your flag.
+-19.979,join,timmysumball,blue,,,
+-19.91,join,RoyaltyKeyz,red,,,
+-19.86,respawn,timmysumball,blue,31,15,
+-19.851,respawn,RoyaltyKeyz,red,11,11,
+-19.348,join,3.1 Thor,blue,,,
+-19.3,message,,,,,You're playing Capture The Flag! Grab the other team's flag and bring it to yours to score. Stop the other team from grabbing your flag.
+-19.299,join,Mueller,red,,,
+-19.221,join,havok,red,,,
+-19.167,respawn,3.1 Thor,blue,31,13,
+-19.15,respawn,Mueller,red,13,11,
+-19.15,respawn,havok,red,14,8,
+-18.972,message,,,,,You're playing Capture The Flag! Grab the other team's flag and bring it to yours to score. Stop the other team from grabbing your flag.
+-18.97,join,SvgCabbage,blue,,,
+-18.934,respawn,SvgCabbage,blue,26,13,
+-18.773,join,stall2hammer,blue,,,
+-18.734,respawn,stall2hammer,blue,29,13,
+-17.125,join,Robiny,red,,,
+-17.084,respawn,Robiny,red,12,6,
+-14.705,leave,timmysumball,blue,31,15,
+-14.399,message,,,,,You're playing Capture The Flag! Grab the other team's flag and bring it to yours to score. Stop the other team from grabbing your flag.
+-14.396,rejoin,timmysumball,blue,,,
+-14.35,respawn,timmysumball,blue,28,14,
+0,game start,,,,,"map Poppy [MM26 Champion]; ctf; private group; Chicago 2, IL; length 600 s; red team ATSR; blue team APPS; red flag at 10.5,8.5; blue flag at 30.5,12.5; replay 96f95ab7-34af-41f3-9317-600d8bacffeb"
+1.634,boost used,havok,red,17.5,12.5,
+1.717,boost used,havok,red,23.5,8.5,
+2.134,bomb used,timmysumball,blue,29.5,19.5,
+2.15,bomb used,3.1 Thor,blue,37.5,8.5,
+2.266,prevent start,stall2hammer,blue,27.725,9.15,up to 1 s before the first counted second
+2.266,prevent start,timmysumball,blue,29.575,15.9,up to 1 s before the first counted second
+2.352,bomb used,Robiny,red,11.5,1.5,
+3.266,prevent start,3.1 Thor,blue,34.575,14.9,up to 1 s before the first counted second
+3.933,boost used,havok,red,37.5,17.5,
+3.991,boost used,havok,red,38.5,16.5,
+4.266,prevent stop,3.1 Thor,blue,30.925,12.675,1 s counted
+4.266,prevent stop,stall2hammer,blue,29.5,12.225,2 s counted
+4.266,prevent stop,timmysumball,blue,32.675,12.525,2 s counted
+4.834,bomb used,Mueller,red,3.5,12.5,
+5.217,boost used,Mueller,red,3.5,3.5,
+5.267,prevent start,3.1 Thor,blue,30.45,12,up to 1 s before the first counted second
+5.267,prevent start,SvgCabbage,blue,28.725,10.65,up to 1 s before the first counted second
+5.267,prevent start,stall2hammer,blue,25.85,13.6,up to 1 s before the first counted second
+5.267,prevent start,timmysumball,blue,32.425,12.875,up to 1 s before the first counted second
+5.5,boost used,Mueller,red,2.5,4.5,
+6.267,prevent stop,stall2hammer,blue,20.725,13.475,1 s counted
+7.266,prevent start,RoyaltyKeyz,red,10.75,8.525,up to 1 s before the first counted second
+7.266,prevent start,Mueller,red,8.575,12.325,up to 1 s before the first counted second
+7.267,prevent stop,SvgCabbage,blue,26.1,6.8,2 s counted
+11.635,boost ready,,,17.5,12.5,
+11.718,boost ready,,,23.5,8.5,
+13.932,boost ready,,,37.5,17.5,
+13.991,boost ready,,,38.5,16.5,
+14.15,block start,havok,red,26.875,11.825,
+15.217,boost ready,,,3.5,3.5,
+15.501,boost ready,,,2.5,4.5,
+15.766,block start,Robiny,red,31.7,11.25,
+19.051,grab,havok,red,29.175,11.375,blue flag
+19.15,block stop,havok,red,29.95,11.425,5.00 s
+19.267,prevent stop,3.1 Thor,blue,26.65,10.575,14 s counted
+19.267,prevent stop,timmysumball,blue,30,12.325,14 s counted
+20.484,block start,SvgCabbage,blue,7.9,6.075,
+20.766,block stop,Robiny,red,30.8,12.35,5.00 s
+20.916,block start,Robiny,red,30.8,12.35,
+24.066,boost used,SvgCabbage,blue,2.5,4.5,
+24.133,boost used,SvgCabbage,blue,3.5,3.5,
+24.267,prevent stop,RoyaltyKeyz,red,8.55,7.425,17 s counted
+24.267,prevent stop,Mueller,red,12.225,9.65,17 s counted
+25.266,prevent start,RoyaltyKeyz,red,9.025,7.975,up to 1 s before the first counted second
+25.266,prevent start,Mueller,red,12.475,9.9,up to 1 s before the first counted second
+25.45,grab,SvgCabbage,blue,8.85,6.875,red flag
+25.484,block stop,SvgCabbage,blue,9.775,7.425,5.00 s
+25.544,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+25.6,block start,Mueller,red,12.275,9.525,
+25.867,boost used,stall2hammer,blue,17.5,12.5,
+25.883,pop,SvgCabbage,blue,11.4,8.15,"carrying red flag; returned by Mueller; splat at 11.4,8.15"
+25.916,block stop,Robiny,red,29.7,10.4,5.00 s
+27.266,prevent stop,RoyaltyKeyz,red,4,4.9,2 s counted
+27.583,boost used,3.1 Thor,blue,23.5,8.5,
+27.884,flaccid,SvgCabbage,blue,11.4,8.15,
+28.3,block start,stall2hammer,blue,4.75,6.625,
+28.89,respawn,SvgCabbage,blue,27,10,
+29.266,prevent start,RoyaltyKeyz,red,5.875,6.1,up to 1 s before the first counted second
+30.017,block start,RoyaltyKeyz,red,8.25,7.45,
+30.017,block start,timmysumball,blue,13.525,9.4,
+30.6,block stop,Mueller,red,9.4,8.925,5.00 s
+31.633,grab,3.1 Thor,blue,8.675,7.65,red flag; previous carrier SvgCabbage popped 5.75 s earlier
+32.134,bomb ready,,,29.5,19.5,
+32.15,bomb ready,,,37.5,8.5,
+32.184,block start,3.1 Thor,blue,11.225,6.875,
+32.266,prevent stop,RoyaltyKeyz,red,8.75,7.375,3 s counted
+32.266,prevent stop,Mueller,red,13.775,7.05,7 s counted
+32.353,bomb ready,,,11.5,1.5,
+33.3,block stop,stall2hammer,blue,14.85,4.85,5.00 s
+34.067,boost ready,,,2.5,4.5,
+34.101,block start,havok,red,16.175,10.05,
+34.133,boost ready,,,3.5,3.5,
+34.836,bomb ready,,,3.5,12.5,
+35.017,block stop,RoyaltyKeyz,red,18.025,8.35,5.00 s
+35.017,block stop,timmysumball,blue,18.425,7.5,5.00 s
+35.868,boost ready,,,17.5,12.5,
+37.1,boost used,Mueller,red,17.5,12.5,
+37.184,pop,3.1 Thor,blue,15.925,10.725,"carrying red flag; returned by Mueller; splat at 15.925,10.725"
+37.184,block stop,3.1 Thor,blue,15.925,10.725,5.00 s
+37.271,prevent start,Mueller,red,16.175,10.725,up to 1 s before the first counted second
+37.584,boost ready,,,23.5,8.5,
+37.651,bomb used,havok,red,11.5,1.5,
+39.033,boost used,SvgCabbage,blue,23.5,8.5,
+39.101,pop,havok,red,20.525,9.4,"carrying blue flag; returned by timmysumball; splat at 20.525,9.4"
+39.101,block stop,havok,red,20.525,9.4,5.00 s
+39.267,prevent stop,Mueller,red,6.9,5.825,2 s counted
+39.35,grab,Robiny,red,29.8,11.925,blue flag; previous carrier havok popped 0.25 s earlier
+40.183,respawn,3.1 Thor,blue,30,10,
+40.266,prevent start,Mueller,red,8.025,7.9,up to 1 s before the first counted second
+41.134,bomb used,stall2hammer,blue,3.5,12.5,
+41.466,grab,stall2hammer,blue,5.55,10.225,red flag; previous carrier 3.1 Thor popped 4.28 s earlier
+42.1,respawn,havok,red,11,11,
+42.266,prevent stop,Mueller,red,14.725,5.475,2 s counted
+44.133,block start,stall2hammer,blue,26.575,10.375,
+44.333,block start,havok,red,22,8,
+46.966,bomb used,stall2hammer,blue,29.5,19.5,
+47.102,boost ready,,,17.5,12.5,
+48.582,boost used,SvgCabbage,blue,17.5,12.5,
+49.034,boost ready,,,23.5,8.5,
+49.066,boost used,havok,red,23.5,8.5,
+49.133,pop,stall2hammer,blue,17.75,11.2,"carrying red flag; returned by havok; splat at 17.75,11.2"
+49.133,block stop,stall2hammer,blue,17.75,11.2,5.00 s
+49.267,prevent start,Mueller,red,10.125,8.325,up to 1 s before the first counted second
+49.333,block stop,havok,red,17.2,9.85,5.00 s
+49.4,block start,havok,red,17.2,9.85,
+50.267,prevent start,havok,red,14.65,7.525,up to 1 s before the first counted second
+51.234,block start,Mueller,red,11.225,8.8,
+51.383,block start,Robiny,red,22,6.7,
+52.133,respawn,stall2hammer,blue,28,14,
+53.083,grab,SvgCabbage,blue,9.375,7.375,red flag; previous carrier stall2hammer popped 3.95 s earlier
+53.321,pop,SvgCabbage,blue,9.575,7.25,"carrying red flag; returned by Mueller; splat at 9.575,7.25"
+53.547,message,,,,,"You were tagged by a player and dropped the flag! When you have a flag, the other team can pop you."
+54.016,block start,timmysumball,blue,14.875,5.4,
+54.4,block stop,havok,red,12.575,6.4,5.00 s
+55.3,block start,stall2hammer,blue,16.375,8.175,
+55.334,flaccid,SvgCabbage,blue,9.575,7.25,
+56.234,block stop,Mueller,red,12.025,6.5,5.00 s
+56.337,respawn,SvgCabbage,blue,26,10,
+56.383,pop,Robiny,red,10.425,1.975,"carrying blue flag; returned by timmysumball; splat at 10.425,1.975"
+56.383,block stop,Robiny,red,10.425,1.975,5.00 s
+56.634,grab,RoyaltyKeyz,red,30.125,12,blue flag; previous carrier Robiny popped 0.25 s earlier
+58.583,boost ready,,,17.5,12.5,
+58.916,grab,timmysumball,blue,11.05,7,red flag; previous carrier SvgCabbage popped 5.59 s earlier
+58.967,block start,RoyaltyKeyz,red,26.225,13.8,
+59.016,block stop,timmysumball,blue,10.475,7.95,5.00 s
+59.03,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+59.067,boost ready,,,23.5,8.5,
+59.2,boost used,havok,red,23.5,8.5,
+59.266,prevent stop,Mueller,red,10.05,9.25,10 s counted
+59.266,prevent stop,havok,red,22.85,8.525,9 s counted
+59.383,respawn,Robiny,red,12,8,
+60.002,pup spawn,,,19.5,5.5,juke juice
+60.003,pup spawn,,,21.5,15.5,tagpro
+60.216,boost used,havok,red,37.5,17.5,
+60.249,boost used,havok,red,38.5,16.5,
+60.3,block stop,stall2hammer,blue,9.525,7.9,5.00 s
+61.2,pup taken,,,19.5,5.5,juke juice
+61.216,pup pickup,3.1 Thor,blue,17.625,5.25,juke juice
+61.384,boost used,timmysumball,blue,17.5,12.5,
+61.777,message,,,,,"When the other teams has your flag, chase the flag carrier down and tag them to return it to your base."
+61.783,block start,timmysumball,blue,27.075,11,
+62.801,pup taken,,,21.5,15.5,tagpro
+62.816,pup pickup,SvgCabbage,blue,21.3,14.125,tagpro
+63.967,pop,RoyaltyKeyz,red,13.625,14.25,"carrying blue flag; returned by 3.1 Thor; splat at 13.625,14.25"
+63.967,block stop,RoyaltyKeyz,red,13.625,14.25,5.00 s
+64.45,bomb used,timmysumball,blue,37.5,8.5,
+64.65,block start,Mueller,red,25.925,9.8,
+66.051,block start,stall2hammer,blue,11,7.6,
+66.269,prevent start,SvgCabbage,blue,25.65,9.2,up to 1 s before the first counted second
+66.783,pop,timmysumball,blue,34.775,10.075,"carrying red flag; returned by Mueller; splat at 34.775,10.075"
+66.783,block stop,timmysumball,blue,34.775,10.075,5.00 s
+66.966,respawn,RoyaltyKeyz,red,10,5,
+67.267,prevent start,3.1 Thor,blue,28.475,12.475,up to 1 s before the first counted second
+67.651,bomb ready,,,11.5,1.5,
+67.75,grab,stall2hammer,blue,10.45,7.3,red flag; previous carrier timmysumball popped 0.97 s earlier
+69.202,boost ready,,,23.5,8.5,
+69.55,grab,Mueller,red,30.45,11.15,blue flag; previous carrier RoyaltyKeyz popped 5.58 s earlier
+69.65,block stop,Mueller,red,30.45,11.15,5.00 s
+69.783,respawn,timmysumball,blue,31,14,
+69.801,pop,Mueller,red,29.375,11.4,"carrying blue flag; returned by 3.1 Thor; splat at 29.375,11.4"
+70.1,boost used,stall2hammer,blue,23.5,8.5,
+70.217,boost ready,,,37.5,17.5,
+70.25,boost ready,,,38.5,16.5,
+70.284,prevent stop,SvgCabbage,blue,35.725,16.2,4 s counted
+70.9,block start,Robiny,red,28.5,13.5,
+71.051,pop,stall2hammer,blue,35.875,11.725,"carrying red flag; returned by havok; splat at 35.875,11.725"
+71.051,block stop,stall2hammer,blue,35.875,11.725,5.00 s
+71.135,bomb ready,,,3.5,12.5,
+71.384,boost ready,,,17.5,12.5,
+71.8,flaccid,Mueller,red,29.375,11.4,
+72.266,prevent start,SvgCabbage,blue,33.35,13,up to 1 s before the first counted second
+72.8,respawn,Mueller,red,13,7,
+73.266,prevent start,timmysumball,blue,29.7,10.675,up to 1 s before the first counted second
+74.05,respawn,stall2hammer,blue,32,15,
+74.734,boost used,havok,red,38.5,16.5,
+74.833,boost used,havok,red,37.5,17.5,
+74.833,block start,havok,red,37.825,16.5,
+75.067,pop,RoyaltyKeyz,red,30,10.1,"tagged by SvgCabbage; splat at 30,10.1"
+75.766,grab,havok,red,30.85,12.05,blue flag; previous carrier Mueller popped 5.96 s earlier
+75.9,pop,Robiny,red,27.475,13.375,"tagged by SvgCabbage; splat at 27.475,13.375"
+75.9,block stop,Robiny,red,27.475,13.375,5.00 s
+76.084,boost used,Mueller,red,17.5,12.5,
+76.283,prevent stop,3.1 Thor,blue,26.225,11.65,9 s counted
+76.283,prevent stop,SvgCabbage,blue,27.875,11.075,4 s counted
+76.283,prevent stop,timmysumball,blue,22.05,6.1,3 s counted
+76.966,bomb ready,,,29.5,19.5,
+77.816,pup ended,SvgCabbage,blue,30.425,5.575,tagpro
+78.067,respawn,RoyaltyKeyz,red,14,5,
+78.301,block start,Robiny,red,27.475,13.375,
+78.533,grab,timmysumball,blue,10.625,7.275,red flag; previous carrier stall2hammer popped 7.48 s earlier
+78.9,respawn,Robiny,red,14,7,
+79.833,pop,havok,red,37.575,12.05,"carrying blue flag; returned by SvgCabbage; splat at 37.575,12.05"
+79.833,block stop,havok,red,37.575,12.05,5.00 s
+80.101,boost ready,,,23.5,8.5,
+80.283,prevent start,3.1 Thor,blue,35,10.95,up to 1 s before the first counted second
+80.283,prevent start,stall2hammer,blue,32.7,12.5,up to 1 s before the first counted second
+81.001,grab,Mueller,red,30.425,11.3,blue flag; previous carrier havok popped 1.17 s earlier
+81.216,pup ended,3.1 Thor,blue,34.1,10.325,juke juice
+81.283,prevent stop,3.1 Thor,blue,33.35,10.15,1 s counted
+81.283,prevent stop,stall2hammer,blue,31.6,12,1 s counted
+81.779,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+81.834,bomb used,timmysumball,blue,3.5,12.5,
+82.031,message,,,,,"When the other teams has your flag, chase the flag carrier down and tag them to return it to your base."
+82.4,block start,timmysumball,blue,8.425,5.95,
+82.834,respawn,havok,red,13,10,
+83.215,boost used,3.1 Thor,blue,23.5,8.5,
+83.301,block stop,Robiny,red,17.15,11.3,5.00 s
+83.433,bomb used,stall2hammer,blue,29.5,19.5,
+84.383,block start,havok,red,13.55,8.425,
+84.683,block start,RoyaltyKeyz,red,12.775,9.125,
+84.734,boost ready,,,38.5,16.5,
+84.833,boost ready,,,37.5,17.5,
+86.085,boost ready,,,17.5,12.5,
+87.4,pop,timmysumball,blue,22.6,13.375,"carrying red flag; returned by havok; splat at 22.6,13.375"
+87.4,block stop,timmysumball,blue,22.6,13.375,5.00 s
+87.451,block start,Mueller,red,16.9,13.675,
+87.466,grab,3.1 Thor,blue,8.975,8.8,red flag; previous carrier timmysumball popped 0.07 s earlier
+87.549,message,,,,,"You were tagged by a player and dropped the flag! When you have a flag, the other team can pop you."
+89.333,block start,SvgCabbage,blue,22.65,9.25,
+89.683,block stop,RoyaltyKeyz,red,23.325,11.75,5.00 s
+90.4,respawn,timmysumball,blue,32,12,
+90.816,block start,timmysumball,blue,32.025,12,
+91.734,block stop,havok,red,17.575,9.35,7.35 s
+91.9,block start,3.1 Thor,blue,11.625,2.95,
+92.451,pop,Mueller,red,26.025,7.4,"carrying blue flag; returned by timmysumball; splat at 26.025,7.4"
+92.451,block stop,Mueller,red,26.025,7.4,5.00 s
+93.216,boost ready,,,23.5,8.5,
+93.566,bomb used,3.1 Thor,blue,11.5,1.5,
+94.284,prevent start,timmysumball,blue,30.1,10.25,up to 1 s before the first counted second
+94.333,block stop,SvgCabbage,blue,21.375,9.675,5.00 s
+94.451,bomb ready,,,37.5,8.5,
+95.45,respawn,Mueller,red,11,8,
+95.7,block start,havok,red,17.25,14.5,
+95.816,block stop,timmysumball,blue,28.125,11.35,5.00 s
+96.9,pop,3.1 Thor,blue,20.275,11.375,"carrying red flag; returned by havok; splat at 20.275,11.375"
+96.9,block stop,3.1 Thor,blue,20.275,11.375,5.00 s
+99.284,prevent start,Mueller,red,9.25,6.575,up to 1 s before the first counted second
+99.301,block start,RoyaltyKeyz,red,19.15,9.6,
+99.6,block start,stall2hammer,blue,10.25,5.875,
+99.9,respawn,3.1 Thor,blue,32,15,
+100.284,prevent start,RoyaltyKeyz,red,15.825,8.075,up to 1 s before the first counted second
+100.7,grab,havok,red,29.25,11.825,blue flag; previous carrier Mueller popped 8.25 s earlier
+100.7,block stop,havok,red,29.25,11.825,5.00 s
+101.284,prevent stop,timmysumball,blue,30,12.875,7 s counted
+103.384,boost used,havok,red,23.5,8.5,
+104,boost used,timmysumball,blue,17.5,12.5,
+104.5,block start,Mueller,red,7.15,6.95,
+104.533,grab,stall2hammer,blue,10.825,8.675,red flag; previous carrier 3.1 Thor popped 7.63 s earlier
+104.6,block stop,stall2hammer,blue,10.825,8.675,5.00 s
+104.8,pop,stall2hammer,blue,9.025,7.375,"carrying red flag; returned by RoyaltyKeyz; splat at 9.025,7.375"
+105.066,boost used,SvgCabbage,blue,3.5,3.5,
+105.316,boost used,SvgCabbage,blue,2.5,4.5,
+105.466,score,,,,,red 1 - blue 0
+105.483,cap,havok,red,10.35,7.3,blue flag
+105.736,grab,Robiny,red,29.775,12.125,blue flag
+106.283,prevent start,havok,red,11.35,7.625,up to 1 s before the first counted second
+106.8,flaccid,stall2hammer,blue,9.025,7.375,
+107.8,respawn,stall2hammer,blue,28,15,
+108.283,prevent stop,havok,red,19.55,10.55,2 s counted
+108.584,block start,havok,red,20.975,11.075,
+110.016,block start,3.1 Thor,blue,11.8,8.95,
+110.336,block start,timmysumball,blue,9.45,6.25,
+110.433,block stop,RoyaltyKeyz,red,11.3,8.55,11.13 s
+110.584,block stop,Mueller,red,9.875,6.675,6.08 s
+110.616,score,,,,,red 2 - blue 0
+110.633,cap,Robiny,red,9.925,9.275,blue flag
+110.868,grab,havok,red,29.8,12.375,blue flag
+111.283,prevent start,Robiny,red,10.35,7.175,up to 1 s before the first counted second
+111.835,bomb ready,,,3.5,12.5,
+112.567,block start,stall2hammer,blue,15.7,12.7,
+113.283,prevent stop,Robiny,red,18.5,10.6,2 s counted
+113.386,boost ready,,,23.5,8.5,
+113.433,bomb ready,,,29.5,19.5,
+113.466,boost used,stall2hammer,blue,23.5,8.5,
+113.584,pop,havok,red,24.65,7.35,"carrying blue flag; returned by stall2hammer; splat at 24.65,7.35"
+113.584,block stop,havok,red,24.65,7.35,5.00 s
+114.001,boost ready,,,17.5,12.5,
+114.567,bomb used,3.1 Thor,blue,3.5,12.5,
+114.966,grab,3.1 Thor,blue,6.3,9.825,red flag; previous carrier stall2hammer popped 10.17 s earlier
+115.016,block stop,3.1 Thor,blue,10.025,7.25,5.00 s
+115.068,boost ready,,,3.5,3.5,
+115.289,prevent stop,RoyaltyKeyz,red,10.9,8.25,15 s counted
+115.289,prevent stop,Mueller,red,11.4,5,16 s counted
+115.318,boost ready,,,2.5,4.5,
+115.336,block stop,timmysumball,blue,11.825,8.75,5.00 s
+115.567,block start,3.1 Thor,blue,13.1,6,
+116.584,respawn,havok,red,13,9,
+117.284,prevent start,stall2hammer,blue,26.6,9.375,up to 1 s before the first counted second
+118.066,boost used,havok,red,17.5,12.5,
+119.4,block start,SvgCabbage,blue,13.725,8.45,
+119.4,block start,Robiny,red,28.675,8.3,
+119.516,boost used,havok,red,38.5,16.5,
+119.584,boost used,havok,red,37.5,17.5,
+120.549,block stop,stall2hammer,blue,28.95,9.775,7.98 s
+120.567,pop,3.1 Thor,blue,27.675,11.075,"carrying red flag; returned by Robiny; splat at 27.675,11.075"
+120.567,block stop,3.1 Thor,blue,27.675,11.075,5.00 s
+121,block start,stall2hammer,blue,29.7,10.125,
+121.201,pup spawn,,,19.5,5.5,rolling bomb
+121.234,grab,havok,red,30.4,12.675,blue flag; previous carrier havok popped 7.65 s earlier
+121.284,prevent stop,stall2hammer,blue,30.325,10.55,4 s counted
+121.35,block start,3.1 Thor,blue,27.675,11.075,
+121.6,grab,timmysumball,blue,10.325,8.925,red flag; previous carrier 3.1 Thor popped 1.03 s earlier
+122.802,pup spawn,,,21.5,15.5,juke juice
+123.468,boost ready,,,23.5,8.5,
+123.566,respawn,3.1 Thor,blue,26,15,
+123.567,bomb ready,,,11.5,1.5,
+123.984,pup taken,,,19.5,5.5,rolling bomb
+124,pup pickup,Robiny,red,19.775,5.075,rolling bomb
+124.117,bomb used,stall2hammer,blue,29.5,19.5,
+124.117,pup taken,,,21.5,15.5,juke juice
+124.133,pup pickup,RoyaltyKeyz,red,22.075,15,juke juice
+124.4,block stop,SvgCabbage,blue,17.725,6.3,5.00 s
+124.768,boost used,stall2hammer,blue,23.5,8.5,
+126.35,block stop,3.1 Thor,blue,13.375,7.85,5.00 s
+126.366,block stop,stall2hammer,blue,14.25,6.25,5.37 s
+126.499,block stop,Robiny,red,12.55,7.125,7.10 s
+128.067,boost ready,,,17.5,12.5,
+128.584,block start,timmysumball,blue,18.075,14.15,
+128.85,bomb used,havok,red,11.5,1.5,
+128.934,boost used,SvgCabbage,blue,17.5,12.5,
+129.517,boost ready,,,38.5,16.5,
+129.585,boost ready,,,37.5,17.5,
+131.032,message,,,,,You can only capture the flag if your team's flag is at base. Keep running until your team's flag is returned!
+131.901,boost used,havok,red,37.5,17.5,
+132.016,boost used,havok,red,38.5,16.5,
+132.585,bomb used,havok,red,37.5,8.5,
+133.584,pop,timmysumball,blue,37.8,16.25,"carrying red flag; returned by Mueller; splat at 37.8,16.25"
+133.584,block stop,timmysumball,blue,37.8,16.25,5.00 s
+134.769,boost ready,,,23.5,8.5,
+136.033,boost used,3.1 Thor,blue,23.5,8.5,
+136.217,block start,stall2hammer,blue,14.85,9.675,
+136.281,explosion,,,16.15,8.525,
+136.284,pup ended,Robiny,red,16.15,8.525,rolling bomb
+136.284,prevent start,Robiny,red,16.15,8.525,up to 1 s before the first counted second
+136.584,respawn,timmysumball,blue,26,13,
+138.55,score,,,,,red 3 - blue 0
+138.567,cap,havok,red,11,8.725,blue flag
+138.816,grab,RoyaltyKeyz,red,29.425,11.75,blue flag
+138.935,boost ready,,,17.5,12.5,
+139.284,prevent start,havok,red,8.825,6.325,up to 1 s before the first counted second
+139.401,block start,3.1 Thor,blue,8.2,8.525,
+139.683,grab,3.1 Thor,blue,8.825,8.45,red flag; previous carrier timmysumball popped 6.10 s earlier
+140.284,prevent stop,havok,red,9.5,6.85,1 s counted
+140.284,prevent stop,Robiny,red,11.2,8.575,4 s counted
+141.2,boost used,3.1 Thor,blue,17.5,12.5,
+141.217,block stop,stall2hammer,blue,13.55,9.5,5.00 s
+141.566,block start,timmysumball,blue,27.35,8,
+141.902,boost ready,,,37.5,17.5,
+141.951,block start,SvgCabbage,blue,8.525,5.425,
+142.016,boost ready,,,38.5,16.5,
+142.566,boost used,3.1 Thor,blue,37.5,17.5,
+142.651,boost used,3.1 Thor,blue,38.5,16.5,
+144.133,pup ended,RoyaltyKeyz,red,16.125,9.375,juke juice
+144.401,pop,3.1 Thor,blue,32.675,9.15,"carrying red flag; returned by Mueller; splat at 32.675,9.15"
+144.401,block stop,3.1 Thor,blue,32.675,9.15,5.00 s
+144.583,bomb ready,,,3.5,12.5,
+144.651,grab,SvgCabbage,blue,10.15,8.325,red flag; previous carrier 3.1 Thor popped 0.25 s earlier
+146.034,boost ready,,,23.5,8.5,
+146.566,block stop,timmysumball,blue,17.1,10.45,5.00 s
+146.951,pop,SvgCabbage,blue,16.275,9.825,"carrying red flag; returned by Robiny; splat at 16.275,9.825"
+146.951,block stop,SvgCabbage,blue,16.275,9.825,5.00 s
+147.316,boost used,RoyaltyKeyz,red,23.5,8.5,
+147.4,respawn,3.1 Thor,blue,32,11,
+147.8,grab,stall2hammer,blue,10.375,8.85,red flag; previous carrier SvgCabbage popped 0.85 s earlier
+147.851,block start,Mueller,red,30.525,11.125,
+149.951,respawn,SvgCabbage,blue,29,15,
+151.117,block start,havok,red,29.025,12.025,
+151.201,boost ready,,,17.5,12.5,
+151.217,block start,timmysumball,blue,15.75,9.15,
+152.567,boost ready,,,37.5,17.5,
+152.652,boost ready,,,38.5,16.5,
+152.851,block stop,Mueller,red,18.575,7.25,5.00 s
+154.117,bomb ready,,,29.5,19.5,
+154.216,block start,RoyaltyKeyz,red,21.775,6.075,
+155.834,bomb used,stall2hammer,blue,3.5,12.5,
+156.217,block stop,timmysumball,blue,9.725,8.9,5.00 s
+157.317,boost ready,,,23.5,8.5,
+158.116,block stop,havok,red,32.4,10.375,7.00 s
+158.266,boost used,RoyaltyKeyz,red,37.5,17.5,
+158.334,boost used,RoyaltyKeyz,red,38.5,16.5,
+158.851,bomb ready,,,11.5,1.5,
+159.216,pop,RoyaltyKeyz,red,36.575,12.175,"carrying blue flag; returned by 3.1 Thor; splat at 36.575,12.175"
+159.216,block stop,RoyaltyKeyz,red,36.575,12.175,5.00 s
+159.283,prevent start,SvgCabbage,blue,31.025,12.5,up to 1 s before the first counted second
+159.517,block start,stall2hammer,blue,21.35,10.775,
+160.466,grab,havok,red,31.275,12.75,blue flag; previous carrier RoyaltyKeyz popped 1.25 s earlier
+160.501,block start,RoyaltyKeyz,red,36.575,12.175,
+161.283,prevent stop,SvgCabbage,blue,29.45,10.45,2 s counted
+161.401,block start,havok,red,27.05,12.525,
+162.216,respawn,RoyaltyKeyz,red,11,9,
+162.586,bomb ready,,,37.5,8.5,
+162.716,boost used,Mueller,red,17.5,12.5,
+163.283,block start,timmysumball,blue,10.4,9.05,
+163.534,bomb used,3.1 Thor,blue,29.5,19.5,
+164.417,boost used,Robiny,red,23.5,8.5,
+164.484,bomb used,Mueller,red,11.5,1.5,
+164.517,pop,stall2hammer,blue,21.575,6.5,"carrying red flag; returned by Robiny; splat at 21.575,6.5"
+164.517,block stop,stall2hammer,blue,21.575,6.5,5.00 s
+165.283,prevent start,RoyaltyKeyz,red,10.7,9.05,up to 1 s before the first counted second
+165.501,block stop,RoyaltyKeyz,red,10.425,9.25,5.00 s
+166.1,block start,stall2hammer,blue,21.575,6.5,
+166.401,pop,havok,red,9.4,7.375,"carrying blue flag; returned by 3.1 Thor; splat at 9.4,7.375"
+166.401,block stop,havok,red,9.4,7.375,5.00 s
+167.266,block start,3.1 Thor,blue,10.7,5.925,
+167.284,grab,Mueller,red,29.4,12.8,blue flag; previous carrier havok popped 0.88 s earlier
+167.516,respawn,stall2hammer,blue,30,10,
+168.018,grab,3.1 Thor,blue,10.325,7.2,red flag; previous carrier stall2hammer popped 3.50 s earlier
+168.268,boost ready,,,37.5,17.5,
+168.283,prevent stop,RoyaltyKeyz,red,9.425,9.55,3 s counted
+168.335,boost ready,,,38.5,16.5,
+168.433,bomb used,Mueller,red,37.5,8.5,
+169.4,respawn,havok,red,8,5,
+170.284,block start,Robiny,red,23.825,12.175,
+170.851,block stop,timmysumball,blue,16.5,10,7.57 s
+171.1,block stop,stall2hammer,blue,24.9,10.275,5.00 s
+172.266,pop,3.1 Thor,blue,18.025,11.65,"carrying red flag; returned by havok; splat at 18.025,11.65"
+172.266,block stop,3.1 Thor,blue,18.025,11.65,5.00 s
+172.717,boost ready,,,17.5,12.5,
+173.3,grab,SvgCabbage,blue,9.125,8.325,red flag; previous carrier 3.1 Thor popped 1.03 s earlier
+173.566,boost used,timmysumball,blue,17.5,12.5,
+173.63,message,,,,,"When the other teams has your flag, chase the flag carrier down and tag them to return it to your base."
+174.417,boost ready,,,23.5,8.5,
+175.266,respawn,3.1 Thor,blue,29,12,
+175.284,block stop,Robiny,red,29.8,11.575,5.00 s
+176.45,boost used,Mueller,red,23.5,8.5,
+177.714,message,,,,,You can only capture the flag if your team's flag is at base. Keep running until your team's flag is returned!
+178.351,block start,SvgCabbage,blue,17.925,10.65,
+181.2,block start,Mueller,red,22.975,5.95,
+181.236,message,,,,,You can only capture the flag if your team's flag is at base. Keep running until your team's flag is returned!
+183.351,pop,SvgCabbage,blue,26.725,9.4,"carrying red flag; returned by havok; splat at 26.725,9.4"
+183.351,block stop,SvgCabbage,blue,26.725,9.4,5.00 s
+183.567,boost ready,,,17.5,12.5,
+183.601,grab,stall2hammer,blue,10.225,8.1,red flag; previous carrier SvgCabbage popped 0.25 s earlier
+183.986,pup spawn,,,19.5,5.5,rolling bomb
+184.119,pup spawn,,,21.5,15.5,rolling bomb
+184.95,boost used,timmysumball,blue,17.5,12.5,
+185.066,pup taken,,,19.5,5.5,rolling bomb
+185.083,pup pickup,3.1 Thor,blue,19.95,5.45,rolling bomb
+185.534,pup taken,,,21.5,15.5,rolling bomb
+185.55,pup pickup,Mueller,red,20.125,14.6,rolling bomb
+185.834,bomb ready,,,3.5,12.5,
+186.183,explosion,,,21.9,14.65,
+186.2,pup ended,Mueller,red,21.925,14.65,rolling bomb
+186.2,block stop,Mueller,red,21.925,14.65,5.00 s
+186.35,respawn,SvgCabbage,blue,27,10,
+186.451,boost ready,,,23.5,8.5,
+187.618,block start,Mueller,red,20.5,13.725,
+187.618,block start,stall2hammer,blue,15.475,10.325,
+188.533,boost used,RoyaltyKeyz,red,23.5,8.5,
+189.433,block start,havok,red,30.575,12.05,
+190.4,block start,RoyaltyKeyz,red,12.4,11.5,
+192.618,block stop,Mueller,red,34.275,15.35,5.00 s
+192.618,block stop,stall2hammer,blue,33.375,15.175,5.00 s
+193.116,boost used,Mueller,red,37.5,17.5,
+193.2,block start,Robiny,red,20.025,9.6,
+193.215,boost used,Mueller,red,38.5,16.5,
+193.534,bomb ready,,,29.5,19.5,
+194.433,block stop,havok,red,30.825,11.475,5.00 s
+194.485,bomb ready,,,11.5,1.5,
+194.951,boost ready,,,17.5,12.5,
+195.4,block stop,RoyaltyKeyz,red,30.7,7.725,5.00 s
+197.916,boost used,SvgCabbage,blue,17.5,12.5,
+197.934,bomb used,3.1 Thor,blue,11.5,1.5,
+198.2,block stop,Robiny,red,10.35,7.475,5.00 s
+198.435,bomb ready,,,37.5,8.5,
+198.535,boost ready,,,23.5,8.5,
+199.484,bomb used,stall2hammer,blue,37.5,8.5,
+200.033,block start,Robiny,red,6.125,11.95,
+200.667,bomb used,Robiny,red,3.5,12.5,
+201.534,boost used,Robiny,red,23.5,8.5,
+203.116,boost ready,,,37.5,17.5,
+203.215,boost ready,,,38.5,16.5,
+203.233,block start,SvgCabbage,blue,12.625,9.525,
+205.083,pup ended,3.1 Thor,blue,9.8,8,rolling bomb
+206.583,block stop,Robiny,red,32.675,13.075,6.55 s
+207.917,boost ready,,,17.5,12.5,
+208.033,bomb used,Mueller,red,29.5,19.5,
+208.233,block stop,SvgCabbage,blue,14.575,11.55,5.00 s
+209.1,boost used,timmysumball,blue,38.5,16.5,
+209.182,boost used,timmysumball,blue,37.5,17.5,
+209.284,block start,stall2hammer,blue,4.3,7.375,
+209.983,block start,RoyaltyKeyz,red,15.875,7.575,
+211.533,boost ready,,,23.5,8.5,
+211.551,boost used,Mueller,red,17.5,12.5,
+211.883,block start,havok,red,5.125,6.525,
+211.966,boost used,stall2hammer,blue,2.5,4.5,
+213.566,boost used,havok,red,3.5,3.5,
+214.284,pop,stall2hammer,blue,8,5.925,"carrying red flag; returned by havok; splat at 8,5.925"
+214.284,block stop,stall2hammer,blue,8,5.925,5.00 s
+214.3,prevent start,RoyaltyKeyz,red,10.7,6.7,up to 1 s before the first counted second
+214.3,prevent start,havok,red,7.275,5.475,up to 1 s before the first counted second
+214.75,block start,3.1 Thor,blue,11.05,8.575,
+216.883,block stop,havok,red,11.55,11.6,5.00 s
+217.284,respawn,stall2hammer,blue,31,14,
+217.301,block stop,RoyaltyKeyz,red,12.675,9.925,7.32 s
+217.617,score,,,,,red 4 - blue 0
+217.634,cap,Mueller,red,10.1,9.3,blue flag
+218.283,block start,Robiny,red,30.125,10.65,
+218.301,prevent start,Mueller,red,10.2,7.35,up to 1 s before the first counted second
+218.301,prevent start,timmysumball,blue,30.075,11.6,up to 1 s before the first counted second
+219.101,boost ready,,,38.5,16.5,
+219.182,boost ready,,,37.5,17.5,
+219.301,prevent stop,havok,red,14.875,12.175,5 s counted
+219.717,grab,3.1 Thor,blue,10.675,8.45,red flag; previous carrier stall2hammer popped 5.43 s earlier
+219.833,boost used,havok,red,23.5,8.5,
+220.3,prevent stop,RoyaltyKeyz,red,11.7,7.6,6 s counted
+220.3,prevent stop,Mueller,red,10.45,7.95,2 s counted
+220.3,prevent start,stall2hammer,blue,30.2,12.45,up to 1 s before the first counted second
+221.182,boost used,Robiny,red,38.5,16.5,
+221.3,boost used,Robiny,red,37.5,17.5,
+221.3,prevent stop,stall2hammer,blue,29.925,12.225,1 s counted
+221.3,prevent stop,timmysumball,blue,31.1,11.675,3 s counted
+221.552,boost ready,,,17.5,12.5,
+221.634,boost used,3.1 Thor,blue,17.5,12.5,
+221.967,boost ready,,,2.5,4.5,
+222.3,grab,Robiny,red,30.575,12.825,blue flag
+222.566,pop,3.1 Thor,blue,33.95,11.3,"carrying red flag; returned by havok; splat at 33.95,11.3"
+222.566,block stop,3.1 Thor,blue,33.95,11.3,7.82 s
+223.283,pop,Robiny,red,29.675,12.1,"carrying blue flag; returned by timmysumball; splat at 29.675,12.1"
+223.283,block stop,Robiny,red,29.675,12.1,5.00 s
+223.3,prevent start,Mueller,red,11.95,8.125,up to 1 s before the first counted second
+223.3,prevent start,stall2hammer,blue,28.6,8.9,up to 1 s before the first counted second
+223.3,prevent start,timmysumball,blue,29.375,11.175,up to 1 s before the first counted second
+223.566,boost ready,,,3.5,3.5,
+225.283,flaccid,Robiny,red,29.675,12.1,
+225.566,respawn,3.1 Thor,blue,32,11,
+226.283,respawn,Robiny,red,14,11,
+227.45,block start,3.1 Thor,blue,28.375,8.925,
+227.935,bomb ready,,,11.5,1.5,
+229.301,prevent start,Robiny,red,12.8,7.95,up to 1 s before the first counted second
+229.485,bomb ready,,,37.5,8.5,
+229.834,boost ready,,,23.5,8.5,
+230.667,bomb ready,,,3.5,12.5,
+231.183,boost ready,,,38.5,16.5,
+231.301,boost ready,,,37.5,17.5,
+231.634,boost ready,,,17.5,12.5,
+232,bomb used,3.1 Thor,blue,3.5,12.5,
+232.166,bomb used,havok,red,37.5,8.5,
+232.383,grab,3.1 Thor,blue,7.625,9.5,red flag; previous carrier 3.1 Thor popped 9.82 s earlier
+232.45,block stop,3.1 Thor,blue,10.6,7.9,5.00 s
+232.567,grab,havok,red,31.65,11.725,blue flag; previous carrier Robiny popped 9.28 s earlier
+232.966,block start,havok,red,28.45,13.925,
+233.301,prevent stop,Mueller,red,20.075,3.775,10 s counted
+233.301,prevent stop,stall2hammer,blue,30.3,15.775,10 s counted
+233.301,prevent stop,Robiny,red,15.85,4.8,4 s counted
+233.301,prevent stop,timmysumball,blue,29.425,10.3,10 s counted
+234.85,boost used,timmysumball,blue,23.5,8.5,
+234.933,boost used,timmysumball,blue,17.5,12.5,
+237.066,block start,Mueller,red,20.05,12.075,
+237.066,block start,stall2hammer,blue,13.475,10.7,
+237.966,pop,havok,red,9.825,8.175,"carrying blue flag; returned by stall2hammer; splat at 9.825,8.175"
+237.966,block stop,havok,red,9.825,8.175,5.00 s
+238,grab,RoyaltyKeyz,red,29.475,11.325,blue flag; previous carrier havok popped 0.03 s earlier
+238.034,bomb ready,,,29.5,19.5,
+238.633,block start,Robiny,red,21.825,9.55,
+238.633,block start,timmysumball,blue,10.7,6,
+240.134,block start,3.1 Thor,blue,19.05,7.325,
+240.966,respawn,havok,red,13,11,
+242.066,block stop,Mueller,red,20.4,9.1,5.00 s
+243.633,block stop,Robiny,red,19.3,5.65,5.00 s
+244.733,block stop,timmysumball,blue,20.6,5.975,6.10 s
+244.851,boost ready,,,23.5,8.5,
+244.934,boost ready,,,17.5,12.5,
+244.95,block start,timmysumball,blue,20.6,5.975,
+245.067,pup spawn,,,19.5,5.5,rolling bomb
+245.134,pop,3.1 Thor,blue,24.675,6.2,"carrying red flag; returned by Mueller; splat at 24.675,6.2"
+245.134,block stop,3.1 Thor,blue,24.675,6.2,5.00 s
+245.535,pup spawn,,,21.5,15.5,rolling bomb
+245.85,boost used,timmysumball,blue,17.5,12.5,
+246.5,score,,,,,red 5 - blue 0
+246.516,cap,RoyaltyKeyz,red,10.675,8.6,blue flag
+246.566,pup taken,,,19.5,5.5,rolling bomb
+246.583,pup pickup,Robiny,red,20.05,5.3,rolling bomb
+246.95,grab,stall2hammer,blue,11.85,8.05,red flag; previous carrier 3.1 Thor popped 1.82 s earlier
+246.984,pup taken,,,21.5,15.5,rolling bomb
+247,pup pickup,havok,red,21.75,14.675,rolling bomb
+247.066,block start,SvgCabbage,blue,19.975,12.55,
+247.216,pop,stall2hammer,blue,9.3,7.2,"carrying red flag; returned by RoyaltyKeyz; splat at 9.3,7.2"
+247.216,block stop,stall2hammer,blue,9.3,7.2,10.15 s
+247.301,prevent start,RoyaltyKeyz,red,9.325,6.075,up to 1 s before the first counted second
+248.066,grab,Mueller,red,30.2,10.95,blue flag
+248.133,respawn,3.1 Thor,blue,30,13,
+248.301,prevent start,Robiny,red,15.425,7.125,up to 1 s before the first counted second
+249.016,handoff,stall2hammer,blue,9.3,7.2,
+249.016,grab,timmysumball,blue,9.15,8.075,red flag; previous carrier stall2hammer popped 1.80 s earlier
+249.047,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+249.301,prevent stop,RoyaltyKeyz,red,11.6,4.75,2 s counted
+249.301,prevent stop,Robiny,red,12.775,8.625,1 s counted
+249.95,flaccid,stall2hammer,blue,9.3,7.2,
+249.95,pop,timmysumball,blue,9.75,10.85,"carrying red flag; returned by Robiny; splat at 9.75,10.85"
+249.95,block stop,timmysumball,blue,9.75,10.85,5.00 s
+250.217,respawn,stall2hammer,blue,27,15,
+250.9,bomb used,Mueller,red,29.5,19.5,
+251,boost used,3.1 Thor,blue,23.5,8.5,
+251.3,prevent start,RoyaltyKeyz,red,10.825,8.925,up to 1 s before the first counted second
+251.3,prevent start,Robiny,red,10.825,10.025,up to 1 s before the first counted second
+251.633,grab,3.1 Thor,blue,11.125,9.075,red flag; previous carrier timmysumball popped 1.68 s earlier
+251.633,handoff,timmysumball,blue,9.75,10.85,
+252.166,block start,RoyaltyKeyz,red,8.3,5.8,
+252.166,block start,stall2hammer,blue,20.375,9.175,
+252.3,prevent stop,RoyaltyKeyz,red,7.6,5.05,1 s counted
+252.3,prevent stop,Robiny,red,10.9,10.1,1 s counted
+252.95,respawn,timmysumball,blue,32,13,
+253.349,good handoff,timmysumball,blue,31.85,12.975,
+254.333,block start,Robiny,red,10.625,9.3,
+254.569,block stop,SvgCabbage,blue,10.175,8.925,7.50 s
+255.066,block start,SvgCabbage,blue,10.95,9.625,
+255.851,boost ready,,,17.5,12.5,
+256.884,explosion,,,9.875,12.4,
+256.901,pup ended,Robiny,red,9.875,12.4,rolling bomb
+257.166,block stop,RoyaltyKeyz,red,12.75,9.275,5.00 s
+257.166,block stop,stall2hammer,blue,13.15,8.475,5.00 s
+257.167,boost used,Mueller,red,17.5,12.5,
+257.484,block start,Mueller,red,17.275,14.725,
+260.5,block stop,SvgCabbage,blue,25.25,6.925,5.43 s
+260.55,block stop,Robiny,red,11.5,7.1,6.22 s
+261,boost ready,,,23.5,8.5,
+262.001,bomb ready,,,3.5,12.5,
+262.075,message,,,,,"When the other teams has your flag, chase the flag carrier down and tag them to return it to your base."
+262.167,bomb ready,,,37.5,8.5,
+262.484,pop,Mueller,red,14.675,9.975,"carrying blue flag; returned by timmysumball; splat at 14.675,9.975"
+262.484,block stop,Mueller,red,14.675,9.975,5.00 s
+262.576,message,,,,,"You were tagged by a player and dropped the flag! When you have a flag, the other team can pop you."
+262.6,boost used,RoyaltyKeyz,red,23.5,8.5,
+262.735,grab,havok,red,30.05,11.925,blue flag; previous carrier Mueller popped 0.25 s earlier
+263.466,block start,RoyaltyKeyz,red,12.45,5.1,
+263.466,block start,SvgCabbage,blue,25.45,8.85,
+263.75,bomb used,RoyaltyKeyz,red,11.5,1.5,
+265.484,respawn,Mueller,red,14,11,
+267,pup ended,havok,red,34.525,9.125,rolling bomb
+267.168,boost ready,,,17.5,12.5,
+267.401,bomb used,havok,red,37.5,8.5,
+267.765,boost used,Robiny,red,17.5,12.5,
+267.933,block start,Robiny,red,22,8,
+269.051,block start,3.1 Thor,blue,23.125,6.3,
+269.516,block stop,RoyaltyKeyz,red,25.2,11.15,6.05 s
+269.516,block stop,SvgCabbage,blue,25.7,11.975,6.05 s
+271.4,boost used,Robiny,red,38.5,16.5,
+271.484,boost used,Robiny,red,37.5,17.5,
+272.601,boost ready,,,23.5,8.5,
+272.683,block start,Mueller,red,13.65,8.425,
+272.751,block start,havok,red,29.525,10.9,
+273.216,block stop,Robiny,red,31.25,10.975,5.28 s
+274.051,pop,3.1 Thor,blue,21.4,6.65,"carrying red flag; returned by Mueller; splat at 21.4,6.65"
+274.783,grab,timmysumball,blue,10.9,7.9,red flag; previous carrier 3.1 Thor popped 0.73 s earlier
+277.05,respawn,3.1 Thor,blue,29,15,
+277.683,block stop,Mueller,red,17.4,3,5.00 s
+277.751,pop,havok,red,18.625,4.125,"carrying blue flag; returned by SvgCabbage; splat at 18.625,4.125"
+277.751,block stop,havok,red,18.625,4.125,5.00 s
+277.766,boost ready,,,17.5,12.5,
+278.65,block start,Robiny,red,28.25,11.575,
+278.65,block start,timmysumball,blue,22.225,8.875,
+278.866,block start,Mueller,red,15.225,4.1,
+280.3,prevent start,3.1 Thor,blue,28.275,11.825,up to 1 s before the first counted second
+280.75,respawn,havok,red,9,10,
+280.9,bomb ready,,,29.5,19.5,
+281.3,block start,RoyaltyKeyz,red,26.05,11.275,
+281.401,boost ready,,,38.5,16.5,
+281.485,boost ready,,,37.5,17.5,
+282.216,boost used,Mueller,red,23.5,8.5,
+282.3,grab,Robiny,red,29.025,12,blue flag; previous carrier havok popped 4.55 s earlier
+282.3,prevent stop,3.1 Thor,blue,27.85,10.7,2 s counted
+283.083,boost used,havok,red,17.5,12.5,
+283.65,block stop,Robiny,red,34.3,11.575,5.00 s
+283.866,block stop,3.1 Thor,blue,32.65,10.675,14.81 s
+284.716,pop,timmysumball,blue,37.525,14.6,"carrying red flag; returned by havok; splat at 37.525,14.6"
+284.716,block stop,timmysumball,blue,37.525,14.6,6.07 s
+284.725,message,,,,,"You were tagged by a player and dropped the flag! When you have a flag, the other team can pop you."
+284.866,boost used,havok,red,38.5,16.5,
+284.916,boost used,havok,red,37.5,17.5,
+285.201,block start,stall2hammer,blue,11.125,9.025,
+285.333,block start,Robiny,red,37.375,10.25,
+286.1,grab,stall2hammer,blue,10.825,8.525,red flag; previous carrier timmysumball popped 1.38 s earlier
+287.716,respawn,timmysumball,blue,27,11,
+287.816,block stop,Mueller,red,30.225,9.9,8.95 s
+287.95,block start,timmysumball,blue,27,11,
+288.301,bomb used,stall2hammer,blue,3.5,12.5,
+288.965,block stop,RoyaltyKeyz,red,24.5,9,7.67 s
+289.583,boost used,stall2hammer,blue,2.5,4.5,
+289.984,block start,havok,red,5.55,3,
+290.201,pop,stall2hammer,blue,3.2,4.075,"carrying red flag; returned by havok; splat at 3.2,4.075"
+290.201,block stop,stall2hammer,blue,3.2,4.075,5.00 s
+290.234,boost used,havok,red,3.5,3.5,
+290.333,pop,Robiny,red,12.25,7.85,"carrying blue flag; returned by 3.1 Thor; splat at 12.25,7.85"
+290.333,block stop,Robiny,red,12.25,7.85,5.00 s
+290.451,grab,3.1 Thor,blue,11.5,8.5,red flag; previous carrier stall2hammer popped 0.25 s earlier
+291.201,grab,Mueller,red,29.05,11.275,blue flag; previous carrier Robiny popped 0.87 s earlier
+291.254,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+292.217,boost ready,,,23.5,8.5,
+293.084,boost ready,,,17.5,12.5,
+293.166,block start,stall2hammer,blue,3.2,4.075,
+293.2,respawn,stall2hammer,blue,30,14,
+293.334,respawn,Robiny,red,13,9,
+293.426,chat,stall2hammer,blue,30,14,"to team: pups up, zaddy!"
+293.75,bomb ready,,,11.5,1.5,
+293.966,bomb used,Mueller,red,29.5,19.5,
+294.2,block start,SvgCabbage,blue,20.025,8.35,
+294.866,boost ready,,,38.5,16.5,
+294.917,boost ready,,,37.5,17.5,
+294.967,boost used,havok,red,17.5,12.5,
+294.984,block stop,havok,red,16.725,11.5,5.00 s
+295.05,boost used,havok,red,23.5,8.5,
+297.402,bomb ready,,,37.5,8.5,
+298.166,block stop,stall2hammer,blue,30.225,9.95,5.00 s
+298.166,block stop,timmysumball,blue,22.275,10.65,10.22 s
+299.2,block stop,SvgCabbage,blue,21.25,13.725,5.00 s
+299.266,block start,RoyaltyKeyz,red,27.525,10.625,
+299.316,block start,havok,red,31,11.05,
+299.583,boost ready,,,2.5,4.5,
+299.701,block start,Robiny,red,21.3,13.4,
+300.235,boost ready,,,3.5,3.5,
+301.616,block start,3.1 Thor,blue,19.35,7.65,
+301.616,block start,Mueller,red,12.025,2.8,
+303.234,bomb used,Mueller,red,11.5,1.5,
+304.316,block stop,havok,red,22.125,14.9,5.00 s
+304.968,boost ready,,,17.5,12.5,
+305.049,block start,SvgCabbage,blue,20.475,13.65,
+305.051,boost ready,,,23.5,8.5,
+305.533,block stop,RoyaltyKeyz,red,21.2,14.675,6.27 s
+306.567,pup spawn,,,19.5,5.5,juke juice
+306.616,block stop,3.1 Thor,blue,18.75,5.85,5.00 s
+306.616,block stop,Mueller,red,19.3,6.65,5.00 s
+306.65,pup taken,,,19.5,5.5,juke juice
+306.651,block start,3.1 Thor,blue,18.75,5.85,
+306.666,pup pickup,3.1 Thor,blue,18.75,5.85,juke juice
+306.985,pup spawn,,,21.5,15.5,rolling bomb
+307.217,pup taken,,,21.5,15.5,rolling bomb
+307.234,pup pickup,Robiny,red,20.225,15.3,rolling bomb
+308.134,block start,stall2hammer,blue,19.4,15.475,
+309.851,block start,timmysumball,blue,9.6,7.45,
+310.085,block stop,SvgCabbage,blue,22.7,11.825,5.04 s
+310.133,boost used,Mueller,red,23.5,8.5,
+310.283,block stop,Robiny,red,22.65,10.85,10.58 s
+311.4,boost used,havok,red,17.5,12.5,
+311.651,pop,3.1 Thor,blue,14.575,6.9,"carrying red flag; returned by havok; splat at 14.575,6.9"
+311.651,block stop,3.1 Thor,blue,14.575,6.9,5.00 s
+311.983,grab,timmysumball,blue,10.525,7.525,red flag; previous carrier 3.1 Thor popped 0.33 s earlier
+312.667,block start,Mueller,red,31.825,14.075,
+313.134,block stop,stall2hammer,blue,13.725,9.025,5.00 s
+313.584,block start,stall2hammer,blue,12.825,8.8,
+313.666,bomb used,Mueller,red,37.5,8.5,
+314.65,respawn,3.1 Thor,blue,29,11,
+314.851,pop,timmysumball,blue,13.45,13.6,"carrying red flag; returned by RoyaltyKeyz; splat at 13.45,13.6"
+314.851,block stop,timmysumball,blue,13.45,13.6,5.00 s
+315.316,prevent start,havok,red,13,11.625,up to 1 s before the first counted second
+316.316,prevent start,RoyaltyKeyz,red,13.325,12.175,up to 1 s before the first counted second
+316.316,prevent stop,havok,red,22,8,1 s counted
+317.667,pop,Mueller,red,12,9.625,"carrying blue flag; returned by stall2hammer; splat at 12,9.625"
+317.667,block stop,Mueller,red,12,9.625,5.00 s
+317.85,respawn,timmysumball,blue,31,11,
+317.916,grab,Robiny,red,29.6,12.05,blue flag; previous carrier Mueller popped 0.25 s earlier
+318.051,block start,3.1 Thor,blue,15.125,8.675,
+318.266,grab,stall2hammer,blue,10.85,8.1,red flag; previous carrier timmysumball popped 3.42 s earlier
+318.301,bomb ready,,,3.5,12.5,
+318.316,prevent stop,RoyaltyKeyz,red,9.375,7.325,2 s counted
+318.584,pop,stall2hammer,blue,10.05,7.075,"carrying red flag; returned by RoyaltyKeyz; splat at 10.05,7.075"
+318.584,block stop,stall2hammer,blue,10.05,7.075,5.00 s
+319.317,prevent start,RoyaltyKeyz,red,7.95,8.725,up to 1 s before the first counted second
+319.633,grab,3.1 Thor,blue,10.95,8.175,red flag; previous carrier stall2hammer popped 1.05 s earlier
+319.633,handoff,stall2hammer,blue,10.05,7.075,
+320.134,boost ready,,,23.5,8.5,
+320.2,boost used,Robiny,red,23.5,8.5,
+320.317,prevent stop,RoyaltyKeyz,red,9.225,8.175,1 s counted
+320.434,block start,Mueller,red,12,9.625,
+320.667,respawn,Mueller,red,9,10,
+320.766,block start,stall2hammer,blue,10.05,7.075,
+320.766,block start,Robiny,red,10.725,11,
+321.401,boost ready,,,17.5,12.5,
+321.584,respawn,stall2hammer,blue,32,11,
+322.35,good handoff,stall2hammer,blue,31.975,11.625,
+323.051,pop,3.1 Thor,blue,23.675,8.275,"carrying red flag; returned by havok; splat at 23.675,8.275"
+323.051,block stop,3.1 Thor,blue,23.675,8.275,5.00 s
+323.701,bomb used,Robiny,red,3.5,12.5,
+323.967,bomb ready,,,29.5,19.5,
+324.316,prevent start,Mueller,red,11.425,8.7,up to 1 s before the first counted second
+325.083,boost used,stall2hammer,blue,17.5,12.5,
+325.667,grab,stall2hammer,blue,11.625,9.525,red flag; previous carrier 3.1 Thor popped 2.62 s earlier
+325.683,block start,RoyaltyKeyz,red,19.35,9.85,
+325.683,block start,SvgCabbage,blue,10.525,11.075,
+326.05,respawn,3.1 Thor,blue,31,12,
+326.316,prevent stop,Mueller,red,6.175,10.125,2 s counted
+326.667,pup ended,3.1 Thor,blue,30.7,12.4,juke juice
+327.234,pup ended,Robiny,red,10.325,8.275,rolling bomb
+328.8,block stop,Mueller,red,8.75,7.9,8.37 s
+328.833,block start,3.1 Thor,blue,30.525,12.95,
+329.816,block stop,stall2hammer,blue,12.05,3.4,9.05 s
+330.202,boost ready,,,23.5,8.5,
+330.4,block start,stall2hammer,blue,10.7,3.425,
+330.683,block stop,RoyaltyKeyz,red,12.15,4.725,5.00 s
+330.683,block stop,SvgCabbage,blue,12.95,5.25,5.00 s
+330.984,pop,Robiny,red,13.025,1.05,"carrying blue flag; returned by timmysumball; splat at 13.025,1.05"
+330.984,block stop,Robiny,red,13.025,1.05,10.22 s
+332.033,bomb used,havok,red,29.5,19.5,
+332.316,grab,havok,red,29.675,14.05,blue flag; previous carrier Robiny popped 1.33 s earlier
+332.317,block start,havok,red,29.675,14.05,
+332.9,block start,SvgCabbage,blue,12,1.7,
+333.234,bomb ready,,,11.5,1.5,
+333.266,block start,timmysumball,blue,12.9,3.875,
+333.983,respawn,Robiny,red,13,8,
+334.516,block stop,3.1 Thor,blue,9.5,6.675,5.68 s
+334.883,boost used,Mueller,red,2.5,4.5,
+335,boost used,Mueller,red,3.5,3.5,
+335,boost used,havok,red,23.5,8.5,
+335.084,boost ready,,,17.5,12.5,
+335.4,pop,stall2hammer,blue,8.1,4.85,"carrying red flag; returned by Mueller; splat at 8.1,4.85"
+335.4,block stop,stall2hammer,blue,8.1,4.85,5.00 s
+336.016,boost used,Robiny,red,17.5,12.5,
+336.317,prevent start,RoyaltyKeyz,red,11.6,3,up to 1 s before the first counted second
+336.317,prevent start,Mueller,red,8.65,8.975,up to 1 s before the first counted second
+337.317,pop,havok,red,11.175,7.425,"carrying blue flag; returned by timmysumball; splat at 11.175,7.425"
+337.317,block stop,havok,red,11.175,7.425,5.00 s
+337.45,boost used,Robiny,red,38.5,16.5,
+337.515,boost used,Robiny,red,37.5,17.5,
+337.883,grab,timmysumball,blue,9.7,6.875,red flag; previous carrier stall2hammer popped 2.48 s earlier
+337.9,block stop,SvgCabbage,blue,9.875,6.125,5.00 s
+338.266,pop,timmysumball,blue,9.975,8.3,"carrying red flag; returned by Mueller; splat at 9.975,8.3"
+338.266,block stop,timmysumball,blue,9.975,8.3,5.00 s
+338.401,respawn,stall2hammer,blue,27,11,
+338.917,grab,Robiny,red,31.175,13.3,blue flag; previous carrier havok popped 1.60 s earlier
+340.15,bomb used,3.1 Thor,blue,11.5,1.5,
+340.266,flaccid,timmysumball,blue,9.975,8.3,
+340.3,block start,stall2hammer,blue,24.375,7.825,
+340.316,respawn,havok,red,12,11,
+341.266,respawn,timmysumball,blue,29,9,
+341.383,block start,SvgCabbage,blue,12.5,11.825,
+342.566,grab,3.1 Thor,blue,10.475,8.85,red flag; previous carrier timmysumball popped 4.30 s earlier
+343.316,prevent stop,RoyaltyKeyz,red,10.8,8.9,7 s counted
+343.316,prevent stop,Mueller,red,12.125,9.05,7 s counted
+343.666,bomb ready,,,37.5,8.5,
+344.884,boost ready,,,2.5,4.5,
+345,boost ready,,,3.5,3.5,
+345.001,boost ready,,,23.5,8.5,
+345.567,block stop,stall2hammer,blue,11.85,7.1,5.27 s
+346.016,boost ready,,,17.5,12.5,
+346.383,block stop,SvgCabbage,blue,8.625,7.575,5.00 s
+347.083,boost used,timmysumball,blue,17.5,12.5,
+347.45,boost ready,,,38.5,16.5,
+347.515,boost ready,,,37.5,17.5,
+348.717,block start,3.1 Thor,blue,8.2,11.975,
+348.717,block start,Robiny,red,21.85,9.6,
+348.9,boost used,Robiny,red,23.5,8.5,
+353.15,bomb used,Robiny,red,37.5,8.5,
+353.701,bomb ready,,,3.5,12.5,
+353.717,block stop,Robiny,red,25.35,6.125,5.00 s
+355.166,boost used,timmysumball,blue,37.5,17.5,
+355.217,boost used,timmysumball,blue,38.5,16.5,
+356.001,pop,3.1 Thor,blue,16.85,6.775,"carrying red flag; returned by RoyaltyKeyz; splat at 16.85,6.775"
+356.001,block stop,3.1 Thor,blue,16.85,6.775,7.28 s
+356.25,grab,stall2hammer,blue,10.1,8.15,red flag; previous carrier 3.1 Thor popped 0.25 s earlier
+357.085,boost ready,,,17.5,12.5,
+357.833,boost used,Robiny,red,2.5,4.5,
+358.901,boost ready,,,23.5,8.5,
+359,respawn,3.1 Thor,blue,26,13,
+359.084,bomb used,stall2hammer,blue,3.5,12.5,
+360.234,block start,Mueller,red,11.075,9.125,
+360.985,boost used,3.1 Thor,blue,23.5,8.5,
+361.051,boost used,3.1 Thor,blue,17.5,12.5,
+362.033,bomb ready,,,29.5,19.5,
+363.383,block start,timmysumball,blue,8.6,10.4,
+365.051,block start,havok,red,29.7,12.3,
+365.167,boost ready,,,37.5,17.5,
+365.218,boost ready,,,38.5,16.5,
+365.633,block stop,Mueller,red,16.2,13.225,5.40 s
+366.184,bomb used,stall2hammer,blue,29.5,19.5,
+366.55,block start,Robiny,red,24.9,9.675,
+366.651,pup spawn,,,19.5,5.5,juke juice
+367.219,pup spawn,,,21.5,15.5,rolling bomb
+367.383,block start,stall2hammer,blue,21.05,10.55,
+367.5,pup taken,,,19.5,5.5,juke juice
+367.516,pup pickup,3.1 Thor,blue,19.05,5.85,juke juice
+367.834,boost ready,,,2.5,4.5,
+368.383,block stop,timmysumball,blue,21.775,13.025,5.00 s
+369.033,pup taken,,,21.5,15.5,rolling bomb
+369.05,pup pickup,timmysumball,blue,21.525,14.225,rolling bomb
+369.054,message,,,,,You have the Rolling Bomb power up! It gives a one-time invulnerability from being tagged.
+370.051,block stop,havok,red,28.425,12.275,5.00 s
+370.151,bomb ready,,,11.5,1.5,
+370.986,boost ready,,,23.5,8.5,
+371.052,boost ready,,,17.5,12.5,
+371.55,pop,Robiny,red,35.2,16.15,"carrying blue flag; returned by SvgCabbage; splat at 35.2,16.15"
+371.55,block stop,Robiny,red,35.2,16.15,5.00 s
+371.616,boost used,3.1 Thor,blue,38.5,16.5,
+371.8,grab,havok,red,29.75,12.3,blue flag; previous carrier Robiny popped 0.25 s earlier
+372.234,boost used,RoyaltyKeyz,red,23.5,8.5,
+372.383,pop,stall2hammer,blue,24.45,5.775,"carrying red flag; returned by RoyaltyKeyz; splat at 24.45,5.775"
+372.633,grab,timmysumball,blue,9.9,8.225,red flag; previous carrier stall2hammer popped 0.25 s earlier
+373.236,block start,timmysumball,blue,9.95,8.525,
+374.55,respawn,Robiny,red,14,11,
+375.384,respawn,stall2hammer,blue,31,10,
+376.216,boost used,havok,red,17.5,12.5,
+377.433,block stop,stall2hammer,blue,26.475,11.675,10.05 s
+378.216,explosion,,,23.975,15.4,
+378.236,pup ended,timmysumball,blue,24,15.425,rolling bomb
+378.766,bomb used,havok,red,11.5,1.5,
+379.616,block start,RoyaltyKeyz,red,26.925,11.025,
+381.016,block start,Mueller,red,33.275,15.375,
+381.233,boost used,timmysumball,blue,37.5,17.5,
+381.617,boost ready,,,38.5,16.5,
+381.7,block start,stall2hammer,blue,17.425,10.625,
+381.766,boost used,Mueller,red,38.5,16.5,
+381.901,pop,timmysumball,blue,38.025,14.125,"carrying red flag; returned by Mueller; splat at 38.025,14.125"
+381.901,block stop,timmysumball,blue,38.025,14.125,8.66 s
+382.235,boost ready,,,23.5,8.5,
+383.117,boost used,Robiny,red,23.5,8.5,
+383.151,bomb ready,,,37.5,8.5,
+383.7,block start,SvgCabbage,blue,15.525,9.45,
+384,block start,havok,red,24.675,14.725,
+384.616,block stop,RoyaltyKeyz,red,24.775,11.4,5.00 s
+384.9,respawn,timmysumball,blue,29,11,
+386.05,grab,SvgCabbage,blue,9.925,7.05,red flag; previous carrier timmysumball popped 4.15 s earlier
+386.055,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+386.217,boost ready,,,17.5,12.5,
+386.367,boost used,Robiny,red,2.5,4.5,
+386.483,boost used,Robiny,red,3.5,3.5,
+387.483,block start,3.1 Thor,blue,22.9,8.975,
+387.516,pup ended,3.1 Thor,blue,23.7,9.3,juke juice
+387.65,block stop,stall2hammer,blue,12.25,9,5.95 s
+388.501,boost used,RoyaltyKeyz,red,17.5,12.5,
+388.7,pop,SvgCabbage,blue,19.5,14.725,"carrying red flag; returned by RoyaltyKeyz; splat at 19.5,14.725"
+388.7,block stop,SvgCabbage,blue,19.5,14.725,5.00 s
+389,pop,havok,red,21.4,16.05,"carrying blue flag; returned by 3.1 Thor; splat at 21.4,16.05"
+389,block stop,havok,red,21.4,16.05,5.00 s
+389.083,bomb ready,,,3.5,12.5,
+390.316,prevent start,Robiny,red,13.575,9.7,up to 1 s before the first counted second
+390.316,prevent start,timmysumball,blue,24.225,13.225,up to 1 s before the first counted second
+391.016,block start,havok,red,21.4,16.05,
+391.234,boost ready,,,37.5,17.5,
+391.316,prevent stop,timmysumball,blue,27.375,13.075,1 s counted
+391.416,grab,Mueller,red,28.475,12.775,blue flag; previous carrier havok popped 2.42 s earlier
+391.7,respawn,SvgCabbage,blue,26,10,
+391.766,boost ready,,,38.5,16.5,
+391.966,grab,3.1 Thor,blue,10.85,7.975,red flag; previous carrier SvgCabbage popped 3.27 s earlier
+392.001,respawn,havok,red,10,5,
+392.316,prevent stop,Robiny,red,9.225,7.05,2 s counted
+392.483,pop,3.1 Thor,blue,10.1,6.2,"carrying red flag; returned by havok; splat at 10.1,6.2"
+392.483,block stop,3.1 Thor,blue,10.1,6.2,5.00 s
+392.733,handoff,3.1 Thor,blue,10.1,6.2,
+392.733,grab,stall2hammer,blue,9.475,8.625,red flag; previous carrier 3.1 Thor popped 0.25 s earlier
+392.934,pop,Mueller,red,35.95,8.05,"carrying blue flag; returned by timmysumball; splat at 35.95,8.05"
+392.934,block stop,Mueller,red,35.95,8.05,11.92 s
+393.119,boost ready,,,23.5,8.5,
+393.6,block start,SvgCabbage,blue,24.575,10,
+394.266,block start,Robiny,red,8.9,9.375,
+395.484,respawn,3.1 Thor,blue,32,14,
+395.5,boost used,havok,red,23.5,8.5,
+395.883,grab,havok,red,27.075,10.175,blue flag; previous carrier Mueller popped 2.95 s earlier
+395.933,respawn,Mueller,red,9,6,
+396.184,bomb ready,,,29.5,19.5,
+396.366,good handoff,3.1 Thor,blue,32.675,15.1,
+396.367,boost ready,,,2.5,4.5,
+396.484,boost ready,,,3.5,3.5,
+397.015,boost used,3.1 Thor,blue,37.5,17.5,
+397.1,boost used,3.1 Thor,blue,38.5,16.5,
+398.383,block start,3.1 Thor,blue,32.85,6.975,
+398.502,boost ready,,,17.5,12.5,
+399.266,block stop,SvgCabbage,blue,30.725,12.8,5.67 s
+399.266,block stop,Robiny,red,31.275,12.05,5.00 s
+399.851,pop,havok,red,32.8,15.85,"carrying blue flag; returned by SvgCabbage; splat at 32.8,15.85"
+399.851,block stop,havok,red,32.8,15.85,8.84 s
+400.316,prevent start,3.1 Thor,blue,32.55,8.575,up to 1 s before the first counted second
+400.316,prevent start,SvgCabbage,blue,33.7,15.175,up to 1 s before the first counted second
+401.166,block start,Robiny,red,32.8,12.125,
+401.316,prevent start,timmysumball,blue,33.925,15.875,up to 1 s before the first counted second
+401.716,grab,Robiny,red,31.45,11.775,blue flag; previous carrier havok popped 1.86 s earlier
+402.316,prevent stop,3.1 Thor,blue,34.925,8.55,2 s counted
+402.316,prevent stop,SvgCabbage,blue,30.1,13.725,2 s counted
+402.316,prevent stop,timmysumball,blue,31.05,13.8,1 s counted
+402.551,bomb used,Mueller,red,29.5,19.5,
+402.816,bomb used,3.1 Thor,blue,37.5,8.5,
+402.851,respawn,havok,red,9,9,
+403.166,block start,timmysumball,blue,28.375,10.25,
+403.384,boost used,Robiny,red,17.5,12.5,
+404.617,boost used,Robiny,red,2.5,4.5,
+404.683,boost used,Robiny,red,3.5,3.5,
+405.501,boost ready,,,23.5,8.5,
+406.166,pop,Robiny,red,14.65,8.05,"carrying blue flag; returned by timmysumball; splat at 14.65,8.05"
+406.166,block stop,Robiny,red,14.65,8.05,5.00 s
+406.934,block start,RoyaltyKeyz,red,26.45,12.725,
+407.015,boost ready,,,37.5,17.5,
+407.1,boost ready,,,38.5,16.5,
+407.433,grab,RoyaltyKeyz,red,28.45,12.175,blue flag; previous carrier Robiny popped 1.27 s earlier
+407.966,boost used,havok,red,23.5,8.5,
+408.133,block stop,3.1 Thor,blue,16.75,10.1,9.75 s
+408.166,block stop,timmysumball,blue,15.625,9.95,5.00 s
+408.767,bomb ready,,,11.5,1.5,
+408.9,bomb used,Mueller,red,3.5,12.5,
+409.166,respawn,Robiny,red,9,6,
+410.05,block start,3.1 Thor,blue,22.075,6.775,
+410.05,block start,Robiny,red,10.1,7.075,
+411.35,block start,Mueller,red,27.425,6.325,
+411.934,pop,RoyaltyKeyz,red,18.525,10.65,"carrying blue flag; returned by 3.1 Thor; splat at 18.525,10.65"
+411.934,block stop,RoyaltyKeyz,red,18.525,10.65,5.00 s
+413.033,boost used,stall2hammer,blue,37.5,17.5,
+413.183,boost used,stall2hammer,blue,38.5,16.5,
+413.386,boost ready,,,17.5,12.5,
+414.317,prevent start,3.1 Thor,blue,23.75,10.9,up to 1 s before the first counted second
+414.433,grab,havok,red,28.075,12.325,blue flag; previous carrier RoyaltyKeyz popped 2.50 s earlier
+414.618,boost ready,,,2.5,4.5,
+414.684,boost ready,,,3.5,3.5,
+414.933,respawn,RoyaltyKeyz,red,14,8,
+415.05,block stop,3.1 Thor,blue,27.85,11.125,5.00 s
+415.05,block stop,Robiny,red,28.775,10.75,5.00 s
+415.317,prevent stop,3.1 Thor,blue,29.225,11.425,1 s counted
+415.401,block start,stall2hammer,blue,28.325,7.625,
+416.216,block start,RoyaltyKeyz,red,15.175,7.925,
+417.683,block stop,Mueller,red,34.25,11.9,6.33 s
+417.967,boost ready,,,23.5,8.5,
+419.251,boost used,stall2hammer,blue,23.5,8.5,
+420.401,pop,stall2hammer,blue,30.475,6.425,"carrying red flag; returned by Mueller; splat at 30.475,6.425"
+420.401,block stop,stall2hammer,blue,30.475,6.425,5.00 s
+421.134,boost used,havok,red,17.5,12.5,
+421.318,prevent start,RoyaltyKeyz,red,10.8,8.775,up to 1 s before the first counted second
+421.85,bomb used,havok,red,11.5,1.5,
+422.766,block stop,RoyaltyKeyz,red,11.55,8.15,6.55 s
+423.017,block start,havok,red,17.9,6.7,
+423.033,boost ready,,,37.5,17.5,
+423.184,boost ready,,,38.5,16.5,
+423.4,respawn,stall2hammer,blue,27,9,
+425.933,block start,timmysumball,blue,7.425,8.9,
+427.501,pup spawn,,,19.5,5.5,juke juice
+427.816,pup taken,,,19.5,5.5,juke juice
+427.833,pup pickup,3.1 Thor,blue,18.95,5.825,juke juice
+428.017,pop,havok,red,22.35,7.775,"carrying blue flag; returned by SvgCabbage; splat at 22.35,7.775"
+428.017,block stop,havok,red,22.35,7.775,5.00 s
+429.034,pup spawn,,,21.5,15.5,tagpro
+429.252,boost ready,,,23.5,8.5,
+430.366,pup taken,,,21.5,15.5,tagpro
+430.383,pup pickup,Robiny,red,19.95,14.65,tagpro
+430.401,pop,stall2hammer,blue,19.3,15.05,"tagged by Robiny; splat at 19.3,15.05"
+430.516,grab,Mueller,red,29.275,11.5,blue flag; previous carrier havok popped 2.50 s earlier
+430.834,grab,3.1 Thor,blue,10.7,7.6,red flag; previous carrier stall2hammer popped 10.43 s earlier
+431.016,respawn,havok,red,9,9,
+431.134,boost ready,,,17.5,12.5,
+431.316,prevent stop,RoyaltyKeyz,red,9.9,9.2,10 s counted
+432.552,bomb ready,,,29.5,19.5,
+432.817,bomb ready,,,37.5,8.5,
+433.4,respawn,stall2hammer,blue,31,11,
+434.401,block start,3.1 Thor,blue,3.45,4.35,
+434.401,block start,Mueller,red,27.3,12.8,
+435.5,block start,RoyaltyKeyz,red,10.25,8.25,
+436.063,message,,,,,An opponent that had the TagPro power up tagged you - so you were popped! Players that are green have TagPro.
+436.066,pop,SvgCabbage,blue,13.2,7.675,"tagged by Robiny; splat at 13.2,7.675"
+436.117,bomb used,stall2hammer,blue,29.5,19.5,
+437.124,message,,,,,You can only capture the flag if your team's flag is at base. Keep running until your team's flag is returned!
+437.166,boost used,3.1 Thor,blue,3.5,3.5,
+437.282,boost used,3.1 Thor,blue,2.5,4.5,
+438.902,bomb ready,,,3.5,12.5,
+439.066,respawn,SvgCabbage,blue,32,14,
+439.401,block stop,3.1 Thor,blue,10.05,11.275,5.00 s
+439.401,block stop,Mueller,red,10.95,11.55,5.00 s
+439.966,block start,SvgCabbage,blue,32,14,
+440.9,block stop,RoyaltyKeyz,red,8.975,8.675,5.40 s
+440.9,block stop,timmysumball,blue,9.825,8.05,14.97 s
+442.916,boost used,havok,red,23.5,8.5,
+443.266,pop,stall2hammer,blue,7.075,12.3,"tagged by Robiny; splat at 7.075,12.3"
+443.9,block start,timmysumball,blue,10.125,7.15,
+444.316,block start,Robiny,red,5.875,10.75,
+444.534,block start,Mueller,red,4.25,9.85,
+445.09,message,,,,,An opponent that had the TagPro power up tagged you - so you were popped! Players that are green have TagPro.
+445.1,pop,timmysumball,blue,5.425,8.525,"tagged by Robiny; splat at 5.425,8.525"
+445.366,pup ended,Robiny,red,5.225,9.8,tagpro
+446.267,respawn,stall2hammer,blue,31,14,
+447.166,boost ready,,,3.5,3.5,
+447.283,boost ready,,,2.5,4.5,
+447.833,pup ended,3.1 Thor,blue,17.675,13.25,juke juice
+448.1,respawn,timmysumball,blue,27,12,
+448.9,block stop,timmysumball,blue,25.95,11.775,5.00 s
+449.016,boost used,stall2hammer,blue,17.5,12.5,
+449.167,block stop,SvgCabbage,blue,22.275,11.35,9.20 s
+449.316,block stop,Robiny,red,12.6,9.2,5.00 s
+449.534,pop,Mueller,red,9.475,9.2,"carrying blue flag; returned by stall2hammer; splat at 9.475,9.2"
+449.534,block stop,Mueller,red,9.475,9.2,5.00 s
+450.001,block start,3.1 Thor,blue,27.925,7.8,
+450.95,grab,havok,red,29.225,11.025,blue flag; previous carrier Mueller popped 1.42 s earlier
+451.851,bomb ready,,,11.5,1.5,
+452.45,block start,RoyaltyKeyz,red,29.15,11.85,
+452.533,respawn,Mueller,red,8,6,
+452.918,boost ready,,,23.5,8.5,
+454.55,bomb used,3.1 Thor,blue,37.5,8.5,
+455.001,pop,3.1 Thor,blue,27.75,8.9,"carrying red flag; returned by Robiny; splat at 27.75,8.9"
+455.001,block stop,3.1 Thor,blue,27.75,8.9,5.00 s
+455.75,boost used,havok,red,37.5,17.5,
+455.9,boost used,havok,red,38.5,16.5,
+456.333,prevent start,Mueller,red,9.7,8.175,up to 1 s before the first counted second
+457.333,prevent start,Robiny,red,13.225,7.775,up to 1 s before the first counted second
+458,respawn,3.1 Thor,blue,27,11,
+459.017,boost ready,,,17.5,12.5,
+463.267,block start,havok,red,34.55,9.775,
+463.283,bomb used,Robiny,red,11.5,1.5,
+465.755,boost ready,,,37.5,17.5,
+465.901,boost ready,,,38.5,16.5,
+466.118,bomb ready,,,29.5,19.5,
+466.284,bomb used,Robiny,red,3.5,12.5,
+466.333,prevent stop,Robiny,red,3.475,10.975,9 s counted
+467.366,boost used,Robiny,red,3.5,3.5,
+467.466,boost used,Robiny,red,2.5,4.5,
+467.55,block stop,RoyaltyKeyz,red,29.425,12.3,15.10 s
+468.085,block start,Mueller,red,11.325,8.575,
+468.25,boost used,timmysumball,blue,38.5,16.5,
+468.267,pop,havok,red,24.25,17.525,"carrying blue flag; returned by 3.1 Thor; splat at 24.25,17.525"
+468.366,grab,RoyaltyKeyz,red,29.55,12.875,blue flag; previous carrier havok popped 0.10 s earlier
+469.284,block start,RoyaltyKeyz,red,29.7,11.425,
+469.333,prevent start,Robiny,red,9.975,11.25,up to 1 s before the first counted second
+469.967,bomb used,3.1 Thor,blue,29.5,19.5,
+470.567,boost used,3.1 Thor,blue,23.5,8.5,
+470.7,boost used,timmysumball,blue,37.5,17.5,
+471.05,block start,3.1 Thor,blue,20.425,3.7,
+471.201,boost used,RoyaltyKeyz,red,17.5,12.5,
+471.266,respawn,havok,red,10,11,
+472.083,block start,stall2hammer,blue,11.725,9.175,
+473.085,block stop,Mueller,red,9.175,7.15,5.00 s
+473.333,prevent stop,Robiny,red,19.075,9.325,4 s counted
+474.284,pop,RoyaltyKeyz,red,6.775,8.875,"carrying blue flag; returned by 3.1 Thor; splat at 6.775,8.875"
+474.284,block stop,RoyaltyKeyz,red,6.775,8.875,5.00 s
+474.334,prevent start,havok,red,8.975,9.3,up to 1 s before the first counted second
+475.368,block start,SvgCabbage,blue,17.75,9.05,
+476.016,grab,3.1 Thor,blue,9.175,7.7,red flag; previous carrier 3.1 Thor popped 21.02 s earlier
+476.05,block stop,3.1 Thor,blue,9.175,7.7,5.00 s
+476.084,block start,Robiny,red,26.6,11.45,
+476.333,prevent stop,Mueller,red,10.2,7.95,20 s counted
+476.333,prevent stop,havok,red,13.225,11.625,2 s counted
+477.283,respawn,RoyaltyKeyz,red,9,9,
+477.367,boost ready,,,3.5,3.5,
+477.466,grab,Robiny,red,30.075,12.95,blue flag; previous carrier RoyaltyKeyz popped 3.18 s earlier
+477.467,boost ready,,,2.5,4.5,
+478.25,boost ready,,,38.5,16.5,
+478.416,block stop,havok,red,23.125,13.025,15.15 s
+480.565,block stop,SvgCabbage,blue,9.05,3.1,5.20 s
+480.569,boost ready,,,23.5,8.5,
+480.7,boost ready,,,37.5,17.5,
+480.985,boost used,timmysumball,blue,23.5,8.5,
+481.084,pop,Robiny,red,17.075,12.2,"carrying blue flag; returned by timmysumball; splat at 17.075,12.2"
+481.084,block stop,Robiny,red,17.075,12.2,5.00 s
+481.201,boost ready,,,17.5,12.5,
+481.333,grab,havok,red,30,11.675,blue flag; previous carrier Robiny popped 0.25 s earlier
+482.116,block stop,stall2hammer,blue,11.475,9.2,10.03 s
+482.883,block start,RoyaltyKeyz,red,10.975,8.45,
+482.883,block start,timmysumball,blue,10.825,15,
+484.083,respawn,Robiny,red,13,9,
+484.1,block start,havok,red,23.95,9.2,
+484.334,boost used,timmysumball,blue,17.5,12.5,
+484.552,bomb ready,,,37.5,8.5,
+487.817,pup spawn,,,19.5,5.5,juke juice
+487.883,block stop,RoyaltyKeyz,red,27.725,11.6,5.00 s
+487.883,block stop,timmysumball,blue,26.7,12,5.00 s
+489.1,pop,havok,red,20.5,12.5,"carrying blue flag; returned by SvgCabbage; splat at 20.5,12.5"
+489.1,block stop,havok,red,20.5,12.5,5.00 s
+489.484,block start,RoyaltyKeyz,red,28.3,10.325,
+489.484,block start,3.1 Thor,blue,26.65,7.65,
+490.367,pup spawn,,,21.5,15.5,juke juice
+490.484,pup taken,,,19.5,5.5,juke juice
+490.5,pup pickup,timmysumball,blue,19.775,4.85,juke juice
+490.598,message,,,,,You have the Juke Juice power up! It increases your acceleration.
+490.95,grab,RoyaltyKeyz,red,29.525,10.725,blue flag; previous carrier havok popped 1.85 s earlier
+490.986,boost ready,,,23.5,8.5,
+491.333,pup taken,,,21.5,15.5,juke juice
+491.35,pup pickup,Robiny,red,22.075,14.95,juke juice
+492.1,respawn,havok,red,9,5,
+492.716,block start,havok,red,9.275,5.275,
+493.284,bomb ready,,,11.5,1.5,
+493.551,boost used,RoyaltyKeyz,red,37.5,17.5,
+493.649,boost used,RoyaltyKeyz,red,38.5,16.5,
+493.984,boost used,SvgCabbage,blue,23.5,8.5,
+494.337,boost ready,,,17.5,12.5,
+495.05,block start,Robiny,red,33.675,9.55,
+495.467,bomb used,RoyaltyKeyz,red,37.5,8.5,
+495.483,block stop,RoyaltyKeyz,red,35.775,7.975,6.00 s
+495.483,block stop,3.1 Thor,blue,35.375,8.875,6.00 s
+495.5,pop,3.1 Thor,blue,35.375,8.875,"carrying red flag; returned by Robiny; splat at 35.375,8.875"
+495.883,block start,timmysumball,blue,25.175,9.55,
+496.285,bomb ready,,,3.5,12.5,
+496.334,prevent start,havok,red,11.225,7.35,up to 1 s before the first counted second
+498.267,score,,,,,red 6 - blue 0
+498.284,cap,RoyaltyKeyz,red,10.85,7.575,blue flag
+498.334,prevent start,RoyaltyKeyz,red,10.85,7.575,up to 1 s before the first counted second
+498.501,respawn,3.1 Thor,blue,32,10,
+499.216,grab,stall2hammer,blue,10.65,9.025,red flag; previous carrier 3.1 Thor popped 3.72 s earlier
+499.334,prevent stop,RoyaltyKeyz,red,8.775,8.175,1 s counted
+499.334,prevent stop,havok,red,12.625,11.225,3 s counted
+499.683,block start,Mueller,red,27.975,10.4,
+499.683,block start,SvgCabbage,blue,20.55,10.9,
+499.967,bomb ready,,,29.5,19.5,
+500.033,grab,Robiny,red,29.5,12.8,blue flag
+500.05,block stop,Robiny,red,29.775,12.625,5.00 s
+500.316,boost used,havok,red,17.5,12.5,
+500.851,bomb used,stall2hammer,blue,11.5,1.5,
+500.883,block stop,timmysumball,blue,12.475,7.6,5.00 s
+500.916,block stop,havok,red,30.05,9.575,8.20 s
+501.983,block start,Robiny,red,28.875,15.675,
+502.235,bomb used,Robiny,red,29.5,19.5,
+503.551,boost ready,,,37.5,17.5,
+503.649,boost ready,,,38.5,16.5,
+503.985,boost ready,,,23.5,8.5,
+504.133,block start,havok,red,36.15,16.05,
+504.133,block start,stall2hammer,blue,18.55,9.275,
+505.701,block stop,Mueller,red,19.775,9,6.02 s
+505.701,block stop,SvgCabbage,blue,18.6,8.825,6.02 s
+506.05,boost used,3.1 Thor,blue,23.5,8.5,
+506.983,pop,Robiny,red,7.975,4,"carrying blue flag; returned by 3.1 Thor; splat at 7.975,4"
+506.983,block stop,Robiny,red,7.975,4,5.00 s
+507.234,grab,havok,red,29.475,12.275,blue flag; previous carrier Robiny popped 0.25 s earlier
+509.651,block start,RoyaltyKeyz,red,20.25,10.125,
+509.983,respawn,Robiny,red,9,5,
+510.317,boost ready,,,17.5,12.5,
+510.5,pup ended,timmysumball,blue,10.5,9.65,juke juice
+511.35,pup ended,Robiny,red,12,8,juke juice
+511.617,pop,stall2hammer,blue,32.4,15.775,"carrying red flag; returned by RoyaltyKeyz; splat at 32.4,15.775"
+511.617,block stop,stall2hammer,blue,32.4,15.775,7.48 s
+512.234,boost used,havok,red,38.5,16.5,
+512.4,boost used,havok,red,37.5,17.5,
+513.266,grab,timmysumball,blue,9.725,8.825,red flag; previous carrier stall2hammer popped 1.65 s earlier
+513.283,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+513.333,prevent start,3.1 Thor,blue,25.725,10.45,up to 1 s before the first counted second
+513.333,prevent start,SvgCabbage,blue,27.825,12.8,up to 1 s before the first counted second
+513.384,pop,havok,red,28.55,13.775,"carrying blue flag; returned by SvgCabbage; splat at 28.55,13.775"
+513.384,block stop,havok,red,28.55,13.775,9.25 s
+514.3,grab,RoyaltyKeyz,red,30.925,11.775,blue flag; previous carrier havok popped 0.92 s earlier
+514.333,prevent stop,3.1 Thor,blue,24.45,11.85,1 s counted
+514.333,prevent stop,SvgCabbage,blue,29.7,10.95,1 s counted
+514.417,block start,timmysumball,blue,9.625,8.625,
+514.617,respawn,stall2hammer,blue,30,11,
+514.651,pop,RoyaltyKeyz,red,30.175,12,"carrying blue flag; returned by stall2hammer; splat at 30.175,12"
+514.651,block stop,RoyaltyKeyz,red,30.175,12,5.00 s
+515.333,prevent start,3.1 Thor,blue,25.825,12.375,up to 1 s before the first counted second
+515.333,prevent start,SvgCabbage,blue,29.875,8.725,up to 1 s before the first counted second
+516.051,boost ready,,,23.5,8.5,
+516.384,respawn,havok,red,8,9,
+516.651,flaccid,RoyaltyKeyz,red,30.175,12,
+517.316,boost used,stall2hammer,blue,23.5,8.5,
+517.4,boost used,stall2hammer,blue,17.5,12.5,
+517.566,bomb used,timmysumball,blue,3.5,12.5,
+517.65,respawn,RoyaltyKeyz,red,8,6,
+518.333,prevent stop,3.1 Thor,blue,23.4,11.6,3 s counted
+518.816,block start,Robiny,red,15.475,12.925,
+518.834,block start,Mueller,red,25.7,10.275,
+519.417,pop,timmysumball,blue,6.9,8.65,"carrying red flag; returned by havok; splat at 6.9,8.65"
+519.417,block stop,timmysumball,blue,6.9,8.65,5.00 s
+519.983,grab,Mueller,red,29.325,11.675,blue flag; previous carrier RoyaltyKeyz popped 5.33 s earlier
+520.081,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+520.334,prevent start,havok,red,8.65,11.4,up to 1 s before the first counted second
+520.334,prevent stop,SvgCabbage,blue,24.525,13.375,5 s counted
+521.284,block start,havok,red,11.25,12.275,
+521.333,prevent start,RoyaltyKeyz,red,9.575,8.325,up to 1 s before the first counted second
+522.235,boost ready,,,38.5,16.5,
+522.333,prevent stop,havok,red,15.575,13.275,2 s counted
+522.401,boost ready,,,37.5,17.5,
+522.416,respawn,timmysumball,blue,26,9,
+523.816,block stop,Robiny,red,35.475,11.05,5.00 s
+523.834,pop,Mueller,red,36.9,9.9,"carrying blue flag; returned by 3.1 Thor; splat at 36.9,9.9"
+523.834,block stop,Mueller,red,36.9,9.9,5.00 s
+524.334,prevent start,3.1 Thor,blue,35.425,9.475,up to 1 s before the first counted second
+524.334,prevent start,SvgCabbage,blue,33.15,10.375,up to 1 s before the first counted second
+524.533,grab,havok,red,29.575,11.175,blue flag; previous carrier Mueller popped 0.70 s earlier
+525.334,prevent stop,3.1 Thor,blue,32.1,9.825,1 s counted
+525.334,prevent stop,SvgCabbage,blue,32.45,7.25,1 s counted
+525.466,bomb ready,,,37.5,8.5,
+526.284,pop,havok,red,28.4,13.625,"carrying blue flag; returned by 3.1 Thor; splat at 28.4,13.625"
+526.284,block stop,havok,red,28.4,13.625,5.00 s
+526.333,prevent start,3.1 Thor,blue,27.5,13.15,up to 1 s before the first counted second
+526.333,prevent start,SvgCabbage,blue,29.125,8,up to 1 s before the first counted second
+526.333,prevent start,timmysumball,blue,29.1,14.95,up to 1 s before the first counted second
+526.833,respawn,Mueller,red,14,8,
+527.05,handoff,havok,red,28.4,13.625,
+527.05,grab,Robiny,red,30.925,12.225,blue flag; previous carrier havok popped 0.77 s earlier
+527.317,boost ready,,,23.5,8.5,
+527.333,prevent stop,3.1 Thor,blue,22.825,13.325,1 s counted
+527.333,prevent stop,SvgCabbage,blue,26.55,10.2,1 s counted
+527.333,prevent stop,timmysumball,blue,28.25,15.6,1 s counted
+527.401,boost ready,,,17.5,12.5,
+529.283,respawn,havok,red,12,10,
+529.433,good handoff,havok,red,12,10,
+529.71,bomb used,Robiny,red,37.5,8.5,
+530.333,prevent start,Mueller,red,14.3,10.375,up to 1 s before the first counted second
+530.484,block start,Mueller,red,14.175,10.55,
+530.833,block start,SvgCabbage,blue,26.075,10.675,
+530.851,bomb ready,,,11.5,1.5,
+531.483,boost used,3.1 Thor,blue,17.5,12.5,
+531.583,boost used,3.1 Thor,blue,23.5,8.5,
+532.184,score,,,,,red 7 - blue 0
+532.201,cap,Robiny,red,11.775,7.275,blue flag
+532.235,bomb ready,,,29.5,19.5,
+532.333,prevent stop,Mueller,red,17.275,12.575,2 s counted
+532.335,prevent start,Robiny,red,10.6,8.1,up to 1 s before the first counted second
+533.2,block start,havok,red,19.775,10.7,
+533.85,boost used,timmysumball,blue,37.5,17.5,
+533.984,boost used,timmysumball,blue,38.5,16.5,
+534.333,prevent start,3.1 Thor,blue,31.625,13.975,up to 1 s before the first counted second
+534.333,prevent stop,Robiny,red,11.4,15.75,2 s counted
+534.617,grab,havok,red,28.5,11.875,blue flag
+535.333,prevent stop,3.1 Thor,blue,29.375,15.75,1 s counted
+535.484,block stop,Mueller,red,28.875,17.4,5.00 s
+535.8,grab,SvgCabbage,blue,9.5,7.25,red flag; previous carrier timmysumball popped 16.38 s earlier
+535.833,block stop,SvgCabbage,blue,9.5,7.25,5.00 s
+536.001,bomb used,stall2hammer,blue,11.5,1.5,
+536.234,pop,SvgCabbage,blue,10.775,7.375,"carrying red flag; returned by RoyaltyKeyz; splat at 10.775,7.375"
+536.267,handoff,SvgCabbage,blue,10.775,7.375,
+536.267,grab,stall2hammer,blue,9.95,6.95,red flag; previous carrier SvgCabbage popped 0.03 s earlier
+536.286,message,,,,,"You were tagged by a player and dropped the flag! When you have a flag, the other team can pop you."
+536.334,prevent stop,RoyaltyKeyz,red,10.65,8.4,15 s counted
+536.467,block start,stall2hammer,blue,9.95,6.95,
+538.2,pop,havok,red,35.75,12.65,"carrying blue flag; returned by 3.1 Thor; splat at 35.75,12.65"
+538.333,prevent start,3.1 Thor,blue,34.925,12.975,up to 1 s before the first counted second
+538.333,prevent start,timmysumball,blue,35.35,11.55,up to 1 s before the first counted second
+538.416,bomb used,Mueller,red,29.5,19.5,
+538.733,grab,Mueller,red,29.225,11.725,blue flag; previous carrier havok popped 0.53 s earlier
+539.233,respawn,SvgCabbage,blue,28,12,
+539.333,prevent stop,3.1 Thor,blue,33.725,12.575,1 s counted
+539.333,prevent stop,timmysumball,blue,33.5,10.675,1 s counted
+539.383,good handoff,SvgCabbage,blue,28,12,
+541.016,boost used,stall2hammer,blue,3.5,3.5,
+541.2,respawn,havok,red,12,9,
+541.467,pop,stall2hammer,blue,7.65,4.425,"carrying red flag; returned by Robiny; splat at 7.65,4.425"
+541.467,block stop,stall2hammer,blue,7.65,4.425,5.00 s
+541.484,boost ready,,,17.5,12.5,
+541.584,boost ready,,,23.5,8.5,
+542.633,boost used,3.1 Thor,blue,17.5,12.5,
+542.751,block start,SvgCabbage,blue,18.6,9.7,
+542.783,block stop,havok,red,14.625,10.775,9.58 s
+543.016,score,,,,,red 8 - blue 0
+543.034,cap,Mueller,red,11,7.9,blue flag
+543.334,prevent start,RoyaltyKeyz,red,6.975,6.825,up to 1 s before the first counted second
+543.334,prevent start,Mueller,red,9.425,8.275,up to 1 s before the first counted second
+543.85,boost ready,,,37.5,17.5,
+543.984,boost ready,,,38.5,16.5,
+544.4,grab,SvgCabbage,blue,11.125,8.575,red flag; previous carrier stall2hammer popped 2.93 s earlier
+544.466,respawn,stall2hammer,blue,26,13,
+545.334,prevent stop,RoyaltyKeyz,red,13.425,11.5,2 s counted
+545.334,prevent stop,Mueller,red,5.375,11.375,2 s counted
+546.032,boost used,havok,red,23.5,8.5,
+547.566,bomb ready,,,3.5,12.5,
+547.751,pop,SvgCabbage,blue,14.2,6.4,"carrying red flag; returned by Mueller; splat at 14.2,6.4"
+547.751,block stop,SvgCabbage,blue,14.2,6.4,5.00 s
+548.082,boost used,havok,red,38.5,16.5,
+548.183,boost used,havok,red,37.5,17.5,
+548.334,prevent start,Mueller,red,13.975,7.25,up to 1 s before the first counted second
+548.334,prevent start,stall2hammer,blue,32.025,16.075,up to 1 s before the first counted second
+549.334,prevent stop,Mueller,red,14,6.9,1 s counted
+550.217,block start,Mueller,red,15.475,5.725,
+550.485,pup spawn,,,19.5,5.5,rolling bomb
+550.733,grab,havok,red,30,11.2,blue flag
+550.75,respawn,SvgCabbage,blue,27,12,
+550.842,block start,3.1 Thor,blue,19.125,6.05,
+550.883,pup taken,,,19.5,5.5,rolling bomb
+550.9,pup pickup,Mueller,red,17.975,4.5,rolling bomb
+550.957,message,,,,,You have the Rolling Bomb power up! It gives a one-time invulnerability from being tagged.
+551.016,boost ready,,,3.5,3.5,
+551.333,prevent stop,stall2hammer,blue,28.825,11.775,3 s counted
+551.334,pup spawn,,,21.5,15.5,tagpro
+552.333,prevent start,RoyaltyKeyz,red,15.725,5.65,up to 1 s before the first counted second
+552.4,pup taken,,,21.5,15.5,tagpro
+552.416,pup pickup,Robiny,red,21.725,14.125,tagpro
+552.634,boost ready,,,17.5,12.5,
+552.917,block start,SvgCabbage,blue,24.425,12.475,
+553.751,grab,3.1 Thor,blue,10.5,8.675,red flag; previous carrier SvgCabbage popped 6.00 s earlier
+554.333,prevent stop,RoyaltyKeyz,red,9.35,8.55,2 s counted
+555.217,block stop,Mueller,red,34.4,14.4,5.00 s
+555.584,boost used,3.1 Thor,blue,3.5,3.5,
+555.683,boost used,RoyaltyKeyz,red,2.5,4.5,
+555.842,pop,3.1 Thor,blue,3.325,3.7,"carrying red flag; returned by RoyaltyKeyz; splat at 3.325,3.7"
+555.842,block stop,3.1 Thor,blue,3.325,3.7,5.00 s
+556.033,boost ready,,,23.5,8.5,
+556.1,block start,RoyaltyKeyz,red,3.725,3.125,
+556.333,prevent start,RoyaltyKeyz,red,5.475,3.275,up to 1 s before the first counted second
+557.001,block start,havok,red,31.25,9.675,
+557.532,grab,SvgCabbage,blue,10.7,7.35,red flag; previous carrier 3.1 Thor popped 1.69 s earlier
+557.917,pop,SvgCabbage,blue,9.8,7.775,"carrying red flag; returned by RoyaltyKeyz; splat at 9.8,7.775"
+557.917,block stop,SvgCabbage,blue,9.8,7.775,5.00 s
+558.083,boost ready,,,38.5,16.5,
+558.184,boost ready,,,37.5,17.5,
+558.383,boost used,havok,red,23.5,8.5,
+558.484,boost used,havok,red,17.5,12.5,
+558.833,respawn,3.1 Thor,blue,28,13,
+559.71,bomb ready,,,37.5,8.5,
+559.916,flaccid,SvgCabbage,blue,9.8,7.775,
+560.333,prevent start,Robiny,red,15.025,8.075,up to 1 s before the first counted second
+560.916,respawn,SvgCabbage,blue,26,14,
+561.1,block stop,RoyaltyKeyz,red,7.7,6.375,5.00 s
+561.266,block start,RoyaltyKeyz,red,8.375,6.65,
+562.001,pop,havok,red,6.5,3.2,"carrying blue flag; returned by timmysumball; splat at 6.5,3.2"
+562.001,block stop,havok,red,6.5,3.2,5.00 s
+562.1,block start,Mueller,red,30,11.525,
+562.25,grab,Mueller,red,30,11.525,blue flag; previous carrier havok popped 0.25 s earlier
+564.634,bomb used,3.1 Thor,blue,3.5,12.5,
+564.651,bomb used,Mueller,red,37.5,8.5,
+565.001,respawn,havok,red,8,6,
+565.585,boost ready,,,3.5,3.5,
+565.684,boost ready,,,2.5,4.5,
+566.001,bomb ready,,,11.5,1.5,
+566.613,message,,,,,"When the other teams has your flag, chase the flag carrier down and tag them to return it to your base."
+566.766,block stop,RoyaltyKeyz,red,12.35,7.05,5.50 s
+567.083,explosion,,,13.55,5.5,
+567.1,pup ended,Mueller,red,13.475,5.525,rolling bomb
+567.1,block stop,Mueller,red,13.475,5.525,5.00 s
+567.334,pop,timmysumball,blue,8.175,6.1,"tagged by Robiny; splat at 8.175,6.1"
+567.4,pup ended,Robiny,red,8.875,6.775,tagpro
+567.985,score,,,,,red 9 - blue 0
+568,cap,Mueller,red,10.75,7.675,blue flag
+568.333,block start,havok,red,14.25,12.725,
+568.333,prevent start,Mueller,red,10.725,8.325,up to 1 s before the first counted second
+568.384,boost ready,,,23.5,8.5,
+568.417,bomb ready,,,29.5,19.5,
+568.485,boost ready,,,17.5,12.5,
+570.335,respawn,timmysumball,blue,28,14,
+570.6,bomb used,stall2hammer,blue,11.5,1.5,
+570.816,grab,havok,red,28.8,12.225,blue flag
+571.334,prevent stop,Robiny,red,13.75,12.05,11 s counted
+571.984,boost used,SvgCabbage,blue,17.5,12.5,
+572.066,boost used,SvgCabbage,blue,23.5,8.5,
+572.416,bomb used,timmysumball,blue,29.5,19.5,
+572.516,boost used,havok,red,37.5,17.5,
+572.533,boost used,havok,red,38.5,16.5,
+573.333,pop,havok,red,37.5,13.425,"carrying blue flag; returned by SvgCabbage; splat at 37.5,13.425"
+573.333,block stop,havok,red,37.5,13.425,5.00 s
+576.333,respawn,havok,red,10,5,
+576.334,prevent start,SvgCabbage,blue,31.475,11.9,up to 1 s before the first counted second
+576.334,prevent start,timmysumball,blue,29.5,11,up to 1 s before the first counted second
+577.167,block start,3.1 Thor,blue,10.325,5.875,
+578.334,prevent stop,SvgCabbage,blue,31.625,11.925,2 s counted
+578.334,prevent stop,timmysumball,blue,30.7,11.65,2 s counted
+579.333,prevent start,havok,red,12.9,7.875,up to 1 s before the first counted second
+579.333,prevent start,SvgCabbage,blue,31.35,12.825,up to 1 s before the first counted second
+579.333,prevent start,timmysumball,blue,30.9,11.975,up to 1 s before the first counted second
+579.9,boost used,3.1 Thor,blue,2.5,4.5,
+579.966,boost used,3.1 Thor,blue,3.5,3.5,
+580.333,prevent stop,havok,red,22.275,8.175,1 s counted
+581.133,block start,RoyaltyKeyz,red,9.275,7.3,
+581.45,block start,Mueller,red,12.875,10.3,
+581.883,grab,3.1 Thor,blue,11,8.025,red flag; previous carrier SvgCabbage popped 23.97 s earlier
+581.985,boost ready,,,17.5,12.5,
+582.067,boost ready,,,23.5,8.5,
+582.167,pop,3.1 Thor,blue,10.325,8.05,"carrying red flag; returned by RoyaltyKeyz; splat at 10.325,8.05"
+582.167,block stop,3.1 Thor,blue,10.325,8.05,5.00 s
+582.483,grab,havok,red,29.625,11.3,blue flag; previous carrier havok popped 9.15 s earlier
+582.517,boost ready,,,37.5,17.5,
+582.534,boost ready,,,38.5,16.5,
+582.721,pop,havok,red,29.475,11.8,"carrying blue flag; returned by SvgCabbage; splat at 29.475,11.8"
+583.866,handoff,havok,red,29.475,11.8,
+583.866,grab,Robiny,red,30.95,11.6,blue flag; previous carrier havok popped 1.15 s earlier
+584.166,flaccid,3.1 Thor,blue,10.325,8.05,
+584.334,prevent stop,SvgCabbage,blue,29.6,13.35,5 s counted
+584.334,prevent stop,timmysumball,blue,30.375,11.725,5 s counted
+584.383,block start,3.1 Thor,blue,10.325,8.05,
+584.383,block start,Robiny,red,29.6,11.075,
+584.517,block start,timmysumball,blue,29.625,11.125,
+585.167,respawn,3.1 Thor,blue,28,14,
+585.433,good handoff,havok,red,29.475,11.8,
+585.566,boost used,Robiny,red,23.5,8.5,
+585.666,boost used,Robiny,red,17.5,12.5,
+585.734,respawn,havok,red,13,9,
+588.401,block start,stall2hammer,blue,11.925,7.475,
+589.2,block stop,RoyaltyKeyz,red,10.6,7.7,8.07 s
+589.283,grab,3.1 Thor,blue,10.7,8.625,red flag; previous carrier 3.1 Thor popped 7.12 s earlier
+589.333,prevent stop,RoyaltyKeyz,red,10.525,7.65,33 s counted
+589.333,prevent stop,Mueller,red,10.075,6.275,21 s counted
+589.566,block start,SvgCabbage,blue,16.15,7.275,
+589.901,boost ready,,,2.5,4.5,
+589.967,boost ready,,,3.5,3.5,
+590.717,pop,Robiny,red,8.25,7.375,"carrying blue flag; returned by stall2hammer; splat at 8.25,7.375"
+590.717,block stop,Robiny,red,8.25,7.375,6.33 s
+591.583,grab,havok,red,28.975,11.8,blue flag; previous carrier Robiny popped 0.87 s earlier
+591.601,pop,3.1 Thor,blue,9.65,13.45,"carrying red flag; returned by RoyaltyKeyz; splat at 9.65,13.45"
+591.601,block stop,3.1 Thor,blue,9.65,13.45,7.22 s
+591.666,block start,Robiny,red,8.25,7.375,
+592.334,prevent start,Mueller,red,13.475,8.425,up to 1 s before the first counted second
+592.567,block start,havok,red,29.575,11.175,
+593.316,grab,SvgCabbage,blue,9.075,8.475,red flag; previous carrier 3.1 Thor popped 1.72 s earlier
+593.334,prevent stop,Mueller,red,11.875,8.175,1 s counted
+593.401,block stop,stall2hammer,blue,11.45,9.075,5.00 s
+593.615,message,,,,,"When you have the other team's flag, bring it to your team's flag to capture it. Don't let the other team tag you!"
+593.716,respawn,Robiny,red,14,7,
+594.566,pop,SvgCabbage,blue,12.675,5.65,"carrying red flag; returned by Robiny; splat at 12.675,5.65"
+594.566,block stop,SvgCabbage,blue,12.675,5.65,5.00 s
+594.601,respawn,3.1 Thor,blue,31,10,
+594.635,bomb ready,,,3.5,12.5,
+594.651,bomb ready,,,37.5,8.5,
+594.916,handoff,SvgCabbage,blue,12.675,5.65,
+594.916,grab,stall2hammer,blue,10.6,7.2,red flag; previous carrier SvgCabbage popped 0.35 s earlier
+595.567,boost ready,,,23.5,8.5,
+595.667,boost ready,,,17.5,12.5,
+596.216,block stop,Mueller,red,14.55,8.6,14.77 s
+596.966,boost used,3.1 Thor,blue,23.5,8.5,
+597.05,boost used,3.1 Thor,blue,17.5,12.5,
+597.101,bomb used,stall2hammer,blue,3.5,12.5,
+597.233,block stop,Robiny,red,11.5,8.075,5.57 s
+597.567,pop,havok,red,9.125,9.225,"carrying blue flag; returned by 3.1 Thor; splat at 9.125,9.225"
+597.567,respawn,SvgCabbage,blue,27,13,
+597.567,block stop,havok,red,9.125,9.225,5.00 s
+598.383,good handoff,SvgCabbage,blue,27,13,
+600.014,block stop,timmysumball,blue,9.875,8.45,15.50 s
+600.036,game end,,,,,winner red
+600.036,final stats,timmysumball,blue,9.875,8.45,"registered, grabs 9, caps 0, hold 59, returns 11, tags 11, pops 11, prevent 50, pups 2, handoffs 1, flaccids 1, score 34, points 0"
+600.036,final stats,RoyaltyKeyz,red,4.775,10.2,"registered, grabs 7, caps 2, hold 54, returns 13, tags 13, pops 6, prevent 122, pups 1, handoffs 0, flaccids 1, score 75, points 0"
+600.036,final stats,3.1 Thor,blue,9.525,9.325,"registered, grabs 17, caps 0, hold 153, returns 14, tags 14, pops 17, prevent 38, pups 5, handoffs 1, flaccids 1, score 45, points 0"
+600.036,final stats,Mueller,red,19.7,9.7,"registered, grabs 10, caps 3, hold 140, returns 13, tags 13, pops 7, prevent 122, pups 2, handoffs 0, flaccids 1, score 83, points 0"
+600.036,final stats,havok,red,9.125,9.225,"registered, grabs 21, caps 2, hold 169, returns 14, tags 14, pops 19, prevent 26, pups 1, handoffs 2, flaccids 0, score 57, points 0"
+600.036,final stats,SvgCabbage,blue,27,13,"registered, grabs 9, caps 0, hold 20, returns 9, tags 11, pops 10, prevent 29, pups 1, handoffs 2, flaccids 3, score 25, points 0"
+600.036,final stats,stall2hammer,blue,8.075,8.1,"registered, grabs 14, caps 0, hold 141, returns 6, tags 6, pops 15, prevent 22, pups 0, handoffs 2, flaccids 2, score 28, points 0"
+600.036,final stats,Robiny,red,10.8,8.55,"registered, grabs 11, caps 2, hold 103, returns 8, tags 13, pops 10, prevent 40, pups 6, handoffs 0, flaccids 1, score 52, points 0"

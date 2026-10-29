@@ -1,0 +1,1939 @@
+seconds,event,player,team,x,y,details
+-19.679,join,Xx360NoSwagx,blue,,,
+-19.532,respawn,Xx360NoSwagx,blue,26,11,
+-19.169,join,mactheroni,blue,,,
+-19.031,respawn,mactheroni,blue,26,10,
+-18.728,join,OuchMyBalls,red,,,
+-18.611,respawn,OuchMyBalls,red,9,20,
+-18.503,join,Sadness,red,,,
+-18.345,respawn,Sadness,red,6,17,
+-18.218,join,anti-re,red,,,
+-18.125,join,Irony,blue,,,
+-18.068,join,Kep,red,,,
+-17.953,respawn,anti-re,red,5,18,
+-17.936,respawn,Irony,blue,28,8,
+-17.936,respawn,Kep,red,6,20,
+-15.174,join,Junoon,blue,,,
+-15.116,respawn,Junoon,blue,29,7,
+-11.835,leave,anti-re,red,5,18,
+-11.375,rejoin,anti-re,red,,,
+-11.317,respawn,anti-re,red,7,21,
+-6.324,leave,Junoon,blue,29,7,
+-5.951,rejoin,Junoon,blue,,,
+-5.889,respawn,Junoon,blue,25,10,
+0,game start,,,,,"map Sardonica; ctf; private group; Chicago, IL; length 600 s; red team MABO; blue team MLBT; red flag at 7.5,20.5; blue flag at 27.5,8.5; replay 6e311d23-f713-455a-9e7a-c76db4b22014"
+0.546,gate change,,,16,23,2 tiles turned red
+0.963,gate change,,,16,23,2 tiles turned off
+1.698,boost used,Kep,red,1.5,21.5,
+2.081,boost used,OuchMyBalls,red,13.5,24.5,
+2.132,bomb used,anti-re,red,6.5,27.5,
+2.164,boost used,Sadness,red,9.5,12.5,
+2.281,boost used,mactheroni,blue,25.5,16.5,
+2.432,boost used,Irony,blue,21.5,4.5,
+2.68,bomb used,Junoon,blue,28.5,1.5,
+3.163,prevent start,Xx360NoSwagx,blue,25.075,10.425,up to 1 s before the first counted second
+3.163,prevent start,Junoon,blue,23,2.35,up to 1 s before the first counted second
+3.299,gate change,,,16,23,2 tiles turned red
+3.414,gate change,,,16,23,2 tiles turned off
+3.751,gate change,,,19,6,2 tiles turned red
+4.115,gate change,,,19,6,2 tiles turned off
+4.163,prevent start,Kep,red,6.55,18.9,up to 1 s before the first counted second
+4.163,prevent start,anti-re,red,8.1,20.55,up to 1 s before the first counted second
+4.497,grab,mactheroni,blue,7.85,21.025,red flag
+4.748,pop,mactheroni,blue,7.3,20.175,"carrying red flag; returned by anti-re; splat at 7.3,20.175"
+6.747,flaccid,mactheroni,blue,7.3,20.175,
+7.413,gate change,,,16,23,2 tiles turned blue
+7.663,gate change,,,16,23,2 tiles turned off
+7.748,respawn,mactheroni,blue,28,7,
+8.232,boost used,Sadness,red,33.5,7.5,
+8.697,block start,OuchMyBalls,red,26.775,9.4,
+9.164,prevent stop,Junoon,blue,26.85,14.35,6 s counted
+10.163,prevent stop,Kep,red,7.75,17.525,6 s counted
+10.163,prevent stop,anti-re,red,8.3,18.6,6 s counted
+11.166,prevent start,Kep,red,7.825,17.45,up to 1 s before the first counted second
+11.166,prevent start,anti-re,red,7.875,18.45,up to 1 s before the first counted second
+11.7,boost ready,,,1.5,21.5,
+12.086,boost ready,,,13.5,24.5,
+12.163,prevent start,Junoon,blue,23.65,13.3,up to 1 s before the first counted second
+12.168,boost ready,,,9.5,12.5,
+12.282,boost ready,,,25.5,16.5,
+12.432,boost ready,,,21.5,4.5,
+13.13,button start,Sadness,red,24.625,17.55,
+13.43,boost used,Sadness,red,25.5,16.5,
+13.645,grab,OuchMyBalls,red,27.95,7.725,blue flag
+13.697,block stop,OuchMyBalls,red,27.95,7.725,5.00 s
+13.898,pop,OuchMyBalls,red,27.525,8,"carrying blue flag; returned by Xx360NoSwagx; splat at 27.525,8"
+14.344,gate change,,,16,23,2 tiles turned blue
+14.846,gate change,,,16,23,2 tiles turned off
+15.898,flaccid,OuchMyBalls,red,27.525,8,
+16.896,respawn,OuchMyBalls,red,5,20,
+16.897,boost used,mactheroni,blue,13.5,24.5,
+17.08,gate change,,,16,23,2 tiles turned blue
+17.113,gate change,,,16,23,2 tiles turned off
+17.932,gate change,,,19,6,2 tiles turned red
+18.13,gate change,,,19,6,2 tiles turned off
+18.13,button stop,Sadness,red,23.85,6.55,5.00 s
+18.162,prevent stop,Junoon,blue,21.525,5.325,6 s counted
+18.237,boost ready,,,33.5,7.5,
+18.53,boost used,Junoon,blue,21.5,4.5,
+18.564,block start,Sadness,red,22.875,6.9,
+18.845,gate change,,,19,6,2 tiles turned red
+19.163,prevent start,Junoon,blue,23.25,4.175,up to 1 s before the first counted second
+19.363,gate change,,,19,6,2 tiles turned off
+20.162,prevent start,OuchMyBalls,red,8.25,16.45,up to 1 s before the first counted second
+20.713,boost used,Junoon,blue,33.5,7.5,
+20.732,boost used,Irony,blue,9.5,12.5,
+21.162,prevent stop,OuchMyBalls,red,10.775,14.25,1 s counted
+22.345,boost used,mactheroni,blue,1.5,21.5,
+23.047,grab,Sadness,red,27.85,7.825,blue flag; previous carrier OuchMyBalls popped 9.15 s earlier
+23.166,prevent stop,Xx360NoSwagx,blue,26.325,9.6,20 s counted
+23.166,prevent stop,Junoon,blue,26.85,7.875,4 s counted
+23.432,boost ready,,,25.5,16.5,
+23.564,pop,Sadness,red,27.7,7.075,"carrying blue flag; returned by Junoon; splat at 27.7,7.075"
+23.564,block stop,Sadness,red,27.7,7.075,5.00 s
+25.196,gate change,,,16,23,2 tiles turned blue
+25.563,flaccid,Sadness,red,27.7,7.075,
+25.596,gate change,,,16,23,2 tiles turned off
+25.73,boost used,OuchMyBalls,red,25.5,16.5,
+26.163,prevent start,Xx360NoSwagx,blue,26.575,10.35,up to 1 s before the first counted second
+26.163,prevent start,Junoon,blue,25.6,11.575,up to 1 s before the first counted second
+26.562,respawn,Sadness,red,6,17,
+26.897,boost ready,,,13.5,24.5,
+27.579,block start,Sadness,red,6.85,15.9,
+28.199,boost used,Irony,blue,13.5,24.5,
+28.446,gate change,,,16,23,2 tiles turned blue
+28.53,gate change,,,16,23,2 tiles turned off
+28.532,boost ready,,,21.5,4.5,
+30.379,gate change,,,19,6,2 tiles turned blue
+30.716,boost ready,,,33.5,7.5,
+30.733,boost ready,,,9.5,12.5,
+31.062,gate change,,,19,6,2 tiles turned off
+31.08,boost used,Sadness,red,21.5,4.5,
+31.164,prevent stop,Junoon,blue,22.075,3.9,5 s counted
+31.38,gate change,,,19,6,2 tiles turned red
+31.495,gate change,,,19,6,2 tiles turned off
+32.014,grab,OuchMyBalls,red,27.575,7.425,blue flag; previous carrier Sadness popped 8.45 s earlier
+32.132,bomb ready,,,6.5,27.5,
+32.162,prevent stop,Xx360NoSwagx,blue,27.55,8.975,6 s counted
+32.346,boost ready,,,1.5,21.5,
+32.682,bomb ready,,,28.5,1.5,
+33.234,gate change,,,19,6,2 tiles turned blue
+33.347,gate change,,,19,6,2 tiles turned off
+33.98,block stop,Sadness,red,26.725,14.6,6.40 s
+35.33,bomb used,mactheroni,blue,6.5,27.5,
+35.68,grab,mactheroni,blue,6.3,22.975,red flag; previous carrier mactheroni popped 30.93 s earlier
+35.731,boost ready,,,25.5,16.5,
+35.966,block start,Sadness,red,22.725,13.425,
+36.163,prevent stop,Kep,red,7.1,14.725,25 s counted
+36.163,prevent stop,anti-re,red,7.475,18.75,25 s counted
+36.43,boost used,Kep,red,9.5,12.5,
+38.13,button start,Sadness,red,25.475,8.65,
+38.199,boost ready,,,13.5,24.5,
+38.596,block start,anti-re,red,8.025,18.9,
+40.03,boost used,Kep,red,25.5,16.5,
+40.196,gate change,,,19,6,2 tiles turned red
+40.93,pop,Junoon,blue,17.65,5.975,"tagged by Sadness; splat at 17.65,5.975"
+40.966,block stop,Sadness,red,24.1,7.3,5.00 s
+41.081,boost ready,,,21.5,4.5,
+41.33,block start,Xx360NoSwagx,blue,24.8,6.85,
+42.063,block start,mactheroni,blue,17.35,12.4,
+42.446,boost used,OuchMyBalls,red,21.5,4.5,
+43.13,button stop,Sadness,red,24.1,6.875,5.00 s
+43.372,bomb used,Xx360NoSwagx,blue,28.5,1.5,
+43.596,block stop,anti-re,red,8.425,18.75,5.00 s
+43.78,gate change,,,19,6,2 tiles turned off
+43.93,respawn,Junoon,blue,27,10,
+46.064,boost used,Xx360NoSwagx,blue,13.5,24.5,
+46.247,gate change,,,16,23,2 tiles turned blue
+46.296,gate change,,,16,23,2 tiles turned off
+46.33,block stop,Xx360NoSwagx,blue,9.25,20.075,5.00 s
+46.433,boost ready,,,9.5,12.5,
+47.063,pop,mactheroni,blue,11.175,20.125,"carrying red flag; returned by Sadness; splat at 11.175,20.125"
+47.063,block stop,mactheroni,blue,11.175,20.125,5.00 s
+47.162,prevent start,Sadness,red,11.775,19.45,up to 1 s before the first counted second
+47.162,prevent start,Kep,red,11.2,16.925,up to 1 s before the first counted second
+47.613,block start,Junoon,blue,13.375,17.225,
+48.016,block start,Xx360NoSwagx,blue,8.425,17.5,
+50.031,boost ready,,,25.5,16.5,
+50.046,boost used,anti-re,red,9.5,12.5,
+50.064,respawn,mactheroni,blue,29,10,
+50.163,prevent stop,Sadness,red,14.25,17.05,3 s counted
+50.195,block start,Sadness,red,14.25,17.05,
+50.797,grab,Xx360NoSwagx,blue,7.325,19.2,red flag; previous carrier mactheroni popped 3.73 s earlier
+50.831,gate change,,,19,6,2 tiles turned red
+51.163,prevent stop,Kep,red,7.05,20.4,4 s counted
+52.112,gate change,,,19,6,2 tiles turned off
+52.446,boost ready,,,21.5,4.5,
+52.613,block stop,Junoon,blue,9.8,17.5,5.00 s
+53.016,pop,Xx360NoSwagx,blue,13.4,18.925,"carrying red flag; returned by Kep; splat at 13.4,18.925"
+53.016,block stop,Xx360NoSwagx,blue,13.4,18.925,5.00 s
+53.164,prevent start,anti-re,red,9.5,18.825,up to 1 s before the first counted second
+54.499,boost used,OuchMyBalls,red,33.5,7.5,
+55.165,prevent start,Kep,red,10.825,18.4,up to 1 s before the first counted second
+56.014,respawn,Xx360NoSwagx,blue,24,9,
+56.064,boost ready,,,13.5,24.5,
+56.144,gate change,,,16,23,2 tiles turned red
+56.362,gate change,,,16,23,2 tiles turned off
+56.781,gate change,,,19,6,2 tiles turned red
+57.662,gate change,,,19,6,2 tiles turned off
+57.88,boost used,OuchMyBalls,red,25.5,16.5,
+59.546,gate change,,,16,23,2 tiles turned blue
+60.003,pup spawn,,,14.5,18.5,juke juice
+60.004,pup spawn,,,20.5,10.5,juke juice
+60.05,boost ready,,,9.5,12.5,
+60.166,gate change,,,16,23,2 tiles turned off
+60.846,pup taken,,,14.5,18.5,juke juice
+60.847,pup taken,,,20.5,10.5,juke juice
+60.865,pup pickup,Sadness,red,20.375,10.95,juke juice
+60.865,pup pickup,Junoon,blue,12.95,18.275,juke juice
+61.346,gate change,,,16,23,2 tiles turned red
+61.363,gate change,,,16,23,2 tiles turned off
+61.695,gate change,,,16,23,2 tiles turned blue
+62.445,gate change,,,16,23,2 tiles turned off
+62.697,boost used,Junoon,blue,9.5,12.5,
+62.78,block stop,Sadness,red,23.325,8.125,12.59 s
+63.146,button start,Xx360NoSwagx,blue,22.675,8.05,
+63.146,button start,Sadness,red,23.625,8.075,
+63.445,gate change,,,19,6,2 tiles turned red
+63.979,gate change,,,16,23,2 tiles turned blue
+64.129,gate change,,,19,6,2 tiles turned off
+64.499,boost ready,,,33.5,7.5,
+64.531,block start,OuchMyBalls,red,21.05,2.975,
+64.745,gate change,,,16,23,2 tiles turned off
+65.229,gate change,,,19,6,2 tiles turned red
+65.331,bomb ready,,,6.5,27.5,
+65.746,gate change,,,19,6,2 tiles turned off
+65.863,boost used,OuchMyBalls,red,21.5,4.5,
+66.629,gate change,,,19,6,2 tiles turned red
+66.697,boost used,OuchMyBalls,red,33.5,7.5,
+67.881,boost ready,,,25.5,16.5,
+68.064,gate change,,,19,6,2 tiles turned off
+68.146,button stop,Xx360NoSwagx,blue,23.55,6.725,5.00 s
+68.146,button stop,Sadness,red,24.55,6.875,5.00 s
+68.267,gate change,,,16,23,2 tiles turned blue
+68.301,gate change,,,19,6,2 tiles turned blue
+68.363,gate change,,,19,6,2 tiles turned off
+68.662,gate change,,,16,23,2 tiles turned off
+68.713,gate change,,,16,23,2 tiles turned red
+68.996,gate change,,,16,23,2 tiles turned off
+69.497,boost used,OuchMyBalls,red,13.5,24.5,
+69.531,pop,OuchMyBalls,red,13.2,24.4,"carrying blue flag; returned by Irony; splat at 13.2,24.4"
+69.531,block stop,OuchMyBalls,red,13.2,24.4,5.00 s
+69.58,gate change,,,16,23,2 tiles turned blue
+70.163,prevent start,Xx360NoSwagx,blue,25.875,9.25,up to 1 s before the first counted second
+70.43,gate change,,,16,23,2 tiles turned off
+71.745,gate change,,,16,23,2 tiles turned blue
+71.947,gate change,,,16,23,2 tiles turned off
+72.167,prevent stop,Kep,red,5.975,25.825,17 s counted
+72.314,bomb used,Kep,red,6.5,27.5,
+72.346,grab,Sadness,red,27.7,8.575,blue flag; previous carrier OuchMyBalls popped 2.81 s earlier
+72.529,respawn,OuchMyBalls,red,10,20,
+72.698,boost ready,,,9.5,12.5,
+73.162,prevent stop,Xx360NoSwagx,blue,27.225,8.25,3 s counted
+73.372,bomb ready,,,28.5,1.5,
+74.534,block start,Sadness,red,27.125,2.375,
+74.78,bomb used,Sadness,red,28.5,1.5,
+75.164,prevent start,Kep,red,7.8,16.15,up to 1 s before the first counted second
+75.281,pop,Xx360NoSwagx,blue,20.65,6.275,"no enemy credited (spike, gate, explosion or self); splat at 20.65,6.275"
+75.851,gate change,,,19,6,2 tiles turned red
+75.864,boost ready,,,21.5,4.5,
+76.015,boost used,Irony,blue,25.5,16.5,
+76.429,gate change,,,19,6,2 tiles turned off
+76.698,boost ready,,,33.5,7.5,
+78.28,respawn,Xx360NoSwagx,blue,25,8,
+78.846,gate change,,,19,6,2 tiles turned blue
+79.498,boost ready,,,13.5,24.5,
+79.534,pop,Sadness,red,19.825,7.15,"carrying blue flag; returned by Junoon; splat at 19.825,7.15"
+79.534,block stop,Sadness,red,19.825,7.15,5.00 s
+80.145,gate change,,,19,6,2 tiles turned off
+80.862,pup ended,Sadness,red,19.825,7.15,juke juice
+80.862,pup ended,Junoon,blue,19.625,9.475,juke juice
+82.166,prevent start,Xx360NoSwagx,blue,25.175,9.1,up to 1 s before the first counted second
+82.496,boost used,Junoon,blue,21.5,4.5,
+82.53,respawn,Sadness,red,9,18,
+82.98,block start,Irony,blue,14.375,25.025,
+83.146,gate change,,,16,23,2 tiles turned red
+83.163,prevent start,Junoon,blue,24.225,4.1,up to 1 s before the first counted second
+83.166,prevent stop,Kep,red,7.225,18.4,8 s counted
+83.166,prevent stop,anti-re,red,9.25,20.725,30 s counted
+84.063,boost used,mactheroni,blue,9.5,12.5,
+84.163,block start,Xx360NoSwagx,blue,27.65,8.425,
+84.163,prevent start,Kep,red,7.525,18.275,up to 1 s before the first counted second
+84.163,prevent start,anti-re,red,9.725,21.3,up to 1 s before the first counted second
+84.211,boost used,OuchMyBalls,red,33.5,7.5,
+84.432,block start,mactheroni,blue,7.725,15.25,
+84.597,gate change,,,16,23,2 tiles turned off
+85.114,boost used,Irony,blue,13.5,24.5,
+85.317,gate change,,,16,23,2 tiles turned blue
+85.381,gate change,,,16,23,2 tiles turned off
+86.015,boost ready,,,25.5,16.5,
+86.812,grab,mactheroni,blue,7.25,20.875,red flag; previous carrier Xx360NoSwagx popped 33.80 s earlier
+87.045,boost used,Kep,red,1.5,21.5,
+87.162,prevent stop,Kep,red,1,20.725,3 s counted
+87.162,prevent stop,anti-re,red,5.6,17.45,3 s counted
+87.98,block stop,Irony,blue,8.775,16.425,5.00 s
+88.163,prevent stop,Junoon,blue,26.125,13.825,5 s counted
+88.279,boost used,Sadness,red,25.5,16.5,
+89.163,block stop,Xx360NoSwagx,blue,23.45,9.675,5.00 s
+89.432,pop,mactheroni,blue,21.225,10.775,"carrying red flag; returned by OuchMyBalls; splat at 21.225,10.775"
+89.432,block stop,mactheroni,blue,21.225,10.775,5.00 s
+90.164,prevent start,Kep,red,8.85,18.975,up to 1 s before the first counted second
+90.164,prevent start,anti-re,red,10.875,20.1,up to 1 s before the first counted second
+90.164,prevent start,Junoon,blue,27.075,13.15,up to 1 s before the first counted second
+92.43,respawn,mactheroni,blue,28,8,
+92.497,boost ready,,,21.5,4.5,
+93.58,gate change,,,19,6,2 tiles turned red
+93.913,gate change,,,19,6,2 tiles turned off
+94.063,boost ready,,,9.5,12.5,
+94.212,boost ready,,,33.5,7.5,
+95.114,boost ready,,,13.5,24.5,
+96.931,gate change,,,19,6,2 tiles turned blue
+96.982,gate change,,,19,6,2 tiles turned off
+97.034,boost used,Sadness,red,21.5,4.5,
+97.05,boost ready,,,1.5,21.5,
+97.247,gate change,,,19,6,2 tiles turned blue
+97.396,gate change,,,19,6,2 tiles turned off
+98.283,boost ready,,,25.5,16.5,
+98.462,block start,OuchMyBalls,red,27.925,2.375,
+98.814,block start,Sadness,red,30.45,7.525,
+99.596,boost used,mactheroni,blue,9.5,12.5,
+100.165,boost used,mactheroni,blue,1.5,21.5,
+100.795,gate change,,,16,23,2 tiles turned blue
+100.868,block start,mactheroni,blue,4.75,24.45,
+101.079,gate change,,,16,23,2 tiles turned off
+101.68,grab,mactheroni,blue,6.7,20.925,red flag; previous carrier mactheroni popped 12.25 s earlier
+102.162,prevent stop,Kep,red,8.75,19.55,12 s counted
+102.162,prevent stop,anti-re,red,7.775,19.75,12 s counted
+102.315,bomb ready,,,6.5,27.5,
+102.379,grab,Sadness,red,28.025,8.625,blue flag; previous carrier Sadness popped 22.84 s earlier
+103.162,prevent stop,Xx360NoSwagx,blue,27.2,3,21 s counted
+103.162,prevent stop,Junoon,blue,25.15,7.125,13 s counted
+103.462,block stop,OuchMyBalls,red,28.025,2.675,5.00 s
+103.628,boost used,Irony,blue,13.5,24.5,
+103.814,pop,Sadness,red,23.175,2.5,"carrying blue flag; returned by Junoon; splat at 23.175,2.5"
+103.814,block stop,Sadness,red,23.175,2.5,5.00 s
+103.83,gate change,,,16,23,2 tiles turned blue
+103.879,gate change,,,16,23,2 tiles turned off
+104.165,prevent start,Xx360NoSwagx,blue,27.45,4.65,up to 1 s before the first counted second
+104.781,bomb ready,,,28.5,1.5,
+105.165,prevent start,Junoon,blue,24.175,4.025,up to 1 s before the first counted second
+105.412,block start,Kep,red,16.275,7.425,
+105.868,pop,mactheroni,blue,19.1,3,"carrying red flag; returned by Kep; splat at 19.1,3"
+105.868,block stop,mactheroni,blue,19.1,3,5.00 s
+106.562,grab,Irony,blue,7.15,19.125,red flag; previous carrier mactheroni popped 0.69 s earlier
+106.695,gate change,,,19,6,2 tiles turned blue
+106.812,respawn,Sadness,red,5,19,
+107.034,boost ready,,,21.5,4.5,
+107.08,gate change,,,19,6,2 tiles turned off
+107.163,prevent stop,Xx360NoSwagx,blue,24.05,7.55,3 s counted
+107.163,prevent stop,Junoon,blue,27.15,7.375,2 s counted
+107.181,grab,OuchMyBalls,red,28.025,7.775,blue flag; previous carrier Sadness popped 3.37 s earlier
+107.745,block start,anti-re,red,19.675,10.25,
+108.785,gate change,,,16,23,2 tiles turned red
+108.815,block start,Junoon,blue,26.2,11.275,
+108.865,respawn,mactheroni,blue,29,9,
+109.363,boost used,Xx360NoSwagx,blue,25.5,16.5,
+109.596,boost ready,,,9.5,12.5,
+109.931,gate change,,,16,23,2 tiles turned off
+110.165,boost ready,,,1.5,21.5,
+110.412,block stop,Kep,red,28.55,8.65,5.00 s
+111.113,gate change,,,16,23,2 tiles turned red
+111.412,gate change,,,16,23,2 tiles turned off
+111.697,bomb used,Irony,blue,6.5,27.5,
+113.029,boost used,Irony,blue,9.5,12.5,
+113.045,block start,OuchMyBalls,red,17.375,13.025,
+113.045,block start,Irony,blue,8.5,11.775,
+113.145,button start,Kep,red,24.825,8.025,
+113.629,boost ready,,,13.5,24.5,
+113.815,block stop,anti-re,red,19.975,11.9,6.07 s
+113.815,block stop,Junoon,blue,20.375,11.025,5.00 s
+115.113,bomb used,Irony,blue,28.5,1.5,
+118.045,block stop,OuchMyBalls,red,21.075,3.075,5.00 s
+118.045,block stop,Irony,blue,22.025,3.075,5.00 s
+118.046,gate change,,,19,6,2 tiles turned red
+118.145,button stop,Kep,red,24.725,6.9,5.00 s
+118.421,boost used,Irony,blue,21.5,4.5,
+118.564,pop,Irony,blue,19.875,5.675,"carrying red flag; returned by Kep; splat at 19.875,5.675"
+118.698,gate change,,,19,6,2 tiles turned off
+119.368,boost ready,,,25.5,16.5,
+120.848,pup spawn,,,14.5,18.5,juke juice
+120.85,pup spawn,,,20.5,10.5,tagpro
+121.562,respawn,Irony,blue,25,12,
+121.563,pup taken,,,20.5,10.5,tagpro
+121.58,pup pickup,anti-re,red,20.825,9.7,tagpro
+122.529,grab,Xx360NoSwagx,blue,7.65,19.525,red flag; previous carrier Irony popped 3.96 s earlier
+123.031,boost ready,,,9.5,12.5,
+123.268,pup taken,,,14.5,18.5,juke juice
+123.281,pup pickup,OuchMyBalls,red,13.175,18.175,juke juice
+124.546,boost used,Xx360NoSwagx,blue,1.5,21.5,
+124.695,boost used,Irony,blue,25.5,16.5,
+125.113,block start,Junoon,blue,15.225,16.8,
+127.113,boost used,Xx360NoSwagx,blue,13.5,24.5,
+128.421,boost ready,,,21.5,4.5,
+128.683,boost used,Xx360NoSwagx,blue,21.5,4.5,
+128.696,block start,mactheroni,blue,13.025,16.625,
+130.113,block stop,Junoon,blue,24.975,9.325,5.00 s
+131.396,block start,Junoon,blue,25,6.55,
+131.78,block start,anti-re,red,7.1,19.575,
+132.145,gate change,,,19,6,2 tiles turned blue
+132.945,gate change,,,19,6,2 tiles turned off
+134.547,boost ready,,,1.5,21.5,
+134.698,boost ready,,,25.5,16.5,
+136.345,boost used,Irony,blue,9.5,12.5,
+136.396,block stop,Junoon,blue,14.65,17.5,5.00 s
+136.58,pup ended,anti-re,red,7.3,19.05,tagpro
+137.114,boost ready,,,13.5,24.5,
+138.129,button start,anti-re,red,7.35,21.45,
+138.129,button start,Junoon,blue,12.525,18.775,
+138.145,button start,Sadness,red,18.15,23,
+138.683,boost ready,,,21.5,4.5,
+139.531,block stop,mactheroni,blue,19.175,20.45,10.84 s
+139.846,boost used,Xx360NoSwagx,blue,25.5,16.5,
+141.079,block start,mactheroni,blue,18.2,20.425,
+141.079,block start,Kep,red,26.275,8.975,
+141.113,gate change,,,16,23,2 tiles turned blue
+141.698,bomb ready,,,6.5,27.5,
+141.764,gate change,,,16,23,2 tiles turned off
+141.879,gate change,,,16,23,2 tiles turned red
+142.163,gate change,,,19,6,2 tiles turned red
+142.196,block start,OuchMyBalls,red,12.775,25.025,
+142.462,gate change,,,19,6,2 tiles turned off
+142.612,boost used,OuchMyBalls,red,13.5,24.5,
+142.779,block stop,anti-re,red,9.725,21.225,11.00 s
+142.78,boost used,Xx360NoSwagx,blue,21.5,4.5,
+142.867,block start,Xx360NoSwagx,blue,20.775,4.625,
+143.028,gate change,,,16,23,2 tiles turned off
+143.08,gate change,,,19,6,2 tiles turned red
+143.129,button stop,Junoon,blue,10.425,21.55,5.00 s
+143.145,button stop,Sadness,red,23.7,7.8,5.00 s
+143.266,gate change,,,16,23,2 tiles turned blue
+143.28,pup ended,OuchMyBalls,red,23.3,17.025,juke juice
+143.529,gate change,,,16,23,2 tiles turned off
+144.345,gate change,,,19,6,2 tiles turned off
+145.114,bomb ready,,,28.5,1.5,
+146.079,block stop,mactheroni,blue,21.45,11.275,5.00 s
+146.079,block stop,Kep,red,20.75,10.4,5.00 s
+146.347,boost ready,,,9.5,12.5,
+146.381,gate change,,,19,6,2 tiles turned red
+146.563,bomb used,anti-re,red,6.5,27.5,
+146.795,gate change,,,19,6,2 tiles turned off
+147.163,prevent start,mactheroni,blue,23.275,7.2,up to 1 s before the first counted second
+147.196,pop,OuchMyBalls,red,22.6,5.65,"carrying blue flag; returned by mactheroni; splat at 22.6,5.65"
+147.196,block stop,OuchMyBalls,red,22.6,5.65,5.00 s
+147.446,gate change,,,16,23,2 tiles turned blue
+147.746,gate change,,,16,23,2 tiles turned off
+147.847,gate change,,,16,23,2 tiles turned red
+147.867,pop,Xx360NoSwagx,blue,21.5,17.5,"carrying red flag; returned by Kep; splat at 21.5,17.5"
+147.867,block stop,Xx360NoSwagx,blue,21.5,17.5,5.00 s
+148.129,button stop,anti-re,red,10.05,20.75,10.00 s
+148.163,prevent stop,mactheroni,blue,24.275,4.25,1 s counted
+148.163,prevent start,anti-re,red,10.05,20.75,up to 1 s before the first counted second
+148.196,gate change,,,16,23,2 tiles turned off
+148.829,block start,Xx360NoSwagx,blue,21.5,17.5,
+148.895,grab,Irony,blue,8.075,20.275,red flag; previous carrier Xx360NoSwagx popped 1.03 s earlier
+149.029,block start,mactheroni,blue,26.8,3.45,
+149.163,prevent stop,anti-re,red,9.075,19.2,1 s counted
+149.665,block start,Irony,blue,6.75,19.8,
+149.848,boost ready,,,25.5,16.5,
+150.162,prevent start,mactheroni,blue,26.4,5.575,up to 1 s before the first counted second
+150.196,respawn,OuchMyBalls,red,8,19,
+150.312,block start,anti-re,red,7.45,18.1,
+150.862,respawn,Xx360NoSwagx,blue,27,12,
+151.145,boost used,Junoon,blue,9.5,12.5,
+151.18,gate change,,,16,23,2 tiles turned red
+151.495,gate change,,,16,23,2 tiles turned off
+151.729,gate change,,,16,23,2 tiles turned blue
+151.812,gate change,,,16,23,2 tiles turned off
+152.43,block start,Junoon,blue,9.975,27.025,
+152.613,boost ready,,,13.5,24.5,
+152.781,boost ready,,,21.5,4.5,
+153.596,block start,Sadness,red,25.175,7.85,
+153.763,boost used,Irony,blue,25.5,16.5,
+154.164,prevent start,Xx360NoSwagx,blue,27.625,9.35,up to 1 s before the first counted second
+154.263,block stop,Xx360NoSwagx,blue,28.025,9.45,5.43 s
+154.48,block stop,mactheroni,blue,25.75,7.9,5.45 s
+154.665,pop,Irony,blue,27.175,9.85,"carrying red flag; returned by Sadness; splat at 27.175,9.85"
+154.665,block stop,Irony,blue,27.175,9.85,5.00 s
+154.913,grab,Junoon,blue,6.85,20.45,red flag; previous carrier Irony popped 0.25 s earlier
+154.995,grab,Sadness,red,26.475,9,blue flag; previous carrier OuchMyBalls popped 7.80 s earlier
+155.164,prevent stop,Xx360NoSwagx,blue,30.25,9.925,1 s counted
+155.164,prevent stop,mactheroni,blue,25.75,7.75,5 s counted
+155.312,block stop,anti-re,red,25.45,8.45,5.00 s
+156.896,bomb used,mactheroni,blue,28.5,1.5,
+157.062,boost used,Xx360NoSwagx,blue,33.5,7.5,
+157.178,boost used,OuchMyBalls,red,13.5,24.5,
+157.197,gate change,,,19,6,2 tiles turned red
+157.296,gate change,,,19,6,2 tiles turned off
+157.43,pop,Junoon,blue,11.925,23.675,"carrying red flag; returned by OuchMyBalls; splat at 11.925,23.675"
+157.43,block stop,Junoon,blue,11.925,23.675,5.00 s
+157.663,respawn,Irony,blue,25,9,
+158.131,button start,Irony,blue,24.775,9.225,
+158.596,pop,Sadness,red,16.525,18.575,"carrying blue flag; returned by mactheroni; splat at 16.525,18.575"
+158.596,block stop,Sadness,red,16.525,18.575,5.00 s
+159.163,prevent start,Xx360NoSwagx,blue,28.9,7.475,up to 1 s before the first counted second
+159.163,prevent start,OuchMyBalls,red,8.6,22.175,up to 1 s before the first counted second
+160.43,respawn,Junoon,blue,28,9,
+161.146,boost ready,,,9.5,12.5,
+161.166,prevent start,anti-re,red,11.35,18.45,up to 1 s before the first counted second
+161.595,respawn,Sadness,red,9,19,
+162.148,gate change,,,16,23,2 tiles turned blue
+162.312,gate change,,,19,6,2 tiles turned blue
+162.464,boost used,mactheroni,blue,1.5,21.5,
+162.544,gate change,,,19,6,2 tiles turned off
+163.029,boost used,Junoon,blue,21.5,4.5,
+163.131,button stop,Irony,blue,9.775,21.2,5.00 s
+163.379,gate change,,,16,23,2 tiles turned off
+163.766,boost ready,,,25.5,16.5,
+165.401,block start,Kep,red,27.1,6.4,
+165.745,boost used,Sadness,red,9.5,12.5,
+165.946,gate change,,,19,6,2 tiles turned red
+166.212,gate change,,,19,6,2 tiles turned off
+166.33,block start,mactheroni,blue,5.05,18.775,
+166.662,gate change,,,19,6,2 tiles turned red
+167.063,boost ready,,,33.5,7.5,
+167.078,gate change,,,19,6,2 tiles turned off
+167.131,block start,Irony,blue,13.875,19.025,
+167.18,prevent start,Junoon,blue,22.675,10.15,up to 1 s before the first counted second
+167.181,boost ready,,,13.5,24.5,
+167.662,grab,Kep,red,25.875,7.55,blue flag; previous carrier Sadness popped 9.07 s earlier
+168.147,button start,Xx360NoSwagx,blue,27.15,8.15,
+168.18,prevent stop,Xx360NoSwagx,blue,27.15,8.15,9 s counted
+168.18,prevent stop,Junoon,blue,25.125,10.8,1 s counted
+168.78,gate change,,,16,23,2 tiles turned red
+169.029,boost used,Kep,red,33.5,7.5,
+169.329,gate change,,,16,23,2 tiles turned off
+170.114,boost used,Irony,blue,13.5,24.5,
+170.329,gate change,,,16,23,2 tiles turned blue
+170.347,gate change,,,16,23,2 tiles turned off
+170.363,gate change,,,16,23,2 tiles turned red
+170.365,gate change,,,16,23,2 tiles turned off
+170.401,pop,Kep,red,28.975,3.8,"carrying blue flag; returned by Xx360NoSwagx; splat at 28.975,3.8"
+170.401,block stop,Kep,red,28.975,3.8,5.00 s
+170.58,grab,Irony,blue,7.975,20.8,red flag; previous carrier Junoon popped 13.15 s earlier
+171.18,prevent start,Xx360NoSwagx,blue,28.2,4.475,up to 1 s before the first counted second
+171.18,prevent stop,OuchMyBalls,red,7.35,17.925,12 s counted
+171.18,prevent stop,anti-re,red,8.375,19.075,10 s counted
+171.18,prevent start,Junoon,blue,27.25,7.925,up to 1 s before the first counted second
+172.045,gate change,,,19,6,2 tiles turned red
+172.131,pop,Irony,blue,5.475,18.05,"carrying red flag; returned by anti-re; splat at 5.475,18.05"
+172.131,block stop,Irony,blue,5.475,18.05,5.00 s
+172.18,prevent start,OuchMyBalls,red,5.925,16.95,up to 1 s before the first counted second
+172.18,prevent start,anti-re,red,6.05,18.75,up to 1 s before the first counted second
+172.312,gate change,,,19,6,2 tiles turned off
+172.396,block start,Junoon,blue,25.975,6.85,
+172.465,boost ready,,,1.5,21.5,
+172.695,grab,mactheroni,blue,7.5,18.8,red flag; previous carrier Irony popped 0.56 s earlier
+172.695,handoff,Irony,blue,5.475,18.05,
+172.745,block stop,mactheroni,blue,7.45,19.475,6.42 s
+172.813,block start,Irony,blue,5.475,18.05,
+173.013,gate change,,,19,6,2 tiles turned blue
+173.029,boost ready,,,21.5,4.5,
+173.147,button stop,Xx360NoSwagx,blue,24.625,6.775,5.00 s
+173.18,prevent stop,OuchMyBalls,red,6.95,16.525,1 s counted
+173.18,prevent stop,anti-re,red,6.675,19.9,1 s counted
+173.396,respawn,Kep,red,10,20,
+173.745,gate change,,,19,6,2 tiles turned off
+174.165,gate change,,,16,23,2 tiles turned red
+174.214,block start,mactheroni,blue,10.8,22.35,
+174.279,gate change,,,16,23,2 tiles turned off
+175.13,respawn,Irony,blue,24,11,
+175.196,good handoff,Irony,blue,24,11,
+175.746,boost ready,,,9.5,12.5,
+176.179,prevent stop,Xx360NoSwagx,blue,19.35,14.025,5 s counted
+176.565,bomb ready,,,6.5,27.5,
+177.179,prevent stop,Junoon,blue,20.675,11.7,6 s counted
+177.813,block stop,Irony,blue,25.325,10.175,5.00 s
+177.945,block start,Sadness,red,25.025,9.275,
+178.047,block start,OuchMyBalls,red,19.875,12.8,
+178.179,prevent start,Irony,blue,25.775,9.9,up to 1 s before the first counted second
+178.239,boost used,Xx360NoSwagx,blue,9.5,12.5,
+178.846,block stop,Junoon,blue,20.825,10.675,6.45 s
+179.031,boost ready,,,33.5,7.5,
+179.214,pop,mactheroni,blue,23.025,10.025,"carrying red flag; returned by Sadness; splat at 23.025,10.025"
+179.214,block stop,mactheroni,blue,23.025,10.025,5.00 s
+179.595,boost used,anti-re,red,21.5,4.5,
+179.782,gate change,,,19,6,2 tiles turned red
+179.834,gate change,,,19,6,2 tiles turned off
+179.996,grab,anti-re,red,24.975,7.825,blue flag; previous carrier Kep popped 9.60 s earlier
+180.114,boost ready,,,13.5,24.5,
+180.18,prevent stop,Irony,blue,25.75,10.3,2 s counted
+181.312,block start,Kep,red,14.1,16.75,
+181.565,pup spawn,,,20.5,10.5,rolling bomb
+182.098,block start,anti-re,red,26.275,9.375,
+182.213,respawn,mactheroni,blue,24,10,
+182.495,gate change,,,19,6,2 tiles turned red
+182.496,pup taken,,,20.5,10.5,rolling bomb
+182.513,pup pickup,Sadness,red,19.825,10.8,rolling bomb
+182.546,boost used,Irony,blue,25.5,16.5,
+182.663,gate change,,,19,6,2 tiles turned off
+182.945,block stop,Sadness,red,20.625,10.625,5.00 s
+183.269,pup spawn,,,14.5,18.5,juke juice
+183.53,pup taken,,,14.5,18.5,juke juice
+183.548,pup pickup,Kep,red,13.375,17.425,juke juice
+184.863,gate change,,,19,6,2 tiles turned red
+185.18,prevent start,Kep,red,11.275,18.075,up to 1 s before the first counted second
+185.23,gate change,,,19,6,2 tiles turned off
+186.045,block stop,OuchMyBalls,red,10.925,17.325,8.00 s
+186.18,prevent start,OuchMyBalls,red,10.925,17.325,up to 1 s before the first counted second
+186.312,block stop,Kep,red,7.825,18.275,5.00 s
+186.897,bomb ready,,,28.5,1.5,
+187.098,pop,anti-re,red,11.475,17.975,"carrying blue flag; returned by Junoon; splat at 11.475,17.975"
+187.098,block stop,anti-re,red,11.475,17.975,5.00 s
+187.214,gate change,,,16,23,2 tiles turned blue
+187.346,grab,Sadness,red,27.3,7.575,blue flag; previous carrier anti-re popped 0.25 s earlier
+187.612,gate change,,,16,23,2 tiles turned off
+188.24,boost ready,,,9.5,12.5,
+189.595,boost ready,,,21.5,4.5,
+189.845,boost used,OuchMyBalls,red,13.5,24.5,
+190.099,respawn,anti-re,red,7,17,
+190.181,prevent stop,OuchMyBalls,red,14.275,23.775,4 s counted
+190.182,bomb used,Sadness,red,28.5,1.5,
+190.579,gate change,,,19,6,2 tiles turned blue
+190.744,gate change,,,19,6,2 tiles turned off
+192.548,boost ready,,,25.5,16.5,
+193.145,block start,Kep,red,6.45,25.025,
+193.18,prevent start,anti-re,red,7.4,19.5,up to 1 s before the first counted second
+193.27,bomb used,Junoon,blue,6.5,27.5,
+193.867,block start,Sadness,red,21.375,2.975,
+194.463,boost used,Junoon,blue,9.5,12.5,
+196.93,boost used,Sadness,red,21.5,4.5,
+198.13,button start,Xx360NoSwagx,blue,6.725,18.8,
+198.145,block stop,Kep,red,8.9,18.625,5.00 s
+198.846,explosion,,,6.775,17.7,
+198.867,pup ended,Sadness,red,6.8,17.8,rolling bomb
+198.867,block stop,Sadness,red,6.8,17.8,5.00 s
+199.168,score,,,,,red 1 - blue 0
+199.18,prevent start,Sadness,red,7.075,18.525,up to 1 s before the first counted second
+199.182,cap,Sadness,red,7.075,18.525,blue flag
+199.216,gate change,,,16,23,2 tiles turned blue
+199.315,gate change,,,16,23,2 tiles turned off
+199.432,grab,OuchMyBalls,red,27.25,7.95,blue flag
+199.616,grab,Junoon,blue,8.25,20.35,red flag; previous carrier mactheroni popped 20.40 s earlier
+199.847,boost ready,,,13.5,24.5,
+200.081,block start,Junoon,blue,6.1,18.275,
+200.18,prevent stop,Sadness,red,8.125,22.1,1 s counted
+200.18,prevent stop,Kep,red,12.525,18.75,15 s counted
+200.18,prevent stop,anti-re,red,5.3,23.925,7 s counted
+200.962,gate change,,,16,23,2 tiles turned red
+201.132,block start,Xx360NoSwagx,blue,3.125,22.525,
+201.462,gate change,,,16,23,2 tiles turned off
+202.496,boost used,OuchMyBalls,red,25.5,16.5,
+202.73,gate change,,,16,23,2 tiles turned blue
+203.045,pop,OuchMyBalls,red,16.825,22.8,"carrying blue flag; returned by Xx360NoSwagx; splat at 16.825,22.8"
+203.13,button stop,Xx360NoSwagx,blue,9.875,20.575,5.00 s
+203.518,gate change,,,16,23,2 tiles turned off
+203.548,pup ended,Kep,red,20.625,13.525,juke juice
+203.632,gate change,,,16,23,2 tiles turned red
+204.015,gate change,,,16,23,2 tiles turned off
+204.464,boost ready,,,9.5,12.5,
+205.081,pop,Junoon,blue,21.575,19.975,"carrying red flag; returned by anti-re; splat at 21.575,19.975"
+205.081,block stop,Junoon,blue,21.575,19.975,5.00 s
+205.181,prevent start,Sadness,red,11.075,20.175,up to 1 s before the first counted second
+205.413,block start,OuchMyBalls,red,16.825,22.8,
+205.799,grab,Xx360NoSwagx,blue,7.675,20.5,red flag; previous carrier Junoon popped 0.72 s earlier
+206.046,respawn,OuchMyBalls,red,7,19,
+206.132,pop,Xx360NoSwagx,blue,7.75,19.575,"carrying red flag; returned by OuchMyBalls; splat at 7.75,19.575"
+206.132,block stop,Xx360NoSwagx,blue,7.75,19.575,5.00 s
+206.18,prevent start,Irony,blue,25.625,11.8,up to 1 s before the first counted second
+206.181,prevent stop,Sadness,red,11.225,17.85,1 s counted
+206.83,block start,Kep,red,27.325,12.9,
+206.93,boost ready,,,21.5,4.5,
+208.029,boost used,anti-re,red,13.5,24.5,
+208.08,respawn,Junoon,blue,26,7,
+208.131,flaccid,Xx360NoSwagx,blue,7.75,19.575,
+208.847,boost used,anti-re,red,1.5,21.5,
+208.879,boost used,OuchMyBalls,red,9.5,12.5,
+209.131,respawn,Xx360NoSwagx,blue,27,7,
+209.181,prevent start,Sadness,red,10.275,16.05,up to 1 s before the first counted second
+209.181,prevent start,anti-re,red,1.525,21.05,up to 1 s before the first counted second
+209.33,gate change,,,19,6,2 tiles turned blue
+209.848,boost used,OuchMyBalls,red,21.5,4.5,
+210.031,boost used,Irony,blue,33.5,7.5,
+210.063,gate change,,,19,6,2 tiles turned off
+210.096,gate change,,,19,6,2 tiles turned red
+210.165,gate change,,,19,6,2 tiles turned off
+210.396,grab,OuchMyBalls,red,25.525,7.05,blue flag; previous carrier OuchMyBalls popped 7.35 s earlier
+211.18,prevent stop,Irony,blue,28.825,3.85,5 s counted
+212.496,boost ready,,,25.5,16.5,
+213.6,block stop,Kep,red,27.425,7.425,6.77 s
+213.764,pop,OuchMyBalls,red,26.25,3.15,"carrying blue flag; returned by Xx360NoSwagx; splat at 26.25,3.15"
+213.764,block stop,OuchMyBalls,red,26.25,3.15,8.35 s
+214.014,grab,Kep,red,27.425,8.175,blue flag; previous carrier OuchMyBalls popped 0.25 s earlier
+214.948,pop,Kep,red,28.2,10.625,"carrying blue flag; returned by Junoon; splat at 28.2,10.625"
+216.186,prevent stop,Sadness,red,12.525,16.25,7 s counted
+216.395,block start,OuchMyBalls,red,26.25,3.15,
+216.763,respawn,OuchMyBalls,red,8,18,
+216.945,flaccid,Kep,red,28.2,10.625,
+217.145,boost used,Junoon,blue,25.5,16.5,
+217.396,gate change,,,16,23,2 tiles turned blue
+217.596,gate change,,,16,23,2 tiles turned off
+217.946,respawn,Kep,red,10,20,
+218.031,boost ready,,,13.5,24.5,
+218.848,boost ready,,,1.5,21.5,
+218.881,boost ready,,,9.5,12.5,
+219.18,prevent start,Xx360NoSwagx,blue,24.1,12.3,up to 1 s before the first counted second
+219.18,prevent start,Junoon,blue,25.75,12.95,up to 1 s before the first counted second
+219.847,boost used,OuchMyBalls,red,9.5,12.5,
+219.849,boost ready,,,21.5,4.5,
+219.995,gate change,,,16,23,2 tiles turned blue
+220.033,boost ready,,,33.5,7.5,
+220.183,bomb ready,,,28.5,1.5,
+220.279,gate change,,,16,23,2 tiles turned off
+220.712,boost used,OuchMyBalls,red,21.5,4.5,
+220.945,gate change,,,19,6,2 tiles turned blue
+220.963,gate change,,,19,6,2 tiles turned off
+221.112,gate change,,,19,6,2 tiles turned blue
+221.132,grab,OuchMyBalls,red,25.35,6.525,blue flag; previous carrier Kep popped 6.18 s earlier
+221.179,prevent start,Kep,red,8.475,20.325,up to 1 s before the first counted second
+221.18,prevent stop,Xx360NoSwagx,blue,24.125,7.475,2 s counted
+221.18,prevent stop,Junoon,blue,30.35,9.225,2 s counted
+221.395,pop,OuchMyBalls,red,30.3,9.325,"carrying blue flag; returned by Junoon; splat at 30.3,9.325"
+221.395,block stop,OuchMyBalls,red,30.3,9.325,5.00 s
+221.513,gate change,,,16,23,2 tiles turned red
+221.946,boost used,mactheroni,blue,1.5,21.5,
+222.045,gate change,,,19,6,2 tiles turned off
+222.179,prevent start,Xx360NoSwagx,blue,24.625,7,up to 1 s before the first counted second
+222.179,prevent start,Junoon,blue,29.6,12.475,up to 1 s before the first counted second
+222.198,gate change,,,16,23,2 tiles turned off
+222.198,boost used,Irony,blue,13.5,24.5,
+222.345,gate change,,,16,23,2 tiles turned red
+222.429,gate change,,,16,23,2 tiles turned off
+223.179,prevent stop,Junoon,blue,26.775,16.025,1 s counted
+223.27,bomb ready,,,6.5,27.5,
+223.38,grab,mactheroni,blue,6.775,21.25,red flag; previous carrier Xx360NoSwagx popped 17.25 s earlier
+223.396,flaccid,OuchMyBalls,red,30.3,9.325,
+224.18,prevent stop,Kep,red,6.025,13.25,3 s counted
+224.18,prevent stop,anti-re,red,8.2,18.9,15 s counted
+224.281,block start,Sadness,red,30.225,4.525,
+224.379,bomb used,Xx360NoSwagx,blue,28.5,1.5,
+224.395,respawn,OuchMyBalls,red,6,21,
+224.595,boost used,Sadness,red,33.5,7.5,
+225.18,prevent stop,Xx360NoSwagx,blue,28.175,12.05,3 s counted
+225.662,grab,Sadness,red,28.225,7.3,blue flag; previous carrier OuchMyBalls popped 4.27 s earlier
+226.129,gate change,,,19,6,2 tiles turned red
+226.298,block start,Kep,red,16.2,11.075,
+226.362,gate change,,,19,6,2 tiles turned off
+227.146,boost ready,,,25.5,16.5,
+227.18,bomb used,Irony,blue,6.5,27.5,
+228.862,gate change,,,19,6,2 tiles turned blue
+229.03,pop,OuchMyBalls,red,18.325,6.9,"tagged by Xx360NoSwagx; splat at 18.325,6.9"
+229.145,gate change,,,19,6,2 tiles turned off
+229.163,block start,Junoon,blue,21.575,5.1,
+229.281,pop,Sadness,red,22.4,3.525,"carrying blue flag; returned by Junoon; splat at 22.4,3.525"
+229.281,block stop,Sadness,red,22.4,3.525,5.00 s
+229.848,boost ready,,,9.5,12.5,
+229.93,gate change,,,19,6,2 tiles turned blue
+230.181,prevent start,Xx360NoSwagx,blue,24.025,6.45,up to 1 s before the first counted second
+230.181,prevent start,Junoon,blue,21.65,5.2,up to 1 s before the first counted second
+230.212,score,,,,,red 1 - blue 1
+230.23,cap,mactheroni,blue,28.075,6.95,red flag
+230.663,gate change,,,19,6,2 tiles turned off
+230.679,grab,Kep,red,28.05,7.7,blue flag; previous carrier Sadness popped 1.40 s earlier
+230.715,boost ready,,,21.5,4.5,
+230.895,grab,Irony,blue,7.975,19.875,red flag
+231.181,prevent stop,Xx360NoSwagx,blue,25.425,7.125,1 s counted
+231.181,prevent stop,Junoon,blue,23.05,7.5,1 s counted
+231.298,pop,Kep,red,26.7,5.9,"carrying blue flag; returned by Xx360NoSwagx; splat at 26.7,5.9"
+231.298,block stop,Kep,red,26.7,5.9,5.00 s
+231.948,boost ready,,,1.5,21.5,
+232.029,respawn,OuchMyBalls,red,9,17,
+232.179,prevent start,Xx360NoSwagx,blue,26.35,6.95,up to 1 s before the first counted second
+232.179,prevent start,mactheroni,blue,26.25,12.725,up to 1 s before the first counted second
+232.179,prevent start,Junoon,blue,22.6,8.925,up to 1 s before the first counted second
+232.194,gate change,,,16,23,2 tiles turned blue
+232.199,boost ready,,,13.5,24.5,
+232.264,block start,anti-re,red,25.275,7.325,
+232.28,respawn,Sadness,red,8,17,
+232.281,gate change,,,16,23,2 tiles turned off
+232.745,block start,OuchMyBalls,red,9.425,16.575,
+233.179,prevent stop,mactheroni,blue,24.45,14.3,1 s counted
+233.179,prevent stop,Junoon,blue,20.625,10.275,1 s counted
+233.296,flaccid,Kep,red,26.7,5.9,
+234.163,block stop,Junoon,blue,15.85,12.95,5.00 s
+234.196,block start,Xx360NoSwagx,blue,25.325,8.775,
+234.295,respawn,Kep,red,8,19,
+234.599,boost ready,,,33.5,7.5,
+234.712,boost used,Sadness,red,9.5,12.5,
+235.079,boost used,Irony,blue,25.5,16.5,
+235.38,block start,mactheroni,blue,20.575,11.65,
+235.644,boost used,Sadness,red,21.5,4.5,
+236.048,grab,Sadness,red,26.25,7.275,blue flag; previous carrier Kep popped 4.75 s earlier
+236.096,block start,Kep,red,10.35,18.5,
+236.18,prevent stop,Xx360NoSwagx,blue,25.825,10.925,4 s counted
+238.063,block stop,anti-re,red,26.45,12.45,5.80 s
+240.646,block stop,OuchMyBalls,red,13.725,18.3,7.90 s
+242.196,block stop,mactheroni,blue,20.45,9.775,6.82 s
+242.498,pup spawn,,,20.5,10.5,rolling bomb
+242.98,pup taken,,,20.5,10.5,rolling bomb
+242.996,pup pickup,Irony,blue,20.1,10.85,rolling bomb
+243.53,block stop,Kep,red,15,16.975,7.43 s
+243.532,pup spawn,,,14.5,18.5,tagpro
+243.613,pup taken,,,14.5,18.5,tagpro
+243.63,pup pickup,Junoon,blue,14.1,18.85,tagpro
+244.715,boost ready,,,9.5,12.5,
+245.083,boost ready,,,25.5,16.5,
+245.097,block stop,Xx360NoSwagx,blue,16.175,16.4,10.90 s
+245.281,pop,OuchMyBalls,red,15.575,17.25,"tagged by Junoon; splat at 15.575,17.25"
+245.447,block start,Sadness,red,25.675,14.025,
+245.646,boost ready,,,21.5,4.5,
+246.531,block start,Kep,red,17.125,15.55,
+247.329,gate change,,,19,6,2 tiles turned red
+247.58,gate change,,,19,6,2 tiles turned off
+247.679,boost used,anti-re,red,25.5,16.5,
+248.281,respawn,OuchMyBalls,red,10,17,
+249.163,boost used,Sadness,red,21.5,4.5,
+250.163,block start,OuchMyBalls,red,14.325,13.225,
+250.163,block start,Irony,blue,28.6,14.525,
+250.447,pop,Sadness,red,17.325,4.675,"carrying blue flag; returned by Xx360NoSwagx; splat at 17.325,4.675"
+250.447,block stop,Sadness,red,17.325,4.675,5.00 s
+250.613,grab,Kep,red,26.65,9.15,blue flag; previous carrier Sadness popped 0.17 s earlier
+251.531,pop,Kep,red,29,5.8,"carrying blue flag; returned by Junoon; splat at 29,5.8"
+251.531,block stop,Kep,red,29,5.8,5.00 s
+251.579,block start,Xx360NoSwagx,blue,14.425,7.925,
+252.204,grab,OuchMyBalls,red,25.275,7.8,blue flag; previous carrier Kep popped 0.67 s earlier
+252.204,handoff,Kep,red,29,5.8,
+252.63,gate change,,,19,6,2 tiles turned blue
+252.83,gate change,,,19,6,2 tiles turned off
+253.447,respawn,Sadness,red,10,20,
+253.93,boost used,OuchMyBalls,red,33.5,7.5,
+254.382,bomb ready,,,28.5,1.5,
+254.531,respawn,Kep,red,8,20,
+255.163,block stop,Irony,blue,28.175,5.4,5.00 s
+255.596,pop,OuchMyBalls,red,28.775,6.6,"carrying blue flag; returned by mactheroni; splat at 28.775,6.6"
+255.596,flaccid,Kep,red,9.575,18.85,
+255.596,block stop,OuchMyBalls,red,28.775,6.6,5.43 s
+256.179,prevent start,Xx360NoSwagx,blue,23.575,10.4,up to 1 s before the first counted second
+256.179,prevent start,mactheroni,blue,29.475,7.725,up to 1 s before the first counted second
+256.179,prevent start,Junoon,blue,27.25,8.5,up to 1 s before the first counted second
+256.579,block stop,Xx360NoSwagx,blue,23.5,11.775,5.00 s
+256.814,score,,,,,red 1 - blue 2
+256.83,cap,Irony,blue,26.975,7.1,red flag
+257.179,prevent stop,Xx360NoSwagx,blue,22.625,13.675,1 s counted
+257.18,bomb ready,,,6.5,27.5,
+257.196,prevent start,Irony,blue,26.975,7.275,up to 1 s before the first counted second
+257.429,block start,Xx360NoSwagx,blue,21.95,14.6,
+257.495,pop,anti-re,red,23.075,13.475,"tagged by Junoon; splat at 23.075,13.475"
+257.681,boost ready,,,25.5,16.5,
+258.314,gate change,,,19,6,2 tiles turned red
+258.595,respawn,OuchMyBalls,red,7,17,
+258.629,pup ended,Junoon,blue,23.9,12.125,tagpro
+258.73,gate change,,,19,6,2 tiles turned off
+259.163,boost ready,,,21.5,4.5,
+259.179,prevent start,Kep,red,11.2,18.725,up to 1 s before the first counted second
+259.831,explosion,,,26.925,4.9,
+259.845,pup ended,Irony,blue,26.925,4.9,rolling bomb
+260.013,gate change,,,16,23,2 tiles turned blue
+260.179,prevent stop,mactheroni,blue,26.825,15.025,4 s counted
+260.38,gate change,,,16,23,2 tiles turned off
+260.496,respawn,anti-re,red,9,19,
+260.629,bomb used,Irony,blue,28.5,1.5,
+261.046,boost used,mactheroni,blue,25.5,16.5,
+261.528,gate change,,,19,6,2 tiles turned blue
+261.829,boost used,mactheroni,blue,13.5,24.5,
+261.83,bomb used,Xx360NoSwagx,blue,6.5,27.5,
+262.046,gate change,,,19,6,2 tiles turned off
+262.181,prevent stop,Kep,red,6.775,21.85,3 s counted
+262.215,grab,Xx360NoSwagx,blue,6.275,22.625,red flag
+262.429,block stop,Xx360NoSwagx,blue,6.225,19.475,5.00 s
+262.466,pop,Xx360NoSwagx,blue,6.2,17.375,"carrying red flag; returned by Kep; splat at 6.2,17.375"
+263.046,block start,Irony,blue,25.95,6.9,
+263.145,button start,Sadness,red,25.2,6.325,
+263.145,button start,Irony,blue,25.95,6.9,
+263.346,boost used,Kep,red,9.5,12.5,
+263.646,handoff,Xx360NoSwagx,blue,6.2,17.375,
+263.646,grab,mactheroni,blue,7.025,21.45,red flag; previous carrier Xx360NoSwagx popped 1.18 s earlier
+263.93,boost ready,,,33.5,7.5,
+265.229,good handoff,Xx360NoSwagx,blue,6.2,17.375,
+265.38,block start,Junoon,blue,27.2,10.425,
+265.463,respawn,Xx360NoSwagx,blue,26,8,
+265.529,block start,Xx360NoSwagx,blue,26.075,8.175,
+266.181,block start,mactheroni,blue,9.9,10.325,
+267.704,gate change,,,19,6,2 tiles turned blue
+267.799,gate change,,,19,6,2 tiles turned off
+268.145,button stop,Irony,blue,24.2,6.5,5.00 s
+268.413,boost used,mactheroni,blue,21.5,4.5,
+268.431,gate change,,,19,6,2 tiles turned red
+268.78,block stop,Irony,blue,24.1,6.25,5.73 s
+268.963,boost used,OuchMyBalls,red,33.5,7.5,
+269.179,prevent start,Xx360NoSwagx,blue,28.2,7.775,up to 1 s before the first counted second
+269.212,gate change,,,19,6,2 tiles turned off
+269.363,gate change,,,19,6,2 tiles turned blue
+270.063,gate change,,,19,6,2 tiles turned off
+270.38,block stop,Junoon,blue,26.55,7.975,5.00 s
+270.529,block stop,Xx360NoSwagx,blue,27.25,7,5.00 s
+270.612,gate change,,,19,6,2 tiles turned red
+270.629,gate change,,,19,6,2 tiles turned off
+271.047,boost ready,,,25.5,16.5,
+271.181,pop,mactheroni,blue,26.975,9.05,"carrying red flag; returned by OuchMyBalls; splat at 26.975,9.05"
+271.181,block stop,mactheroni,blue,26.975,9.05,5.00 s
+271.181,prevent stop,Irony,blue,21.025,9.3,14 s counted
+271.829,boost ready,,,13.5,24.5,
+271.896,gate change,,,19,6,2 tiles turned blue
+272.546,gate change,,,19,6,2 tiles turned off
+272.845,gate change,,,19,6,2 tiles turned red
+272.932,block start,Irony,blue,12.2,15.425,
+273.163,gate change,,,19,6,2 tiles turned off
+273.347,boost ready,,,9.5,12.5,
+273.581,grab,Irony,blue,7.925,19.45,red flag; previous carrier mactheroni popped 2.40 s earlier
+273.78,gate change,,,19,6,2 tiles turned red
+274.18,respawn,mactheroni,blue,27,7,
+275.279,gate change,,,19,6,2 tiles turned off
+276.696,boost used,Irony,blue,13.5,24.5,
+277.129,gate change,,,19,6,2 tiles turned red
+277.446,boost used,OuchMyBalls,red,25.5,16.5,
+277.932,pop,Irony,blue,24.85,7.85,"carrying red flag; returned by Sadness; splat at 24.85,7.85"
+277.932,block stop,Irony,blue,24.85,7.85,5.00 s
+278.145,button start,OuchMyBalls,red,25.95,9.825,
+278.145,button stop,Sadness,red,23.975,6.95,15.00 s
+278.18,prevent start,anti-re,red,10.7,20.775,up to 1 s before the first counted second
+278.38,gate change,,,19,6,2 tiles turned off
+278.414,boost ready,,,21.5,4.5,
+278.579,grab,mactheroni,blue,8,19.525,red flag; previous carrier Irony popped 0.65 s earlier
+278.945,gate change,,,19,6,2 tiles turned red
+278.964,boost ready,,,33.5,7.5,
+279.18,prevent stop,anti-re,red,9.025,18.675,1 s counted
+279.514,gate change,,,19,6,2 tiles turned off
+280.579,gate change,,,19,6,2 tiles turned blue
+280.829,boost used,mactheroni,blue,1.5,21.5,
+280.896,gate change,,,19,6,2 tiles turned off
+280.929,respawn,Irony,blue,27,11,
+281.663,gate change,,,19,6,2 tiles turned red
+282.18,prevent stop,Junoon,blue,20.05,10.05,26 s counted
+282.281,gate change,,,16,23,2 tiles turned blue
+282.48,gate change,,,16,23,2 tiles turned off
+283.145,button stop,OuchMyBalls,red,24.475,7.125,5.00 s
+283.496,gate change,,,19,6,2 tiles turned off
+284.181,prevent start,Irony,blue,25.65,7.475,up to 1 s before the first counted second
+284.68,boost used,mactheroni,blue,9.5,12.5,
+286.145,block start,mactheroni,blue,14.875,10.75,
+286.699,boost ready,,,13.5,24.5,
+287.452,boost ready,,,25.5,16.5,
+288.062,gate change,,,19,6,2 tiles turned red
+288.129,gate change,,,19,6,2 tiles turned off
+288.579,gate change,,,19,6,2 tiles turned blue
+289.079,block start,Sadness,red,23.65,10.025,
+289.747,gate change,,,19,6,2 tiles turned off
+289.763,block start,Junoon,blue,6.9,20.025,
+290.18,prevent stop,Xx360NoSwagx,blue,23.725,10.55,21 s counted
+290.18,prevent stop,Irony,blue,23.775,5.9,6 s counted
+290.529,boost used,OuchMyBalls,red,21.5,4.5,
+290.629,bomb ready,,,28.5,1.5,
+290.779,gate change,,,19,6,2 tiles turned blue
+290.831,boost ready,,,1.5,21.5,
+290.912,gate change,,,19,6,2 tiles turned off
+291.145,pop,mactheroni,blue,18.1,15.225,"carrying red flag; returned by anti-re; splat at 18.1,15.225"
+291.145,block stop,mactheroni,blue,18.1,15.225,5.00 s
+291.179,prevent start,Irony,blue,25.325,8.075,up to 1 s before the first counted second
+291.396,grab,Junoon,blue,7.1,19.825,red flag; previous carrier mactheroni popped 0.25 s earlier
+291.696,grab,OuchMyBalls,red,26.525,6.775,blue flag; previous carrier OuchMyBalls popped 36.10 s earlier
+291.83,bomb ready,,,6.5,27.5,
+292.179,prevent stop,Irony,blue,29.65,11.9,1 s counted
+293.513,gate change,,,19,6,2 tiles turned blue
+293.946,gate change,,,19,6,2 tiles turned off
+293.962,gate change,,,19,6,2 tiles turned red
+294.029,boost used,anti-re,red,13.5,24.5,
+294.146,respawn,mactheroni,blue,26,10,
+294.43,gate change,,,19,6,2 tiles turned off
+294.68,boost ready,,,9.5,12.5,
+294.763,pop,Junoon,blue,16.95,12.8,"carrying red flag; returned by anti-re; splat at 16.95,12.8"
+294.763,block stop,Junoon,blue,16.95,12.8,5.00 s
+295.129,block stop,Sadness,red,25.15,7.675,6.05 s
+295.196,gate change,,,19,6,2 tiles turned blue
+295.265,bomb used,Irony,blue,28.5,1.5,
+295.696,pop,OuchMyBalls,red,18.85,4.8,"carrying blue flag; returned by Xx360NoSwagx; splat at 18.85,4.8"
+295.814,gate change,,,19,6,2 tiles turned off
+295.814,gate change,,,19,6,2 tiles turned red
+296.198,prevent start,Xx360NoSwagx,blue,23.275,8.1,up to 1 s before the first counted second
+296.198,prevent start,Irony,blue,22.35,6.15,up to 1 s before the first counted second
+296.595,gate change,,,19,6,2 tiles turned off
+296.797,gate change,,,19,6,2 tiles turned red
+296.865,gate change,,,19,6,2 tiles turned off
+297.196,prevent start,mactheroni,blue,26.275,12.15,up to 1 s before the first counted second
+297.198,prevent stop,Xx360NoSwagx,blue,21.925,11.925,1 s counted
+297.315,boost used,Kep,red,9.5,12.5,
+297.763,respawn,Junoon,blue,24,11,
+298.196,prevent stop,mactheroni,blue,26.45,15.1,1 s counted
+298.696,respawn,OuchMyBalls,red,5,19,
+300.531,boost ready,,,21.5,4.5,
+302.131,block start,Xx360NoSwagx,blue,13.3,16.775,
+302.195,prevent stop,Irony,blue,25.275,13.95,6 s counted
+302.981,pup spawn,,,20.5,10.5,tagpro
+303.347,boost used,Irony,blue,25.5,16.5,
+303.615,pup spawn,,,14.5,18.5,juke juice
+303.646,pup taken,,,20.5,10.5,tagpro
+303.663,pup pickup,Sadness,red,20.225,10.65,tagpro
+304.03,boost ready,,,13.5,24.5,
+304.213,pup taken,,,14.5,18.5,juke juice
+304.229,pup pickup,OuchMyBalls,red,13.075,18.275,juke juice
+304.264,pop,Irony,blue,19.175,7.85,"tagged by Sadness; splat at 19.175,7.85"
+306.196,prevent start,OuchMyBalls,red,10.55,18.65,up to 1 s before the first counted second
+306.196,prevent start,anti-re,red,10.025,15.775,up to 1 s before the first counted second
+306.212,gate change,,,19,6,2 tiles turned blue
+306.314,block start,Kep,red,14.425,7.15,
+306.529,grab,Xx360NoSwagx,blue,7.275,19.25,red flag; previous carrier Junoon popped 11.77 s earlier
+306.978,gate change,,,19,6,2 tiles turned off
+307.131,pop,Xx360NoSwagx,blue,3.95,20.2,"carrying red flag; returned by OuchMyBalls; splat at 3.95,20.2"
+307.131,block stop,Xx360NoSwagx,blue,3.95,20.2,5.00 s
+307.263,respawn,Irony,blue,25,8,
+307.316,boost ready,,,9.5,12.5,
+307.995,boost used,OuchMyBalls,red,1.5,21.5,
+308.43,bomb used,Junoon,blue,6.5,27.5,
+309.129,flaccid,Xx360NoSwagx,blue,3.95,20.2,
+309.946,grab,Kep,red,27.6,9,blue flag; previous carrier OuchMyBalls popped 14.25 s earlier
+309.978,gate change,,,16,23,2 tiles turned blue
+310.131,respawn,Xx360NoSwagx,blue,24,8,
+310.2,gate change,,,16,23,2 tiles turned off
+310.2,prevent stop,anti-re,red,7.7,13.35,4 s counted
+310.78,gate change,,,16,23,2 tiles turned red
+310.896,gate change,,,16,23,2 tiles turned off
+310.963,boost used,mactheroni,blue,21.5,4.5,
+311.314,pop,Kep,red,26.475,7.3,"carrying blue flag; returned by mactheroni; splat at 26.475,7.3"
+311.314,block stop,Kep,red,26.475,7.3,5.00 s
+311.83,boost used,mactheroni,blue,33.5,7.5,
+312.195,prevent start,mactheroni,blue,30.1,2.975,up to 1 s before the first counted second
+312.195,prevent stop,OuchMyBalls,red,11.85,17.8,6 s counted
+312.195,prevent start,Irony,blue,26.125,10.625,up to 1 s before the first counted second
+313.195,prevent start,Xx360NoSwagx,blue,26.35,8.475,up to 1 s before the first counted second
+313.314,flaccid,Kep,red,26.475,7.3,
+313.348,boost ready,,,25.5,16.5,
+314.195,prevent stop,Irony,blue,21.7,15.075,2 s counted
+314.313,respawn,Kep,red,9,20,
+314.481,boost used,anti-re,red,9.5,12.5,
+314.964,block start,Sadness,red,26.975,5.9,
+315.363,gate change,,,16,23,2 tiles turned red
+315.445,pop,mactheroni,blue,26.275,5.125,"tagged by Sadness; splat at 26.275,5.125"
+315.912,gate change,,,16,23,2 tiles turned off
+316.196,prevent stop,mactheroni,blue,26.275,5.125,4 s counted
+316.196,prevent start,Junoon,blue,23.625,9.55,up to 1 s before the first counted second
+316.548,pop,Xx360NoSwagx,blue,28.525,9.65,"tagged by Sadness; splat at 28.525,9.65"
+317.179,boost used,Kep,red,13.5,24.5,
+317.196,prevent stop,Xx360NoSwagx,blue,28.525,9.65,4 s counted
+317.997,boost ready,,,1.5,21.5,
+318.445,respawn,mactheroni,blue,29,11,
+318.597,grab,Sadness,red,28.025,8.275,blue flag; previous carrier Kep popped 7.28 s earlier
+318.662,pup ended,Sadness,red,28.025,8.275,tagpro
+319.096,block start,OuchMyBalls,red,26.875,7.575,
+319.197,prevent stop,Junoon,blue,25.225,5.6,3 s counted
+319.546,respawn,Xx360NoSwagx,blue,25,10,
+319.546,boost used,Irony,blue,25.5,16.5,
+319.964,pop,Sadness,red,21.4,9.475,"carrying blue flag; returned by Irony; splat at 21.4,9.475"
+319.964,block stop,Sadness,red,21.4,9.475,5.00 s
+320.215,grab,OuchMyBalls,red,26.6,7.8,blue flag; previous carrier Sadness popped 0.25 s earlier
+320.215,handoff,Sadness,red,21.4,9.475,
+320.465,boost used,Kep,red,1.5,21.5,
+320.964,boost ready,,,21.5,4.5,
+321.83,boost ready,,,33.5,7.5,
+322.195,prevent start,Kep,red,6.8,20.1,up to 1 s before the first counted second
+322.195,prevent start,anti-re,red,10.45,16.55,up to 1 s before the first counted second
+322.963,respawn,Sadness,red,9,18,
+323.395,block start,Sadness,red,9.4,18.2,
+323.679,gate change,,,16,23,2 tiles turned blue
+323.979,gate change,,,16,23,2 tiles turned off
+324.096,pop,OuchMyBalls,red,30.025,5.6,"carrying blue flag; returned by Xx360NoSwagx; splat at 30.025,5.6"
+324.096,flaccid,Sadness,red,10.725,17.85,
+324.096,block stop,OuchMyBalls,red,30.025,5.6,5.00 s
+324.229,pup ended,OuchMyBalls,red,30.025,5.6,juke juice
+324.482,boost ready,,,9.5,12.5,
+325.133,boost used,mactheroni,blue,33.5,7.5,
+325.268,bomb ready,,,28.5,1.5,
+327.014,gate change,,,19,6,2 tiles turned red
+327.098,respawn,OuchMyBalls,red,6,19,
+327.18,boost ready,,,13.5,24.5,
+327.196,prevent start,mactheroni,blue,28.075,6.95,up to 1 s before the first counted second
+327.245,gate change,,,19,6,2 tiles turned off
+327.445,boost used,Xx360NoSwagx,blue,21.5,4.5,
+327.913,bomb used,Xx360NoSwagx,blue,28.5,1.5,
+328.196,prevent stop,mactheroni,blue,27.025,9.825,1 s counted
+328.213,grab,Sadness,red,26.775,4.525,blue flag; previous carrier OuchMyBalls popped 4.12 s earlier
+328.88,pop,Sadness,red,24.475,14.225,"carrying blue flag; returned by Xx360NoSwagx; splat at 24.475,14.225"
+328.88,block stop,Sadness,red,24.475,14.225,5.49 s
+328.931,boost used,Junoon,blue,9.5,12.5,
+329.547,boost ready,,,25.5,16.5,
+330.245,boost used,Irony,blue,13.5,24.5,
+330.465,boost ready,,,1.5,21.5,
+331.145,boost used,Xx360NoSwagx,blue,25.5,16.5,
+331.88,respawn,Sadness,red,7,17,
+332.195,prevent start,Xx360NoSwagx,blue,27.725,11.575,up to 1 s before the first counted second
+333.196,prevent start,mactheroni,blue,25.125,12.525,up to 1 s before the first counted second
+335.133,boost ready,,,33.5,7.5,
+335.198,gate change,,,16,23,2 tiles turned blue
+335.695,gate change,,,16,23,2 tiles turned off
+335.745,boost used,OuchMyBalls,red,33.5,7.5,
+336.595,block start,Junoon,blue,0.975,21.9,
+336.696,boost used,Junoon,blue,1.5,21.5,
+336.813,block start,Irony,blue,8.15,20.075,
+337.445,boost ready,,,21.5,4.5,
+338.43,bomb ready,,,6.5,27.5,
+338.932,boost ready,,,9.5,12.5,
+339.195,prevent stop,Xx360NoSwagx,blue,26.125,8.95,7 s counted
+339.195,prevent stop,mactheroni,blue,26.925,12.925,6 s counted
+339.397,block start,Sadness,red,24.125,16.475,
+340.196,prevent start,Xx360NoSwagx,blue,26.125,9.875,up to 1 s before the first counted second
+340.196,prevent start,mactheroni,blue,28.875,13.325,up to 1 s before the first counted second
+340.247,boost ready,,,13.5,24.5,
+341.146,boost ready,,,25.5,16.5,
+341.282,bomb used,Junoon,blue,6.5,27.5,
+341.562,grab,Junoon,blue,6.75,21.175,red flag; previous carrier Xx360NoSwagx popped 34.43 s earlier
+341.579,block start,mactheroni,blue,26.55,14.475,
+341.579,block start,anti-re,red,7.775,19.725,
+341.595,block stop,Junoon,blue,6.95,19.55,5.00 s
+341.613,gate change,,,16,23,2 tiles turned red
+341.68,boost used,Sadness,red,25.5,16.5,
+341.713,gate change,,,16,23,2 tiles turned off
+341.845,block start,OuchMyBalls,red,24.125,11.05,
+341.845,block start,Junoon,blue,7.025,16.775,
+342.195,prevent stop,Kep,red,12.1,17.775,20 s counted
+342.195,prevent stop,anti-re,red,8.3,19.675,20 s counted
+342.396,block stop,Irony,blue,9.375,19.525,5.58 s
+342.646,grab,Sadness,red,26.9,9.475,blue flag; previous carrier Sadness popped 13.77 s earlier
+343.198,prevent stop,Xx360NoSwagx,blue,25.625,7.575,3 s counted
+343.198,prevent stop,mactheroni,blue,29.975,9.325,3 s counted
+343.212,block start,Xx360NoSwagx,blue,25.625,7.575,
+343.264,boost used,Junoon,blue,9.5,12.5,
+343.363,gate change,,,19,6,2 tiles turned red
+343.563,gate change,,,19,6,2 tiles turned off
+344.397,pop,Sadness,red,26.825,1.025,"carrying blue flag; returned by Xx360NoSwagx; splat at 26.825,1.025"
+344.397,block stop,Sadness,red,26.825,1.025,5.00 s
+344.646,grab,OuchMyBalls,red,26.85,8.275,blue flag; previous carrier Sadness popped 0.25 s earlier
+345.748,boost ready,,,33.5,7.5,
+346.145,gate change,,,19,6,2 tiles turned blue
+346.379,gate change,,,19,6,2 tiles turned off
+346.579,block stop,mactheroni,blue,23.25,13.25,5.00 s
+346.696,boost ready,,,1.5,21.5,
+346.845,block stop,OuchMyBalls,red,22.075,16.1,5.00 s
+347.395,respawn,Sadness,red,6,21,
+348.212,block stop,Xx360NoSwagx,blue,18.2,16,5.00 s
+348.212,block stop,anti-re,red,18.6,17.15,6.63 s
+348.33,gate change,,,16,23,2 tiles turned blue
+348.481,pop,Junoon,blue,18.45,20.025,"carrying red flag; returned by anti-re; splat at 18.45,20.025"
+348.481,block stop,Junoon,blue,18.45,20.025,6.64 s
+348.946,pop,OuchMyBalls,red,15.9,21.325,"carrying blue flag; returned by Irony; splat at 15.9,21.325"
+348.979,block start,Xx360NoSwagx,blue,16.025,20,
+349.979,grab,Kep,red,26.25,9.2,blue flag; previous carrier OuchMyBalls popped 1.03 s earlier
+350.53,gate change,,,16,23,2 tiles turned off
+350.695,block start,mactheroni,blue,19.125,19.125,
+351.113,gate change,,,16,23,2 tiles turned blue
+351.195,prevent start,Sadness,red,9.1,20.125,up to 1 s before the first counted second
+351.48,respawn,Junoon,blue,25,11,
+351.534,block start,Irony,blue,10.125,20.975,
+351.681,boost ready,,,25.5,16.5,
+351.745,gate change,,,16,23,2 tiles turned off
+351.945,respawn,OuchMyBalls,red,8,19,
+352.312,boost used,anti-re,red,13.5,24.5,
+353.046,grab,Irony,blue,7.85,20.075,red flag; previous carrier Junoon popped 4.57 s earlier
+353.195,prevent stop,Sadness,red,9.05,18.925,2 s counted
+353.267,boost ready,,,9.5,12.5,
+354.162,block start,anti-re,red,6.775,20.925,
+354.745,boost used,Kep,red,21.5,4.5,
+354.947,gate change,,,19,6,2 tiles turned red
+354.963,pop,Junoon,blue,20,5.875,"tagged by Kep; splat at 20,5.875"
+355.014,gate change,,,19,6,2 tiles turned off
+355.263,block stop,Xx360NoSwagx,blue,8.025,16.75,6.28 s
+355.646,block start,Sadness,red,10.025,15.825,
+356.214,boost used,OuchMyBalls,red,9.5,12.5,
+356.534,pop,Irony,blue,14.025,11.325,"carrying red flag; returned by OuchMyBalls; splat at 14.025,11.325"
+356.534,block stop,Irony,blue,14.025,11.325,5.00 s
+357.196,prevent start,anti-re,red,8.675,17.4,up to 1 s before the first counted second
+357.615,boost used,Kep,red,25.5,16.5,
+357.914,bomb ready,,,28.5,1.5,
+357.963,respawn,Junoon,blue,29,8,
+358.313,gate change,,,16,23,2 tiles turned blue
+358.513,block start,Junoon,blue,28.475,8.525,
+358.744,gate change,,,16,23,2 tiles turned off
+359.162,block stop,anti-re,red,9,20.15,5.00 s
+359.53,respawn,Irony,blue,28,7,
+359.662,grab,Xx360NoSwagx,blue,7.275,20.975,red flag; previous carrier Irony popped 3.13 s earlier
+360.196,prevent stop,anti-re,red,6.925,20.2,3 s counted
+360.829,block stop,mactheroni,blue,6.3,18.675,10.13 s
+361.963,block start,anti-re,red,4.05,15.6,
+362.314,boost ready,,,13.5,24.5,
+363.239,block start,Xx360NoSwagx,blue,10.525,13.65,
+363.648,pup spawn,,,20.5,10.5,rolling bomb
+364.214,pup spawn,,,14.5,18.5,rolling bomb
+364.496,pup taken,,,20.5,10.5,rolling bomb
+364.513,pup pickup,Junoon,blue,19.325,10.45,rolling bomb
+364.747,boost ready,,,21.5,4.5,
+365.33,pup taken,,,14.5,18.5,rolling bomb
+365.346,pup pickup,Irony,blue,13.05,18.15,rolling bomb
+366.162,block start,Kep,red,15.05,12.025,
+366.18,block stop,Sadness,red,13.25,17.775,10.53 s
+366.215,boost ready,,,9.5,12.5,
+366.963,block stop,anti-re,red,20.775,11.5,5.00 s
+367.617,boost ready,,,25.5,16.5,
+368.239,pop,Xx360NoSwagx,blue,20.275,18.15,"carrying red flag; returned by OuchMyBalls; splat at 20.275,18.15"
+368.28,boost used,Kep,red,21.5,4.5,
+368.714,grab,Irony,blue,8.175,20.3,red flag; previous carrier Xx360NoSwagx popped 0.47 s earlier
+369.996,gate change,,,19,6,2 tiles turned blue
+370.08,block start,OuchMyBalls,red,23.575,16.05,
+370.097,gate change,,,19,6,2 tiles turned off
+370.232,block start,Irony,blue,7.125,16.95,
+370.232,block start,anti-re,red,12.325,12.775,
+370.281,block start,mactheroni,blue,23.075,7.85,
+370.395,boost used,Sadness,red,13.5,24.5,
+370.496,boost used,anti-re,red,9.5,12.5,
+370.597,gate change,,,16,23,2 tiles turned red
+370.646,gate change,,,16,23,2 tiles turned off
+370.663,block stop,Junoon,blue,10.225,19.525,12.15 s
+371.162,pop,Kep,red,20.1,13.2,"carrying blue flag; returned by mactheroni; splat at 20.1,13.2"
+371.162,block stop,Kep,red,20.1,13.2,5.00 s
+371.229,respawn,Xx360NoSwagx,blue,25,9,
+371.283,bomb ready,,,6.5,27.5,
+372.479,boost used,OuchMyBalls,red,25.5,16.5,
+373.196,prevent start,mactheroni,blue,23.325,10.75,up to 1 s before the first counted second
+373.363,grab,OuchMyBalls,red,26.1,8.55,blue flag; previous carrier Kep popped 2.20 s earlier
+374.163,respawn,Kep,red,8,17,
+374.196,prevent stop,mactheroni,blue,26.6,6.675,1 s counted
+374.551,explosion,,,26.65,7.3,
+374.563,pup ended,Irony,blue,26.65,7.3,rolling bomb
+374.98,bomb used,mactheroni,blue,28.5,1.5,
+375.08,pop,OuchMyBalls,red,23.125,2.4,"carrying blue flag; returned by Xx360NoSwagx; splat at 23.125,2.4"
+375.08,block stop,OuchMyBalls,red,23.125,2.4,5.00 s
+375.232,grab,anti-re,red,26.3,7.675,blue flag; previous carrier OuchMyBalls popped 0.15 s earlier
+375.232,block stop,Irony,blue,27.175,8.025,5.00 s
+375.281,block stop,mactheroni,blue,26.675,7.025,5.00 s
+377.796,block stop,Xx360NoSwagx,blue,26.075,7.35,14.56 s
+378.081,respawn,OuchMyBalls,red,5,18,
+378.129,button start,Junoon,blue,9.05,19.475,
+378.282,boost ready,,,21.5,4.5,
+378.529,block start,Junoon,blue,10.4,19.025,
+378.713,explosion,,,11.1,18.95,
+378.718,pup ended,Junoon,blue,11.1,18.95,rolling bomb
+379.181,pop,anti-re,red,14.85,17.125,"carrying blue flag; returned by mactheroni; splat at 14.85,17.125"
+379.181,block stop,anti-re,red,14.85,17.125,8.95 s
+379.196,prevent start,Xx360NoSwagx,blue,25.975,9.9,up to 1 s before the first counted second
+380.397,boost ready,,,13.5,24.5,
+380.497,boost ready,,,9.5,12.5,
+381.445,gate change,,,16,23,2 tiles turned blue
+382.163,gate change,,,19,6,2 tiles turned blue
+382.179,respawn,anti-re,red,7,18,
+382.195,prevent start,mactheroni,blue,23.425,12.8,up to 1 s before the first counted second
+382.431,gate change,,,19,6,2 tiles turned off
+382.48,boost ready,,,25.5,16.5,
+383.179,boost used,Xx360NoSwagx,blue,21.5,4.5,
+383.195,prevent stop,Xx360NoSwagx,blue,21.55,4.25,4 s counted
+383.83,block stop,Junoon,blue,9.675,21.025,5.30 s
+384.196,prevent start,Xx360NoSwagx,blue,21.8,5.35,up to 1 s before the first counted second
+384.78,gate change,,,16,23,2 tiles turned off
+385.547,gate change,,,16,23,2 tiles turned red
+385.646,gate change,,,19,6,2 tiles turned red
+385.895,block start,Xx360NoSwagx,blue,25.4,7.2,
+386.114,block start,Irony,blue,12,24.025,
+386.129,gate change,,,19,6,2 tiles turned off
+386.18,boost used,Irony,blue,13.5,24.5,
+386.181,block start,Sadness,red,28.525,8.45,
+386.562,block start,OuchMyBalls,red,24.725,7.5,
+387.662,gate change,,,16,23,2 tiles turned off
+387.929,gate change,,,16,23,2 tiles turned blue
+388.129,button stop,Junoon,blue,9.375,21.075,10.00 s
+388.146,button start,OuchMyBalls,red,25.425,7.6,
+388.565,block start,Kep,red,26.275,9.6,
+388.647,gate change,,,16,23,2 tiles turned off
+390.696,boost used,Irony,blue,25.5,16.5,
+390.895,block stop,Xx360NoSwagx,blue,25.725,8.025,5.00 s
+391.114,pop,Irony,blue,27.4,10.05,"carrying red flag; returned by Kep; splat at 27.4,10.05"
+391.114,block stop,Irony,blue,27.4,10.05,5.00 s
+391.181,grab,Kep,red,26.925,9.175,blue flag; previous carrier anti-re popped 12.00 s earlier
+391.181,block stop,Sadness,red,29.45,8.425,5.00 s
+391.196,prevent stop,Xx360NoSwagx,blue,25.35,8.25,7 s counted
+391.196,prevent stop,mactheroni,blue,28.525,8.2,9 s counted
+391.362,grab,Junoon,blue,7.225,20.1,red flag; previous carrier Irony popped 0.25 s earlier
+391.562,block stop,OuchMyBalls,red,24.275,8,5.00 s
+392.145,gate change,,,19,6,2 tiles turned red
+393.145,button start,Sadness,red,26.975,5.8,
+393.146,button stop,OuchMyBalls,red,24.125,6.6,5.00 s
+393.18,boost ready,,,21.5,4.5,
+393.363,block start,Irony,blue,27.4,10.05,
+393.565,pop,Kep,red,24.15,1.025,"carrying blue flag; returned by mactheroni; splat at 24.15,1.025"
+393.565,block stop,Kep,red,24.15,1.025,5.00 s
+393.861,block start,mactheroni,blue,23.8,2.25,
+394.113,respawn,Irony,blue,26,7,
+394.195,prevent start,Xx360NoSwagx,blue,22.925,4.45,up to 1 s before the first counted second
+394.195,prevent start,mactheroni,blue,23.7,2.75,up to 1 s before the first counted second
+394.412,block start,Xx360NoSwagx,blue,23.025,4.975,
+395.33,block start,Junoon,blue,6.2,25.25,
+395.346,gate change,,,19,6,2 tiles turned off
+395.496,bomb used,Junoon,blue,6.5,27.5,
+395.496,gate change,,,19,6,2 tiles turned red
+396.18,boost ready,,,13.5,24.5,
+396.363,gate change,,,19,6,2 tiles turned off
+396.562,respawn,Kep,red,10,17,
+397.13,boost used,Junoon,blue,9.5,12.5,
+397.196,prevent start,Irony,blue,26.4,8.7,up to 1 s before the first counted second
+397.913,gate change,,,19,6,2 tiles turned red
+398.145,button stop,Sadness,red,24.05,7.6,5.00 s
+398.197,block start,Sadness,red,24.05,7.6,
+398.33,gate change,,,19,6,2 tiles turned off
+398.764,block start,OuchMyBalls,red,26.5,10.45,
+398.861,block stop,mactheroni,blue,24.65,7.75,5.00 s
+399.215,gate change,,,19,6,2 tiles turned blue
+399.412,block stop,Xx360NoSwagx,blue,25.475,11,5.00 s
+399.846,block stop,Irony,blue,27.8,10.45,6.48 s
+400.33,pop,Junoon,blue,23.6,15,"carrying red flag; returned by anti-re; splat at 23.6,15"
+400.33,block stop,Junoon,blue,23.6,15,5.00 s
+400.697,boost ready,,,25.5,16.5,
+400.729,block start,mactheroni,blue,24,6.525,
+401.196,prevent stop,Xx360NoSwagx,blue,23.275,14.35,7 s counted
+401.362,gate change,,,19,6,2 tiles turned off
+402.462,grab,OuchMyBalls,red,27.425,9.05,blue flag; previous carrier Kep popped 8.90 s earlier
+403.18,boost used,mactheroni,blue,21.5,4.5,
+403.197,block stop,Sadness,red,25.975,8.275,5.00 s
+403.197,prevent stop,mactheroni,blue,21.525,4.45,9 s counted
+403.197,prevent stop,Irony,blue,26.85,7.675,6 s counted
+403.264,boost used,anti-re,red,13.5,24.5,
+403.329,respawn,Junoon,blue,29,9,
+403.764,pop,OuchMyBalls,red,26.15,10.475,"carrying blue flag; returned by Xx360NoSwagx; splat at 26.15,10.475"
+403.764,block stop,OuchMyBalls,red,26.15,10.475,5.00 s
+404.196,prevent start,Xx360NoSwagx,blue,25.4,10.325,up to 1 s before the first counted second
+404.196,prevent start,Irony,blue,25.775,8.3,up to 1 s before the first counted second
+404.196,prevent start,Kep,red,11.525,18.325,up to 1 s before the first counted second
+404.196,prevent start,anti-re,red,5.7,23.8,up to 1 s before the first counted second
+404.28,grab,mactheroni,blue,7.625,19.75,red flag; previous carrier Junoon popped 3.95 s earlier
+404.829,boost used,anti-re,red,1.5,21.5,
+404.981,bomb ready,,,28.5,1.5,
+405.196,prevent stop,Kep,red,9.625,19.5,1 s counted
+405.196,prevent stop,anti-re,red,1.425,20.25,1 s counted
+405.729,pop,mactheroni,blue,2.25,22.825,"carrying red flag; returned by anti-re; splat at 2.25,22.825"
+405.729,block stop,mactheroni,blue,2.25,22.825,5.00 s
+405.764,flaccid,OuchMyBalls,red,26.15,10.475,
+406.195,prevent stop,Irony,blue,19.275,10.8,2 s counted
+406.695,gate change,,,19,6,2 tiles turned red
+406.766,respawn,OuchMyBalls,red,8,20,
+406.878,gate change,,,19,6,2 tiles turned off
+406.88,block start,Sadness,red,24.55,7.35,
+407.13,boost ready,,,9.5,12.5,
+407.195,prevent start,Junoon,blue,24.45,8.625,up to 1 s before the first counted second
+407.73,flaccid,mactheroni,blue,2.25,22.825,
+408.195,prevent stop,Xx360NoSwagx,blue,27.65,3,4 s counted
+408.196,prevent start,Kep,red,8.05,18.275,up to 1 s before the first counted second
+408.196,prevent start,anti-re,red,7.175,19.825,up to 1 s before the first counted second
+408.279,bomb used,Xx360NoSwagx,blue,28.5,1.5,
+408.729,respawn,mactheroni,blue,28,9,
+408.98,gate change,,,19,6,2 tiles turned red
+409.196,prevent stop,Junoon,blue,26.325,16.05,2 s counted
+409.295,boost used,Xx360NoSwagx,blue,25.5,16.5,
+409.396,gate change,,,19,6,2 tiles turned off
+409.421,block start,OuchMyBalls,red,14.3,17.6,
+409.88,grab,Sadness,red,26.125,7.225,blue flag; previous carrier OuchMyBalls popped 6.12 s earlier
+410.995,boost used,Sadness,red,33.5,7.5,
+411.195,prevent stop,Kep,red,7.6,18.425,3 s counted
+411.195,prevent stop,anti-re,red,8.275,19.7,3 s counted
+411.88,pop,Sadness,red,29.45,5.425,"carrying blue flag; returned by Junoon; splat at 29.45,5.425"
+411.88,block stop,Sadness,red,29.45,5.425,5.00 s
+412.062,grab,OuchMyBalls,red,26.65,8.825,blue flag; previous carrier Sadness popped 0.18 s earlier
+413.181,boost ready,,,21.5,4.5,
+413.264,boost ready,,,13.5,24.5,
+414.421,pop,OuchMyBalls,red,29.25,9.75,"carrying blue flag; returned by mactheroni; splat at 29.25,9.75"
+414.421,block stop,OuchMyBalls,red,29.25,9.75,5.00 s
+414.83,boost ready,,,1.5,21.5,
+414.881,respawn,Sadness,red,9,18,
+415.629,gate change,,,19,6,2 tiles turned blue
+415.912,gate change,,,19,6,2 tiles turned off
+416.845,boost used,Xx360NoSwagx,blue,21.5,4.5,
+417.412,respawn,OuchMyBalls,red,9,21,
+418.763,block start,Junoon,blue,18.075,11.575,
+419.297,boost ready,,,25.5,16.5,
+419.379,boost used,Irony,blue,9.5,12.5,
+420.062,block start,mactheroni,blue,19.025,11.2,
+420.196,prevent start,Kep,red,12.55,19.35,up to 1 s before the first counted second
+420.266,gate change,,,16,23,2 tiles turned blue
+420.495,gate change,,,16,23,2 tiles turned off
+420.995,boost ready,,,33.5,7.5,
+422.196,prevent stop,Kep,red,13.05,18.35,2 s counted
+422.595,grab,Irony,blue,7.6,20.825,red flag; previous carrier mactheroni popped 16.87 s earlier
+422.964,block start,Irony,blue,7.625,19.9,
+423.046,block start,Sadness,red,21.025,8.8,
+424.346,block stop,Junoon,blue,15.75,17.075,5.58 s
+424.497,pup spawn,,,20.5,10.5,tagpro
+425.013,pup taken,,,20.5,10.5,tagpro
+425.029,pup pickup,Xx360NoSwagx,blue,20.625,10.575,tagpro
+425.062,block stop,mactheroni,blue,21.1,9.525,5.00 s
+425.197,prevent start,mactheroni,blue,21.1,9.525,up to 1 s before the first counted second
+425.331,pup spawn,,,14.5,18.5,tagpro
+425.496,bomb ready,,,6.5,27.5,
+425.879,block start,Junoon,blue,16.55,19.05,
+426.196,prevent start,Xx360NoSwagx,blue,22.4,9.925,up to 1 s before the first counted second
+426.313,grab,Sadness,red,26.225,8.525,blue flag; previous carrier OuchMyBalls popped 11.89 s earlier
+426.395,gate change,,,19,6,2 tiles turned blue
+426.579,gate change,,,19,6,2 tiles turned off
+426.847,boost ready,,,21.5,4.5,
+427.046,pup taken,,,14.5,18.5,tagpro
+427.063,pup pickup,Kep,red,14.575,18.65,tagpro
+427.196,prevent stop,Xx360NoSwagx,blue,24.675,10.35,1 s counted
+427.196,prevent stop,mactheroni,blue,26.225,7.425,2 s counted
+427.312,boost used,anti-re,red,25.5,16.5,
+427.964,pop,Irony,blue,24.35,7.775,"carrying red flag; returned by anti-re; splat at 24.35,7.775"
+427.964,block stop,Irony,blue,24.35,7.775,5.00 s
+428.046,pop,Sadness,red,29.875,10.65,"carrying blue flag; returned by mactheroni; splat at 29.875,10.65"
+428.046,block stop,Sadness,red,29.875,10.65,5.00 s
+428.145,gate change,,,19,6,2 tiles turned red
+428.196,prevent start,Xx360NoSwagx,blue,25.125,12.075,up to 1 s before the first counted second
+428.196,prevent start,mactheroni,blue,29.825,9.725,up to 1 s before the first counted second
+428.78,gate change,,,19,6,2 tiles turned off
+428.879,boost used,Junoon,blue,13.5,24.5,
+429.095,gate change,,,16,23,2 tiles turned blue
+429.145,gate change,,,16,23,2 tiles turned off
+429.245,grab,Junoon,blue,11.4,22.4,red flag; previous carrier Irony popped 1.28 s earlier
+429.38,boost ready,,,9.5,12.5,
+429.713,pop,OuchMyBalls,red,28.25,14.35,"tagged by Xx360NoSwagx; splat at 28.25,14.35"
+430.013,boost used,anti-re,red,21.5,4.5,
+430.046,flaccid,Sadness,red,29.875,10.65,
+430.779,boost used,anti-re,red,9.5,12.5,
+430.879,pop,Junoon,blue,7.35,12.325,"carrying red flag; returned by anti-re; splat at 7.35,12.325"
+430.879,block stop,Junoon,blue,7.35,12.325,5.00 s
+430.962,respawn,Irony,blue,28,9,
+431.046,respawn,Sadness,red,6,16,
+432.713,respawn,OuchMyBalls,red,7,17,
+433.396,grab,Kep,red,27.5,6.9,blue flag; previous carrier Sadness popped 5.35 s earlier
+433.564,bomb used,Sadness,red,6.5,27.5,
+433.816,pop,Xx360NoSwagx,blue,27.1,7.35,"tagged by Kep; splat at 27.1,7.35"
+433.816,pop,Kep,red,26.575,8.1,"carrying blue flag; returned by Xx360NoSwagx; splat at 26.575,8.1"
+433.881,respawn,Junoon,blue,26,8,
+434.196,prevent stop,Xx360NoSwagx,blue,27.1,7.35,6 s counted
+434.196,prevent stop,mactheroni,blue,25.7,10.5,6 s counted
+434.745,boost used,anti-re,red,1.5,21.5,
+435.197,prevent start,Sadness,red,7.35,13.25,up to 1 s before the first counted second
+435.197,prevent start,anti-re,red,1.975,23.2,up to 1 s before the first counted second
+435.813,flaccid,Kep,red,26.575,8.1,
+436.681,block start,OuchMyBalls,red,18.4,3.2,
+436.813,respawn,Xx360NoSwagx,blue,25,11,
+436.813,respawn,Kep,red,10,17,
+436.845,boost used,Junoon,blue,33.5,7.5,
+436.915,pop,mactheroni,blue,10.925,16.775,"tagged by Kep; splat at 10.925,16.775"
+437.314,boost ready,,,25.5,16.5,
+438.281,bomb ready,,,28.5,1.5,
+438.88,boost ready,,,13.5,24.5,
+438.931,block start,Sadness,red,10.725,18.95,
+439.111,gate change,,,19,6,2 tiles turned blue
+439.313,gate change,,,19,6,2 tiles turned off
+439.766,boost used,Junoon,blue,25.5,16.5,
+439.914,respawn,mactheroni,blue,25,9,
+440.015,boost ready,,,21.5,4.5,
+440.03,pup ended,Xx360NoSwagx,blue,25.35,4.8,tagpro
+440.196,prevent stop,Sadness,red,16.25,18.55,5 s counted
+440.196,prevent stop,anti-re,red,9.125,20.675,5 s counted
+440.248,pop,Irony,blue,10.175,19.125,"tagged by Kep; splat at 10.175,19.125"
+440.712,boost used,Junoon,blue,13.5,24.5,
+440.78,boost ready,,,9.5,12.5,
+440.83,bomb used,Xx360NoSwagx,blue,28.5,1.5,
+441.163,gate change,,,19,6,2 tiles turned blue
+441.197,prevent start,anti-re,red,8.35,21.075,up to 1 s before the first counted second
+441.246,gate change,,,19,6,2 tiles turned off
+441.246,boost used,OuchMyBalls,red,21.5,4.5,
+441.612,grab,OuchMyBalls,red,25.2,6.475,blue flag; previous carrier Kep popped 7.80 s earlier
+442.045,pup ended,Kep,red,17.05,12.6,tagpro
+442.28,block start,Irony,blue,10.175,19.125,
+442.562,block start,mactheroni,blue,30,12.25,
+443.266,respawn,Irony,blue,25,8,
+443.329,grab,Junoon,blue,6,19.725,red flag; previous carrier Junoon popped 12.45 s earlier
+444.162,block stop,Sadness,red,24.775,11.425,5.23 s
+444.213,prevent stop,anti-re,red,8.125,21.05,3 s counted
+444.464,pop,OuchMyBalls,red,22.95,10.875,"carrying blue flag; returned by Irony; splat at 22.95,10.875"
+444.464,block stop,OuchMyBalls,red,22.95,10.875,7.78 s
+444.747,boost ready,,,1.5,21.5,
+446.846,boost ready,,,33.5,7.5,
+447.212,prevent start,Irony,blue,22.85,11,up to 1 s before the first counted second
+447.463,respawn,OuchMyBalls,red,8,19,
+447.562,block stop,mactheroni,blue,22.475,11.15,5.00 s
+447.995,block stop,Irony,blue,23.2,9.525,5.71 s
+448.213,score,,,,,red 1 - blue 3
+448.215,prevent start,mactheroni,blue,22.8,10.025,up to 1 s before the first counted second
+448.215,prevent start,Junoon,blue,25.925,9.825,up to 1 s before the first counted second
+448.229,cap,Junoon,blue,25.925,9.825,red flag
+449.777,boost ready,,,25.5,16.5,
+450.715,boost ready,,,13.5,24.5,
+450.795,block start,anti-re,red,26.95,2.675,
+451.247,boost ready,,,21.5,4.5,
+451.264,block start,Kep,red,31.675,6.175,
+451.58,boost used,Kep,red,33.5,7.5,
+452.945,boost used,Xx360NoSwagx,blue,9.5,12.5,
+453.214,prevent stop,mactheroni,blue,25.5,14.6,5 s counted
+453.214,prevent stop,Irony,blue,28.5,13.8,6 s counted
+453.23,boost used,mactheroni,blue,25.5,16.5,
+453.445,boost used,anti-re,red,21.5,4.5,
+453.879,gate change,,,19,6,2 tiles turned red
+453.995,gate change,,,19,6,2 tiles turned off
+454.03,boost used,mactheroni,blue,13.5,24.5,
+454.217,prevent start,OuchMyBalls,red,7.6,18.975,up to 1 s before the first counted second
+454.963,boost used,mactheroni,blue,1.5,21.5,
+455.213,prevent start,Irony,blue,25,11.7,up to 1 s before the first counted second
+455.465,grab,Kep,red,27.025,6.875,blue flag; previous carrier OuchMyBalls popped 11.00 s earlier
+455.795,block stop,anti-re,red,24.65,11.175,5.00 s
+456.212,prevent start,Xx360NoSwagx,blue,22.9,8.95,up to 1 s before the first counted second
+456.264,pop,Kep,red,28.85,9.425,"carrying blue flag; returned by Junoon; splat at 28.85,9.425"
+456.264,block stop,Kep,red,28.85,9.425,5.00 s
+458.212,prevent stop,Irony,blue,22.85,15.35,3 s counted
+458.263,flaccid,Kep,red,28.85,9.425,
+459.213,prevent start,anti-re,red,11.075,18.65,up to 1 s before the first counted second
+459.263,respawn,Kep,red,6,17,
+459.378,gate change,,,19,6,2 tiles turned blue
+460.513,gate change,,,19,6,2 tiles turned off
+461.58,boost ready,,,33.5,7.5,
+462.213,prevent start,Kep,red,6.425,19.15,up to 1 s before the first counted second
+462.214,prevent stop,OuchMyBalls,red,14.2,18.65,8 s counted
+462.946,boost ready,,,9.5,12.5,
+463.232,boost ready,,,25.5,16.5,
+463.446,boost ready,,,21.5,4.5,
+463.564,bomb ready,,,6.5,27.5,
+463.764,boost used,OuchMyBalls,red,25.5,16.5,
+464.03,boost ready,,,13.5,24.5,
+464.195,block start,OuchMyBalls,red,29,13.7,
+464.245,block start,Sadness,red,25.275,4.2,
+464.963,boost ready,,,1.5,21.5,
+466.012,block start,Junoon,blue,25.175,8.425,
+466.362,bomb used,Irony,blue,6.5,27.5,
+467.096,gate change,,,19,6,2 tiles turned blue
+467.181,gate change,,,16,23,2 tiles turned blue
+467.214,prevent stop,anti-re,red,5.125,12.575,8 s counted
+467.345,gate change,,,16,23,2 tiles turned off
+467.345,boost used,mactheroni,blue,9.5,12.5,
+467.896,gate change,,,19,6,2 tiles turned off
+467.914,grab,mactheroni,blue,6.7,18.2,red flag
+468.213,prevent stop,Kep,red,5.275,21.15,6 s counted
+469.096,grab,OuchMyBalls,red,26.05,8.15,blue flag; previous carrier Kep popped 12.83 s earlier
+469.195,block stop,OuchMyBalls,red,26.425,8.5,5.00 s
+469.213,prevent stop,Xx360NoSwagx,blue,25.075,8.15,13 s counted
+469.213,prevent stop,Junoon,blue,27.325,8.225,21 s counted
+469.245,block stop,Sadness,red,28.65,7.575,5.00 s
+469.348,pop,OuchMyBalls,red,26.375,8.9,"carrying blue flag; returned by Junoon; splat at 26.375,8.9"
+469.946,boost used,mactheroni,blue,13.5,24.5,
+470.165,gate change,,,19,6,2 tiles turned blue
+470.213,prevent start,Xx360NoSwagx,blue,24.125,7.825,up to 1 s before the first counted second
+470.213,prevent start,Junoon,blue,27.75,8.55,up to 1 s before the first counted second
+470.578,boost used,Kep,red,1.5,21.5,
+470.816,gate change,,,19,6,2 tiles turned off
+470.832,bomb ready,,,28.5,1.5,
+471.345,flaccid,OuchMyBalls,red,26.375,8.9,
+471.562,block stop,Junoon,blue,28.35,10.85,5.55 s
+472.345,respawn,OuchMyBalls,red,6,21,
+472.514,block start,Sadness,red,25.75,13.775,
+472.563,score,,,,,red 1 - blue 4
+472.579,cap,mactheroni,blue,26.25,8.7,red flag
+473.146,button start,Sadness,red,23.6,13.45,
+473.196,grab,Irony,blue,6.75,20.95,red flag
+473.213,prevent start,mactheroni,blue,26.775,6.35,up to 1 s before the first counted second
+473.514,gate change,,,19,6,2 tiles turned red
+473.765,boost ready,,,25.5,16.5,
+473.862,gate change,,,19,6,2 tiles turned off
+473.895,bomb used,mactheroni,blue,28.5,1.5,
+474.213,prevent stop,mactheroni,blue,25.4,2.7,1 s counted
+474.946,gate change,,,19,6,2 tiles turned red
+475.198,boost used,Kep,red,25.5,16.5,
+475.496,gate change,,,19,6,2 tiles turned off
+475.747,block start,Kep,red,28.9,14.35,
+476.013,gate change,,,19,6,2 tiles turned blue
+476.213,prevent stop,Junoon,blue,27.575,16.025,6 s counted
+476.796,gate change,,,19,6,2 tiles turned off
+477.13,gate change,,,19,6,2 tiles turned red
+477.213,prevent start,Junoon,blue,26.85,14.4,up to 1 s before the first counted second
+477.347,boost ready,,,9.5,12.5,
+477.362,grab,Kep,red,27.05,8.925,blue flag; previous carrier OuchMyBalls popped 8.01 s earlier
+477.431,boost used,anti-re,red,21.5,4.5,
+477.496,block start,mactheroni,blue,12.175,13.7,
+477.98,boost used,Irony,blue,9.5,12.5,
+478.146,button stop,Sadness,red,24.05,6.7,5.00 s
+478.213,prevent stop,Xx360NoSwagx,blue,23.55,5.9,8 s counted
+478.213,prevent stop,Junoon,blue,25.775,10.45,1 s counted
+479.079,gate change,,,19,6,2 tiles turned off
+479.429,gate change,,,19,6,2 tiles turned blue
+479.947,boost ready,,,13.5,24.5,
+480.045,boost used,Kep,red,33.5,7.5,
+480.312,gate change,,,19,6,2 tiles turned off
+480.346,gate change,,,16,23,2 tiles turned red
+480.379,boost used,Irony,blue,13.5,24.5,
+480.58,boost ready,,,1.5,21.5,
+480.695,block stop,Sadness,red,25.075,7.9,8.18 s
+480.747,pop,Kep,red,30.35,7.875,"carrying blue flag; returned by Junoon; splat at 30.35,7.875"
+480.747,block stop,Kep,red,30.35,7.875,5.00 s
+480.879,gate change,,,16,23,2 tiles turned off
+481.213,prevent start,Xx360NoSwagx,blue,24.425,8.925,up to 1 s before the first counted second
+481.213,prevent start,Junoon,blue,28.55,7.225,up to 1 s before the first counted second
+481.362,gate change,,,16,23,2 tiles turned red
+481.979,gate change,,,16,23,2 tiles turned off
+482.496,block stop,mactheroni,blue,12.45,18.7,5.00 s
+483.213,prevent stop,Xx360NoSwagx,blue,19.975,11.7,2 s counted
+483.213,prevent stop,Junoon,blue,21.9,10.125,2 s counted
+483.745,respawn,Kep,red,5,17,
+484.046,grab,Sadness,red,26.175,8.275,blue flag; previous carrier Kep popped 3.30 s earlier
+485.016,pup spawn,,,20.5,10.5,rolling bomb
+485.198,block start,Irony,blue,29.025,14.425,
+485.199,boost ready,,,25.5,16.5,
+485.613,pup taken,,,20.5,10.5,rolling bomb
+485.63,pup pickup,Junoon,blue,20.5,10.9,rolling bomb
+486.548,block start,Junoon,blue,17.9,10.875,
+487.047,pup spawn,,,14.5,18.5,rolling bomb
+487.129,pup taken,,,14.5,18.5,rolling bomb
+487.145,pup pickup,mactheroni,blue,14.2,17.15,rolling bomb
+487.431,boost ready,,,21.5,4.5,
+487.981,boost ready,,,9.5,12.5,
+488.144,button start,OuchMyBalls,red,22.075,9.6,
+488.314,block start,mactheroni,blue,11.975,18.25,
+488.314,block start,Sadness,red,22.625,3.45,
+490.046,boost ready,,,33.5,7.5,
+490.198,pop,Irony,blue,19.025,16.125,"carrying red flag; returned by anti-re; splat at 19.025,16.125"
+490.198,block stop,Irony,blue,19.025,16.125,5.00 s
+490.213,prevent start,Kep,red,7.775,20.575,up to 1 s before the first counted second
+490.38,boost ready,,,13.5,24.5,
+490.765,grab,mactheroni,blue,7.775,19.775,red flag; previous carrier Irony popped 0.57 s earlier
+490.871,boost used,Sadness,red,21.5,4.5,
+491.081,gate change,,,19,6,2 tiles turned red
+491.213,prevent stop,Kep,red,7.5,20.425,1 s counted
+491.812,gate change,,,19,6,2 tiles turned off
+492.095,gate change,,,19,6,2 tiles turned red
+493.032,block start,OuchMyBalls,red,24.075,6.55,
+493.144,button stop,OuchMyBalls,red,24.075,6.55,5.00 s
+493.144,block stop,Junoon,blue,7.075,18.725,6.60 s
+493.197,respawn,Irony,blue,27,9,
+493.254,boost used,mactheroni,blue,9.5,12.5,
+493.314,block stop,Sadness,red,9.75,11.25,5.00 s
+493.379,block start,anti-re,red,15.75,12.7,
+494.08,gate change,,,19,6,2 tiles turned off
+494.612,gate change,,,19,6,2 tiles turned red
+495.529,gate change,,,19,6,2 tiles turned off
+495.782,block start,Sadness,red,14.25,9.65,
+496.362,bomb ready,,,6.5,27.5,
+497.514,boost used,Irony,blue,25.5,16.5,
+497.94,explosion,,,24.9,8.275,
+497.948,pup ended,mactheroni,blue,24.9,8.275,rolling bomb
+497.965,pop,mactheroni,blue,24.9,8.275,"carrying red flag; returned by OuchMyBalls; splat at 24.9,8.275"
+497.965,block stop,mactheroni,blue,24.9,8.275,9.65 s
+498.032,block stop,OuchMyBalls,red,26.85,7.65,5.00 s
+498.146,button start,mactheroni,blue,24.9,8.275,
+498.701,block stop,anti-re,red,22.825,9.825,5.32 s
+498.897,boost used,Irony,blue,33.5,7.5,
+500.313,gate change,,,19,6,2 tiles turned blue
+500.563,gate change,,,19,6,2 tiles turned off
+500.782,pop,Sadness,red,19.925,7.225,"carrying blue flag; returned by Xx360NoSwagx; splat at 19.925,7.225"
+500.782,block stop,Sadness,red,19.925,7.225,5.00 s
+500.831,grab,OuchMyBalls,red,27.975,7.8,blue flag; previous carrier Sadness popped 0.05 s earlier
+500.872,boost ready,,,21.5,4.5,
+500.962,respawn,mactheroni,blue,26,10,
+501.479,grab,Junoon,blue,8.7,18.375,red flag; previous carrier mactheroni popped 3.51 s earlier
+502.712,gate change,,,19,6,2 tiles turned blue
+502.829,boost used,OuchMyBalls,red,21.5,4.5,
+503.13,button start,Sadness,red,19.925,7.225,
+503.146,button stop,mactheroni,blue,23.875,6.9,5.00 s
+503.255,boost ready,,,9.5,12.5,
+503.48,boost used,Junoon,blue,1.5,21.5,
+503.78,respawn,Sadness,red,6,18,
+503.895,bomb ready,,,28.5,1.5,
+503.996,boost used,Kep,red,13.5,24.5,
+504.013,block start,anti-re,red,7,25,
+504.065,gate change,,,19,6,2 tiles turned off
+504.347,block start,mactheroni,blue,23,7.825,
+504.78,bomb used,anti-re,red,6.5,27.5,
+505.162,block start,Xx360NoSwagx,blue,8.725,19.6,
+505.63,pup ended,Junoon,blue,22.025,4.475,rolling bomb
+505.83,boost used,Irony,blue,9.5,12.5,
+506.062,gate change,,,19,6,2 tiles turned blue
+506.312,gate change,,,19,6,2 tiles turned off
+506.33,block start,Irony,blue,8.6,14.15,
+506.614,gate change,,,16,23,2 tiles turned blue
+506.631,pop,OuchMyBalls,red,14.4,21.6,"carrying blue flag; returned by Xx360NoSwagx; splat at 14.4,21.6"
+506.916,score,,,,,red 1 - blue 5
+506.93,cap,Junoon,blue,25.975,7.8,red flag
+507.23,prevent start,Sadness,red,8.375,19.65,up to 1 s before the first counted second
+507.23,prevent start,Junoon,blue,26.3,8.275,up to 1 s before the first counted second
+507.514,boost ready,,,25.5,16.5,
+507.545,grab,Kep,red,27.85,8.2,blue flag; previous carrier OuchMyBalls popped 0.91 s earlier
+507.83,gate change,,,16,23,2 tiles turned off
+507.946,gate change,,,16,23,2 tiles turned red
+508.13,button stop,Sadness,red,9.575,20.525,5.00 s
+508.146,gate change,,,16,23,2 tiles turned off
+508.162,grab,Irony,blue,8.05,19.825,red flag
+508.23,prevent stop,Sadness,red,9.575,20.525,1 s counted
+508.23,prevent stop,Junoon,blue,27.4,8.9,1 s counted
+508.561,gate change,,,19,6,2 tiles turned red
+508.862,gate change,,,19,6,2 tiles turned off
+508.897,boost ready,,,33.5,7.5,
+508.93,gate change,,,16,23,2 tiles turned blue
+509.095,gate change,,,16,23,2 tiles turned off
+509.347,block stop,mactheroni,blue,9.5,19.15,5.00 s
+509.362,block stop,anti-re,red,25.525,10.95,5.35 s
+509.431,block start,Sadness,red,9.5,18.2,
+509.629,respawn,OuchMyBalls,red,7,18,
+509.98,block start,OuchMyBalls,red,7.025,18.025,
+510.162,block stop,Xx360NoSwagx,blue,8.25,18.95,5.00 s
+511.33,pop,Irony,blue,12.25,7.9,"carrying red flag; returned by Sadness; splat at 12.25,7.9"
+511.33,block stop,Irony,blue,12.25,7.9,5.00 s
+511.896,boost used,Junoon,blue,25.5,16.5,
+512.231,block start,Kep,red,16.625,11.25,
+512.832,boost ready,,,21.5,4.5,
+513.13,button start,Xx360NoSwagx,blue,8.825,18.625,
+513.23,prevent start,OuchMyBalls,red,8,19.1,up to 1 s before the first counted second
+513.482,boost ready,,,1.5,21.5,
+513.997,boost ready,,,13.5,24.5,
+514.329,respawn,Irony,blue,24,10,
+515.23,prevent start,Sadness,red,8.75,16.325,up to 1 s before the first counted second
+515.545,gate change,,,16,23,2 tiles turned blue
+515.564,gate change,,,16,23,2 tiles turned off
+515.832,boost ready,,,9.5,12.5,
+516.446,gate change,,,16,23,2 tiles turned blue
+516.73,gate change,,,16,23,2 tiles turned off
+516.98,block stop,OuchMyBalls,red,9.7,21.6,7.00 s
+517.163,block stop,Sadness,red,10.125,19.425,7.73 s
+517.231,pop,Kep,red,12.95,16.95,"carrying blue flag; returned by mactheroni; splat at 12.95,16.95"
+517.231,block stop,Kep,red,12.95,16.95,5.00 s
+517.779,gate change,,,16,23,2 tiles turned blue
+518.13,button stop,Xx360NoSwagx,blue,9.625,20.9,5.00 s
+519.213,boost used,Junoon,blue,9.5,12.5,
+519.245,prevent start,anti-re,red,11.425,17.9,up to 1 s before the first counted second
+519.247,prevent stop,OuchMyBalls,red,12.375,24.95,6 s counted
+520.063,boost used,Junoon,blue,21.5,4.5,
+520.229,respawn,Kep,red,10,20,
+520.78,gate change,,,16,23,2 tiles turned off
+520.845,boost used,Junoon,blue,33.5,7.5,
+521.345,gate change,,,16,23,2 tiles turned red
+521.579,boost used,OuchMyBalls,red,13.5,24.5,
+521.898,boost ready,,,25.5,16.5,
+522.103,gate change,,,16,23,2 tiles turned off
+522.529,boost used,mactheroni,blue,1.5,21.5,
+522.764,block start,Sadness,red,10.4,18.35,
+523.164,bomb used,Junoon,blue,28.5,1.5,
+523.246,prevent start,Irony,blue,25.625,13.475,up to 1 s before the first counted second
+523.246,prevent start,Kep,red,7.525,22.025,up to 1 s before the first counted second
+524.063,gate change,,,19,6,2 tiles turned blue
+524.246,prevent stop,Sadness,red,15.525,18.075,9 s counted
+524.246,prevent start,Junoon,blue,23.9,6.075,up to 1 s before the first counted second
+524.362,gate change,,,19,6,2 tiles turned off
+526.28,boost used,Sadness,red,25.5,16.5,
+527.18,grab,Sadness,red,26.8,9.4,blue flag; previous carrier Kep popped 9.95 s earlier
+527.245,prevent stop,Irony,blue,27.5,7.525,4 s counted
+527.245,prevent stop,Junoon,blue,25.35,6.85,3 s counted
+527.764,pop,Sadness,red,26.65,7.625,"carrying blue flag; returned by Junoon; splat at 26.65,7.625"
+527.764,block stop,Sadness,red,26.65,7.625,5.00 s
+528.246,prevent start,Irony,blue,27,4.85,up to 1 s before the first counted second
+528.246,prevent start,Junoon,blue,25.475,6.825,up to 1 s before the first counted second
+529.214,boost ready,,,9.5,12.5,
+529.763,flaccid,Sadness,red,26.65,7.625,
+530.064,boost ready,,,21.5,4.5,
+530.762,respawn,Sadness,red,6,17,
+530.846,boost ready,,,33.5,7.5,
+531.58,boost ready,,,13.5,24.5,
+531.896,block start,Sadness,red,7.1,15.75,
+532.098,block start,OuchMyBalls,red,29.95,7.75,
+532.379,boost used,Xx360NoSwagx,blue,9.5,12.5,
+532.529,boost ready,,,1.5,21.5,
+533.013,block start,Xx360NoSwagx,blue,5.125,14.85,
+533.096,boost used,OuchMyBalls,red,33.5,7.5,
+534.782,bomb ready,,,6.5,27.5,
+535.562,boost used,mactheroni,blue,13.5,24.5,
+535.695,boost used,Sadness,red,21.5,4.5,
+535.895,gate change,,,19,6,2 tiles turned red
+535.963,gate change,,,19,6,2 tiles turned off
+536.045,grab,OuchMyBalls,red,26.05,7.975,blue flag; previous carrier Sadness popped 8.28 s earlier
+536.246,prevent stop,Irony,blue,25.825,8.925,8 s counted
+536.246,prevent stop,Junoon,blue,28.075,10.85,8 s counted
+536.282,boost ready,,,25.5,16.5,
+536.896,block stop,Sadness,red,28,11.275,5.00 s
+537.098,pop,OuchMyBalls,red,30.875,10.2,"carrying blue flag; returned by Irony; splat at 30.875,10.2"
+537.098,block stop,OuchMyBalls,red,30.875,10.2,5.00 s
+537.246,prevent start,Irony,blue,29.95,10.15,up to 1 s before the first counted second
+537.246,prevent start,Junoon,blue,29.3,11.475,up to 1 s before the first counted second
+537.662,boost used,Xx360NoSwagx,blue,1.5,21.5,
+537.98,grab,Xx360NoSwagx,blue,3,21.075,red flag; previous carrier Irony popped 26.65 s earlier
+538.246,prevent stop,Kep,red,7.925,19.3,15 s counted
+538.246,prevent stop,anti-re,red,5.125,19.15,19 s counted
+539.096,flaccid,OuchMyBalls,red,30.875,10.2,
+539.18,pop,Xx360NoSwagx,blue,13.275,15.025,"carrying red flag; returned by Kep; splat at 13.275,15.025"
+539.18,block stop,Xx360NoSwagx,blue,13.275,15.025,6.17 s
+539.245,prevent start,anti-re,red,6.575,19.775,up to 1 s before the first counted second
+539.246,prevent stop,Junoon,blue,27.15,13.25,2 s counted
+539.379,block start,Xx360NoSwagx,blue,13.275,15.025,
+540.095,respawn,OuchMyBalls,red,7,17,
+540.23,grab,mactheroni,blue,7.7,19.05,red flag; previous carrier Xx360NoSwagx popped 1.05 s earlier
+540.245,prevent stop,anti-re,red,7,19.8,1 s counted
+540.68,block start,OuchMyBalls,red,7.325,16.675,
+541.096,boost used,Junoon,blue,25.5,16.5,
+542.18,respawn,Xx360NoSwagx,blue,27,10,
+542.379,boost ready,,,9.5,12.5,
+543.097,boost ready,,,33.5,7.5,
+543.264,block start,Sadness,red,21.8,9.35,
+544.379,block stop,Xx360NoSwagx,blue,22.475,10.4,5.00 s
+545.245,prevent start,Xx360NoSwagx,blue,23,10.25,up to 1 s before the first counted second
+545.396,score,,,,,red 1 - blue 6
+545.412,cap,mactheroni,blue,26.75,9.6,red flag
+545.563,boost ready,,,13.5,24.5,
+545.595,grab,Sadness,red,25.9,8.05,blue flag; previous carrier OuchMyBalls popped 8.50 s earlier
+545.615,pup spawn,,,20.5,10.5,juke juice
+545.681,pup taken,,,20.5,10.5,juke juice
+545.696,pup pickup,anti-re,red,20.35,11.7,juke juice
+545.703,boost ready,,,21.5,4.5,
+546.23,block stop,OuchMyBalls,red,20.975,10.65,5.55 s
+546.245,prevent stop,Xx360NoSwagx,blue,21.85,11.025,1 s counted
+546.245,prevent stop,Irony,blue,21.125,8.575,9 s counted
+547.132,pup spawn,,,14.5,18.5,juke juice
+547.663,boost ready,,,1.5,21.5,
+548.08,pup taken,,,14.5,18.5,juke juice
+548.097,pup pickup,Junoon,blue,13.975,16.975,juke juice
+548.13,button start,Irony,blue,20.175,12.65,
+548.264,pop,Sadness,red,24.575,14.85,"carrying blue flag; returned by Xx360NoSwagx; splat at 24.575,14.85"
+548.264,block stop,Sadness,red,24.575,14.85,5.00 s
+549.246,prevent start,anti-re,red,11.375,18.325,up to 1 s before the first counted second
+549.295,gate change,,,16,23,2 tiles turned blue
+549.48,gate change,,,16,23,2 tiles turned off
+549.496,gate change,,,16,23,2 tiles turned red
+549.679,gate change,,,16,23,2 tiles turned off
+550.28,bomb used,Junoon,blue,6.5,27.5,
+550.595,grab,Junoon,blue,6.775,21.8,red flag
+551.097,boost ready,,,25.5,16.5,
+551.111,boost used,Junoon,blue,9.5,12.5,
+551.246,prevent stop,anti-re,red,11.125,21.3,2 s counted
+551.263,respawn,Sadness,red,8,18,
+551.663,grab,OuchMyBalls,red,26,9.125,blue flag; previous carrier Sadness popped 3.40 s earlier
+551.795,boost used,anti-re,red,13.5,24.5,
+552.029,gate change,,,16,23,2 tiles turned blue
+553.13,button stop,Irony,blue,9.75,20.525,5.00 s
+553.164,bomb ready,,,28.5,1.5,
+553.179,gate change,,,16,23,2 tiles turned off
+553.663,gate change,,,16,23,2 tiles turned blue
+554.062,gate change,,,16,23,2 tiles turned off
+554.249,boost used,OuchMyBalls,red,21.5,4.5,
+554.829,block start,Xx360NoSwagx,blue,26.125,11.05,
+554.896,block start,OuchMyBalls,red,13.4,8.825,
+555.88,boost used,Junoon,blue,25.5,16.5,
+556.28,block start,Junoon,blue,19.275,18.775,
+558.845,block start,mactheroni,blue,6.875,24.65,
+559.896,pop,OuchMyBalls,red,7.7,19.075,"carrying blue flag; returned by Irony; splat at 7.7,19.075"
+559.896,block stop,OuchMyBalls,red,7.7,19.075,5.00 s
+560.162,gate change,,,16,23,2 tiles turned blue
+560.245,prevent start,Xx360NoSwagx,blue,25.825,10,up to 1 s before the first counted second
+560.912,gate change,,,16,23,2 tiles turned off
+561.113,boost ready,,,9.5,12.5,
+561.179,block stop,Xx360NoSwagx,blue,25.9,9.525,6.35 s
+561.28,pop,Junoon,blue,23.725,13.65,"carrying red flag; returned by Sadness; splat at 23.725,13.65"
+561.28,block stop,Junoon,blue,23.725,13.65,5.00 s
+561.796,boost ready,,,13.5,24.5,
+562.145,grab,Irony,blue,7.225,19.1,red flag; previous carrier Junoon popped 0.86 s earlier
+562.895,respawn,OuchMyBalls,red,6,19,
+563.129,button start,mactheroni,blue,11.325,17.725,
+564.249,boost ready,,,21.5,4.5,
+564.28,respawn,Junoon,blue,25,10,
+564.595,block stop,mactheroni,blue,10.275,16.225,5.75 s
+565.546,block start,Kep,red,28.5,7.45,
+565.645,boost used,anti-re,red,9.5,12.5,
+565.695,pup ended,anti-re,red,8.5,11.85,juke juice
+565.881,boost ready,,,25.5,16.5,
+566.879,boost used,anti-re,red,25.5,16.5,
+567.263,prevent start,Junoon,blue,25.125,11.725,up to 1 s before the first counted second
+567.897,block start,Junoon,blue,24.975,12.8,
+567.996,gate change,,,16,23,2 tiles turned blue
+568.096,pup ended,Junoon,blue,24.975,12.925,juke juice
+568.129,button stop,mactheroni,blue,9.375,20.9,5.00 s
+568.146,button start,Xx360NoSwagx,blue,27.6,4.625,
+569.312,boost used,Irony,blue,13.5,24.5,
+569.463,bomb used,Xx360NoSwagx,blue,28.5,1.5,
+569.612,gate change,,,16,23,2 tiles turned off
+570.462,grab,Sadness,red,26.25,8.975,blue flag; previous carrier OuchMyBalls popped 10.57 s earlier
+570.546,block stop,Kep,red,28.8,12.825,5.00 s
+570.562,gate change,,,16,23,2 tiles turned red
+570.729,gate change,,,16,23,2 tiles turned off
+571.263,prevent stop,Xx360NoSwagx,blue,28,11.175,11 s counted
+571.263,prevent stop,Junoon,blue,25.65,13.25,4 s counted
+572.196,block start,anti-re,red,10.425,19,
+572.612,boost used,Sadness,red,21.5,4.5,
+572.897,block stop,Junoon,blue,22.85,11.175,5.00 s
+572.929,gate change,,,19,6,2 tiles turned blue
+573.146,button stop,Xx360NoSwagx,blue,24.25,7.475,5.00 s
+573.395,boost used,mactheroni,blue,1.5,21.5,
+574.23,block start,Sadness,red,13.325,9.15,
+574.245,gate change,,,19,6,2 tiles turned off
+575.245,block start,Junoon,blue,18.95,14.575,
+575.647,boost ready,,,9.5,12.5,
+575.913,block start,mactheroni,blue,6.975,20.375,
+576.179,block start,OuchMyBalls,red,16.325,13.875,
+576.881,boost ready,,,25.5,16.5,
+577.813,block stop,anti-re,red,6.65,20.3,5.62 s
+578.579,gate change,,,19,6,2 tiles turned blue
+578.779,block start,Xx360NoSwagx,blue,23.9,7.425,
+579.113,gate change,,,19,6,2 tiles turned off
+579.23,pop,Sadness,red,7.75,12.15,"carrying blue flag; returned by Junoon; splat at 7.75,12.15"
+579.23,block stop,Sadness,red,7.75,12.15,5.00 s
+579.263,prevent start,Xx360NoSwagx,blue,24.55,7.7,up to 1 s before the first counted second
+579.313,boost ready,,,13.5,24.5,
+579.429,boost used,Irony,blue,9.5,12.5,
+580.145,grab,OuchMyBalls,red,26.05,8.4,blue flag; previous carrier Sadness popped 0.92 s earlier
+580.245,block stop,Junoon,blue,6.975,17.375,5.00 s
+580.263,prevent stop,Xx360NoSwagx,blue,26.675,7.55,1 s counted
+580.28,bomb ready,,,6.5,27.5,
+580.913,block stop,mactheroni,blue,11.25,14.025,5.00 s
+581.179,pop,OuchMyBalls,red,26.725,10.375,"carrying blue flag; returned by Xx360NoSwagx; splat at 26.725,10.375"
+581.179,block stop,OuchMyBalls,red,26.725,10.375,5.00 s
+582.229,respawn,Sadness,red,10,17,
+582.612,boost ready,,,21.5,4.5,
+583.18,flaccid,OuchMyBalls,red,26.725,10.375,
+583.395,boost ready,,,1.5,21.5,
+583.779,block stop,Xx360NoSwagx,blue,20.5,10.275,5.00 s
+583.78,block start,Kep,red,19.9,10.975,
+584.18,respawn,OuchMyBalls,red,7,16,
+584.495,boost used,Irony,blue,21.5,4.5,
+585.262,prevent start,Xx360NoSwagx,blue,23.875,10.55,up to 1 s before the first counted second
+585.563,score,,,,,red 1 - blue 7
+585.579,cap,Irony,blue,26.275,7.1,red flag
+585.829,grab,Junoon,blue,6.675,19.825,red flag
+585.979,grab,Kep,red,26.375,9.55,blue flag; previous carrier OuchMyBalls popped 4.80 s earlier
+586.112,gate change,,,19,6,2 tiles turned red
+586.262,prevent stop,Xx360NoSwagx,blue,26.325,8.175,1 s counted
+586.413,gate change,,,19,6,2 tiles turned off
+587.111,gate change,,,16,23,2 tiles turned red
+587.462,gate change,,,16,23,2 tiles turned off
+587.545,block start,mactheroni,blue,12.025,17.625,
+588.129,button start,mactheroni,blue,10.5,20,
+588.145,gate change,,,16,23,2 tiles turned blue
+588.146,button start,Xx360NoSwagx,blue,30.275,6.425,
+588.195,boost used,Sadness,red,25.5,16.5,
+588.78,pop,Kep,red,32.3,6.125,"carrying blue flag; returned by Xx360NoSwagx; splat at 32.3,6.125"
+588.78,block stop,Kep,red,32.3,6.125,5.00 s
+589.262,prevent start,Xx360NoSwagx,blue,30.975,6.125,up to 1 s before the first counted second
+589.262,prevent start,Irony,blue,28.675,8.325,up to 1 s before the first counted second
+589.43,boost ready,,,9.5,12.5,
+589.513,boost used,OuchMyBalls,red,13.5,24.5,
+589.713,gate change,,,16,23,2 tiles turned off
+589.729,gate change,,,16,23,2 tiles turned red
+589.779,boost used,Junoon,blue,9.5,12.5,
+589.796,gate change,,,16,23,2 tiles turned off
+591.079,block start,Irony,blue,25.65,8.725,
+591.78,respawn,Kep,red,9,18,
+592.595,gate change,,,19,6,2 tiles turned blue
+592.611,gate change,,,16,23,2 tiles turned blue
+593.129,button stop,mactheroni,blue,10.2,20.525,5.00 s
+593.146,button stop,Xx360NoSwagx,blue,24.15,7.175,5.00 s
+593.195,block stop,mactheroni,blue,10.2,20.525,5.65 s
+593.214,gate change,,,16,23,2 tiles turned off
+593.529,bomb used,Junoon,blue,6.5,27.5,
+593.579,gate change,,,16,23,2 tiles turned blue
+593.896,gate change,,,19,6,2 tiles turned off
+594.496,boost ready,,,21.5,4.5,
+594.612,block start,Sadness,red,25.075,9.95,
+594.646,gate change,,,16,23,2 tiles turned off
+596.079,block stop,Irony,blue,24.575,9.425,5.00 s
+596.08,boost used,Junoon,blue,21.5,4.5,
+596.295,gate change,,,19,6,2 tiles turned blue
+596.344,gate change,,,19,6,2 tiles turned off
+596.43,score,,,,,red 1 - blue 8
+596.445,cap,Junoon,blue,23.5,6.05,red flag
+596.563,gate change,,,19,6,2 tiles turned red
+596.58,boost used,OuchMyBalls,red,33.5,7.5,
+597.263,prevent start,Kep,red,5.875,19.55,up to 1 s before the first counted second
+597.263,prevent start,Junoon,blue,29.175,13.05,up to 1 s before the first counted second
+597.578,gate change,,,19,6,2 tiles turned off
+597.813,boost used,mactheroni,blue,1.5,21.5,
+598.197,boost ready,,,25.5,16.5,
+598.263,prevent stop,Junoon,blue,24.025,15.6,1 s counted
+599.263,prevent stop,Xx360NoSwagx,blue,27.15,7.175,10 s counted
+599.263,prevent stop,Irony,blue,26.975,8.375,10 s counted
+599.263,prevent stop,Kep,red,6,21.8,2 s counted
+599.464,bomb ready,,,28.5,1.5,
+599.514,boost ready,,,13.5,24.5,
+599.545,grab,Sadness,red,26.2,8.275,blue flag; previous carrier Kep popped 10.77 s earlier
+599.612,block stop,Sadness,red,26.2,8.275,5.00 s
+599.785,pop,Sadness,red,26.225,8.325,"carrying blue flag; returned by Xx360NoSwagx; splat at 26.225,8.325"
+599.787,boost ready,,,9.5,12.5,
+600.045,game end,,,,,winner blue
+600.045,final stats,Xx360NoSwagx,blue,26.55,7.45,"registered, grabs 7, caps 0, hold 37, returns 19, tags 21, pops 10, prevent 191, pups 1, handoffs 1, flaccids 2, score 72, points 0"
+600.045,final stats,mactheroni,blue,6.475,22.5,"registered, grabs 12, caps 3, hold 70, returns 10, tags 10, pops 11, prevent 59, pups 1, handoffs 0, flaccids 2, score 59, points 0"
+600.045,final stats,OuchMyBalls,red,24.95,10.3,"registered, grabs 19, caps 0, hold 126, returns 8, tags 8, pops 22, prevent 38, pups 2, handoffs 0, flaccids 6, score 27, points 0"
+600.045,final stats,Sadness,red,26.225,8.325,"registered, grabs 17, caps 1, hold 78, returns 6, tags 10, pops 16, prevent 29, pups 3, handoffs 1, flaccids 4, score 23, points 0"
+600.045,final stats,anti-re,red,25.15,9.375,"registered, grabs 2, caps 0, hold 11, returns 11, tags 11, pops 3, prevent 180, pups 2, handoffs 0, flaccids 0, score 50, points 0"
+600.045,final stats,Irony,blue,27.225,8.15,"registered, grabs 11, caps 2, hold 125, returns 6, tags 6, pops 11, prevent 84, pups 2, handoffs 1, flaccids 0, score 61, points 0"
+600.045,final stats,Kep,red,6.25,21.575,"registered, grabs 12, caps 0, hold 47, returns 7, tags 11, pops 12, prevent 146, pups 2, handoffs 1, flaccids 6, score 29, points 0"
+600.045,final stats,Junoon,blue,14.9,17.8,"registered, grabs 10, caps 3, hold 59, returns 14, tags 16, pops 9, prevent 133, pups 5, handoffs 0, flaccids 0, score 79, points 0"

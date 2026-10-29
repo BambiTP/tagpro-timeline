@@ -1,0 +1,2424 @@
+seconds,event,player,team,x,y,details
+-19.979,join,Xx360NoSwagx,blue,,,
+-19.924,respawn,Xx360NoSwagx,blue,14,22,
+-19.74,join,FM,red,,,
+-19.709,respawn,FM,red,10,5,
+-19.504,join,Junoon,blue,,,
+-19.425,join,mactheroni,blue,,,
+-19.351,respawn,Junoon,blue,13,21,
+-19.342,respawn,mactheroni,blue,11,23,
+-19.027,join,fender,red,,,
+-18.956,join,Irony,blue,,,
+-18.88,respawn,fender,red,12,5,
+-18.866,respawn,Irony,blue,11,22,
+-18.643,join,meowza,red,,,
+-18.516,join,omni,red,,,
+-18.48,respawn,meowza,red,12,5,
+-18.474,respawn,omni,red,11,6,
+-15.21,leave,Junoon,blue,13,21,
+-14.857,rejoin,Junoon,blue,,,
+-14.803,respawn,Junoon,blue,13,23,
+-9.798,leave,Junoon,blue,13,23,
+-9.404,rejoin,Junoon,blue,,,
+-9.374,respawn,Junoon,blue,14,23,
+-6.094,leave,Xx360NoSwagx,blue,14,22,
+-5.68,rejoin,Xx360NoSwagx,blue,,,
+-5.639,respawn,Xx360NoSwagx,blue,12,20,
+-5.068,leave,Junoon,blue,14,23,
+-4.727,rejoin,Junoon,blue,,,
+-4.69,respawn,Junoon,blue,11,23,
+0,game start,,,,,"map Tesseract [MM26]; ctf; private group; Chicago 4, IL; length 600 s; red team MSCP; blue team MLBT; red flag at 11.5,5.5; blue flag at 13.5,22.5; replay f2ae05c6-2c64-4757-adc1-78b2e1123963"
+0.859,block start,omni,red,11.7,7.1,
+1.294,gate change,,,14.5,11.5,1 tile turned red
+1.342,gate change,,,14.5,11.5,1 tile turned off
+1.859,boost used,FM,red,5.5,4.5,
+1.892,boost used,FM,red,4.5,5.5,
+1.926,boost used,Xx360NoSwagx,blue,8.5,14.5,
+2.159,portal used,Xx360NoSwagx,blue,4.5,10.5,
+2.21,boost used,omni,red,16.5,13.5,
+2.476,portal used,omni,red,20.5,17.5,
+2.51,boost used,omni,red,20.5,22.5,
+2.592,boost used,omni,red,19.5,23.5,
+3.127,prevent start,FM,red,5.4,4.7,up to 1 s before the first counted second
+3.127,prevent start,meowza,red,10.2,9.15,up to 1 s before the first counted second
+3.127,prevent start,Junoon,blue,17.95,21.55,up to 1 s before the first counted second
+3.476,grab,omni,red,13.75,22.975,blue flag
+4.127,prevent stop,Junoon,blue,16.9,19.825,1 s counted
+4.776,grab,mactheroni,blue,9.9,5.675,red flag
+5.027,pop,mactheroni,blue,10.775,5.25,"carrying red flag; returned by FM; splat at 10.775,5.25"
+5.161,portal ready,,,4.5,10.5,
+5.21,gate change,,,10.5,16.5,1 tile turned blue
+5.477,portal ready,,,20.5,17.5,
+5.492,gate change,,,10.5,16.5,1 tile turned off
+5.859,pop,omni,red,8.575,18.325,"carrying blue flag; returned by Junoon; splat at 8.575,18.325"
+5.859,block stop,omni,red,8.575,18.325,5.00 s
+6.126,prevent start,Junoon,blue,9.225,17.875,up to 1 s before the first counted second
+7.026,flaccid,mactheroni,blue,10.775,5.25,
+7.576,gate change,,,10.5,16.5,1 tile turned blue
+7.827,gate change,,,10.5,16.5,1 tile turned off
+8.043,respawn,mactheroni,blue,13,23,
+8.127,prevent start,Irony,blue,13.55,17.875,up to 1 s before the first counted second
+8.159,button start,FM,red,10.025,6.8,
+8.526,gate change,,,10.5,16.5,1 tile turned red
+8.71,gate change,,,14.5,11.5,1 tile turned red
+8.827,gate change,,,10.5,16.5,1 tile turned off
+8.86,respawn,omni,red,9,6,
+9.127,prevent stop,FM,red,9.85,6.95,6 s counted
+9.127,prevent stop,Irony,blue,15.1,16.325,1 s counted
+9.127,prevent stop,meowza,red,11.575,9.025,6 s counted
+9.576,gate change,,,14.5,11.5,1 tile turned off
+10.577,gate change,,,14.5,11.5,1 tile turned red
+11.127,prevent start,Xx360NoSwagx,blue,11.875,16.725,up to 1 s before the first counted second
+11.276,gate change,,,10.5,16.5,1 tile turned blue
+11.86,boost ready,,,5.5,4.5,
+11.893,boost ready,,,4.5,5.5,
+11.933,boost ready,,,8.5,14.5,
+12.127,prevent stop,Xx360NoSwagx,blue,12.025,18.325,1 s counted
+12.127,prevent stop,Junoon,blue,16.3,22.35,6 s counted
+12.21,pop,mactheroni,blue,13.8,11.95,"tagged by FM; splat at 13.8,11.95"
+12.213,boost ready,,,16.5,13.5,
+12.514,boost ready,,,20.5,22.5,
+12.561,gate change,,,10.5,16.5,1 tile turned off
+12.593,boost ready,,,19.5,23.5,
+12.693,boost used,meowza,red,8.5,14.5,
+13.127,boost used,fender,red,20.5,22.5,
+13.142,prevent start,Xx360NoSwagx,blue,12.375,19.625,up to 1 s before the first counted second
+13.142,prevent start,Junoon,blue,17.675,22.725,up to 1 s before the first counted second
+13.159,button stop,FM,red,12.125,8.825,5.00 s
+13.209,boost used,fender,red,19.5,23.5,
+13.259,portal used,meowza,red,4.5,10.5,
+13.36,boost used,meowza,red,4.5,5.5,
+13.427,boost used,meowza,red,5.5,4.5,
+14.626,boost used,Irony,blue,16.5,13.5,
+15.142,prevent start,FM,red,11.775,8.9,up to 1 s before the first counted second
+15.142,prevent start,meowza,red,14.075,9.025,up to 1 s before the first counted second
+15.209,respawn,mactheroni,blue,14,23,
+15.526,pop,Irony,blue,3.725,9.375,"no enemy credited (spike, gate, explosion or self); splat at 3.725,9.375"
+15.676,gate change,,,14.5,11.5,1 tile turned off
+16.142,prevent stop,FM,red,11.05,8.05,1 s counted
+16.142,prevent stop,meowza,red,13.825,9.975,1 s counted
+16.259,portal ready,,,4.5,10.5,
+16.626,portal used,omni,red,20.5,17.5,
+16.643,gate change,,,14.5,11.5,1 tile turned red
+16.81,block start,mactheroni,blue,10.975,20.3,
+17.127,gate change,,,14.5,11.5,1 tile turned off
+18.159,button start,meowza,red,9.95,10.825,
+18.526,respawn,Irony,blue,12,23,
+19.142,prevent start,FM,red,10.125,6.525,up to 1 s before the first counted second
+19.142,prevent start,meowza,red,8.775,9.3,up to 1 s before the first counted second
+19.627,portal ready,,,20.5,17.5,
+20.309,block start,omni,red,20.025,20.975,
+20.677,block start,fender,red,13.25,24.575,
+21.459,grab,mactheroni,blue,10.825,3.925,red flag; previous carrier mactheroni popped 16.43 s earlier
+21.81,pop,mactheroni,blue,9.7,5.375,"carrying red flag; returned by meowza; splat at 9.7,5.375"
+21.81,block stop,mactheroni,blue,9.7,5.375,5.00 s
+22.142,prevent stop,FM,red,11.525,5.275,3 s counted
+22.142,prevent stop,meowza,red,9.825,6.95,3 s counted
+22.192,block start,Irony,blue,16.775,13.875,
+22.698,boost ready,,,8.5,14.5,
+22.909,gate change,,,14.5,11.5,1 tile turned red
+23.127,boost ready,,,20.5,22.5,
+23.159,button stop,meowza,red,11.9,9.175,5.00 s
+23.192,gate change,,,14.5,11.5,1 tile turned off
+23.21,boost ready,,,19.5,23.5,
+23.36,boost ready,,,4.5,5.5,
+23.427,boost ready,,,5.5,4.5,
+23.742,boost used,omni,red,20.5,22.5,
+23.81,flaccid,mactheroni,blue,9.7,5.375,
+23.81,boost used,omni,red,19.5,23.5,
+24.627,boost ready,,,16.5,13.5,
+24.809,respawn,mactheroni,blue,12,20,
+24.942,grab,fender,red,12.9,23.075,blue flag; previous carrier omni popped 19.08 s earlier
+25.142,prevent start,FM,red,14.325,8.25,up to 1 s before the first counted second
+25.142,prevent stop,Xx360NoSwagx,blue,12.3,20.35,12 s counted
+25.142,prevent stop,Junoon,blue,13.45,21.45,12 s counted
+25.677,pop,fender,red,11.125,22.35,"carrying blue flag; returned by Junoon; splat at 11.125,22.35"
+25.677,boost used,meowza,red,16.5,13.5,
+25.677,block stop,fender,red,11.125,22.35,5.00 s
+26.142,prevent start,Xx360NoSwagx,blue,9.925,20.85,up to 1 s before the first counted second
+26.142,prevent start,Junoon,blue,11.875,21.35,up to 1 s before the first counted second
+26.292,handoff,fender,red,11.125,22.35,
+26.292,grab,meowza,red,14.575,18.7,blue flag; previous carrier fender popped 0.61 s earlier
+26.359,block start,Junoon,blue,12.125,21.15,
+26.825,boost used,mactheroni,blue,8.5,14.5,
+26.942,grab,Irony,blue,11.125,3.925,red flag; previous carrier mactheroni popped 5.13 s earlier
+27.142,prevent stop,Xx360NoSwagx,blue,10.475,20.675,1 s counted
+27.142,prevent stop,Junoon,blue,13.8,20.9,1 s counted
+27.192,pop,Irony,blue,11.425,4.55,"carrying red flag; returned by FM; splat at 11.425,4.55"
+27.192,block stop,Irony,blue,11.425,4.55,5.00 s
+27.442,grab,mactheroni,blue,10.375,6.1,red flag; previous carrier Irony popped 0.25 s earlier
+27.442,handoff,Irony,blue,11.425,4.55,
+27.534,block start,meowza,red,16.775,24.4,
+28.142,prevent stop,FM,red,13.275,4.05,3 s counted
+28.677,respawn,fender,red,9,4,
+28.692,block start,Irony,blue,11.425,4.55,
+30.193,respawn,Irony,blue,14,22,
+30.193,good handoff,Irony,blue,14,22,
+31.31,gate change,,,10.5,16.5,1 tile turned blue
+31.359,block stop,Junoon,blue,13.6,22.55,5.00 s
+31.46,pop,FM,red,10.65,15.075,"tagged by mactheroni; splat at 10.65,15.075"
+31.51,gate change,,,10.5,16.5,1 tile turned off
+31.56,block start,fender,red,9.475,13.95,
+31.56,block start,Xx360NoSwagx,blue,11.75,22.1,
+31.609,block stop,omni,red,12.65,22.475,11.30 s
+32.443,gate change,,,10.5,16.5,1 tile turned red
+32.534,flaccid,fender,red,10.95,17.375,
+32.534,pop,meowza,red,11.425,24.65,"carrying blue flag; returned by Xx360NoSwagx; splat at 11.425,24.65"
+32.534,block stop,meowza,red,11.425,24.65,5.00 s
+32.56,gate change,,,10.5,16.5,1 tile turned off
+32.726,grab,omni,red,12.45,22.925,blue flag; previous carrier meowza popped 0.19 s earlier
+32.965,pop,omni,red,12.675,22.15,"carrying blue flag; returned by Irony; splat at 12.675,22.15"
+33.126,block start,FM,red,10.65,15.075,
+33.126,block start,Junoon,blue,13.075,23.325,
+33.143,prevent start,Irony,blue,14.05,21.925,up to 1 s before the first counted second
+33.143,prevent start,Xx360NoSwagx,blue,10.375,22.825,up to 1 s before the first counted second
+33.143,prevent start,Junoon,blue,13.075,23.325,up to 1 s before the first counted second
+33.692,block stop,Irony,blue,15.475,20.725,5.00 s
+33.742,boost ready,,,20.5,22.5,
+33.813,boost ready,,,19.5,23.5,
+34.009,block start,mactheroni,blue,16.175,18,
+34.459,respawn,FM,red,9,4,
+34.976,flaccid,omni,red,12.675,22.15,
+35.527,respawn,meowza,red,9,6,
+35.68,boost ready,,,16.5,13.5,
+35.976,respawn,omni,red,10,5,
+36.026,boost used,fender,red,20.5,22.5,
+36.142,boost used,fender,red,19.5,23.5,
+36.209,gate change,,,14.5,11.5,1 tile turned red
+36.41,gate change,,,14.5,11.5,1 tile turned off
+36.56,grab,fender,red,13.775,22.075,blue flag; previous carrier omni popped 3.60 s earlier
+36.56,block stop,fender,red,13.775,22.075,5.00 s
+36.56,block stop,Xx360NoSwagx,blue,13.2,21.375,5.00 s
+36.826,boost ready,,,8.5,14.5,
+37.042,boost used,FM,red,16.5,13.5,
+37.059,block start,Xx360NoSwagx,blue,10.575,21.525,
+37.142,prevent stop,Irony,blue,15.3,20.25,4 s counted
+37.142,prevent stop,Xx360NoSwagx,blue,10.575,21.525,4 s counted
+37.142,prevent stop,Junoon,blue,17.55,21.625,4 s counted
+37.293,portal used,FM,red,20.5,17.5,
+38.126,block stop,FM,red,15.15,22.6,5.00 s
+38.126,block stop,Junoon,blue,14.3,22.225,5.00 s
+38.16,button start,Xx360NoSwagx,blue,9.25,22.075,
+38.543,pop,fender,red,9.4,19.75,"carrying blue flag; returned by Irony; splat at 9.4,19.75"
+38.576,grab,FM,red,13.7,22.425,blue flag; previous carrier fender popped 0.03 s earlier
+38.576,handoff,fender,red,9.4,19.75,
+38.709,gate change,,,10.5,16.5,1 tile turned red
+38.842,gate change,,,10.5,16.5,1 tile turned off
+39.009,block stop,mactheroni,blue,11.325,21.15,5.00 s
+39.293,pop,FM,red,11.425,21.625,"carrying blue flag; returned by Junoon; splat at 11.425,21.625"
+39.293,flaccid,fender,red,9.4,19.75,
+39.629,block start,mactheroni,blue,8.6,20.3,
+39.892,boost used,Irony,blue,8.5,14.5,
+40.142,prevent start,Xx360NoSwagx,blue,9.5,22.825,up to 1 s before the first counted second
+40.142,prevent start,Junoon,blue,12.5,22.45,up to 1 s before the first counted second
+40.293,portal ready,,,20.5,17.5,
+40.459,gate change,,,10.5,16.5,1 tile turned red
+40.809,gate change,,,10.5,16.5,1 tile turned off
+41.292,flaccid,FM,red,11.425,21.625,
+41.542,respawn,fender,red,12,4,
+42.059,block stop,Xx360NoSwagx,blue,10.75,20.425,5.00 s
+42.293,respawn,FM,red,12,5,
+42.976,gate change,,,10.5,16.5,1 tile turned blue
+43.16,button stop,Xx360NoSwagx,blue,11.45,18.2,5.00 s
+43.243,gate change,,,14.5,11.5,1 tile turned red
+43.526,gate change,,,14.5,11.5,1 tile turned off
+43.776,gate change,,,10.5,16.5,1 tile turned off
+44.629,pop,mactheroni,blue,7.05,20.175,"carrying red flag; returned by omni; splat at 7.05,20.175"
+44.629,block stop,mactheroni,blue,7.05,20.175,5.00 s
+45.659,grab,Irony,blue,11.125,5.95,red flag; previous carrier mactheroni popped 1.03 s earlier
+46.028,boost ready,,,20.5,22.5,
+46.143,boost ready,,,19.5,23.5,
+46.409,block start,mactheroni,blue,7.05,20.175,
+46.726,grab,meowza,red,12.55,22.825,blue flag; previous carrier FM popped 7.43 s earlier
+46.978,pop,meowza,red,13.4,22.925,"carrying blue flag; returned by Junoon; splat at 13.4,22.925"
+47.045,boost ready,,,16.5,13.5,
+47.626,respawn,mactheroni,blue,12,22,
+48.826,boost used,Junoon,blue,20.5,22.5,
+48.859,boost used,Junoon,blue,19.5,23.5,
+48.859,block start,fender,red,13.125,18.875,
+48.859,block start,Xx360NoSwagx,blue,13.3,19.9,
+48.976,flaccid,meowza,red,13.4,22.925,
+49.06,boost used,Irony,blue,4.5,5.5,
+49.159,boost used,Irony,blue,5.5,4.5,
+49.31,block start,Irony,blue,6.675,4.3,
+49.892,boost ready,,,8.5,14.5,
+49.976,respawn,meowza,red,10,6,
+51.226,gate change,,,14.5,11.5,1 tile turned red
+51.409,block stop,mactheroni,blue,14.925,13.9,5.00 s
+51.593,boost used,FM,red,16.5,13.5,
+51.593,gate change,,,14.5,11.5,1 tile turned off
+53.091,portal used,Irony,blue,20.5,17.5,
+53.442,grab,omni,red,12.2,21.525,blue flag; previous carrier meowza popped 6.46 s earlier
+54.143,prevent stop,Xx360NoSwagx,blue,12.8,21.925,14 s counted
+54.143,prevent stop,Junoon,blue,13.425,22.65,14 s counted
+54.259,block start,Junoon,blue,13.425,22.65,
+54.31,pop,Irony,blue,16.775,23.175,"carrying red flag; returned by meowza; splat at 16.775,23.175"
+54.31,block stop,Irony,blue,16.775,23.175,5.00 s
+54.542,grab,mactheroni,blue,11.175,6.425,red flag; previous carrier Irony popped 0.23 s earlier
+54.678,block start,omni,red,11.15,23.9,
+55.926,gate change,,,14.5,11.5,1 tile turned red
+56.095,portal ready,,,20.5,17.5,
+56.127,gate change,,,14.5,11.5,1 tile turned off
+57.31,respawn,Irony,blue,13,24,
+57.926,block stop,Xx360NoSwagx,blue,5.5,18.575,9.07 s
+57.941,boost used,mactheroni,blue,8.5,14.5,
+58.831,boost ready,,,20.5,22.5,
+58.86,boost ready,,,19.5,23.5,
+59.063,boost ready,,,4.5,5.5,
+59.159,boost ready,,,5.5,4.5,
+59.259,block stop,Junoon,blue,5.925,19.025,5.00 s
+59.678,pop,omni,red,3.325,16.675,"carrying blue flag; returned by Xx360NoSwagx; splat at 3.325,16.675"
+59.678,block stop,omni,red,3.325,16.675,5.00 s
+59.68,gate change,,,10.5,16.5,1 tile turned red
+60.003,pup spawn,,,6.5,20.5,tagpro
+60.003,pup spawn,,,18.5,7.5,juke juice
+60.193,pup taken,,,18.5,7.5,juke juice
+60.209,pup pickup,FM,red,16.625,7.8,juke juice
+60.461,block start,FM,red,17.85,7.15,
+60.576,pup taken,,,6.5,20.5,tagpro
+60.592,pup pickup,Junoon,blue,6.05,19.15,tagpro
+60.742,gate change,,,10.5,16.5,1 tile turned off
+61.143,prevent start,Irony,blue,8.6,20.325,up to 1 s before the first counted second
+61.594,boost ready,,,16.5,13.5,
+62.01,block start,mactheroni,blue,8.775,13.975,
+62.042,grab,meowza,red,11.725,21.15,blue flag; previous carrier omni popped 2.36 s earlier
+62.143,prevent stop,Irony,blue,10.8,21.125,1 s counted
+62.56,gate change,,,10.5,16.5,1 tile turned red
+62.676,respawn,omni,red,12,3,
+62.693,pop,fender,red,11.95,17.85,"tagged by Junoon; splat at 11.95,17.85"
+62.693,gate change,,,10.5,16.5,1 tile turned off
+62.693,block stop,fender,red,11.95,17.85,13.83 s
+62.777,block start,meowza,red,14.225,21.825,
+64.109,boost used,FM,red,16.5,13.5,
+64.127,block start,omni,red,12.25,5.9,
+65.461,pop,FM,red,9.8,23.5,"tagged by Junoon; splat at 9.8,23.5"
+65.461,block stop,FM,red,9.8,23.5,5.00 s
+65.692,respawn,fender,red,13,5,
+67.01,pop,mactheroni,blue,9.05,22.15,"carrying red flag; returned by omni; splat at 9.05,22.15"
+67.01,block stop,mactheroni,blue,9.05,22.15,5.00 s
+67.777,pop,meowza,red,16.55,24.75,"carrying blue flag; returned by Irony; splat at 16.55,24.75"
+67.777,block stop,meowza,red,16.55,24.75,5.00 s
+67.943,boost ready,,,8.5,14.5,
+68.142,prevent start,Irony,blue,16.35,23.2,up to 1 s before the first counted second
+68.142,prevent start,Xx360NoSwagx,blue,11.875,20.05,up to 1 s before the first counted second
+68.142,prevent start,Junoon,blue,10.325,24.6,up to 1 s before the first counted second
+68.276,grab,omni,red,12.15,22.95,blue flag; previous carrier meowza popped 0.50 s earlier
+68.459,respawn,FM,red,10,4,
+69.127,pop,omni,red,15.725,22,"carrying blue flag; returned by Xx360NoSwagx; splat at 15.725,22"
+69.127,block stop,omni,red,15.725,22,5.00 s
+69.226,boost used,Irony,blue,19.5,23.5,
+69.293,boost used,Irony,blue,20.5,22.5,
+70.009,respawn,mactheroni,blue,14,23,
+70.776,respawn,meowza,red,11,3,
+71.126,flaccid,omni,red,15.725,22,
+71.143,gate change,,,14.5,11.5,1 tile turned red
+71.192,gate change,,,10.5,16.5,1 tile turned blue
+71.276,gate change,,,10.5,16.5,1 tile turned off
+71.792,pop,fender,red,19.95,20.85,"tagged by Junoon; splat at 19.95,20.85"
+71.993,boost used,Irony,blue,8.5,14.5,
+72.127,respawn,omni,red,10,7,
+72.143,prevent stop,Irony,blue,7.475,13.075,4 s counted
+72.143,prevent stop,Xx360NoSwagx,blue,15.725,22.8,4 s counted
+72.143,prevent stop,Junoon,blue,18.9,21.025,4 s counted
+72.227,portal used,Irony,blue,4.5,10.5,
+72.259,boost used,Irony,blue,4.5,5.5,
+72.325,boost used,Irony,blue,5.5,4.5,
+73.092,gate change,,,14.5,11.5,1 tile turned off
+73.142,prevent start,FM,red,12.325,8.475,up to 1 s before the first counted second
+74.11,boost ready,,,16.5,13.5,
+74.142,prevent start,meowza,red,12.725,4.85,up to 1 s before the first counted second
+74.31,gate change,,,14.5,11.5,1 tile turned red
+74.709,gate change,,,10.5,16.5,1 tile turned blue
+74.792,respawn,fender,red,10,6,
+74.826,gate change,,,14.5,11.5,1 tile turned off
+75.143,prevent start,omni,red,12.65,7.825,up to 1 s before the first counted second
+75.227,portal ready,,,4.5,10.5,
+75.592,pup ended,Junoon,blue,9.675,8.675,tagpro
+76.13,block start,omni,red,12.85,8.75,
+76.192,gate change,,,14.5,11.5,1 tile turned red
+76.778,gate change,,,14.5,11.5,1 tile turned off
+77.109,gate change,,,14.5,11.5,1 tile turned red
+77.543,gate change,,,10.5,16.5,1 tile turned off
+77.743,gate change,,,14.5,11.5,1 tile turned off
+78.142,prevent start,fender,red,11.125,5.475,up to 1 s before the first counted second
+78.142,prevent stop,omni,red,13.45,10.075,3 s counted
+78.159,button start,FM,red,9.25,6.475,
+78.743,boost used,omni,red,16.5,13.5,
+78.975,portal used,omni,red,20.5,17.5,
+79.093,grab,mactheroni,blue,11.725,5.45,red flag; previous carrier mactheroni popped 12.08 s earlier
+79.142,prevent stop,FM,red,9.95,5.95,6 s counted
+79.142,prevent stop,fender,red,11.375,6.325,1 s counted
+79.142,prevent stop,meowza,red,11.125,4.075,5 s counted
+79.142,prevent start,Xx360NoSwagx,blue,13.275,20.1,up to 1 s before the first counted second
+79.227,boost ready,,,19.5,23.5,
+79.293,boost ready,,,20.5,22.5,
+79.342,pop,mactheroni,blue,11.7,5.4,"carrying red flag; returned by fender; splat at 11.7,5.4"
+80.143,prevent start,FM,red,10.45,5.875,up to 1 s before the first counted second
+80.143,prevent start,fender,red,11.325,7.85,up to 1 s before the first counted second
+80.143,prevent start,meowza,red,10.825,3.35,up to 1 s before the first counted second
+80.177,block start,Irony,blue,9.25,4.35,
+80.209,pup ended,FM,red,10.45,5.875,juke juice
+80.343,grab,omni,red,13.8,21.675,blue flag; previous carrier omni popped 11.22 s earlier
+80.726,gate change,,,10.5,16.5,1 tile turned blue
+80.909,gate change,,,10.5,16.5,1 tile turned off
+81.13,pop,omni,red,13.575,19.95,"carrying blue flag; returned by Junoon; splat at 13.575,19.95"
+81.13,block stop,omni,red,13.575,19.95,5.00 s
+81.143,prevent stop,fender,red,9.675,11.125,1 s counted
+81.143,prevent stop,Xx360NoSwagx,blue,11.825,20.4,2 s counted
+81.342,flaccid,mactheroni,blue,11.7,5.4,
+81.96,gate change,,,10.5,16.5,1 tile turned blue
+81.976,portal ready,,,20.5,17.5,
+81.993,boost ready,,,8.5,14.5,
+82.142,prevent stop,FM,red,11.225,7.175,2 s counted
+82.142,prevent stop,meowza,red,9.775,5.6,2 s counted
+82.26,boost ready,,,4.5,5.5,
+82.326,boost ready,,,5.5,4.5,
+82.342,respawn,mactheroni,blue,12,21,
+82.776,gate change,,,14.5,11.5,1 tile turned red
+82.992,gate change,,,10.5,16.5,1 tile turned off
+83.126,flaccid,omni,red,13.575,19.95,
+83.143,prevent start,Xx360NoSwagx,blue,10.95,18.625,up to 1 s before the first counted second
+83.143,prevent start,Junoon,blue,12.75,18.4,up to 1 s before the first counted second
+83.159,button stop,FM,red,11.775,8.7,5.00 s
+83.16,portal used,Irony,blue,4.5,10.5,
+83.292,boost used,Irony,blue,4.5,5.5,
+83.376,boost used,Irony,blue,5.5,4.5,
+83.542,gate change,,,14.5,11.5,1 tile turned off
+83.759,gate change,,,10.5,16.5,1 tile turned blue
+83.842,grab,Irony,blue,10.375,4.35,red flag; previous carrier mactheroni popped 4.50 s earlier
+84.126,respawn,omni,red,10,6,
+84.143,prevent stop,Xx360NoSwagx,blue,11.65,18.325,1 s counted
+84.143,prevent stop,Junoon,blue,14.1,19.5,1 s counted
+84.476,portal used,fender,red,20.5,17.5,
+84.576,boost used,fender,red,20.5,22.5,
+84.641,boost used,fender,red,19.5,23.5,
+84.876,gate change,,,10.5,16.5,1 tile turned off
+85.01,block start,fender,red,17.35,22.35,
+85.143,prevent start,Xx360NoSwagx,blue,12.025,19.025,up to 1 s before the first counted second
+85.143,prevent start,Junoon,blue,16.025,22.5,up to 1 s before the first counted second
+85.177,pop,Irony,blue,15.2,4.975,"carrying red flag; returned by meowza; splat at 15.2,4.975"
+85.177,block stop,Irony,blue,15.2,4.975,5.00 s
+86.143,prevent start,FM,red,14.65,8.9,up to 1 s before the first counted second
+86.143,prevent start,meowza,red,12.85,6.65,up to 1 s before the first counted second
+86.16,portal ready,,,4.5,10.5,
+86.409,block start,omni,red,9.675,9.4,
+86.759,gate change,,,14.5,11.5,1 tile turned red
+86.959,gate change,,,14.5,11.5,1 tile turned off
+87.009,gate change,,,14.5,11.5,1 tile turned blue
+87.177,flaccid,Irony,blue,15.2,4.975,
+87.242,gate change,,,14.5,11.5,1 tile turned off
+87.477,portal ready,,,20.5,17.5,
+87.709,boost used,omni,red,8.5,14.5,
+88.159,button start,meowza,red,10.675,8.8,
+88.177,respawn,Irony,blue,13,20,
+88.745,boost ready,,,16.5,13.5,
+89.926,grab,fender,red,13.95,22.025,blue flag; previous carrier omni popped 8.80 s earlier
+90.145,prevent stop,Xx360NoSwagx,blue,13,21.025,5 s counted
+90.145,prevent stop,Junoon,blue,14.25,25,5 s counted
+91.26,gate change,,,14.5,11.5,1 tile turned red
+91.609,gate change,,,14.5,11.5,1 tile turned off
+91.977,pop,fender,red,15.45,16.45,"carrying blue flag; returned by Xx360NoSwagx; splat at 15.45,16.45"
+91.977,block stop,fender,red,15.45,16.45,6.97 s
+92.226,grab,omni,red,12.45,22.075,blue flag; previous carrier fender popped 0.25 s earlier
+92.343,boost used,Irony,blue,16.5,13.5,
+92.343,gate change,,,14.5,11.5,1 tile turned red
+92.476,pop,Irony,blue,14.65,11.625,"tagged by meowza; splat at 14.65,11.625"
+93.144,block start,Xx360NoSwagx,blue,14.5,18.125,
+93.159,button stop,meowza,red,11.875,8.5,5.00 s
+93.159,button start,omni,red,13.6,19.575,
+93.21,pop,omni,red,13.825,19.175,"carrying blue flag; returned by Xx360NoSwagx; splat at 13.825,19.175"
+93.21,block stop,omni,red,13.825,19.175,6.80 s
+93.293,boost ready,,,4.5,5.5,
+93.376,boost ready,,,5.5,4.5,
+93.609,block start,mactheroni,blue,10.85,7,
+93.977,gate change,,,14.5,11.5,1 tile turned off
+94.459,grab,mactheroni,blue,10.9,6.075,red flag; previous carrier Irony popped 9.28 s earlier
+94.577,boost ready,,,20.5,22.5,
+94.61,block start,fender,red,15.45,16.45,
+94.641,boost ready,,,19.5,23.5,
+94.909,gate change,,,10.5,16.5,1 tile turned blue
+94.976,respawn,fender,red,10,5,
+95.142,prevent stop,FM,red,11.35,6.125,9 s counted
+95.142,prevent stop,meowza,red,15.9,13.475,9 s counted
+95.209,flaccid,omni,red,13.825,19.175,
+95.309,gate change,,,10.5,16.5,1 tile turned off
+95.476,respawn,Irony,blue,14,22,
+96.143,portal used,meowza,red,20.5,17.5,
+96.209,respawn,omni,red,9,4,
+96.476,gate change,,,14.5,11.5,1 tile turned red
+96.726,gate change,,,14.5,11.5,1 tile turned off
+96.81,block start,Irony,blue,12.575,19.275,
+96.976,gate change,,,10.5,16.5,1 tile turned blue
+97.226,gate change,,,10.5,16.5,1 tile turned off
+97.71,boost ready,,,8.5,14.5,
+97.827,boost used,meowza,red,20.5,22.5,
+97.942,boost used,meowza,red,19.5,23.5,
+97.976,gate change,,,14.5,11.5,1 tile turned red
+98.142,prevent start,Xx360NoSwagx,blue,16.325,21.775,up to 1 s before the first counted second
+98.142,prevent start,Junoon,blue,9.7,21.725,up to 1 s before the first counted second
+98.144,block stop,Xx360NoSwagx,blue,16.275,21.875,5.00 s
+98.159,button stop,omni,red,11.825,8.8,5.00 s
+98.342,gate change,,,14.5,11.5,1 tile turned off
+98.609,pop,mactheroni,blue,14.925,20.375,"carrying red flag; returned by fender; splat at 14.925,20.375"
+98.609,block stop,mactheroni,blue,14.925,20.375,5.00 s
+99.143,portal ready,,,20.5,17.5,
+99.144,prevent start,omni,red,11.525,10.325,up to 1 s before the first counted second
+99.293,grab,fender,red,13.35,20.825,blue flag; previous carrier omni popped 6.08 s earlier
+99.381,grab,Irony,blue,10.575,6.1,red flag; previous carrier mactheroni popped 0.77 s earlier
+99.592,gate change,,,14.5,11.5,1 tile turned red
+99.61,pop,fender,red,12.425,21.45,"carrying blue flag; returned by Junoon; splat at 12.425,21.45"
+99.61,block stop,fender,red,12.425,21.45,5.00 s
+100.076,gate change,,,14.5,11.5,1 tile turned off
+100.144,prevent stop,omni,red,12.025,8.375,1 s counted
+101.61,respawn,mactheroni,blue,11,23,
+101.61,flaccid,fender,red,12.425,21.45,
+101.81,pop,Irony,blue,14.225,4.4,"carrying red flag; returned by omni; splat at 14.225,4.4"
+101.81,block stop,Irony,blue,14.225,4.4,5.00 s
+101.96,gate change,,,10.5,16.5,1 tile turned blue
+102.109,gate change,,,10.5,16.5,1 tile turned off
+102.344,boost ready,,,16.5,13.5,
+102.609,respawn,fender,red,10,6,
+103.142,prevent stop,Xx360NoSwagx,blue,14.85,14.8,5 s counted
+103.877,gate change,,,14.5,11.5,1 tile turned red
+104.137,gate change,,,10.5,16.5,1 tile turned blue
+104.459,boost used,mactheroni,blue,8.5,14.5,
+104.81,respawn,Irony,blue,13,23,
+104.926,gate change,,,10.5,16.5,1 tile turned off
+105.159,block start,Xx360NoSwagx,blue,16.225,14.7,
+105.16,prevent start,omni,red,10.25,9.25,up to 1 s before the first counted second
+105.393,gate change,,,14.5,11.5,1 tile turned off
+105.996,grab,mactheroni,blue,10.975,6.45,red flag; previous carrier Irony popped 4.19 s earlier
+106.16,prevent stop,omni,red,12.15,4.5,1 s counted
+106.16,prevent stop,Junoon,blue,14.05,20.9,8 s counted
+106.876,block start,Junoon,blue,14.8,21.925,
+107.009,block start,Irony,blue,13.2,18.5,
+107.16,prevent start,Junoon,blue,15.15,22.2,up to 1 s before the first counted second
+107.828,boost ready,,,20.5,22.5,
+107.943,boost ready,,,19.5,23.5,
+108.071,block start,mactheroni,blue,19,6.1,
+108.16,prevent start,Irony,blue,13.375,18.075,up to 1 s before the first counted second
+108.56,boost used,meowza,red,19.5,23.5,
+110.509,gate change,,,14.5,11.5,1 tile turned red
+110.562,boost used,mactheroni,blue,16.5,13.5,
+111.025,gate change,,,10.5,16.5,1 tile turned blue
+111.159,prevent start,Xx360NoSwagx,blue,15.475,16.05,up to 1 s before the first counted second
+111.176,gate change,,,10.5,16.5,1 tile turned off
+111.309,block start,FM,red,14.7,17.975,
+111.443,block start,fender,red,15.125,16.025,
+111.876,block stop,Junoon,blue,12.7,21.275,5.00 s
+111.993,gate change,,,14.5,11.5,1 tile turned off
+112.009,block stop,Irony,blue,13.825,21.475,5.00 s
+112.16,gate change,,,10.5,16.5,1 tile turned red
+112.226,gate change,,,10.5,16.5,1 tile turned off
+112.376,block stop,Xx360NoSwagx,blue,12.85,19.425,7.22 s
+113.071,pop,mactheroni,blue,10.775,24.15,"carrying red flag; returned by meowza; splat at 10.775,24.15"
+113.071,block stop,mactheroni,blue,10.775,24.15,5.00 s
+113.176,button start,fender,red,11.025,20.8,
+114.46,boost ready,,,8.5,14.5,
+114.826,gate change,,,10.5,16.5,1 tile turned red
+116.093,respawn,mactheroni,blue,13,24,
+116.142,grab,meowza,red,12.425,22.8,blue flag; previous carrier fender popped 16.53 s earlier
+116.177,prevent stop,Irony,blue,8.9,21,8 s counted
+116.177,prevent stop,Xx360NoSwagx,blue,16.1,13.05,5 s counted
+116.177,prevent stop,Junoon,blue,12.85,18.15,9 s counted
+116.309,block stop,FM,red,7.75,19.625,5.00 s
+116.443,block stop,fender,red,12.1,18.375,5.00 s
+116.559,block start,FM,red,7.75,19.625,
+116.727,gate change,,,10.5,16.5,1 tile turned off
+118.126,gate change,,,10.5,16.5,1 tile turned red
+118.176,button stop,fender,red,12.575,18.425,5.00 s
+118.292,boost used,meowza,red,8.5,14.5,
+118.375,gate change,,,10.5,16.5,1 tile turned off
+118.542,portal used,meowza,red,4.5,10.5,
+118.56,boost ready,,,19.5,23.5,
+118.577,boost used,meowza,red,4.5,5.5,
+118.659,boost used,meowza,red,5.5,4.5,
+119.048,score,,,,,red 1 - blue 0
+119.06,cap,meowza,red,10.6,4.7,blue flag
+119.177,prevent start,meowza,red,10.6,4.7,up to 1 s before the first counted second
+119.36,gate change,,,14.5,11.5,1 tile turned blue
+119.493,gate change,,,14.5,11.5,1 tile turned off
+119.592,grab,fender,red,12.85,21.15,blue flag
+120.177,prevent stop,meowza,red,18.575,5.175,1 s counted
+120.194,pup spawn,,,18.5,7.5,tagpro
+120.33,block start,Xx360NoSwagx,blue,17.575,4.1,
+120.563,boost ready,,,16.5,13.5,
+120.576,pup spawn,,,6.5,20.5,juke juice
+120.593,block start,fender,red,12.625,21.05,
+120.593,block start,Junoon,blue,13.6,5.875,
+120.992,pup taken,,,6.5,20.5,juke juice
+121.01,pup pickup,FM,red,6.025,19.125,juke juice
+121.092,pup taken,,,18.5,7.5,tagpro
+121.109,pup pickup,meowza,red,18.525,6.25,tagpro
+121.276,pop,mactheroni,blue,17.25,7.15,"tagged by meowza; splat at 17.25,7.15"
+121.544,portal ready,,,4.5,10.5,
+121.559,block stop,FM,red,6.15,19.25,5.00 s
+122.11,grab,Junoon,blue,11.925,5,red flag; previous carrier mactheroni popped 9.04 s earlier
+122.992,gate change,,,10.5,16.5,1 tile turned blue
+123.16,gate change,,,10.5,16.5,1 tile turned off
+123.177,gate change,,,10.5,16.5,1 tile turned red
+123.509,gate change,,,10.5,16.5,1 tile turned off
+123.942,gate change,,,14.5,11.5,1 tile turned blue
+124.277,respawn,mactheroni,blue,13,21,
+124.428,pop,Irony,blue,14.45,13.35,"tagged by meowza; splat at 14.45,13.35"
+124.46,gate change,,,14.5,11.5,1 tile turned off
+125.33,pop,Xx360NoSwagx,blue,9.5,11.55,"tagged by meowza; splat at 9.5,11.55"
+125.33,block stop,Xx360NoSwagx,blue,9.5,11.55,5.00 s
+125.342,gate change,,,10.5,16.5,1 tile turned red
+125.593,block stop,fender,red,7.35,14.35,5.00 s
+126.126,gate change,,,10.5,16.5,1 tile turned off
+126.942,pop,Junoon,blue,4.75,17.075,"carrying red flag; returned by FM; splat at 4.75,17.075"
+126.942,block stop,Junoon,blue,4.75,17.075,6.35 s
+127.426,respawn,Irony,blue,11,21,
+128.293,boost ready,,,8.5,14.5,
+128.325,respawn,Xx360NoSwagx,blue,14,20,
+128.577,boost ready,,,4.5,5.5,
+128.642,boost used,mactheroni,blue,16.5,13.5,
+128.66,boost ready,,,5.5,4.5,
+128.942,gate change,,,14.5,11.5,1 tile turned red
+129.176,prevent start,meowza,red,8.275,6.55,up to 1 s before the first counted second
+129.176,prevent start,omni,red,11.7,8.6,up to 1 s before the first counted second
+129.309,gate change,,,10.5,16.5,1 tile turned blue
+129.459,boost used,mactheroni,blue,4.5,5.5,
+129.592,boost used,mactheroni,blue,5.5,4.5,
+129.593,gate change,,,10.5,16.5,1 tile turned off
+129.909,pop,mactheroni,blue,7.025,4.775,"tagged by meowza; splat at 7.025,4.775"
+129.943,respawn,Junoon,blue,14,24,
+130.176,prevent stop,meowza,red,8.75,5.275,1 s counted
+130.176,prevent stop,omni,red,12.275,9.2,1 s counted
+130.31,boost used,Xx360NoSwagx,blue,8.5,14.5,
+130.475,gate change,,,14.5,11.5,1 tile turned off
+130.542,portal used,Xx360NoSwagx,blue,4.5,10.5,
+130.86,score,,,,,red 2 - blue 0
+130.876,cap,fender,red,10.475,5.9,blue flag
+131.126,gate change,,,14.5,11.5,1 tile turned red
+131.177,prevent start,fender,red,10.9,4.9,up to 1 s before the first counted second
+131.177,prevent start,meowza,red,13.45,6.95,up to 1 s before the first counted second
+131.177,prevent start,omni,red,12.725,8.875,up to 1 s before the first counted second
+132.177,prevent stop,meowza,red,17.675,8.725,1 s counted
+132.292,gate change,,,14.5,11.5,1 tile turned off
+132.359,portal used,FM,red,20.5,17.5,
+132.543,block start,fender,red,11.9,4.475,
+132.725,boost used,FM,red,20.5,22.5,
+132.76,block start,omni,red,11.3,9.025,
+132.81,boost used,FM,red,19.5,23.5,
+132.909,respawn,mactheroni,blue,12,21,
+133.176,button start,meowza,red,17.825,12.6,
+133.176,prevent start,Junoon,blue,12.65,20.825,up to 1 s before the first counted second
+133.259,grab,FM,red,16,22.7,blue flag
+133.543,portal ready,,,4.5,10.5,
+134.176,prevent stop,Junoon,blue,10.45,18.725,1 s counted
+135.363,portal ready,,,20.5,17.5,
+135.377,gate change,,,10.5,16.5,1 tile turned red
+135.398,pop,mactheroni,blue,9.05,15.35,"tagged by meowza; splat at 9.05,15.35"
+136.109,pup ended,meowza,red,11.9,18.225,tagpro
+136.393,portal used,Junoon,blue,4.5,10.5,
+137.143,block start,mactheroni,blue,9.05,15.35,
+137.176,prevent stop,fender,red,10.65,11,6 s counted
+138.176,button stop,meowza,red,12,18.175,5.00 s
+138.392,respawn,mactheroni,blue,12,21,
+138.645,boost ready,,,16.5,13.5,
+138.692,gate change,,,10.5,16.5,1 tile turned off
+138.692,block stop,omni,red,9.55,5.6,5.93 s
+138.864,gate change,,,10.5,16.5,1 tile turned red
+139.159,gate change,,,10.5,16.5,1 tile turned off
+139.176,prevent start,fender,red,9.15,10.625,up to 1 s before the first counted second
+139.394,portal ready,,,4.5,10.5,
+139.46,boost ready,,,4.5,5.5,
+139.593,boost ready,,,5.5,4.5,
+139.709,block stop,fender,red,9.675,9.275,7.17 s
+139.993,score,,,,,red 3 - blue 0
+140.009,cap,FM,red,9.95,5.925,blue flag
+140.176,prevent start,FM,red,10.425,5.225,up to 1 s before the first counted second
+140.312,boost ready,,,8.5,14.5,
+140.876,gate change,,,10.5,16.5,1 tile turned red
+140.909,boost used,mactheroni,blue,16.5,13.5,
+141.009,pup ended,FM,red,10.5,4.925,juke juice
+141.076,gate change,,,10.5,16.5,1 tile turned off
+141.209,block start,FM,red,10.3,5.375,
+141.478,gate change,,,14.5,11.5,1 tile turned red
+141.526,grab,mactheroni,blue,11.975,5.8,red flag; previous carrier Junoon popped 14.58 s earlier
+142.109,grab,meowza,red,12.8,21.125,blue flag
+142.143,pop,mactheroni,blue,12.375,3.1,"carrying red flag; returned by omni; splat at 12.375,3.1"
+142.393,handoff,mactheroni,blue,12.375,3.1,
+142.393,grab,Junoon,blue,10.95,5.575,red flag; previous carrier mactheroni popped 0.25 s earlier
+142.492,gate change,,,14.5,11.5,1 tile turned off
+142.725,boost ready,,,20.5,22.5,
+142.81,boost ready,,,19.5,23.5,
+142.926,boost used,Irony,blue,4.5,5.5,
+143.177,prevent stop,FM,red,9.525,5.375,3 s counted
+143.177,prevent stop,fender,red,12.525,11.075,4 s counted
+143.177,prevent stop,omni,red,13.575,4.85,12 s counted
+143.909,block start,meowza,red,12.1,19.425,
+144.042,gate change,,,10.5,16.5,1 tile turned red
+144.093,gate change,,,14.5,11.5,1 tile turned red
+144.191,gate change,,,10.5,16.5,1 tile turned off
+144.209,good handoff,mactheroni,blue,12.375,3.1,
+144.377,gate change,,,14.5,11.5,1 tile turned off
+144.511,boost used,Junoon,blue,8.5,14.5,
+145.142,respawn,mactheroni,blue,11,22,
+147.259,block stop,FM,red,7.65,12.35,6.05 s
+148.291,block start,Xx360NoSwagx,blue,7.775,11.45,
+148.909,pop,meowza,red,10.4,11.75,"carrying blue flag; returned by Irony; splat at 10.4,11.75"
+148.909,block stop,meowza,red,10.4,11.75,5.00 s
+149.077,gate change,,,10.5,16.5,1 tile turned blue
+149.126,block start,Junoon,blue,9.525,14.85,
+149.176,prevent start,mactheroni,blue,11.475,18.525,up to 1 s before the first counted second
+149.576,gate change,,,10.5,16.5,1 tile turned off
+150.06,gate change,,,14.5,11.5,1 tile turned blue
+150.577,gate change,,,14.5,11.5,1 tile turned off
+150.911,boost ready,,,16.5,13.5,
+151.909,respawn,meowza,red,10,4,
+152.176,prevent start,Xx360NoSwagx,blue,11.525,16.175,up to 1 s before the first counted second
+152.376,gate change,,,10.5,16.5,1 tile turned blue
+152.692,gate change,,,10.5,16.5,1 tile turned off
+152.926,boost ready,,,4.5,5.5,
+153.026,boost used,Junoon,blue,20.5,22.5,
+153.176,button start,FM,red,13.925,19.9,
+153.291,block stop,Xx360NoSwagx,blue,12.8,19.925,5.00 s
+153.576,boost used,omni,red,19.5,23.5,
+153.909,block stop,mactheroni,blue,14.7,21.175,16.77 s
+154.126,pop,Junoon,blue,18.4,20.1,"carrying red flag; returned by omni; splat at 18.4,20.1"
+154.126,block stop,Junoon,blue,18.4,20.1,5.00 s
+154.511,boost ready,,,8.5,14.5,
+154.559,block start,Xx360NoSwagx,blue,13.35,20.525,
+154.695,grab,fender,red,14.025,22.175,blue flag; previous carrier meowza popped 5.79 s earlier
+154.943,pop,fender,red,13.475,22.575,"carrying blue flag; returned by mactheroni; splat at 13.475,22.575"
+155.092,block start,Junoon,blue,18.4,20.1,
+155.143,boost used,Irony,blue,4.5,5.5,
+155.177,prevent start,meowza,red,9.25,5.3,up to 1 s before the first counted second
+155.242,boost used,Irony,blue,5.5,4.5,
+156.142,grab,Irony,blue,10,5.1,red flag; previous carrier Junoon popped 2.02 s earlier
+156.177,prevent stop,meowza,red,11.6,5.475,1 s counted
+156.942,flaccid,fender,red,13.475,22.575,
+157.126,respawn,Junoon,blue,13,23,
+157.326,gate change,,,14.5,11.5,1 tile turned red
+157.592,gate change,,,14.5,11.5,1 tile turned off
+157.942,respawn,fender,red,10,6,
+157.978,gate change,,,10.5,16.5,1 tile turned red
+158.176,button stop,FM,red,12.325,18.425,5.00 s
+158.176,button start,Xx360NoSwagx,blue,12.375,19.375,
+158.259,boost used,Irony,blue,8.5,14.5,
+158.776,gate change,,,10.5,16.5,1 tile turned off
+159.31,gate change,,,14.5,11.5,1 tile turned red
+159.559,block stop,Xx360NoSwagx,blue,10.575,18.55,5.00 s
+159.626,gate change,,,14.5,11.5,1 tile turned off
+159.96,block start,Irony,blue,4.125,17.125,
+160.093,gate change,,,10.5,16.5,1 tile turned red
+160.176,prevent start,Junoon,blue,9.35,18.075,up to 1 s before the first counted second
+161.176,prevent stop,Junoon,blue,9.125,17.4,1 s counted
+161.359,portal used,Irony,blue,4.5,10.5,
+162.826,gate change,,,10.5,16.5,1 tile turned off
+162.859,gate change,,,10.5,16.5,1 tile turned blue
+163.026,boost ready,,,20.5,22.5,
+163.176,button stop,Xx360NoSwagx,blue,11.825,18.525,5.00 s
+163.193,block stop,Junoon,blue,9.825,9.85,8.10 s
+163.509,gate change,,,10.5,16.5,1 tile turned off
+163.577,boost ready,,,19.5,23.5,
+164.361,portal ready,,,4.5,10.5,
+164.96,pop,Irony,blue,17.4,8.425,"carrying red flag; returned by fender; splat at 17.4,8.425"
+164.96,block stop,Irony,blue,17.4,8.425,5.00 s
+165.142,grab,Junoon,blue,11.675,5.575,red flag; previous carrier Irony popped 0.18 s earlier
+165.144,boost ready,,,4.5,5.5,
+165.244,boost ready,,,5.5,4.5,
+165.777,block start,Junoon,blue,10.675,6.15,
+165.793,boost used,Xx360NoSwagx,blue,19.5,23.5,
+165.892,boost used,Xx360NoSwagx,blue,20.5,22.5,
+166.01,gate change,,,14.5,11.5,1 tile turned red
+166.292,gate change,,,14.5,11.5,1 tile turned off
+167.026,portal used,Junoon,blue,4.5,10.5,
+167.959,respawn,Irony,blue,14,22,
+168.26,boost ready,,,8.5,14.5,
+169.076,boost used,Junoon,blue,4.5,5.5,
+169.193,boost used,Junoon,blue,5.5,4.5,
+170.028,portal ready,,,4.5,10.5,
+170.327,boost used,fender,red,16.5,13.5,
+170.777,pop,Junoon,blue,19.025,5.85,"carrying red flag; returned by fender; splat at 19.025,5.85"
+170.777,block stop,Junoon,blue,19.025,5.85,5.00 s
+172.176,prevent stop,mactheroni,blue,14.575,14.825,23 s counted
+172.177,prevent start,fender,red,14.45,5.15,up to 1 s before the first counted second
+172.177,prevent start,meowza,red,11,10.85,up to 1 s before the first counted second
+172.859,block start,FM,red,14.8,21.65,
+173.226,gate change,,,14.5,11.5,1 tile turned blue
+173.342,gate change,,,14.5,11.5,1 tile turned off
+173.592,portal used,omni,red,20.5,17.5,
+173.776,respawn,Junoon,blue,12,22,
+174.342,gate change,,,10.5,16.5,1 tile turned red
+174.577,gate change,,,14.5,11.5,1 tile turned blue
+174.676,gate change,,,14.5,11.5,1 tile turned off
+174.909,block start,omni,red,17.875,21.55,
+175.076,gate change,,,10.5,16.5,1 tile turned off
+175.793,boost ready,,,19.5,23.5,
+175.892,boost ready,,,20.5,22.5,
+176.593,portal ready,,,20.5,17.5,
+177.11,boost used,FM,red,20.5,22.5,
+177.177,prevent start,Junoon,blue,15.4,16.75,up to 1 s before the first counted second
+177.226,boost used,FM,red,19.5,23.5,
+177.677,grab,FM,red,14.95,22.25,blue flag; previous carrier fender popped 22.73 s earlier
+178.177,button start,Irony,blue,15.3,3.8,
+178.177,prevent stop,Xx360NoSwagx,blue,9.275,21.275,26 s counted
+178.177,prevent stop,Junoon,blue,14.075,17.425,1 s counted
+178.543,gate change,,,10.5,16.5,1 tile turned blue
+179.077,boost ready,,,4.5,5.5,
+179.092,gate change,,,10.5,16.5,1 tile turned off
+179.194,boost ready,,,5.5,4.5,
+179.909,block stop,omni,red,9.475,19.975,5.00 s
+180.328,boost ready,,,16.5,13.5,
+180.993,pup spawn,,,6.5,20.5,juke juice
+181.093,pup spawn,,,18.5,7.5,tagpro
+181.692,block start,Irony,blue,13.85,7.275,
+181.76,pop,FM,red,12.925,23.8,"carrying blue flag; returned by Junoon; splat at 12.925,23.8"
+181.76,block stop,FM,red,12.925,23.8,8.90 s
+181.992,pup taken,,,18.5,7.5,tagpro
+182.009,pup pickup,mactheroni,blue,16.9,7,tagpro
+182.143,pop,meowza,red,16.45,6.7,"tagged by mactheroni; splat at 16.45,6.7"
+182.176,prevent stop,meowza,red,16.45,6.7,10 s counted
+182.177,prevent start,Xx360NoSwagx,blue,7.9,21.175,up to 1 s before the first counted second
+182.177,prevent start,Junoon,blue,12.65,22.95,up to 1 s before the first counted second
+182.659,pup taken,,,6.5,20.5,juke juice
+182.677,pup pickup,Xx360NoSwagx,blue,7.05,20.45,juke juice
+182.842,gate change,,,14.5,11.5,1 tile turned blue
+183.177,button stop,Irony,blue,12.05,8.9,5.00 s
+183.177,prevent stop,Xx360NoSwagx,blue,6.25,18.975,1 s counted
+183.277,gate change,,,14.5,11.5,1 tile turned off
+183.31,gate change,,,14.5,11.5,1 tile turned red
+183.609,gate change,,,14.5,11.5,1 tile turned off
+183.692,block start,Xx360NoSwagx,blue,6.6,17.575,
+184.759,respawn,FM,red,13,4,
+185.027,pop,FM,red,13.125,4.125,"tagged by mactheroni; splat at 13.125,4.125"
+185.142,respawn,meowza,red,13,6,
+185.159,gate change,,,10.5,16.5,1 tile turned red
+185.159,boost used,Xx360NoSwagx,blue,8.5,14.5,
+185.176,prevent stop,fender,red,9.125,10.65,13 s counted
+185.443,gate change,,,10.5,16.5,1 tile turned off
+185.541,gate change,,,10.5,16.5,1 tile turned blue
+185.96,gate change,,,10.5,16.5,1 tile turned off
+186.176,prevent start,Xx360NoSwagx,blue,12.675,17.1,up to 1 s before the first counted second
+186.526,grab,Irony,blue,10.8,3.625,red flag; previous carrier Junoon popped 15.75 s earlier
+186.692,block stop,Irony,blue,11.225,4.725,5.00 s
+187.11,boost ready,,,20.5,22.5,
+187.228,boost ready,,,19.5,23.5,
+187.827,gate change,,,10.5,16.5,1 tile turned red
+188.026,respawn,FM,red,10,6,
+188.159,gate change,,,10.5,16.5,1 tile turned off
+188.176,prevent stop,Xx360NoSwagx,blue,16.225,15.775,2 s counted
+188.227,boost used,meowza,red,5.5,4.5,
+188.292,boost used,meowza,red,4.5,5.5,
+189.259,gate change,,,14.5,11.5,1 tile turned red
+189.442,block start,Junoon,blue,14.575,20.825,
+189.542,gate change,,,14.5,11.5,1 tile turned off
+190.009,boost used,Irony,blue,16.5,13.5,
+190.726,gate change,,,14.5,11.5,1 tile turned red
+191.026,gate change,,,14.5,11.5,1 tile turned off
+191.143,block start,Irony,blue,19.15,12.8,
+191.177,prevent start,Xx360NoSwagx,blue,15.725,18.275,up to 1 s before the first counted second
+191.493,boost used,Junoon,blue,19.5,23.5,
+191.576,boost used,Junoon,blue,20.5,22.5,
+193.241,portal used,FM,red,20.5,17.5,
+194.442,block stop,Junoon,blue,15.575,19.6,5.00 s
+194.778,pop,fender,red,16.875,19.1,"tagged by mactheroni; splat at 16.875,19.1"
+195.16,boost ready,,,8.5,14.5,
+195.176,prevent start,mactheroni,blue,16.25,18.15,up to 1 s before the first counted second
+195.443,block stop,Xx360NoSwagx,blue,14.225,22.125,11.75 s
+196.143,pop,Irony,blue,17.325,22.275,"carrying red flag; returned by FM; splat at 17.325,22.275"
+196.143,block stop,Irony,blue,17.325,22.275,5.00 s
+196.243,portal ready,,,20.5,17.5,
+197.009,pup ended,mactheroni,blue,17.225,21.525,tagpro
+197.176,prevent stop,Junoon,blue,9.675,16.8,15 s counted
+197.709,block start,Irony,blue,17.325,22.275,
+197.776,respawn,fender,red,11,6,
+197.776,block start,Xx360NoSwagx,blue,12.675,22.05,
+198.026,boost used,Junoon,blue,8.5,14.5,
+198.185,prevent stop,mactheroni,blue,20.025,22.125,3 s counted
+198.228,boost ready,,,5.5,4.5,
+198.292,boost ready,,,4.5,5.5,
+198.641,grab,Junoon,blue,9.95,6.1,red flag; previous carrier Irony popped 2.50 s earlier
+199.043,block start,Junoon,blue,11,2.675,
+199.142,respawn,Irony,blue,12,21,
+199.176,prevent start,mactheroni,blue,18.8,20.775,up to 1 s before the first counted second
+200.01,boost ready,,,16.5,13.5,
+201.176,prevent stop,mactheroni,blue,16.175,14.725,2 s counted
+201.342,boost used,mactheroni,blue,16.5,13.5,
+201.494,boost ready,,,19.5,23.5,
+201.577,boost ready,,,20.5,22.5,
+202.176,prevent start,Irony,blue,12.85,20.975,up to 1 s before the first counted second
+202.676,pup ended,Xx360NoSwagx,blue,11.5,19.675,juke juice
+202.709,block stop,Irony,blue,12.65,21.15,5.00 s
+203.627,block start,mactheroni,blue,9.175,4.325,
+203.727,block stop,Xx360NoSwagx,blue,11.15,19.775,5.95 s
+204.043,pop,Junoon,blue,10.35,20.875,"carrying red flag; returned by FM; splat at 10.35,20.875"
+204.043,block stop,Junoon,blue,10.35,20.875,5.00 s
+204.66,grab,mactheroni,blue,10.35,4.4,red flag; previous carrier Junoon popped 0.62 s earlier
+206.86,block start,omni,red,13.525,19.625,
+207.042,respawn,Junoon,blue,14,21,
+207.31,gate change,,,14.5,11.5,1 tile turned blue
+207.609,gate change,,,14.5,11.5,1 tile turned off
+208.027,boost ready,,,8.5,14.5,
+208.442,gate change,,,14.5,11.5,1 tile turned red
+208.627,pop,mactheroni,blue,14.35,13.65,"carrying red flag; returned by meowza; splat at 14.35,13.65"
+208.627,block stop,mactheroni,blue,14.35,13.65,5.00 s
+208.792,gate change,,,14.5,11.5,1 tile turned off
+209.36,gate change,,,10.5,16.5,1 tile turned red
+209.826,gate change,,,10.5,16.5,1 tile turned off
+209.942,gate change,,,10.5,16.5,1 tile turned blue
+209.976,gate change,,,14.5,11.5,1 tile turned red
+210.176,prevent start,Junoon,blue,14.325,21.825,up to 1 s before the first counted second
+210.292,gate change,,,10.5,16.5,1 tile turned off
+210.592,gate change,,,14.5,11.5,1 tile turned off
+210.992,boost used,omni,red,20.5,22.5,
+211.176,prevent stop,Irony,blue,10.55,14.925,9 s counted
+211.177,block start,Irony,blue,10.55,14.925,
+211.344,boost ready,,,16.5,13.5,
+211.609,grab,omni,red,13.975,22.275,blue flag; previous carrier FM popped 29.85 s earlier
+211.626,respawn,mactheroni,blue,14,20,
+211.66,boost used,Irony,blue,8.5,14.5,
+211.86,pop,omni,red,12.15,22.225,"carrying blue flag; returned by Xx360NoSwagx; splat at 12.15,22.225"
+211.86,block stop,omni,red,12.15,22.225,5.00 s
+213.177,prevent start,fender,red,8.725,5.175,up to 1 s before the first counted second
+213.676,grab,Irony,blue,9.8,5.825,red flag; previous carrier mactheroni popped 5.05 s earlier
+213.859,flaccid,omni,red,12.15,22.225,
+213.876,boost used,mactheroni,blue,16.5,13.5,
+214.092,gate change,,,14.5,11.5,1 tile turned red
+214.109,pop,mactheroni,blue,13.375,9.85,"tagged by FM; splat at 13.375,9.85"
+214.11,gate change,,,14.5,11.5,1 tile turned off
+214.177,prevent stop,fender,red,9.775,4.875,1 s counted
+214.859,respawn,omni,red,11,3,
+215.108,boost used,Junoon,blue,19.5,23.5,
+215.176,prevent stop,Junoon,blue,18.775,23,5 s counted
+216.177,pop,Irony,blue,17.8,5.95,"carrying red flag; returned by fender; splat at 17.8,5.95"
+216.177,block stop,Irony,blue,17.8,5.95,5.00 s
+216.177,prevent start,Junoon,blue,16.975,20.325,up to 1 s before the first counted second
+217.059,gate change,,,14.5,11.5,1 tile turned red
+217.109,respawn,mactheroni,blue,11,22,
+217.127,block start,mactheroni,blue,11,22,
+217.392,gate change,,,14.5,11.5,1 tile turned off
+218.176,prevent stop,Junoon,blue,14.775,15.175,2 s counted
+218.293,gate change,,,14.5,11.5,1 tile turned red
+219.176,prevent start,FM,red,11.2,6.625,up to 1 s before the first counted second
+219.176,prevent start,fender,red,11.875,9.125,up to 1 s before the first counted second
+219.177,respawn,Irony,blue,12,21,
+219.392,gate change,,,14.5,11.5,1 tile turned off
+219.51,gate change,,,10.5,16.5,1 tile turned red
+219.726,gate change,,,10.5,16.5,1 tile turned off
+220.176,prevent stop,FM,red,5.6,5.4,1 s counted
+220.193,boost used,FM,red,4.5,5.5,
+220.577,block start,omni,red,13.1,19.9,
+220.627,gate change,,,14.5,11.5,1 tile turned red
+220.677,block start,Junoon,blue,8.675,7.05,
+220.959,gate change,,,14.5,11.5,1 tile turned off
+220.993,boost ready,,,20.5,22.5,
+221.176,prevent start,FM,red,5.2,6.8,up to 1 s before the first counted second
+221.66,boost ready,,,8.5,14.5,
+221.692,grab,Junoon,blue,10.05,5.05,red flag; previous carrier Irony popped 5.51 s earlier
+222.176,prevent stop,FM,red,8.85,6.35,1 s counted
+222.176,prevent stop,fender,red,12.85,5.625,3 s counted
+222.176,prevent start,Irony,blue,12.575,21.75,up to 1 s before the first counted second
+223.877,boost ready,,,16.5,13.5,
+224.276,boost used,omni,red,20.5,22.5,
+225.108,boost ready,,,19.5,23.5,
+225.209,block stop,mactheroni,blue,12.175,4.825,8.08 s
+225.326,grab,omni,red,13.325,22.75,blue flag; previous carrier omni popped 13.47 s earlier
+225.577,pop,omni,red,13.1,22.3,"carrying blue flag; returned by Irony; splat at 13.1,22.3"
+225.577,block stop,omni,red,13.1,22.3,5.00 s
+225.677,pop,Junoon,blue,10.875,3.05,"carrying red flag; returned by FM; splat at 10.875,3.05"
+225.677,block stop,Junoon,blue,10.875,3.05,5.00 s
+226.177,prevent start,FM,red,9.95,5.05,up to 1 s before the first counted second
+226.177,prevent start,fender,red,11.35,6.075,up to 1 s before the first counted second
+227.177,prevent stop,FM,red,10.925,7.875,1 s counted
+227.177,prevent stop,fender,red,9,10.525,1 s counted
+227.576,flaccid,omni,red,13.1,22.3,
+228.177,prevent stop,Irony,blue,10.1,16.6,6 s counted
+228.276,boost used,fender,red,8.5,14.5,
+228.51,gate change,,,14.5,11.5,1 tile turned red
+228.577,respawn,omni,red,11,6,
+228.677,respawn,Junoon,blue,13,24,
+228.726,block start,Irony,blue,10.175,15.5,
+229.092,gate change,,,14.5,11.5,1 tile turned off
+229.159,portal used,meowza,red,20.5,17.5,
+229.176,prevent start,Irony,blue,11.5,15.975,up to 1 s before the first counted second
+229.342,block start,meowza,red,19.875,21.05,
+229.726,gate change,,,10.5,16.5,1 tile turned blue
+230.176,prevent start,FM,red,10.1,8.425,up to 1 s before the first counted second
+230.192,gate change,,,10.5,16.5,1 tile turned off
+230.193,boost ready,,,4.5,5.5,
+230.259,block start,fender,red,12.275,17.05,
+230.292,gate change,,,10.5,16.5,1 tile turned red
+230.909,gate change,,,10.5,16.5,1 tile turned off
+231.092,boost used,meowza,red,19.5,23.5,
+231.86,boost used,FM,red,4.5,5.5,
+232.026,boost used,FM,red,5.5,4.5,
+232.16,portal ready,,,20.5,17.5,
+232.176,prevent stop,Irony,blue,16.1,15.4,3 s counted
+232.176,prevent start,omni,red,9.25,5.425,up to 1 s before the first counted second
+232.176,prevent start,Junoon,blue,11.125,20.925,up to 1 s before the first counted second
+233.143,boost used,Irony,blue,16.5,13.5,
+233.609,grab,fender,red,13.05,21.125,blue flag; previous carrier omni popped 8.03 s earlier
+233.677,grab,Irony,blue,12.35,6.825,red flag; previous carrier Junoon popped 8.00 s earlier
+233.726,block stop,Irony,blue,11.175,4.55,5.00 s
+233.859,gate change,,,10.5,16.5,1 tile turned blue
+233.926,gate change,,,10.5,16.5,1 tile turned off
+234.176,prevent stop,Xx360NoSwagx,blue,12.225,21.725,43 s counted
+234.176,prevent stop,Junoon,blue,11.65,17.75,2 s counted
+234.192,pop,Irony,blue,10,3,"carrying red flag; returned by omni; splat at 10,3"
+234.226,gate change,,,10.5,16.5,1 tile turned red
+234.242,gate change,,,10.5,16.5,1 tile turned off
+234.277,boost ready,,,20.5,22.5,
+234.342,block stop,meowza,red,12.75,17.65,5.00 s
+235.259,pop,fender,red,17.975,19.675,"carrying blue flag; returned by Xx360NoSwagx; splat at 17.975,19.675"
+235.259,block stop,fender,red,17.975,19.675,5.00 s
+236.176,prevent start,Junoon,blue,13.025,16.65,up to 1 s before the first counted second
+236.192,flaccid,Irony,blue,10,3,
+236.826,gate change,,,10.5,16.5,1 tile turned blue
+236.959,gate change,,,10.5,16.5,1 tile turned off
+237.192,respawn,Irony,blue,13,23,
+237.259,flaccid,fender,red,17.975,19.675,
+237.292,gate change,,,14.5,11.5,1 tile turned red
+237.676,gate change,,,14.5,11.5,1 tile turned off
+238.177,prevent stop,omni,red,10.65,10.95,6 s counted
+238.26,respawn,fender,red,9,6,
+238.281,boost ready,,,8.5,14.5,
+238.376,block start,omni,red,9.875,11.975,
+238.642,boost used,omni,red,8.5,14.5,
+240.176,prevent start,Irony,blue,11.7,20.65,up to 1 s before the first counted second
+240.76,block start,Irony,blue,12.1,21.85,
+241.092,boost ready,,,19.5,23.5,
+241.176,prevent stop,FM,red,16.45,7.575,11 s counted
+241.86,boost ready,,,4.5,5.5,
+241.976,block start,FM,red,17.05,8.275,
+241.993,pup spawn,,,18.5,7.5,juke juice
+242.027,boost ready,,,5.5,4.5,
+242.66,pup spawn,,,6.5,20.5,rolling bomb
+242.826,pup taken,,,18.5,7.5,juke juice
+242.842,pup pickup,mactheroni,blue,17.15,6.85,juke juice
+243.143,boost ready,,,16.5,13.5,
+243.176,button start,Xx360NoSwagx,blue,17.725,7.7,
+243.342,grab,meowza,red,12.45,21.3,blue flag; previous carrier fender popped 8.08 s earlier
+243.376,block stop,omni,red,6.85,19.925,5.00 s
+243.392,pup taken,,,6.5,20.5,rolling bomb
+243.409,pup pickup,omni,red,6.85,19.925,rolling bomb
+243.577,block start,omni,red,6.375,20.1,
+243.577,block start,Junoon,blue,9.05,18.425,
+244.176,prevent start,FM,red,16.075,7.525,up to 1 s before the first counted second
+244.176,prevent start,fender,red,16.4,5.925,up to 1 s before the first counted second
+244.177,prevent stop,Irony,blue,6.425,18.5,4 s counted
+244.177,prevent stop,Junoon,blue,10.7,18,8 s counted
+244.226,gate change,,,10.5,16.5,1 tile turned blue
+244.31,block start,mactheroni,blue,14.3,5.7,
+244.31,block start,meowza,red,14.725,20.85,
+244.542,gate change,,,10.5,16.5,1 tile turned off
+244.909,grab,mactheroni,blue,11.925,5.575,red flag; previous carrier Irony popped 10.72 s earlier
+245.092,gate change,,,14.5,11.5,1 tile turned red
+245.176,prevent stop,FM,red,12.7,8.625,1 s counted
+245.176,prevent stop,fender,red,12.75,5.7,1 s counted
+245.342,gate change,,,14.5,11.5,1 tile turned off
+245.893,portal used,Junoon,blue,20.5,17.5,
+246.976,block stop,FM,red,12,10.975,5.00 s
+246.977,gate change,,,14.5,11.5,1 tile turned blue
+247.059,block stop,Irony,blue,11.8,11.6,6.30 s
+247.109,block start,Irony,blue,11.8,11.6,
+247.409,pop,FM,red,13.025,11.5,"tagged by Xx360NoSwagx; splat at 13.025,11.5"
+247.909,gate change,,,10.5,16.5,1 tile turned blue
+248.092,gate change,,,10.5,16.5,1 tile turned off
+248.176,button stop,Xx360NoSwagx,blue,11.95,8.475,5.00 s
+248.577,block stop,Junoon,blue,14.625,20.4,5.00 s
+248.643,boost ready,,,8.5,14.5,
+248.895,portal ready,,,20.5,17.5,
+249.092,gate change,,,10.5,16.5,1 tile turned red
+249.31,block stop,mactheroni,blue,15.85,15.475,5.00 s
+249.342,gate change,,,10.5,16.5,1 tile turned off
+249.459,gate change,,,14.5,11.5,1 tile turned off
+249.66,boost used,meowza,red,16.5,13.5,
+250.409,respawn,FM,red,11,4,
+250.859,pop,meowza,red,15.45,3.775,"carrying blue flag; returned by Xx360NoSwagx; splat at 15.45,3.775"
+250.859,block stop,meowza,red,15.45,3.775,6.55 s
+251.176,prevent start,Junoon,blue,12.725,19.85,up to 1 s before the first counted second
+251.742,block start,Junoon,blue,12.625,19.825,
+252.109,block stop,Irony,blue,18.275,12.4,5.00 s
+252.676,block start,Irony,blue,18.5,12.8,
+252.858,grab,omni,red,12.875,21.125,blue flag; previous carrier meowza popped 2.00 s earlier
+253.177,prevent stop,Junoon,blue,12.725,20.625,2 s counted
+253.259,explosion,,,13.225,22.025,
+253.277,pup ended,omni,red,13.225,22.075,rolling bomb
+253.565,gate change,,,14.5,11.5,1 tile turned blue
+253.626,pop,FM,red,13.025,11.1,"tagged by Xx360NoSwagx; splat at 13.025,11.1"
+253.659,gate change,,,10.5,16.5,1 tile turned blue
+253.86,respawn,meowza,red,10,6,
+253.96,gate change,,,14.5,11.5,1 tile turned off
+254.142,gate change,,,10.5,16.5,1 tile turned off
+254.31,gate change,,,10.5,16.5,1 tile turned red
+254.659,gate change,,,10.5,16.5,1 tile turned off
+255.292,pop,omni,red,10.1,23.725,"carrying blue flag; returned by Irony; splat at 10.1,23.725"
+255.292,block stop,omni,red,10.1,23.725,11.71 s
+256.177,prevent start,Irony,blue,11.275,24.725,up to 1 s before the first counted second
+256.177,prevent start,Junoon,blue,10.375,20.725,up to 1 s before the first counted second
+256.443,boost used,Xx360NoSwagx,blue,8.5,14.5,
+256.626,respawn,FM,red,9,4,
+257.109,block start,fender,red,13.5,19.95,
+257.293,block start,mactheroni,blue,11.2,19.5,
+257.526,block stop,Junoon,blue,12.825,20.1,5.78 s
+257.676,block stop,Irony,blue,13.5,21.325,5.00 s
+258.098,score,,,,,red 3 - blue 1
+258.118,cap,mactheroni,blue,12.1,22,red flag
+258.193,prevent start,mactheroni,blue,12.1,22,up to 1 s before the first counted second
+258.293,respawn,omni,red,13,6,
+259.242,block start,Junoon,blue,14.575,20.15,
+259.66,boost ready,,,16.5,13.5,
+259.86,boost used,fender,red,20.5,22.5,
+259.96,boost used,fender,red,19.5,23.5,
+260.141,portal used,Xx360NoSwagx,blue,4.5,10.5,
+260.226,boost used,Xx360NoSwagx,blue,4.5,5.5,
+260.326,boost used,Xx360NoSwagx,blue,5.5,4.5,
+260.409,grab,fender,red,14.1,22.325,blue flag; previous carrier omni popped 5.12 s earlier
+260.427,block start,Xx360NoSwagx,blue,5.025,3.975,
+260.76,grab,Xx360NoSwagx,blue,7.95,4.375,red flag
+261.192,prevent stop,mactheroni,blue,16.45,18.3,3 s counted
+261.192,prevent stop,Irony,blue,10.575,20.1,5 s counted
+261.192,prevent stop,Junoon,blue,14.75,20.025,5 s counted
+261.959,boost used,mactheroni,blue,16.5,13.5,
+262.109,pop,fender,red,5.3,19.45,"carrying blue flag; returned by Irony; splat at 5.3,19.45"
+262.109,block stop,fender,red,5.3,19.45,5.00 s
+262.192,prevent start,Junoon,blue,13.4,19.125,up to 1 s before the first counted second
+262.842,pup ended,mactheroni,blue,11.925,6.175,juke juice
+263.142,portal ready,,,4.5,10.5,
+263.476,portal used,Xx360NoSwagx,blue,20.5,17.5,
+264.892,block stop,Junoon,blue,15.925,18.95,5.65 s
+265.109,respawn,fender,red,10,5,
+265.192,prevent start,Irony,blue,11.1,18.55,up to 1 s before the first counted second
+265.427,pop,Xx360NoSwagx,blue,14.575,23.95,"carrying red flag; returned by meowza; splat at 14.575,23.95"
+265.427,block stop,Xx360NoSwagx,blue,14.575,23.95,5.00 s
+265.676,grab,mactheroni,blue,11.075,4.925,red flag; previous carrier Xx360NoSwagx popped 0.25 s earlier
+266.426,block start,meowza,red,11.875,23.025,
+266.444,boost ready,,,8.5,14.5,
+266.477,portal ready,,,20.5,17.5,
+266.509,gate change,,,14.5,11.5,1 tile turned red
+266.81,gate change,,,14.5,11.5,1 tile turned off
+266.992,pop,mactheroni,blue,12.125,7.325,"carrying red flag; returned by omni; splat at 12.125,7.325"
+266.992,block stop,mactheroni,blue,12.125,7.325,9.70 s
+268.193,button start,meowza,red,13.35,19.825,
+268.193,button start,omni,red,13.875,8.2,
+268.425,respawn,Xx360NoSwagx,blue,14,23,
+268.76,gate change,,,10.5,16.5,1 tile turned blue
+268.992,flaccid,mactheroni,blue,12.125,7.325,
+269.026,gate change,,,10.5,16.5,1 tile turned off
+269.16,gate change,,,14.5,11.5,1 tile turned red
+269.76,boost used,fender,red,8.5,14.5,
+269.861,boost ready,,,20.5,22.5,
+269.876,gate change,,,14.5,11.5,1 tile turned off
+269.961,boost ready,,,19.5,23.5,
+269.993,respawn,mactheroni,blue,11,23,
+270.227,boost ready,,,4.5,5.5,
+270.326,boost ready,,,5.5,4.5,
+270.442,gate change,,,10.5,16.5,1 tile turned blue
+270.509,portal used,FM,red,20.5,17.5,
+270.659,boost used,FM,red,20.5,22.5,
+270.759,boost used,FM,red,19.5,23.5,
+270.993,gate change,,,10.5,16.5,1 tile turned off
+271.192,grab,FM,red,15.225,22.475,blue flag; previous carrier fender popped 9.08 s earlier
+271.192,prevent stop,Irony,blue,12.625,18.3,6 s counted
+271.192,prevent stop,Junoon,blue,13.325,19.675,9 s counted
+271.226,gate change,,,10.5,16.5,1 tile turned blue
+271.342,gate change,,,14.5,11.5,1 tile turned red
+271.426,block stop,meowza,red,12.525,20.1,5.00 s
+271.959,boost ready,,,16.5,13.5,
+272.008,gate change,,,10.5,16.5,1 tile turned off
+272.277,gate change,,,10.5,16.5,1 tile turned blue
+272.542,gate change,,,10.5,16.5,1 tile turned off
+272.96,gate change,,,10.5,16.5,1 tile turned red
+273.192,button start,fender,red,8.125,14.175,
+273.193,button stop,meowza,red,12.475,18.1,5.00 s
+273.193,button stop,omni,red,11.975,8.9,5.00 s
+273.51,portal ready,,,20.5,17.5,
+273.692,boost used,Junoon,blue,16.5,13.5,
+273.859,portal used,FM,red,4.5,10.5,
+273.91,boost used,FM,red,4.5,5.5,
+274.009,boost used,FM,red,5.5,4.5,
+274.109,block start,fender,red,6.7,13,
+274.426,score,,,,,red 4 - blue 1
+274.442,cap,FM,red,8.8,4.475,blue flag
+274.625,gate change,,,10.5,16.5,1 tile turned off
+274.642,gate change,,,14.5,11.5,1 tile turned off
+275.192,prevent start,omni,red,11.7,7.525,up to 1 s before the first counted second
+275.609,grab,meowza,red,12.95,21.1,blue flag
+276.193,prevent start,FM,red,15.65,6.475,up to 1 s before the first counted second
+276.759,gate change,,,10.5,16.5,1 tile turned red
+276.861,portal ready,,,4.5,10.5,
+278.192,button stop,fender,red,11.9,18.2,5.00 s
+278.192,button start,Irony,blue,7.975,5.45,
+278.742,gate change,,,10.5,16.5,1 tile turned off
+279.543,gate change,,,10.5,16.5,1 tile turned red
+279.761,boost ready,,,8.5,14.5,
+280.209,block start,Irony,blue,9.575,7.9,
+280.66,boost ready,,,20.5,22.5,
+280.726,block start,mactheroni,blue,9.85,5.95,
+280.76,boost ready,,,19.5,23.5,
+282.742,gate change,,,14.5,11.5,1 tile turned blue
+282.942,block start,omni,red,10.85,6.15,
+283.062,gate change,,,10.5,16.5,1 tile turned off
+283.192,button start,omni,red,11.1,6.35,
+283.56,gate change,,,14.5,11.5,1 tile turned off
+283.692,gate change,,,10.5,16.5,1 tile turned red
+283.695,boost ready,,,16.5,13.5,
+283.911,boost ready,,,4.5,5.5,
+284.009,boost ready,,,5.5,4.5,
+284.027,gate change,,,14.5,11.5,1 tile turned red
+284.292,block start,meowza,red,14.925,14.55,
+284.626,boost used,Xx360NoSwagx,blue,8.5,14.5,
+285.192,prevent stop,FM,red,12.25,8.9,9 s counted
+285.192,prevent stop,omni,red,12.2,6.5,10 s counted
+285.209,grab,Xx360NoSwagx,blue,10.65,7.575,red flag; previous carrier mactheroni popped 18.22 s earlier
+285.209,block stop,Irony,blue,12.925,8.125,5.00 s
+285.659,gate change,,,14.5,11.5,1 tile turned off
+285.726,block stop,mactheroni,blue,12.875,6.75,5.00 s
+285.726,block stop,fender,red,12.4,18.175,11.62 s
+285.908,gate change,,,10.5,16.5,1 tile turned off
+286.027,gate change,,,14.5,11.5,1 tile turned red
+286.109,block start,fender,red,12.75,18.475,
+286.109,block start,Xx360NoSwagx,blue,15.975,3.075,
+286.777,gate change,,,14.5,11.5,1 tile turned off
+286.927,gate change,,,14.5,11.5,1 tile turned blue
+287.11,boost used,meowza,red,16.5,13.5,
+287.942,block stop,omni,red,11.825,8.175,5.00 s
+288.125,gate change,,,14.5,11.5,1 tile turned off
+288.192,button stop,Irony,blue,12.375,9.075,10.00 s
+288.192,button stop,omni,red,11.75,8.325,5.00 s
+288.56,gate change,,,14.5,11.5,1 tile turned blue
+288.659,block start,Junoon,blue,14.75,13.475,
+288.81,boost used,meowza,red,5.5,4.5,
+289.292,pop,meowza,red,5.025,5.875,"carrying blue flag; returned by mactheroni; splat at 5.025,5.875"
+289.292,block stop,meowza,red,5.025,5.875,5.00 s
+289.326,gate change,,,14.5,11.5,1 tile turned off
+290.127,grab,fender,red,13.3,21.175,blue flag; previous carrier meowza popped 0.83 s earlier
+290.21,boost used,mactheroni,blue,4.5,5.5,
+290.26,gate change,,,10.5,16.5,1 tile turned blue
+290.508,gate change,,,10.5,16.5,1 tile turned off
+291.292,boost used,Junoon,blue,20.5,22.5,
+291.409,portal used,FM,red,20.5,17.5,
+292.292,respawn,meowza,red,9,5,
+293.659,block stop,Junoon,blue,7.55,19.2,5.00 s
+294.41,portal ready,,,20.5,17.5,
+294.627,boost ready,,,8.5,14.5,
+294.793,gate change,,,10.5,16.5,1 tile turned red
+294.943,boost used,omni,red,8.5,14.5,
+295.01,pop,Xx360NoSwagx,blue,9.375,14.25,"carrying red flag; returned by omni; splat at 9.375,14.25"
+295.01,block stop,Xx360NoSwagx,blue,9.375,14.25,8.90 s
+295.209,gate change,,,10.5,16.5,1 tile turned off
+295.542,gate change,,,14.5,11.5,1 tile turned red
+295.604,pop,fender,red,16.15,7.125,"carrying blue flag; returned by mactheroni; splat at 16.15,7.125"
+295.604,block stop,fender,red,16.15,7.125,9.50 s
+296.192,prevent start,meowza,red,11.825,9.025,up to 1 s before the first counted second
+296.192,prevent start,omni,red,9.2,10.1,up to 1 s before the first counted second
+296.742,gate change,,,14.5,11.5,1 tile turned off
+296.909,gate change,,,10.5,16.5,1 tile turned red
+297.112,boost ready,,,16.5,13.5,
+297.192,prevent stop,omni,red,7.025,10.9,1 s counted
+297.793,gate change,,,10.5,16.5,1 tile turned off
+298.009,respawn,Xx360NoSwagx,blue,13,23,
+298.176,block start,FM,red,10.975,18.8,
+298.592,respawn,fender,red,11,4,
+298.811,boost ready,,,5.5,4.5,
+300.21,boost ready,,,4.5,5.5,
+301.292,boost ready,,,20.5,22.5,
+302.827,pup spawn,,,18.5,7.5,juke juice
+302.876,pup taken,,,18.5,7.5,juke juice
+302.892,pup pickup,fender,red,17.175,6.725,juke juice
+303.076,grab,omni,red,12.4,21.45,blue flag; previous carrier fender popped 7.47 s earlier
+303.143,block start,omni,red,12.4,21.45,
+303.392,pup spawn,,,6.5,20.5,juke juice
+303.676,gate change,,,10.5,16.5,1 tile turned blue
+303.959,gate change,,,10.5,16.5,1 tile turned off
+304.01,pup taken,,,6.5,20.5,juke juice
+304.026,pup pickup,Junoon,blue,6.8,20.7,juke juice
+304.309,boost used,omni,red,20.5,22.5,
+304.526,boost used,omni,red,19.5,23.5,
+304.943,boost ready,,,8.5,14.5,
+305.209,boost used,mactheroni,blue,16.5,13.5,
+305.508,block stop,FM,red,7,18.625,7.33 s
+305.659,block start,FM,red,6.95,18.475,
+306.293,gate change,,,10.5,16.5,1 tile turned blue
+306.709,gate change,,,14.5,11.5,1 tile turned blue
+306.741,gate change,,,10.5,16.5,1 tile turned off
+307.159,gate change,,,14.5,11.5,1 tile turned off
+307.459,block start,Irony,blue,12.025,2.65,
+308.143,pop,omni,red,8.25,18.425,"carrying blue flag; returned by Xx360NoSwagx; splat at 8.25,18.425"
+308.143,block stop,omni,red,8.25,18.425,5.00 s
+308.192,button start,omni,red,8.25,18.425,
+308.192,prevent start,fender,red,10.175,8.75,up to 1 s before the first counted second
+308.192,prevent start,Xx360NoSwagx,blue,9.175,18.75,up to 1 s before the first counted second
+308.91,grab,FM,red,11.8,21.75,blue flag; previous carrier omni popped 0.77 s earlier
+309.192,prevent stop,Xx360NoSwagx,blue,11.175,19.075,1 s counted
+309.859,gate change,,,14.5,11.5,1 tile turned red
+309.96,block start,mactheroni,blue,8.65,7.075,
+310.392,gate change,,,14.5,11.5,1 tile turned off
+310.659,pop,FM,red,16.425,21.3,"carrying blue flag; returned by Junoon; splat at 16.425,21.3"
+310.659,block stop,FM,red,16.425,21.3,5.00 s
+310.776,gate change,,,14.5,11.5,1 tile turned blue
+310.792,boost used,mactheroni,blue,4.5,5.5,
+310.926,boost used,mactheroni,blue,5.5,4.5,
+311.142,respawn,omni,red,12,5,
+311.192,prevent stop,fender,red,13.125,12.15,3 s counted
+311.526,gate change,,,14.5,11.5,1 tile turned off
+312.176,grab,mactheroni,blue,10.475,5.8,red flag; previous carrier Xx360NoSwagx popped 17.17 s earlier
+312.193,prevent stop,meowza,red,12.525,4.825,16 s counted
+312.658,flaccid,FM,red,16.425,21.3,
+313.126,gate change,,,14.5,11.5,1 tile turned red
+313.192,button stop,omni,red,12.4,8.25,5.00 s
+313.193,prevent start,Xx360NoSwagx,blue,12.85,19.3,up to 1 s before the first counted second
+313.493,gate change,,,14.5,11.5,1 tile turned off
+313.659,respawn,FM,red,13,5,
+313.759,gate change,,,14.5,11.5,1 tile turned red
+313.959,gate change,,,10.5,16.5,1 tile turned red
+314.11,gate change,,,14.5,11.5,1 tile turned off
+314.311,boost ready,,,20.5,22.5,
+314.526,boost ready,,,19.5,23.5,
+314.627,block start,omni,red,7.7,11.95,
+314.893,gate change,,,10.5,16.5,1 tile turned off
+314.96,pop,mactheroni,blue,7.5,10.05,"carrying red flag; returned by meowza; splat at 7.5,10.05"
+314.96,block stop,mactheroni,blue,7.5,10.05,5.00 s
+315.192,prevent start,Junoon,blue,12.2,17.5,up to 1 s before the first counted second
+315.211,boost ready,,,16.5,13.5,
+315.377,gate change,,,10.5,16.5,1 tile turned red
+315.642,grab,Irony,blue,11.025,5.925,red flag; previous carrier mactheroni popped 0.68 s earlier
+315.859,pop,Junoon,blue,10.9,16.75,"tagged by fender; splat at 10.9,16.75"
+316.109,gate change,,,10.5,16.5,1 tile turned off
+316.192,prevent stop,Junoon,blue,10.9,16.75,1 s counted
+316.692,pop,Irony,blue,13.075,4.975,"carrying red flag; returned by FM; splat at 13.075,4.975"
+316.692,block stop,Irony,blue,13.075,4.975,9.23 s
+317.959,respawn,mactheroni,blue,15,23,
+317.976,boost used,fender,red,20.5,22.5,
+318.077,boost used,fender,red,19.5,23.5,
+318.375,boost used,omni,red,8.5,14.5,
+318.41,block start,mactheroni,blue,14.725,22.775,
+318.643,gate change,,,10.5,16.5,1 tile turned red
+318.692,flaccid,Irony,blue,13.075,4.975,
+318.692,gate change,,,10.5,16.5,1 tile turned off
+318.86,respawn,Junoon,blue,14,23,
+318.909,gate change,,,14.5,11.5,1 tile turned red
+319.026,grab,omni,red,13.125,20.725,blue flag; previous carrier FM popped 8.37 s earlier
+319.193,prevent stop,Xx360NoSwagx,blue,12.6,22.475,6 s counted
+319.459,gate change,,,14.5,11.5,1 tile turned off
+319.627,pop,omni,red,13.475,23.15,"carrying blue flag; returned by Xx360NoSwagx; splat at 13.475,23.15"
+319.627,block stop,omni,red,13.475,23.15,5.00 s
+319.692,respawn,Irony,blue,13,20,
+319.892,block start,fender,red,18.15,22.975,
+320.192,prevent start,Xx360NoSwagx,blue,13.175,23.675,up to 1 s before the first counted second
+320.609,gate change,,,10.5,16.5,1 tile turned blue
+320.793,boost ready,,,4.5,5.5,
+320.926,boost ready,,,5.5,4.5,
+320.943,boost used,meowza,red,16.5,13.5,
+320.976,gate change,,,10.5,16.5,1 tile turned off
+321.626,flaccid,omni,red,13.475,23.15,
+321.71,gate change,,,14.5,11.5,1 tile turned red
+322.192,prevent start,FM,red,11.925,8.875,up to 1 s before the first counted second
+322.192,prevent start,Junoon,blue,17.675,20.2,up to 1 s before the first counted second
+322.626,respawn,omni,red,10,3,
+322.676,gate change,,,14.5,11.5,1 tile turned off
+322.892,pup ended,fender,red,14.1,22.825,juke juice
+323.192,grab,mactheroni,blue,10.75,6.45,red flag; previous carrier Irony popped 6.50 s earlier
+323.192,prevent stop,FM,red,11.675,7.775,1 s counted
+323.41,block stop,mactheroni,blue,11.25,4.55,5.00 s
+323.43,pop,mactheroni,blue,11.3,4.5,"carrying red flag; returned by omni; splat at 11.3,4.5"
+324.026,pup ended,Junoon,blue,14.4,21.225,juke juice
+324.026,boost used,Irony,blue,4.5,5.5,
+324.076,grab,fender,red,13.8,22.3,blue flag; previous carrier omni popped 4.45 s earlier
+324.192,prevent start,FM,red,12.5,6.325,up to 1 s before the first counted second
+324.192,prevent stop,Xx360NoSwagx,blue,12.5,21.45,4 s counted
+324.192,prevent stop,Junoon,blue,14.1,21.4,2 s counted
+324.892,pop,fender,red,12.175,24.125,"carrying blue flag; returned by Junoon; splat at 12.175,24.125"
+324.892,block stop,fender,red,12.175,24.125,5.00 s
+325.192,prevent start,Xx360NoSwagx,blue,11.8,21.575,up to 1 s before the first counted second
+325.192,prevent start,Junoon,blue,12.375,23.175,up to 1 s before the first counted second
+325.442,flaccid,mactheroni,blue,11.3,4.5,
+326.192,prevent start,omni,red,10.775,5.65,up to 1 s before the first counted second
+326.442,respawn,mactheroni,blue,15,22,
+326.893,flaccid,fender,red,12.175,24.125,
+327.892,respawn,fender,red,9,6,
+327.976,boost ready,,,20.5,22.5,
+328.077,boost ready,,,19.5,23.5,
+328.196,prevent stop,Junoon,blue,14.275,13.55,3 s counted
+328.376,boost ready,,,8.5,14.5,
+328.442,boost used,FM,red,5.5,4.5,
+328.842,gate change,,,14.5,11.5,1 tile turned red
+329.31,gate change,,,14.5,11.5,1 tile turned off
+330.192,prevent start,mactheroni,blue,15,20.35,up to 1 s before the first counted second
+330.192,prevent stop,omni,red,13.375,12.125,4 s counted
+330.777,boost used,meowza,red,20.5,22.5,
+330.81,boost used,Irony,blue,8.5,14.5,
+330.877,boost used,meowza,red,19.5,23.5,
+330.944,boost ready,,,16.5,13.5,
+333.192,prevent start,fender,red,9.75,10.2,up to 1 s before the first counted second
+333.193,button start,fender,red,9.75,10.2,
+333.193,block start,omni,red,16.8,14.35,
+334.027,boost ready,,,4.5,5.5,
+334.043,portal used,Irony,blue,4.5,10.5,
+334.242,boost used,Irony,blue,4.5,5.5,
+334.777,boost used,omni,red,16.5,13.5,
+335.359,grab,Irony,blue,10.05,4.675,red flag; previous carrier mactheroni popped 11.93 s earlier
+336.092,block start,meowza,red,12.925,23.85,
+336.192,prevent stop,FM,red,14.3,6.325,12 s counted
+336.192,prevent stop,fender,red,8.7,9.1,3 s counted
+336.592,grab,meowza,red,13.475,22.725,blue flag; previous carrier fender popped 11.70 s earlier
+337.043,portal ready,,,4.5,10.5,
+337.192,prevent stop,mactheroni,blue,12.65,21.075,7 s counted
+337.192,prevent stop,Xx360NoSwagx,blue,13.375,20.15,12 s counted
+337.576,block start,Irony,blue,19.275,8.15,
+337.759,gate change,,,14.5,11.5,1 tile turned red
+338.193,button stop,fender,red,12.325,9.1,5.00 s
+338.258,gate change,,,14.5,11.5,1 tile turned off
+338.443,boost ready,,,5.5,4.5,
+338.758,block start,FM,red,18.45,11.975,
+339.026,portal used,Irony,blue,20.5,17.5,
+340.778,boost ready,,,20.5,22.5,
+340.811,boost ready,,,8.5,14.5,
+340.877,boost ready,,,19.5,23.5,
+341.092,pop,meowza,red,8.025,24.325,"carrying blue flag; returned by Xx360NoSwagx; splat at 8.025,24.325"
+341.092,block stop,meowza,red,8.025,24.325,5.00 s
+341.192,prevent start,mactheroni,blue,8.9,21.35,up to 1 s before the first counted second
+341.192,prevent start,Xx360NoSwagx,blue,8.6,23.575,up to 1 s before the first counted second
+341.425,grab,omni,red,12.05,22.425,blue flag; previous carrier meowza popped 0.33 s earlier
+342.026,boost used,Irony,blue,19.5,23.5,
+342.028,portal ready,,,20.5,17.5,
+342.092,block start,Xx360NoSwagx,blue,9.9,22.35,
+342.143,boost used,Irony,blue,20.5,22.5,
+342.192,prevent stop,mactheroni,blue,11.65,19.425,1 s counted
+342.192,prevent stop,Xx360NoSwagx,blue,9.9,22.35,1 s counted
+342.759,pop,Irony,blue,16.225,20.675,"carrying red flag; returned by FM; splat at 16.225,20.675"
+342.759,block stop,Irony,blue,16.225,20.675,5.18 s
+342.793,pop,omni,red,15.6,18.575,"carrying blue flag; returned by mactheroni; splat at 15.6,18.575"
+342.793,block stop,omni,red,15.6,18.575,9.60 s
+343.192,prevent start,Xx360NoSwagx,blue,12.7,21.15,up to 1 s before the first counted second
+343.576,grab,Junoon,blue,10.575,5.75,red flag; previous carrier Irony popped 0.82 s earlier
+343.592,grab,FM,red,13.7,22.475,blue flag; previous carrier omni popped 0.80 s earlier
+343.592,handoff,omni,red,15.6,18.575,
+343.758,block stop,FM,red,13.7,22.475,5.00 s
+344.092,respawn,meowza,red,9,4,
+344.176,pop,FM,red,11.525,23,"carrying blue flag; returned by Xx360NoSwagx; splat at 11.525,23"
+344.176,flaccid,omni,red,15.6,18.575,
+344.192,prevent stop,Xx360NoSwagx,blue,12.125,22.225,1 s counted
+344.243,boost ready,,,4.5,5.5,
+344.777,boost ready,,,16.5,13.5,
+345.259,gate change,,,10.5,16.5,1 tile turned blue
+345.759,respawn,Irony,blue,14,23,
+345.792,respawn,omni,red,11,4,
+345.792,boost used,fender,red,8.5,14.5,
+345.859,gate change,,,14.5,11.5,1 tile turned red
+345.992,boost used,Junoon,blue,16.5,13.5,
+346.092,gate change,,,14.5,11.5,1 tile turned off
+346.176,flaccid,FM,red,11.525,23,
+346.209,prevent start,mactheroni,blue,12.175,17.9,up to 1 s before the first counted second
+346.209,prevent start,Xx360NoSwagx,blue,11.05,18.05,up to 1 s before the first counted second
+346.242,portal used,Junoon,blue,20.5,17.5,
+346.576,gate change,,,10.5,16.5,1 tile turned off
+346.81,gate change,,,10.5,16.5,1 tile turned red
+347.092,block stop,Xx360NoSwagx,blue,12.35,19.125,5.00 s
+347.177,respawn,FM,red,12,6,
+347.31,score,,,,,red 4 - blue 2
+347.326,cap,Junoon,blue,13.675,22.5,red flag
+347.676,gate change,,,10.5,16.5,1 tile turned off
+348.21,prevent start,Junoon,blue,9.1,20.925,up to 1 s before the first counted second
+348.259,block start,mactheroni,blue,15,18.375,
+349.209,prevent start,Irony,blue,13.825,20.5,up to 1 s before the first counted second
+349.21,prevent stop,mactheroni,blue,17.75,17.225,3 s counted
+349.21,prevent stop,Junoon,blue,6.4,16.95,1 s counted
+349.243,portal ready,,,20.5,17.5,
+349.742,gate change,,,14.5,11.5,1 tile turned red
+349.776,portal used,FM,red,4.5,10.5,
+350.026,boost used,FM,red,4.5,5.5,
+350.143,boost used,FM,red,5.5,4.5,
+350.492,gate change,,,14.5,11.5,1 tile turned off
+351.159,block start,fender,red,17.475,22.675,
+351.209,prevent start,FM,red,14.55,4.525,up to 1 s before the first counted second
+351.209,prevent start,omni,red,11.85,7.675,up to 1 s before the first counted second
+352.027,boost ready,,,19.5,23.5,
+352.126,grab,Junoon,blue,10.2,5.55,red flag
+352.142,boost ready,,,20.5,22.5,
+352.209,prevent stop,FM,red,18.725,5.85,1 s counted
+352.209,prevent stop,omni,red,11.275,6.775,1 s counted
+352.426,gate change,,,14.5,11.5,1 tile turned blue
+352.691,gate change,,,14.5,11.5,1 tile turned off
+352.777,portal ready,,,4.5,10.5,
+353.609,block start,meowza,red,14.4,19.975,
+353.727,block start,Junoon,blue,12.4,5.5,
+353.992,boost used,fender,red,20.5,22.5,
+354.076,block stop,mactheroni,blue,11.2,4.75,5.82 s
+354.092,boost used,fender,red,19.5,23.5,
+354.409,gate change,,,14.5,11.5,1 tile turned red
+354.576,gate change,,,14.5,11.5,1 tile turned off
+354.726,grab,fender,red,14.425,22.25,blue flag; previous carrier FM popped 10.55 s earlier
+355.21,prevent stop,Irony,blue,10.425,22.225,6 s counted
+355.21,prevent stop,Xx360NoSwagx,blue,12.85,20.2,9 s counted
+355.793,boost ready,,,8.5,14.5,
+355.993,boost ready,,,16.5,13.5,
+356.159,pop,fender,red,10.225,23.625,"carrying blue flag; returned by Xx360NoSwagx; splat at 10.225,23.625"
+356.159,block stop,fender,red,10.225,23.625,5.00 s
+356.209,prevent start,Irony,blue,8.975,23.075,up to 1 s before the first counted second
+356.209,prevent start,Xx360NoSwagx,blue,11.025,23.075,up to 1 s before the first counted second
+356.276,handoff,fender,red,10.225,23.625,
+356.276,grab,meowza,red,12.025,22.15,blue flag; previous carrier fender popped 0.12 s earlier
+356.591,portal used,Junoon,blue,4.5,10.5,
+357.209,prevent stop,Irony,blue,8.45,22.85,1 s counted
+357.209,prevent stop,Xx360NoSwagx,blue,12.75,21.725,1 s counted
+358.609,flaccid,fender,red,10.225,23.625,
+358.609,pop,meowza,red,18.3,20.7,"carrying blue flag; returned by Xx360NoSwagx; splat at 18.3,20.7"
+358.609,block stop,meowza,red,18.3,20.7,5.00 s
+358.727,pop,Junoon,blue,6.05,8.55,"carrying red flag; returned by FM; splat at 6.05,8.55"
+358.727,block stop,Junoon,blue,6.05,8.55,5.00 s
+359.16,respawn,fender,red,11,7,
+359.209,prevent start,omni,red,7.7,8.9,up to 1 s before the first counted second
+359.592,portal ready,,,4.5,10.5,
+359.593,grab,mactheroni,blue,10.625,5.775,red flag; previous carrier Junoon popped 0.87 s earlier
+359.76,block start,Junoon,blue,6.05,8.55,
+360.027,boost ready,,,4.5,5.5,
+360.143,boost ready,,,5.5,4.5,
+360.209,prevent stop,omni,red,10.85,9.75,1 s counted
+360.26,gate change,,,14.5,11.5,1 tile turned red
+360.559,gate change,,,14.5,11.5,1 tile turned off
+360.726,boost used,Xx360NoSwagx,blue,16.5,13.5,
+361.609,respawn,meowza,red,9,5,
+361.726,respawn,Junoon,blue,12,24,
+361.843,boost used,FM,red,8.5,14.5,
+362.209,prevent start,Irony,blue,10.225,19.4,up to 1 s before the first counted second
+362.726,pop,FM,red,20.175,18.025,"no enemy credited (spike, gate, explosion or self); splat at 20.175,18.025"
+362.877,pup spawn,,,18.5,7.5,rolling bomb
+363.209,prevent stop,Irony,blue,7.675,18.95,1 s counted
+363.414,portal used,mactheroni,blue,20.5,17.5,
+363.442,pup taken,,,18.5,7.5,rolling bomb
+363.459,pup pickup,Xx360NoSwagx,blue,17.1,7.225,rolling bomb
+363.992,boost ready,,,20.5,22.5,
+364.01,pup spawn,,,6.5,20.5,juke juice
+364.094,boost ready,,,19.5,23.5,
+364.876,pup taken,,,6.5,20.5,juke juice
+364.892,pup pickup,Irony,blue,6.875,19.65,juke juice
+364.977,gate change,,,10.5,16.5,1 tile turned red
+365.175,gate change,,,10.5,16.5,1 tile turned off
+365.209,prevent start,Junoon,blue,13.6,18.825,up to 1 s before the first counted second
+365.476,block stop,Junoon,blue,13.075,19.375,5.72 s
+365.51,score,,,,,red 4 - blue 3
+365.528,cap,mactheroni,blue,14.575,22.2,red flag
+365.726,respawn,FM,red,12,7,
+365.978,block start,Xx360NoSwagx,blue,12.55,5.175,
+366.009,block start,Junoon,blue,12.4,20.225,
+366.061,grab,Xx360NoSwagx,blue,11.75,5.175,red flag
+366.159,block start,mactheroni,blue,12.475,21.85,
+366.209,prevent start,mactheroni,blue,12.475,21.85,up to 1 s before the first counted second
+366.414,portal ready,,,20.5,17.5,
+367.492,gate change,,,10.5,16.5,1 tile turned blue
+367.576,boost used,Xx360NoSwagx,blue,4.5,5.5,
+367.609,gate change,,,10.5,16.5,1 tile turned off
+367.709,gate change,,,14.5,11.5,1 tile turned red
+367.859,boost used,Xx360NoSwagx,blue,5.5,4.5,
+368.076,gate change,,,14.5,11.5,1 tile turned off
+368.992,gate change,,,14.5,11.5,1 tile turned blue
+369.609,gate change,,,14.5,11.5,1 tile turned off
+370.727,boost ready,,,16.5,13.5,
+370.742,gate change,,,14.5,11.5,1 tile turned blue
+370.81,boost used,fender,red,20.5,22.5,
+370.86,gate change,,,10.5,16.5,1 tile turned red
+370.926,boost used,fender,red,19.5,23.5,
+370.96,explosion,,,11.175,18.2,
+370.978,pup ended,Xx360NoSwagx,blue,11.225,18.275,rolling bomb
+371.009,block stop,Junoon,blue,12.85,20.3,5.00 s
+371.077,gate change,,,10.5,16.5,1 tile turned off
+371.159,block stop,mactheroni,blue,15.325,22.8,5.00 s
+371.192,grab,omni,red,12.125,20.625,blue flag; previous carrier meowza popped 12.58 s earlier
+371.21,prevent stop,mactheroni,blue,15.325,22.8,5 s counted
+371.21,prevent stop,Junoon,blue,13,20.925,6 s counted
+371.211,gate change,,,14.5,11.5,1 tile turned off
+371.43,pop,omni,red,12.525,23,"carrying blue flag; returned by Junoon; splat at 12.525,23"
+371.71,pop,Xx360NoSwagx,blue,12.975,20.75,"carrying red flag; returned by fender; splat at 12.975,20.75"
+371.71,block stop,Xx360NoSwagx,blue,12.975,20.75,5.73 s
+371.844,boost ready,,,8.5,14.5,
+372.209,prevent start,mactheroni,blue,15.525,24.425,up to 1 s before the first counted second
+372.209,prevent start,Junoon,blue,14.6,24.2,up to 1 s before the first counted second
+372.226,grab,Irony,blue,11.75,5.8,red flag; previous carrier Xx360NoSwagx popped 0.52 s earlier
+372.276,block start,Xx360NoSwagx,blue,12.975,20.75,
+372.592,block start,mactheroni,blue,15.475,23.175,
+373.426,flaccid,omni,red,12.525,23,
+374.442,respawn,omni,red,12,3,
+374.709,respawn,Xx360NoSwagx,blue,11,21,
+376.96,block start,Irony,blue,7.35,13.3,
+377.159,boost used,Irony,blue,8.5,14.5,
+377.209,prevent stop,Junoon,blue,15.6,14.4,5 s counted
+377.21,boost used,Junoon,blue,16.5,13.5,
+377.392,block stop,Xx360NoSwagx,blue,11.575,21.025,5.12 s
+377.577,boost ready,,,4.5,5.5,
+377.592,block stop,mactheroni,blue,12.475,20.9,5.00 s
+377.859,boost ready,,,5.5,4.5,
+378.209,prevent start,Xx360NoSwagx,blue,10.8,21.325,up to 1 s before the first counted second
+379.278,block start,Junoon,blue,12.8,5.425,
+379.609,gate change,,,10.5,16.5,1 tile turned red
+379.742,portal used,Irony,blue,4.5,10.5,
+379.792,boost used,Irony,blue,4.5,5.5,
+379.908,boost used,Irony,blue,5.5,4.5,
+379.942,gate change,,,10.5,16.5,1 tile turned off
+380.792,gate change,,,14.5,11.5,1 tile turned blue
+380.811,boost ready,,,20.5,22.5,
+380.927,boost ready,,,19.5,23.5,
+381.377,block start,FM,red,15.075,19.45,
+381.692,gate change,,,14.5,11.5,1 tile turned off
+381.826,gate change,,,14.5,11.5,1 tile turned red
+381.96,pop,Irony,blue,20.525,10.725,"carrying red flag; returned by meowza; splat at 20.525,10.725"
+381.96,block stop,Irony,blue,20.525,10.725,5.00 s
+382.209,prevent start,omni,red,12.125,8.8,up to 1 s before the first counted second
+382.242,gate change,,,14.5,11.5,1 tile turned off
+382.576,grab,Junoon,blue,11.075,5.825,red flag; previous carrier Irony popped 0.62 s earlier
+382.743,portal ready,,,4.5,10.5,
+383.192,button start,meowza,red,17.625,8.3,
+383.209,prevent stop,omni,red,11.15,6.15,1 s counted
+383.626,boost used,mactheroni,blue,20.5,22.5,
+383.991,boost used,mactheroni,blue,19.5,23.5,
+384.278,pop,Junoon,blue,13.525,3.4,"carrying red flag; returned by meowza; splat at 13.525,3.4"
+384.278,block stop,Junoon,blue,13.525,3.4,5.00 s
+384.892,pup ended,Irony,blue,20.525,10.725,juke juice
+384.959,respawn,Irony,blue,11,23,
+386.062,grab,FM,red,13.5,21.35,blue flag; previous carrier omni popped 14.63 s earlier
+386.209,prevent stop,mactheroni,blue,11.875,22.175,14 s counted
+386.209,prevent stop,Xx360NoSwagx,blue,11.8,20.275,8 s counted
+386.242,gate change,,,14.5,11.5,1 tile turned red
+386.275,flaccid,Junoon,blue,13.525,3.4,
+386.377,pop,FM,red,13,21.275,"carrying blue flag; returned by Xx360NoSwagx; splat at 13,21.275"
+386.377,block stop,FM,red,13,21.275,5.00 s
+387.16,boost ready,,,8.5,14.5,
+387.209,prevent start,mactheroni,blue,12.6,22.975,up to 1 s before the first counted second
+387.209,prevent start,Xx360NoSwagx,blue,12.55,19.925,up to 1 s before the first counted second
+387.211,boost ready,,,16.5,13.5,
+387.276,respawn,Junoon,blue,12,21,
+388.192,button stop,meowza,red,11.9,9.05,5.00 s
+388.196,button start,Xx360NoSwagx,blue,11.9,19.35,
+388.209,prevent start,Irony,blue,17.15,20.7,up to 1 s before the first counted second
+388.376,flaccid,FM,red,13,21.275,
+388.477,block start,Irony,blue,17.15,19.75,
+388.543,gate change,,,10.5,16.5,1 tile turned blue
+389.209,prevent stop,mactheroni,blue,15.15,17,2 s counted
+389.209,prevent stop,Irony,blue,17,16.35,1 s counted
+389.379,respawn,FM,red,11,4,
+389.792,boost ready,,,4.5,5.5,
+389.909,boost ready,,,5.5,4.5,
+390.843,gate change,,,14.5,11.5,1 tile turned off
+391.027,gate change,,,14.5,11.5,1 tile turned blue
+391.21,prevent start,meowza,red,11.5,8.425,up to 1 s before the first counted second
+391.21,prevent start,Junoon,blue,14.75,21.975,up to 1 s before the first counted second
+391.276,boost used,Irony,blue,16.5,13.5,
+391.759,gate change,,,14.5,11.5,1 tile turned off
+391.942,block start,mactheroni,blue,10.025,6.875,
+392.728,grab,Irony,blue,10.95,6.25,red flag; previous carrier Junoon popped 8.45 s earlier
+393.192,button start,meowza,red,9.325,2.7,
+393.196,button stop,Xx360NoSwagx,blue,11.875,18.125,5.00 s
+393.209,prevent stop,meowza,red,9.325,2.7,2 s counted
+393.477,pop,Irony,blue,12.725,4.175,"carrying red flag; returned by FM; splat at 12.725,4.175"
+393.477,block stop,Irony,blue,12.725,4.175,5.00 s
+393.627,boost ready,,,20.5,22.5,
+393.993,boost ready,,,19.5,23.5,
+394.209,prevent start,FM,red,11.9,4.425,up to 1 s before the first counted second
+394.209,prevent start,meowza,red,9.125,3.825,up to 1 s before the first counted second
+395.258,boost used,mactheroni,blue,4.5,5.5,
+395.326,boost used,fender,red,20.5,22.5,
+395.426,boost used,mactheroni,blue,5.5,4.5,
+395.476,flaccid,Irony,blue,12.725,4.175,
+395.526,boost used,Junoon,blue,19.5,23.5,
+396.392,grab,mactheroni,blue,10.05,5.2,red flag; previous carrier Irony popped 2.92 s earlier
+396.476,respawn,Irony,blue,13,21,
+396.609,gate change,,,10.5,16.5,1 tile turned off
+396.942,pop,mactheroni,blue,10.825,6.575,"carrying red flag; returned by meowza; splat at 10.825,6.575"
+396.942,block stop,mactheroni,blue,10.825,6.575,5.00 s
+397.21,prevent stop,FM,red,12.9,6.7,3 s counted
+397.21,prevent stop,meowza,red,12.05,7.125,3 s counted
+397.609,gate change,,,14.5,11.5,1 tile turned red
+397.71,boost used,omni,red,8.5,14.5,
+398.192,button stop,meowza,red,12.15,9,5.00 s
+398.942,flaccid,mactheroni,blue,10.825,6.575,
+399.942,respawn,mactheroni,blue,14,20,
+400.909,gate change,,,10.5,16.5,1 tile turned blue
+401.209,gate change,,,10.5,16.5,1 tile turned off
+401.21,prevent start,FM,red,12.575,6.325,up to 1 s before the first counted second
+401.21,prevent start,meowza,red,11.875,9.275,up to 1 s before the first counted second
+401.277,boost ready,,,16.5,13.5,
+401.843,gate change,,,14.5,11.5,1 tile turned off
+403.542,gate change,,,14.5,11.5,1 tile turned blue
+403.726,gate change,,,14.5,11.5,1 tile turned off
+405.259,boost ready,,,4.5,5.5,
+405.327,boost ready,,,20.5,22.5,
+405.427,boost ready,,,5.5,4.5,
+405.527,boost ready,,,19.5,23.5,
+405.542,block start,fender,red,17.675,21.875,
+405.876,block start,mactheroni,blue,14.6,4.45,
+407.026,block start,omni,red,15.575,19.225,
+407.712,boost ready,,,8.5,14.5,
+407.793,gate change,,,14.5,11.5,1 tile turned blue
+407.843,gate change,,,14.5,11.5,1 tile turned off
+408.976,boost used,mactheroni,blue,4.5,5.5,
+409.076,boost used,mactheroni,blue,5.5,4.5,
+409.142,boost used,fender,red,19.5,23.5,
+409.258,boost used,fender,red,20.5,22.5,
+409.51,grab,mactheroni,blue,10.475,4.625,red flag; previous carrier mactheroni popped 12.57 s earlier
+410.226,prevent stop,FM,red,13.725,5.7,9 s counted
+410.226,prevent stop,meowza,red,12.05,6.55,9 s counted
+410.279,block start,Xx360NoSwagx,blue,13.975,21.85,
+410.459,grab,fender,red,13.875,21.225,blue flag; previous carrier FM popped 24.08 s earlier
+410.542,block stop,fender,red,13.875,21.225,5.00 s
+410.709,pop,fender,red,12.45,21.075,"carrying blue flag; returned by Xx360NoSwagx; splat at 12.45,21.075"
+410.742,block start,Junoon,blue,14,20.575,
+410.876,pop,mactheroni,blue,17.225,4.05,"carrying red flag; returned by FM; splat at 17.225,4.05"
+410.876,block stop,mactheroni,blue,17.225,4.05,5.00 s
+410.927,boost used,Irony,blue,8.5,14.5,
+411.226,prevent start,meowza,red,14.075,5.425,up to 1 s before the first counted second
+411.341,handoff,fender,red,12.45,21.075,
+411.341,grab,omni,red,13.75,22.425,blue flag; previous carrier fender popped 0.63 s earlier
+411.476,grab,Irony,blue,10.425,8.025,red flag; previous carrier mactheroni popped 0.60 s earlier
+412.026,flaccid,fender,red,12.45,21.075,
+412.026,pop,omni,red,11.95,20.95,"carrying blue flag; returned by Junoon; splat at 11.95,20.95"
+412.026,block stop,omni,red,11.95,20.95,5.00 s
+412.226,prevent stop,meowza,red,13.1,5.85,1 s counted
+412.226,prevent stop,Xx360NoSwagx,blue,9.4,21.125,25 s counted
+412.226,prevent stop,Junoon,blue,12.575,20.2,21 s counted
+412.742,block start,fender,red,12.45,21.075,
+412.876,gate change,,,10.5,16.5,1 tile turned blue
+413.044,gate change,,,10.5,16.5,1 tile turned off
+413.226,button start,omni,red,11.95,20.95,
+413.709,respawn,fender,red,12,6,
+413.727,block start,meowza,red,7.825,10.275,
+413.81,gate change,,,10.5,16.5,1 tile turned blue
+413.877,respawn,mactheroni,blue,12,20,
+414.025,flaccid,omni,red,11.95,20.95,
+414.259,boost used,FM,red,16.5,13.5,
+414.526,portal used,FM,red,20.5,17.5,
+414.742,gate change,,,10.5,16.5,1 tile turned off
+414.942,gate change,,,14.5,11.5,1 tile turned red
+415.026,respawn,omni,red,10,7,
+415.226,prevent start,Xx360NoSwagx,blue,8.175,19.05,up to 1 s before the first counted second
+415.226,prevent start,Junoon,blue,12.625,19.325,up to 1 s before the first counted second
+415.259,gate change,,,14.5,11.5,1 tile turned off
+415.476,block stop,Xx360NoSwagx,blue,7.775,19.55,5.20 s
+415.742,block stop,Junoon,blue,13.85,21.6,5.00 s
+416.327,score,,,,,red 4 - blue 4
+416.343,cap,Irony,blue,12.2,21.65,red flag
+416.909,gate change,,,14.5,11.5,1 tile turned red
+417.226,prevent start,mactheroni,blue,9.5,18.775,up to 1 s before the first counted second
+417.226,prevent start,Irony,blue,15.15,20.55,up to 1 s before the first counted second
+417.276,grab,meowza,red,11.4,22,blue flag; previous carrier omni popped 5.25 s earlier
+417.508,gate change,,,14.5,11.5,1 tile turned off
+417.528,portal ready,,,20.5,17.5,
+417.742,block stop,fender,red,12.025,18.925,5.00 s
+418.209,gate change,,,14.5,11.5,1 tile turned red
+418.226,button stop,omni,red,12.775,8.75,5.00 s
+418.226,prevent stop,mactheroni,blue,9.45,14.85,1 s counted
+418.226,prevent stop,Irony,blue,17.45,17.575,1 s counted
+418.226,prevent stop,Xx360NoSwagx,blue,11.025,19.125,3 s counted
+418.226,prevent stop,Junoon,blue,13.825,20.275,3 s counted
+418.51,gate change,,,10.5,16.5,1 tile turned blue
+418.627,gate change,,,14.5,11.5,1 tile turned off
+418.727,pop,meowza,red,14.7,16.5,"carrying blue flag; returned by Irony; splat at 14.7,16.5"
+418.727,block stop,meowza,red,14.7,16.5,5.00 s
+418.977,boost ready,,,4.5,5.5,
+419.077,boost ready,,,5.5,4.5,
+419.143,boost ready,,,19.5,23.5,
+419.159,gate change,,,14.5,11.5,1 tile turned blue
+419.226,prevent start,omni,red,13.275,8.25,up to 1 s before the first counted second
+419.226,prevent start,Xx360NoSwagx,blue,12.2,17.55,up to 1 s before the first counted second
+419.226,prevent start,Junoon,blue,14.975,17.55,up to 1 s before the first counted second
+419.26,boost ready,,,20.5,22.5,
+419.393,gate change,,,14.5,11.5,1 tile turned off
+419.927,gate change,,,10.5,16.5,1 tile turned off
+420.144,gate change,,,10.5,16.5,1 tile turned red
+420.56,gate change,,,10.5,16.5,1 tile turned off
+420.726,flaccid,meowza,red,14.7,16.5,
+420.927,boost ready,,,8.5,14.5,
+421.227,prevent stop,omni,red,16.625,7.2,2 s counted
+421.727,respawn,meowza,red,11,3,
+422.227,prevent stop,Junoon,blue,16.15,15.25,3 s counted
+423.226,prevent start,omni,red,16.675,5.075,up to 1 s before the first counted second
+423.226,prevent stop,Xx360NoSwagx,blue,7.05,20.625,4 s counted
+423.443,pup spawn,,,18.5,7.5,tagpro
+423.493,pup taken,,,18.5,7.5,tagpro
+423.509,pup pickup,FM,red,18,8.425,tagpro
+423.843,pop,mactheroni,blue,18.025,5.85,"tagged by FM; splat at 18.025,5.85"
+424.261,boost ready,,,16.5,13.5,
+424.759,block start,fender,red,6.525,20.8,
+424.877,pup spawn,,,6.5,20.5,juke juice
+425.192,pup taken,,,6.5,20.5,juke juice
+425.21,pup pickup,fender,red,6.325,20.85,juke juice
+425.227,prevent start,meowza,red,13.05,6.875,up to 1 s before the first counted second
+426.492,boost used,FM,red,16.5,13.5,
+426.842,respawn,mactheroni,blue,14,22,
+427.142,boost used,meowza,red,4.5,5.5,
+427.227,prevent stop,meowza,red,3.975,5.575,2 s counted
+427.941,block start,omni,red,9.75,5.475,
+428.226,prevent start,meowza,red,5.35,5.075,up to 1 s before the first counted second
+428.226,prevent start,Junoon,blue,11.25,15.525,up to 1 s before the first counted second
+428.242,boost used,meowza,red,5.5,4.5,
+428.543,gate change,,,10.5,16.5,1 tile turned blue
+428.842,gate change,,,10.5,16.5,1 tile turned off
+428.993,block start,Xx360NoSwagx,blue,6.75,14.2,
+429.727,grab,fender,red,12.825,23.3,blue flag; previous carrier meowza popped 11.00 s earlier
+429.742,block start,mactheroni,blue,14.425,18.9,
+429.759,block stop,fender,red,13.35,22.675,5.00 s
+430.227,prevent stop,meowza,red,8.85,10.05,2 s counted
+430.227,prevent stop,Junoon,blue,12.9,22.45,2 s counted
+432.776,gate change,,,14.5,11.5,1 tile turned blue
+432.941,block stop,omni,red,10.575,6.9,5.00 s
+433.027,gate change,,,14.5,11.5,1 tile turned off
+433.227,prevent start,meowza,red,8.8,8.375,up to 1 s before the first counted second
+433.476,grab,Xx360NoSwagx,blue,9.7,6.05,red flag
+433.993,pop,Xx360NoSwagx,blue,11.275,3.025,"carrying red flag; returned by meowza; splat at 11.275,3.025"
+433.993,block stop,Xx360NoSwagx,blue,11.275,3.025,5.00 s
+434.227,prevent start,FM,red,14.375,7.75,up to 1 s before the first counted second
+434.309,grab,mactheroni,blue,10.775,5.8,red flag; previous carrier Xx360NoSwagx popped 0.32 s earlier
+434.309,handoff,Xx360NoSwagx,blue,11.275,3.025,
+434.742,pop,mactheroni,blue,10.825,5.55,"carrying red flag; returned by meowza; splat at 10.825,5.55"
+434.742,flaccid,Xx360NoSwagx,blue,11.275,3.025,
+434.742,block stop,mactheroni,blue,10.825,5.55,5.00 s
+434.926,pop,Irony,blue,16.275,4.075,"tagged by FM; splat at 16.275,4.075"
+435.227,prevent stop,FM,red,15.2,4.075,1 s counted
+435.227,prevent stop,meowza,red,10.175,4.25,2 s counted
+435.227,prevent stop,omni,red,13.9,3.7,12 s counted
+435.71,score,,,,,red 5 - blue 4
+435.726,cap,fender,red,12.2,5.95,blue flag
+436.493,boost ready,,,16.5,13.5,
+436.742,flaccid,mactheroni,blue,10.825,5.55,
+436.992,respawn,Xx360NoSwagx,blue,12,23,
+437.142,boost ready,,,4.5,5.5,
+437.227,prevent start,FM,red,12.85,7.7,up to 1 s before the first counted second
+437.227,prevent start,fender,red,10.325,6.65,up to 1 s before the first counted second
+437.227,prevent start,meowza,red,8.975,6.45,up to 1 s before the first counted second
+437.227,prevent start,omni,red,10.225,10.025,up to 1 s before the first counted second
+437.742,respawn,mactheroni,blue,11,21,
+437.926,respawn,Irony,blue,12,21,
+438.227,prevent stop,omni,red,8.225,12.65,1 s counted
+438.243,boost ready,,,5.5,4.5,
+438.292,gate change,,,14.5,11.5,1 tile turned red
+438.327,boost used,omni,red,8.5,14.5,
+438.509,pup ended,FM,red,14.525,6.95,tagpro
+438.692,gate change,,,14.5,11.5,1 tile turned off
+438.861,gate change,,,10.5,16.5,1 tile turned blue
+439.227,gate change,,,10.5,16.5,1 tile turned off
+439.227,prevent stop,FM,red,16.275,5.125,2 s counted
+439.227,prevent stop,fender,red,13.65,10.325,2 s counted
+439.227,prevent stop,meowza,red,13.1,4.65,2 s counted
+440.142,boost used,Irony,blue,19.5,23.5,
+440.226,block start,omni,red,9.95,24.55,
+440.227,prevent start,Xx360NoSwagx,blue,14.55,23.125,up to 1 s before the first counted second
+440.242,boost used,Irony,blue,20.5,22.5,
+440.342,boost used,fender,red,16.5,13.5,
+441.01,block start,fender,red,16.075,15.875,
+441.059,gate change,,,14.5,11.5,1 tile turned red
+441.227,prevent start,FM,red,12.6,8.8,up to 1 s before the first counted second
+441.227,prevent start,mactheroni,blue,11.825,16.75,up to 1 s before the first counted second
+441.227,prevent start,Irony,blue,14.1,21.1,up to 1 s before the first counted second
+441.227,prevent start,meowza,red,8.075,4.5,up to 1 s before the first counted second
+441.591,boost used,meowza,red,5.5,4.5,
+441.642,boost used,meowza,red,4.5,5.5,
+441.876,gate change,,,14.5,11.5,1 tile turned off
+443.227,prevent stop,mactheroni,blue,9.525,14.8,2 s counted
+444.592,grab,fender,red,12.15,21.75,blue flag
+445.209,pup ended,fender,red,13.325,22.725,juke juice
+445.226,prevent stop,Irony,blue,11.4,20.4,4 s counted
+445.226,prevent stop,Xx360NoSwagx,blue,13.8,21,5 s counted
+445.81,block stop,omni,red,13.3,21.125,5.58 s
+446.01,pop,fender,red,15.2,23.05,"carrying blue flag; returned by Xx360NoSwagx; splat at 15.2,23.05"
+446.01,block stop,fender,red,15.2,23.05,5.00 s
+446.226,prevent start,Irony,blue,12.325,21.55,up to 1 s before the first counted second
+446.226,prevent start,Xx360NoSwagx,blue,15.725,22.15,up to 1 s before the first counted second
+448.009,flaccid,fender,red,15.2,23.05,
+448.327,boost ready,,,8.5,14.5,
+448.66,block start,mactheroni,blue,9.95,8.75,
+449.009,respawn,fender,red,13,6,
+450.142,boost ready,,,19.5,23.5,
+450.243,boost ready,,,20.5,22.5,
+450.343,boost ready,,,16.5,13.5,
+451.109,boost used,omni,red,19.5,23.5,
+451.127,boost used,omni,red,20.5,22.5,
+451.592,boost ready,,,5.5,4.5,
+451.642,boost ready,,,4.5,5.5,
+452.226,prevent start,fender,red,15.075,7.05,up to 1 s before the first counted second
+452.609,grab,mactheroni,blue,10.575,4.225,red flag; previous carrier mactheroni popped 17.87 s earlier
+453.026,boost used,Junoon,blue,8.5,14.5,
+453.226,prevent stop,FM,red,11.575,5.65,12 s counted
+453.226,prevent stop,fender,red,13.675,7.8,1 s counted
+453.226,prevent stop,meowza,red,9.625,7.05,12 s counted
+453.276,portal used,Junoon,blue,4.5,10.5,
+453.31,boost used,Junoon,blue,4.5,5.5,
+453.392,boost used,Junoon,blue,5.5,4.5,
+453.576,gate change,,,14.5,11.5,1 tile turned red
+453.66,pop,mactheroni,blue,8.025,4.5,"carrying red flag; returned by meowza; splat at 8.025,4.5"
+453.66,block stop,mactheroni,blue,8.025,4.5,5.00 s
+453.911,gate change,,,10.5,16.5,1 tile turned red
+453.926,gate change,,,14.5,11.5,1 tile turned off
+454.192,block start,Junoon,blue,6.675,4.1,
+454.226,prevent start,FM,red,11.325,5.675,up to 1 s before the first counted second
+454.226,prevent start,fender,red,11.475,8.45,up to 1 s before the first counted second
+454.226,prevent start,meowza,red,8.4,5.575,up to 1 s before the first counted second
+454.576,gate change,,,14.5,11.5,1 tile turned red
+454.759,gate change,,,10.5,16.5,1 tile turned off
+454.827,gate change,,,10.5,16.5,1 tile turned blue
+455.043,gate change,,,14.5,11.5,1 tile turned off
+455.226,prevent stop,Irony,blue,14.775,15.825,9 s counted
+455.627,boost used,Irony,blue,16.5,13.5,
+455.659,flaccid,mactheroni,blue,8.025,4.5,
+456.209,block start,Xx360NoSwagx,blue,12.3,17.625,
+456.226,prevent stop,fender,red,14.825,13.45,2 s counted
+456.276,portal ready,,,4.5,10.5,
+456.426,gate change,,,10.5,16.5,1 tile turned off
+456.66,respawn,mactheroni,blue,13,21,
+458.676,grab,Irony,blue,10.675,4.075,red flag; previous carrier mactheroni popped 5.02 s earlier
+458.759,block start,meowza,red,10.7,6.375,
+459.226,prevent stop,FM,red,10.725,5.775,5 s counted
+459.226,prevent stop,meowza,red,10.125,6.5,5 s counted
+460.226,prevent start,mactheroni,blue,14.3,23.025,up to 1 s before the first counted second
+460.359,block start,Irony,blue,7.075,11.55,
+460.492,block stop,Junoon,blue,9,7.425,6.30 s
+461.109,boost ready,,,19.5,23.5,
+461.128,boost ready,,,20.5,22.5,
+461.209,block stop,Xx360NoSwagx,blue,12.3,19.775,5.00 s
+461.292,gate change,,,10.5,16.5,1 tile turned red
+461.56,pop,Irony,blue,9.025,15.725,"carrying red flag; returned by omni; splat at 9.025,15.725"
+461.81,grab,Junoon,blue,11.125,5.475,red flag; previous carrier Irony popped 0.25 s earlier
+461.926,gate change,,,10.5,16.5,1 tile turned off
+462.193,gate change,,,10.5,16.5,1 tile turned blue
+462.409,grab,fender,red,13.6,22.875,blue flag; previous carrier fender popped 16.40 s earlier
+463.027,boost ready,,,8.5,14.5,
+463.077,gate change,,,10.5,16.5,1 tile turned off
+463.227,prevent stop,mactheroni,blue,12.05,22.15,3 s counted
+463.227,prevent stop,Xx360NoSwagx,blue,11.85,17.35,17 s counted
+463.311,boost ready,,,4.5,5.5,
+463.393,boost ready,,,5.5,4.5,
+463.609,block start,Xx360NoSwagx,blue,11.475,16.1,
+463.976,block stop,meowza,red,10.475,14.8,5.22 s
+464.192,gate change,,,10.5,16.5,1 tile turned red
+464.56,respawn,Irony,blue,12,21,
+465.176,gate change,,,10.5,16.5,1 tile turned off
+465.627,boost ready,,,16.5,13.5,
+467.609,boost used,omni,red,20.5,22.5,
+467.792,block stop,Irony,blue,19.225,21.25,7.43 s
+467.826,boost used,omni,red,19.5,23.5,
+468.726,block stop,Xx360NoSwagx,blue,12.025,16.2,5.12 s
+469.643,boost used,Junoon,blue,16.5,13.5,
+470.927,gate change,,,10.5,16.5,1 tile turned blue
+471.593,gate change,,,10.5,16.5,1 tile turned off
+471.626,block start,fender,red,19.3,11.55,
+471.959,gate change,,,10.5,16.5,1 tile turned red
+472.326,gate change,,,10.5,16.5,1 tile turned off
+474.959,block start,omni,red,10.05,17.95,
+475.859,gate change,,,10.5,16.5,1 tile turned red
+476.626,pop,fender,red,9.75,6.525,"carrying blue flag; returned by mactheroni; splat at 9.75,6.525"
+476.626,block stop,fender,red,9.75,6.525,5.00 s
+476.627,gate change,,,10.5,16.5,1 tile turned off
+477.243,prevent start,Irony,blue,10.075,17.325,up to 1 s before the first counted second
+477.26,portal used,Junoon,blue,4.5,10.5,
+477.392,boost used,Junoon,blue,4.5,5.5,
+477.458,boost used,Junoon,blue,5.5,4.5,
+477.609,boost ready,,,20.5,22.5,
+477.827,boost ready,,,19.5,23.5,
+478.81,gate change,,,14.5,11.5,1 tile turned blue
+479.159,gate change,,,14.5,11.5,1 tile turned off
+479.409,grab,FM,red,12.725,21.15,blue flag; previous carrier fender popped 2.78 s earlier
+479.626,respawn,fender,red,9,5,
+479.643,boost ready,,,16.5,13.5,
+480.242,prevent stop,Irony,blue,8.35,19.35,3 s counted
+480.26,portal ready,,,4.5,10.5,
+481.127,block stop,omni,red,7,18.675,6.17 s
+481.193,block start,Irony,blue,7.975,18.75,
+481.409,boost used,meowza,red,8.5,14.5,
+482.325,boost used,Junoon,blue,16.5,13.5,
+482.527,pop,meowza,red,20.2,17.9,"no enemy credited (spike, gate, explosion or self); splat at 20.2,17.9"
+483.226,button start,fender,red,17.425,8.8,
+483.494,pup spawn,,,18.5,7.5,juke juice
+484.426,pup taken,,,18.5,7.5,juke juice
+484.442,pup pickup,fender,red,17.6,8,juke juice
+485.193,pup spawn,,,6.5,20.5,tagpro
+485.535,respawn,meowza,red,12,3,
+486.077,block start,meowza,red,11.625,3.5,
+486.31,block stop,Irony,blue,7.8,21.425,5.12 s
+487.392,boost ready,,,4.5,5.5,
+487.459,boost ready,,,5.5,4.5,
+487.493,gate change,,,14.5,11.5,1 tile turned red
+487.73,gate change,,,14.5,11.5,1 tile turned off
+488.126,gate change,,,10.5,16.5,1 tile turned red
+488.226,button stop,fender,red,12.875,18.275,5.00 s
+488.226,button start,omni,red,8.575,20.275,
+488.242,pup taken,,,6.5,20.5,tagpro
+488.259,pup pickup,Irony,blue,7.175,20.275,tagpro
+488.311,gate change,,,10.5,16.5,1 tile turned off
+489.876,block start,omni,red,9.375,17.45,
+490.542,block start,fender,red,12.225,19.325,
+491.359,block stop,meowza,red,14.875,13.25,5.28 s
+491.41,boost ready,,,8.5,14.5,
+491.759,gate change,,,10.5,16.5,1 tile turned red
+491.977,block start,meowza,red,15.1,13.225,
+492.327,boost ready,,,16.5,13.5,
+492.61,block start,FM,red,13.85,15.375,
+493.226,button stop,omni,red,11.4,18.075,5.00 s
+494.192,gate change,,,10.5,16.5,1 tile turned off
+494.876,block stop,omni,red,13.325,15.55,5.00 s
+495.477,gate change,,,10.5,16.5,1 tile turned red
+495.542,pop,fender,red,13.1,21.6,"tagged by Irony; splat at 13.1,21.6"
+495.542,block stop,fender,red,13.1,21.6,5.00 s
+495.71,gate change,,,10.5,16.5,1 tile turned off
+495.842,gate change,,,10.5,16.5,1 tile turned blue
+495.959,gate change,,,10.5,16.5,1 tile turned off
+495.992,gate change,,,10.5,16.5,1 tile turned red
+496.243,gate change,,,10.5,16.5,1 tile turned off
+496.376,gate change,,,10.5,16.5,1 tile turned red
+496.977,pop,meowza,red,12.725,20.225,"tagged by Irony; splat at 12.725,20.225"
+496.977,block stop,meowza,red,12.725,20.225,5.00 s
+497.442,gate change,,,10.5,16.5,1 tile turned off
+497.61,pop,FM,red,7.925,23.05,"carrying blue flag; returned by mactheroni; splat at 7.925,23.05"
+497.61,block stop,FM,red,7.925,23.05,5.00 s
+497.726,block start,mactheroni,blue,7.275,22.3,
+497.845,score,,,,,red 5 - blue 5
+497.859,cap,Junoon,blue,12.85,21.95,red flag
+498.225,button start,Irony,blue,12.575,20.975,
+498.242,prevent start,Irony,blue,12.575,20.975,up to 1 s before the first counted second
+498.242,prevent start,Junoon,blue,12.7,22.05,up to 1 s before the first counted second
+498.542,respawn,fender,red,10,3,
+498.926,block start,Xx360NoSwagx,blue,12.45,15.225,
+499.91,pop,omni,red,12.725,16.275,"tagged by Irony; splat at 12.725,16.275"
+499.977,respawn,meowza,red,11,6,
+499.977,boost used,Xx360NoSwagx,blue,16.5,13.5,
+500.242,prevent stop,Irony,blue,13.225,16.975,2 s counted
+500.242,prevent stop,Junoon,blue,12.925,22.2,2 s counted
+500.609,respawn,FM,red,13,6,
+500.841,boost used,mactheroni,blue,8.5,14.5,
+502.243,prevent start,fender,red,8.875,7.1,up to 1 s before the first counted second
+502.459,gate change,,,10.5,16.5,1 tile turned blue
+502.492,grab,Xx360NoSwagx,blue,12.45,5.6,red flag
+502.56,boost used,Junoon,blue,20.5,22.5,
+502.576,boost used,Junoon,blue,19.5,23.5,
+502.726,block stop,mactheroni,blue,9.375,7.425,5.00 s
+502.909,respawn,omni,red,10,3,
+503.225,button stop,Irony,blue,11.65,17.9,5.00 s
+503.243,prevent stop,fender,red,8.45,5.85,1 s counted
+503.259,pup ended,Irony,blue,11.65,17.9,tagpro
+503.592,boost used,Xx360NoSwagx,blue,5.5,4.5,
+503.677,boost used,Xx360NoSwagx,blue,4.5,5.5,
+503.926,pop,Xx360NoSwagx,blue,5.075,7,"carrying red flag; returned by fender; splat at 5.075,7"
+503.926,block stop,Xx360NoSwagx,blue,5.075,7,5.00 s
+504.243,prevent start,FM,red,11.9,7.15,up to 1 s before the first counted second
+504.243,prevent start,meowza,red,10.725,6.1,up to 1 s before the first counted second
+504.426,pup ended,fender,red,4.55,5.075,juke juice
+505.242,prevent start,fender,red,4.925,5.1,up to 1 s before the first counted second
+506.476,gate change,,,14.5,11.5,1 tile turned blue
+506.776,gate change,,,14.5,11.5,1 tile turned off
+506.909,gate change,,,10.5,16.5,1 tile turned off
+506.926,respawn,Xx360NoSwagx,blue,12,21,
+507.245,prevent stop,fender,red,5.425,12.275,2 s counted
+508.242,prevent start,Irony,blue,13.925,19.275,up to 1 s before the first counted second
+509.978,boost ready,,,16.5,13.5,
+510.242,prevent start,Xx360NoSwagx,blue,11.3,22.625,up to 1 s before the first counted second
+510.842,boost ready,,,8.5,14.5,
+512.508,block start,Junoon,blue,9.375,6.975,
+512.561,boost ready,,,20.5,22.5,
+512.576,boost ready,,,19.5,23.5,
+512.726,block start,omni,red,16.8,20.825,
+513.593,boost ready,,,5.5,4.5,
+513.676,boost ready,,,4.5,5.5,
+513.76,boost used,fender,red,20.5,22.5,
+513.893,boost used,fender,red,19.5,23.5,
+515.43,grab,fender,red,13.85,21.575,blue flag; previous carrier FM popped 17.82 s earlier
+515.431,boost used,Junoon,blue,8.5,14.5,
+515.609,block start,meowza,red,10.625,6.95,
+516.108,block start,mactheroni,blue,11.975,2.7,
+516.242,prevent stop,Irony,blue,12.525,22.35,8 s counted
+516.242,prevent stop,Xx360NoSwagx,blue,11.15,21.275,6 s counted
+516.892,block start,FM,red,11.3,3.325,
+517.042,block start,Irony,blue,12.6,22.225,
+517.292,grab,Junoon,blue,11.275,5.95,red flag; previous carrier Xx360NoSwagx popped 13.37 s earlier
+517.426,block start,fender,red,16.425,18,
+517.426,block start,Xx360NoSwagx,blue,14.65,17.325,
+517.508,block stop,Junoon,blue,11.125,5.8,5.00 s
+517.531,pop,Junoon,blue,10.825,5.6,"carrying red flag; returned by FM; splat at 10.825,5.6"
+517.726,block stop,omni,red,12.6,19.5,5.00 s
+519.542,flaccid,Junoon,blue,10.825,5.6,
+520.093,gate change,,,10.5,16.5,1 tile turned red
+520.477,boost used,Xx360NoSwagx,blue,16.5,13.5,
+520.543,respawn,Junoon,blue,14,22,
+521.026,grab,Xx360NoSwagx,blue,13.15,8.05,red flag; previous carrier Junoon popped 3.50 s earlier
+521.242,prevent stop,FM,red,11.175,6.25,17 s counted
+521.242,prevent stop,meowza,red,10.275,6.675,17 s counted
+521.392,gate change,,,10.5,16.5,1 tile turned off
+521.642,gate change,,,14.5,11.5,1 tile turned blue
+521.877,gate change,,,14.5,11.5,1 tile turned off
+522.426,block stop,Xx360NoSwagx,blue,6,6.25,5.00 s
+523.075,boost used,Xx360NoSwagx,blue,4.5,5.5,
+523.209,boost used,Xx360NoSwagx,blue,5.5,4.5,
+523.76,boost ready,,,20.5,22.5,
+523.893,boost ready,,,19.5,23.5,
+523.909,block stop,Irony,blue,7.925,7.375,6.87 s
+524.026,block stop,FM,red,10,6.1,7.13 s
+524.325,block stop,mactheroni,blue,11.775,6,8.22 s
+524.511,block start,Xx360NoSwagx,blue,15.525,5.275,
+525.431,boost ready,,,8.5,14.5,
+525.626,gate change,,,14.5,11.5,1 tile turned red
+525.893,boost used,Junoon,blue,8.5,14.5,
+525.927,gate change,,,14.5,11.5,1 tile turned off
+526.009,block stop,meowza,red,6.325,10.575,10.40 s
+526.16,portal used,Junoon,blue,4.5,10.5,
+526.177,pop,fender,red,3.3,10.7,"carrying blue flag; returned by Junoon; splat at 3.3,10.7"
+526.177,block stop,fender,red,3.3,10.7,8.75 s
+526.526,block start,meowza,red,6.575,10.75,
+526.542,block start,FM,red,12.875,11.275,
+528.676,boost used,Xx360NoSwagx,blue,19.5,23.5,
+528.742,boost used,Xx360NoSwagx,blue,20.5,22.5,
+529.16,portal ready,,,4.5,10.5,
+529.176,respawn,fender,red,9,6,
+529.226,grab,omni,red,13.9,22.125,blue flag; previous carrier fender popped 3.05 s earlier
+529.511,pop,Xx360NoSwagx,blue,15.05,20.3,"carrying red flag; returned by meowza; splat at 15.05,20.3"
+529.511,block stop,Xx360NoSwagx,blue,15.05,20.3,5.00 s
+530.478,boost ready,,,16.5,13.5,
+530.492,gate change,,,10.5,16.5,1 tile turned red
+530.793,gate change,,,10.5,16.5,1 tile turned off
+531.359,block start,Irony,blue,9.775,14.35,
+531.359,block start,omni,red,11.225,19.15,
+531.542,block start,mactheroni,blue,10.125,7.05,
+531.542,block start,fender,red,9.825,7.95,
+532.242,prevent start,fender,red,11.075,7.675,up to 1 s before the first counted second
+532.509,respawn,Xx360NoSwagx,blue,12,21,
+532.96,block stop,FM,red,12.225,16.55,6.42 s
+533.076,boost ready,,,4.5,5.5,
+533.209,boost ready,,,5.5,4.5,
+535.242,prevent start,meowza,red,8.25,8.35,up to 1 s before the first counted second
+535.699,portal used,omni,red,4.5,10.5,
+535.742,boost used,omni,red,4.5,5.5,
+535.842,boost used,omni,red,5.5,4.5,
+535.893,boost ready,,,8.5,14.5,
+536.076,block stop,meowza,red,9.4,4.75,9.55 s
+536.242,grab,Irony,blue,10.025,5.375,red flag; previous carrier Xx360NoSwagx popped 6.73 s earlier
+536.242,prevent stop,fender,red,13.35,5.975,4 s counted
+536.242,prevent stop,meowza,red,9.575,4.525,1 s counted
+536.542,block stop,fender,red,12.475,6.325,5.00 s
+536.727,pop,omni,red,10.35,5.275,"carrying blue flag; returned by Junoon; splat at 10.35,5.275"
+536.727,block stop,omni,red,10.35,5.275,5.37 s
+537.243,prevent start,Xx360NoSwagx,blue,12.825,21.1,up to 1 s before the first counted second
+537.442,block stop,mactheroni,blue,12.25,6.4,5.90 s
+538.176,block start,mactheroni,blue,12.65,7.2,
+538.26,gate change,,,14.5,11.5,1 tile turned blue
+538.677,boost ready,,,19.5,23.5,
+538.702,portal ready,,,4.5,10.5,
+538.742,boost ready,,,20.5,22.5,
+539.092,gate change,,,14.5,11.5,1 tile turned off
+539.31,gate change,,,14.5,11.5,1 tile turned blue
+539.492,pop,Irony,blue,20.975,9.95,"carrying red flag; returned by meowza; splat at 20.975,9.95"
+539.492,block stop,Irony,blue,20.975,9.95,8.13 s
+539.726,respawn,omni,red,9,5,
+539.743,grab,mactheroni,blue,11.6,5.4,red flag; previous carrier Irony popped 0.25 s earlier
+541.227,gate change,,,14.5,11.5,1 tile turned off
+541.626,block start,FM,red,17.575,20.575,
+542.493,respawn,Irony,blue,12,23,
+542.693,block start,meowza,red,17.15,13.175,
+543.176,pop,mactheroni,blue,8.4,3.575,"carrying red flag; returned by omni; splat at 8.4,3.575"
+543.176,block stop,mactheroni,blue,8.4,3.575,5.00 s
+543.242,prevent start,omni,red,9.25,4,up to 1 s before the first counted second
+543.509,gate change,,,10.5,16.5,1 tile turned red
+543.676,gate change,,,10.5,16.5,1 tile turned off
+544.077,boost used,meowza,red,16.5,13.5,
+544.242,prevent stop,omni,red,9.3,5.7,1 s counted
+544.425,pup spawn,,,18.5,7.5,tagpro
+544.609,grab,meowza,red,13.575,21.025,blue flag; previous carrier omni popped 7.88 s earlier
+544.842,pup taken,,,18.5,7.5,tagpro
+544.859,pup pickup,fender,red,18.675,7.55,tagpro
+545.242,prevent stop,Xx360NoSwagx,blue,10.55,18.5,8 s counted
+545.243,prevent start,omni,red,11.775,5.825,up to 1 s before the first counted second
+545.743,boost ready,,,4.5,5.5,
+545.843,boost ready,,,5.5,4.5,
+546.177,respawn,mactheroni,blue,15,22,
+546.843,block stop,FM,red,8.2,19.75,5.22 s
+547.359,block start,Junoon,blue,12.35,5.925,
+547.693,pop,meowza,red,4.45,15.525,"carrying blue flag; returned by Xx360NoSwagx; splat at 4.45,15.525"
+547.693,block stop,meowza,red,4.45,15.525,5.00 s
+548.109,pop,mactheroni,blue,15.35,17.95,"tagged by fender; splat at 15.35,17.95"
+548.244,pup spawn,,,6.5,20.5,juke juice
+548.576,grab,Junoon,blue,11.5,5.675,red flag; previous carrier mactheroni popped 5.40 s earlier
+548.791,pup taken,,,6.5,20.5,juke juice
+548.809,pup pickup,Irony,blue,6.775,20.3,juke juice
+549.01,boost used,Xx360NoSwagx,blue,8.5,14.5,
+549.242,prevent stop,omni,red,11.325,5.625,4 s counted
+550.242,prevent start,Xx360NoSwagx,blue,14.275,18.55,up to 1 s before the first counted second
+550.526,block start,FM,red,5.275,18.2,
+550.609,block start,omni,red,16.3,3.925,
+550.692,respawn,meowza,red,10,6,
+551.109,respawn,mactheroni,blue,15,21,
+552.242,prevent start,Irony,blue,8,20.05,up to 1 s before the first counted second
+552.359,pop,Junoon,blue,11.725,5.875,"carrying red flag; returned by meowza; splat at 11.725,5.875"
+552.359,block stop,Junoon,blue,11.725,5.875,5.00 s
+553.226,button start,FM,red,10.875,21.7,
+553.642,gate change,,,14.5,11.5,1 tile turned red
+553.842,gate change,,,14.5,11.5,1 tile turned off
+554.078,boost ready,,,16.5,13.5,
+554.242,prevent start,mactheroni,blue,10.925,22.2,up to 1 s before the first counted second
+554.476,gate change,,,10.5,16.5,1 tile turned blue
+554.659,boost used,meowza,red,4.5,5.5,
+554.726,boost used,meowza,red,5.5,4.5,
+554.926,block start,fender,red,13.8,23.05,
+554.976,gate change,,,10.5,16.5,1 tile turned off
+555.36,respawn,Junoon,blue,13,24,
+555.377,pop,Junoon,blue,13,24,"tagged by fender; splat at 13,24"
+555.459,grab,fender,red,12.975,23.2,blue flag; previous carrier meowza popped 7.77 s earlier
+555.526,block stop,FM,red,12.25,24.05,5.00 s
+555.609,block stop,omni,red,13.9,17.45,5.00 s
+555.659,pop,Xx360NoSwagx,blue,12.925,20.95,"tagged by fender; splat at 12.925,20.95"
+555.759,block start,Irony,blue,13.475,18.375,
+556.242,prevent stop,mactheroni,blue,10.2,24.55,2 s counted
+556.242,prevent stop,Irony,blue,13.6,18.85,4 s counted
+556.242,prevent stop,Xx360NoSwagx,blue,12.925,20.95,6 s counted
+556.344,block start,mactheroni,blue,10.15,24.6,
+556.809,gate change,,,14.5,11.5,1 tile turned red
+557.026,gate change,,,10.5,16.5,1 tile turned blue
+557.292,gate change,,,10.5,16.5,1 tile turned off
+557.509,gate change,,,10.5,16.5,1 tile turned red
+557.81,gate change,,,14.5,11.5,1 tile turned off
+558.226,button stop,FM,red,11.775,18.275,5.00 s
+558.376,respawn,Junoon,blue,14,24,
+558.642,gate change,,,10.5,16.5,1 tile turned off
+558.659,respawn,Xx360NoSwagx,blue,11,21,
+559.011,boost ready,,,8.5,14.5,
+559.076,portal used,fender,red,4.5,10.5,
+559.242,prevent start,meowza,red,8.6,9.15,up to 1 s before the first counted second
+559.692,boost used,mactheroni,blue,16.5,13.5,
+559.859,pup ended,fender,red,5.55,4,tagpro
+559.926,pop,fender,red,5.9,4,"carrying blue flag; returned by Irony; splat at 5.9,4"
+559.926,block stop,fender,red,5.9,4,5.00 s
+560.176,grab,FM,red,12.75,22.05,blue flag; previous carrier fender popped 0.25 s earlier
+560.242,grab,mactheroni,blue,12.85,7.475,red flag; previous carrier Junoon popped 7.88 s earlier
+560.242,prevent stop,meowza,red,6.95,6.65,1 s counted
+560.759,block stop,Irony,blue,9.9,4.075,5.00 s
+561.076,block start,FM,red,10.425,21.5,
+561.344,pop,mactheroni,blue,7.6,3.625,"carrying red flag; returned by meowza; splat at 7.6,3.625"
+561.344,block stop,mactheroni,blue,7.6,3.625,5.00 s
+562.077,portal ready,,,4.5,10.5,
+562.242,prevent start,meowza,red,7.125,6.475,up to 1 s before the first counted second
+562.242,prevent start,omni,red,11.025,5.025,up to 1 s before the first counted second
+562.927,respawn,fender,red,10,4,
+563.093,gate change,,,14.5,11.5,1 tile turned blue
+563.193,gate change,,,14.5,11.5,1 tile turned off
+563.342,flaccid,mactheroni,blue,7.6,3.625,
+564.293,block start,Xx360NoSwagx,blue,6.975,15.575,
+564.342,respawn,mactheroni,blue,11,22,
+564.659,boost ready,,,4.5,5.5,
+564.727,boost ready,,,5.5,4.5,
+564.959,gate change,,,14.5,11.5,1 tile turned red
+565.142,gate change,,,10.5,16.5,1 tile turned red
+565.242,prevent stop,meowza,red,9.425,10.15,3 s counted
+565.31,gate change,,,10.5,16.5,1 tile turned off
+565.342,gate change,,,14.5,11.5,1 tile turned off
+565.71,boost used,Xx360NoSwagx,blue,8.5,14.5,
+566.043,portal used,Xx360NoSwagx,blue,4.5,10.5,
+566.076,pop,FM,red,15.1,15.025,"carrying blue flag; returned by Junoon; splat at 15.1,15.025"
+566.076,block stop,FM,red,15.1,15.025,5.00 s
+566.092,boost used,Xx360NoSwagx,blue,4.5,5.5,
+566.176,boost used,Xx360NoSwagx,blue,5.5,4.5,
+566.242,prevent start,fender,red,10.15,7.3,up to 1 s before the first counted second
+566.242,prevent stop,omni,red,14.05,12.275,4 s counted
+566.577,grab,Xx360NoSwagx,blue,10.2,4.975,red flag; previous carrier mactheroni popped 5.23 s earlier
+567.242,prevent stop,fender,red,10.35,6.675,1 s counted
+567.842,gate change,,,10.5,16.5,1 tile turned red
+567.909,gate change,,,10.5,16.5,1 tile turned off
+567.96,portal used,Junoon,blue,20.5,17.5,
+568.092,boost used,Junoon,blue,20.5,22.5,
+568.158,boost used,Junoon,blue,19.5,23.5,
+568.242,prevent start,mactheroni,blue,13.95,18.8,up to 1 s before the first counted second
+568.242,prevent start,Junoon,blue,18.975,22.95,up to 1 s before the first counted second
+568.793,pup ended,Irony,blue,9.325,6.475,juke juice
+569.044,portal ready,,,4.5,10.5,
+569.076,respawn,FM,red,9,5,
+569.293,pop,Xx360NoSwagx,blue,17.05,13.55,"carrying red flag; returned by fender; splat at 17.05,13.55"
+569.293,block stop,Xx360NoSwagx,blue,17.05,13.55,5.00 s
+569.592,grab,Irony,blue,10.15,5.075,red flag; previous carrier Xx360NoSwagx popped 0.30 s earlier
+569.694,boost ready,,,16.5,13.5,
+570.96,portal ready,,,20.5,17.5,
+572.292,respawn,Xx360NoSwagx,blue,15,22,
+572.376,block start,Junoon,blue,13.525,20.85,
+574.776,block start,Xx360NoSwagx,blue,14.45,20.175,
+574.86,boost used,fender,red,16.5,13.5,
+575.243,prevent stop,mactheroni,blue,15.05,15.025,7 s counted
+575.593,block start,Irony,blue,16.55,6.3,
+575.712,boost ready,,,8.5,14.5,
+576.092,boost ready,,,4.5,5.5,
+576.177,boost ready,,,5.5,4.5,
+576.242,prevent start,Xx360NoSwagx,blue,13.975,20.425,up to 1 s before the first counted second
+578.093,boost ready,,,20.5,22.5,
+578.159,boost ready,,,19.5,23.5,
+579.776,block stop,Xx360NoSwagx,blue,14.275,22.375,5.00 s
+579.977,block start,mactheroni,blue,10.075,4.025,
+580.292,block stop,Junoon,blue,13.225,21.95,7.92 s
+580.593,pop,Irony,blue,17.375,23.025,"carrying red flag; returned by omni; splat at 17.375,23.025"
+580.593,block stop,Irony,blue,17.375,23.025,5.00 s
+581.243,prevent start,FM,red,8.75,6.5,up to 1 s before the first counted second
+582.243,prevent stop,FM,red,10.175,6.525,1 s counted
+582.259,grab,mactheroni,blue,10,5.6,red flag; previous carrier Irony popped 1.67 s earlier
+582.626,block start,omni,red,19.475,21.15,
+583.049,boost used,omni,red,20.5,22.5,
+583.158,boost used,omni,red,19.5,23.5,
+583.592,respawn,Irony,blue,13,21,
+584.861,boost ready,,,16.5,13.5,
+584.977,pop,mactheroni,blue,19.575,9,"carrying red flag; returned by FM; splat at 19.575,9"
+584.977,block stop,mactheroni,blue,19.575,9,5.00 s
+585.242,prevent stop,Junoon,blue,9.85,17.75,17 s counted
+586.209,block start,Irony,blue,14.9,21,
+586.293,block start,Xx360NoSwagx,blue,12.475,20.925,
+586.459,boost used,Junoon,blue,8.5,14.5,
+586.76,block start,Junoon,blue,8.925,12.85,
+586.842,gate change,,,10.5,16.5,1 tile turned red
+587.026,grab,Junoon,blue,10.025,8.675,red flag; previous carrier mactheroni popped 2.05 s earlier
+587.077,gate change,,,10.5,16.5,1 tile turned off
+587.242,prevent start,Irony,blue,17.025,20.475,up to 1 s before the first counted second
+587.325,block start,meowza,red,13.25,16.95,
+587.509,grab,omni,red,14.2,21.225,blue flag; previous carrier FM popped 21.43 s earlier
+587.976,respawn,mactheroni,blue,11,22,
+588.06,pop,omni,red,12.7,21.675,"carrying blue flag; returned by Xx360NoSwagx; splat at 12.7,21.675"
+588.06,block stop,omni,red,12.7,21.675,5.43 s
+589.06,block start,mactheroni,blue,7.375,20.4,
+589.659,gate change,,,14.5,11.5,1 tile turned blue
+589.759,gate change,,,14.5,11.5,1 tile turned off
+590.06,flaccid,omni,red,12.7,21.675,
+590.159,gate change,,,14.5,11.5,1 tile turned red
+590.442,gate change,,,14.5,11.5,1 tile turned off
+591.06,respawn,omni,red,13,5,
+591.077,boost used,meowza,red,16.5,13.5,
+591.209,block stop,Irony,blue,13.975,15.625,5.00 s
+591.259,prevent stop,Irony,blue,13.975,15.625,4 s counted
+591.293,block stop,Xx360NoSwagx,blue,13.95,21.125,5.00 s
+591.76,pop,Junoon,blue,11.175,19.825,"carrying red flag; returned by meowza; splat at 11.175,19.825"
+591.76,block stop,Junoon,blue,11.175,19.825,5.00 s
+592.076,grab,mactheroni,blue,10.85,5.8,red flag; previous carrier Junoon popped 0.32 s earlier
+592.092,grab,meowza,red,12.5,21.25,blue flag; previous carrier omni popped 4.03 s earlier
+592.259,prevent stop,Xx360NoSwagx,blue,13.25,22.3,16 s counted
+592.325,block stop,meowza,red,12.7,22.075,5.00 s
+592.343,pop,meowza,red,12.7,22.15,"carrying blue flag; returned by Xx360NoSwagx; splat at 12.7,22.15"
+593.051,boost ready,,,20.5,22.5,
+593.162,boost ready,,,19.5,23.5,
+593.259,prevent start,Irony,blue,11.075,20.85,up to 1 s before the first counted second
+593.259,prevent start,Xx360NoSwagx,blue,13.8,25,up to 1 s before the first counted second
+594.06,pop,mactheroni,blue,7.125,3.45,"carrying red flag; returned by omni; splat at 7.125,3.45"
+594.06,block stop,mactheroni,blue,7.125,3.45,5.00 s
+594.342,flaccid,meowza,red,12.7,22.15,
+594.759,respawn,Junoon,blue,15,23,
+595.342,respawn,meowza,red,10,5,
+596.043,block start,fender,red,18.925,20.45,
+596.059,flaccid,mactheroni,blue,7.125,3.45,
+596.126,boost used,fender,red,20.5,22.5,
+596.242,boost used,fender,red,19.5,23.5,
+596.461,boost ready,,,8.5,14.5,
+597.06,respawn,mactheroni,blue,13,23,
+597.109,block start,Irony,blue,18.375,22.775,
+597.176,block start,mactheroni,blue,13,23,
+598.26,prevent start,Junoon,blue,12.925,21.2,up to 1 s before the first counted second
+598.743,gate change,,,14.5,11.5,1 tile turned red
+599.26,prevent stop,Irony,blue,17.175,15.9,6 s counted
+600.006,message,,,,,OVERTIME! Next cap wins.
+600.007,overtime,,,,,
+600.177,boost used,mactheroni,blue,8.5,14.5,
+600.26,gate change,,,14.5,11.5,1 tile turned off
+600.742,grab,mactheroni,blue,10.55,8.125,red flag; previous carrier mactheroni popped 6.68 s earlier
+600.992,grab,fender,red,12.825,23.1,blue flag; previous carrier meowza popped 8.65 s earlier
+601.043,block stop,fender,red,12.825,23.1,5.00 s
+601.079,boost ready,,,16.5,13.5,
+601.26,prevent stop,Xx360NoSwagx,blue,13.775,18.85,8 s counted
+601.26,prevent stop,Junoon,blue,12.95,21.8,3 s counted
+602.158,block stop,Irony,blue,19.225,5.9,5.05 s
+602.176,pop,mactheroni,blue,15.025,3.85,"carrying red flag; returned by meowza; splat at 15.025,3.85"
+602.176,block stop,mactheroni,blue,15.025,3.85,5.00 s
+602.442,boost used,Xx360NoSwagx,blue,16.5,13.5,
+602.659,block start,fender,red,18.925,22.775,
+603.259,prevent start,meowza,red,15.875,5.35,up to 1 s before the first counted second
+604.176,flaccid,mactheroni,blue,15.025,3.85,
+604.26,prevent start,omni,red,17.175,5.675,up to 1 s before the first counted second
+604.843,pup spawn,,,18.5,7.5,tagpro
+605.176,respawn,mactheroni,blue,12,20,
+605.427,pup taken,,,18.5,7.5,tagpro
+605.443,pup pickup,FM,red,18.725,7.725,tagpro
+606.127,boost ready,,,20.5,22.5,
+606.243,boost ready,,,19.5,23.5,
+606.259,prevent start,FM,red,17,7.375,up to 1 s before the first counted second
+607.027,portal used,fender,red,4.5,10.5,
+607.311,gate change,,,14.5,11.5,1 tile turned red
+607.326,pop,Junoon,blue,14.125,10.625,"tagged by FM; splat at 14.125,10.625"
+607.477,boost used,Irony,blue,5.5,4.5,
+607.56,gate change,,,14.5,11.5,1 tile turned off
+607.593,boost used,Irony,blue,4.5,5.5,
+607.659,pop,fender,red,4.225,6.15,"carrying blue flag; returned by Irony; splat at 4.225,6.15"
+607.659,block stop,fender,red,4.225,6.15,5.00 s
+608.792,pup spawn,,,6.5,20.5,juke juice
+610.028,portal ready,,,4.5,10.5,
+610.177,boost ready,,,8.5,14.5,
+610.259,prevent stop,FM,red,9.225,11.85,4 s counted
+610.259,prevent stop,omni,red,7.6,10.575,6 s counted
+610.326,respawn,Junoon,blue,14,22,
+610.659,respawn,fender,red,10,5,
+611.626,gate change,,,10.5,16.5,1 tile turned red
+611.842,gate change,,,10.5,16.5,1 tile turned off
+611.892,block start,Junoon,blue,10.725,22.75,
+612.443,boost ready,,,16.5,13.5,
+612.477,block start,mactheroni,blue,8.2,11.475,
+612.726,gate change,,,14.5,11.5,1 tile turned blue
+612.992,pup taken,,,6.5,20.5,juke juice
+613.009,pup pickup,Junoon,blue,7,20.75,juke juice
+613.027,boost used,mactheroni,blue,8.5,14.5,
+613.027,gate change,,,14.5,11.5,1 tile turned off
+613.376,grab,omni,red,12.225,21.45,blue flag; previous carrier fender popped 5.72 s earlier
+614.459,block start,omni,red,14.125,20.2,
+614.459,block start,Xx360NoSwagx,blue,9.925,12.45,
+615.192,gate change,,,14.5,11.5,1 tile turned blue
+615.743,gate change,,,14.5,11.5,1 tile turned off
+615.959,gate change,,,14.5,11.5,1 tile turned red
+616.41,boost used,FM,red,16.5,13.5,
+616.642,pop,Irony,blue,13.625,9.2,"tagged by FM; splat at 13.625,9.2"
+616.692,grab,Xx360NoSwagx,blue,11.025,6.15,red flag; previous carrier mactheroni popped 14.52 s earlier
+616.926,gate change,,,14.5,11.5,1 tile turned off
+616.927,block start,fender,red,9.875,8.7,
+617.26,prevent stop,meowza,red,11.35,8.4,14 s counted
+617.477,block stop,mactheroni,blue,9.4,7.525,5.00 s
+617.478,boost ready,,,5.5,4.5,
+617.594,boost ready,,,4.5,5.5,
+617.843,gate change,,,14.5,11.5,1 tile turned red
+618.191,gate change,,,14.5,11.5,1 tile turned off
+618.226,button start,Junoon,blue,10.575,6.15,
+618.292,block start,meowza,red,12.35,8.675,
+618.31,block stop,Junoon,blue,10.625,6.35,6.42 s
+618.892,block start,FM,red,12.15,3.55,
+618.942,gate change,,,14.5,11.5,1 tile turned red
+619.292,gate change,,,14.5,11.5,1 tile turned off
+619.377,gate change,,,14.5,11.5,1 tile turned blue
+619.642,respawn,Irony,blue,12,24,
+619.792,block stop,omni,red,19.425,11.9,5.33 s
+620.042,gate change,,,14.5,11.5,1 tile turned off
+620.242,gate change,,,14.5,11.5,1 tile turned red
+620.443,pup ended,FM,red,12.2,9.325,tagpro
+620.443,pop,mactheroni,blue,13.15,10.225,"tagged by FM; splat at 13.15,10.225"
+620.743,gate change,,,14.5,11.5,1 tile turned off
+621.077,pop,Xx360NoSwagx,blue,20.125,11.825,"carrying red flag; returned by meowza; splat at 20.125,11.825"
+621.077,block stop,Xx360NoSwagx,blue,20.125,11.825,6.62 s
+621.259,prevent start,FM,red,11.25,9.325,up to 1 s before the first counted second
+621.343,gate change,,,14.5,11.5,1 tile turned red
+621.478,gate change,,,14.5,11.5,1 tile turned off
+621.927,block stop,fender,red,18.025,16.325,5.00 s
+623.01,gate change,,,14.5,11.5,1 tile turned blue
+623.028,boost ready,,,8.5,14.5,
+623.226,button stop,Junoon,blue,12.05,8.525,5.00 s
+623.41,gate change,,,14.5,11.5,1 tile turned off
+623.442,respawn,mactheroni,blue,14,22,
+624.06,block stop,FM,red,10.425,10.15,5.17 s
+624.076,respawn,Xx360NoSwagx,blue,12,20,
+624.776,portal used,omni,red,4.5,10.5,
+624.876,boost used,omni,red,4.5,5.5,
+624.941,boost used,omni,red,5.5,4.5,
+624.959,gate change,,,10.5,16.5,1 tile turned blue
+625.259,gate change,,,10.5,16.5,1 tile turned off
+625.259,prevent stop,FM,red,7.775,10.925,4 s counted
+625.259,prevent start,meowza,red,12.575,11.025,up to 1 s before the first counted second
+625.442,gate change,,,10.5,16.5,1 tile turned red
+625.459,gate change,,,14.5,11.5,1 tile turned red
+625.758,block stop,meowza,red,12.125,9.25,7.47 s
+625.759,gate change,,,14.5,11.5,1 tile turned off
+625.876,gate change,,,14.5,11.5,1 tile turned blue
+626.11,gate change,,,14.5,11.5,1 tile turned off
+626.142,gate change,,,10.5,16.5,1 tile turned off
+626.259,prevent stop,meowza,red,11.625,7.775,1 s counted
+626.276,score,,,,,red 6 - blue 5
+626.295,cap,omni,red,9.4,5.75,blue flag
+626.331,game end,,,,,winner red
+626.331,final stats,Xx360NoSwagx,blue,11.6,19.2,"registered, grabs 8, caps 0, hold 38, returns 20, tags 22, pops 10, prevent 267, pups 2, handoffs 1, flaccids 1, score 65, points 0"
+626.331,final stats,FM,red,6.2,8.525,"registered, grabs 9, caps 2, hold 42, returns 13, tags 20, pops 13, prevent 129, pups 4, handoffs 0, flaccids 4, score 62, points 0"
+626.331,final stats,Junoon,blue,6.775,6.85,"registered, grabs 12, caps 2, hold 89, returns 14, tags 17, pops 13, prevent 185, pups 3, handoffs 0, flaccids 2, score 82, points 0"
+626.331,final stats,mactheroni,blue,14.375,14,"registered, grabs 23, caps 2, hold 82, returns 6, tags 10, pops 29, prevent 78, pups 2, handoffs 1, flaccids 11, score 43, points 0"
+626.331,final stats,fender,red,12.225,18.5,"registered, grabs 18, caps 2, hold 69, returns 8, tags 12, pops 20, prevent 50, pups 4, handoffs 4, flaccids 9, score 40, points 0"
+626.331,final stats,Irony,blue,12.225,8.5,"registered, grabs 16, caps 1, hold 74, returns 10, tags 13, pops 20, prevent 101, pups 3, handoffs 1, flaccids 4, score 32, points 0"
+626.331,final stats,meowza,red,11.625,7.775,"registered, grabs 12, caps 1, hold 54, returns 20, tags 26, pops 14, prevent 133, pups 1, handoffs 0, flaccids 3, score 60, points 0"
+626.331,final stats,omni,red,9.4,5.75,"registered, grabs 17, caps 1, hold 41, returns 13, tags 13, pops 17, prevent 72, pups 1, handoffs 1, flaccids 11, score 15, points 0"
