@@ -5,15 +5,40 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>TagPro timeline</title>
 <style>
-  body { font-family: sans-serif; font-size: 14px; margin: 16px; }
-  .scroll { overflow: auto; max-height: 400px; border: 1px solid #999; margin-bottom: 16px; }
-  table { border-collapse: collapse; font-size: 12px; }
-  th, td { padding: 1px 6px; border-bottom: 1px solid #ddd; white-space: nowrap; text-align: left; }
-  th { position: sticky; top: 0; background: #eee; }
-  section { margin-bottom: 16px; }
+  body {
+    font-family: system-ui, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #222;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 16px;
+  }
+  main { max-width: 1200px; margin: 0 auto; }
+  h1 { margin: 0 0 8px; }
+  h2 { font-size: 18px; margin: 24px 0 8px; }
+  section {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 12px 16px;
+    margin-bottom: 16px;
+  }
+  button, select, input { font: inherit; }
+  button { padding: 2px 10px; cursor: pointer; }
+  .scroll { overflow: auto; max-height: 400px; border: 1px solid #ddd; }
+  table { border-collapse: collapse; font-size: 13px; }
+  th, td { padding: 2px 8px; white-space: nowrap; text-align: left; }
+  th { position: sticky; top: 0; background: #e8e8e8; }
+  tbody tr:nth-child(even) { background: #f7f7f7; }
+  tbody tr { cursor: pointer; }
+  tbody tr:hover { background: #e6f0ff; }
+  tr.at, tr.at:hover { background: #ffe680; }
+  #frame_canvas { display: block; max-width: 100%; margin: 8px 0; border-radius: 4px; }
 </style>
 </head>
 <body>
+<main>
 <h1>TagPro timeline</h1>
 <p>Turns TagPro replays into readable files (events, key presses, positions) and stats: the getStatsFromEU
 stats and the advanced stats. Everything runs in your browser; nothing is uploaded.
@@ -34,9 +59,17 @@ Code and instructions for doing many replays at once: <a href="https://github.co
   <div class="scroll"><table id="eu_table"></table></div>
   <h2>Advanced stats</h2>
   <div class="scroll"><table id="new_table"></table></div>
-  <h2>Events <select id="events_game"></select></h2>
-  <div class="scroll"><table id="events_table"></table></div>
+  <h2>Timeline</h2>
+  <p>Game <select id="timeline_game"></select>
+    List <select id="timeline_list"><option value="events">events</option><option value="keypresses">key presses</option><option value="positions">positions</option></select>
+    Time <input id="time_input" size="8"> <button id="time_go">Go</button>
+    <button data-step="-1">-1 s</button><button data-step="-0.25">-0.25 s</button><button data-step="0.25">+0.25 s</button><button data-step="1">+1 s</button></p>
+  <p>Click any row to draw that moment. Key presses and positions list 5 s before to 20 s after it.</p>
+  <canvas id="frame_canvas"></canvas>
+  <p id="frame_text"></p>
+  <div class="scroll"><table id="timeline_table"></table></div>
 </section>
+</main>
 
 <script>
 const $ = id => document.getElementById(id);
@@ -80,8 +113,10 @@ async function run(replays) {
   const advRows = adv.map(r => Object.fromEntries(advCols.map(c => [c, round(r[c] ?? 0)])));
   fillTable('eu_table', euCols, eu);
   fillTable('new_table', advCols, advRows);
-  $('events_game').innerHTML = games.map((g, i) => `<option value="${i}">${g.name}</option>`).join('');
-  showEvents();
+  $('timeline_game').innerHTML = games.map((g, i) => `<option value="${i}">${g.name}</option>`).join('');
+  for (const g of games) prepare(g);
+  current = 0;
+  showTimeline();
   // download links
   const link = (label, file, text) => `<a download="${file}" href="${URL.createObjectURL(new Blob([text], { type: 'text/csv' }))}">${label}</a>`;
   $('downloads').innerHTML = `<p>${link('eu-stats.csv', 'eu-stats.csv', csv(euCols, eu))} · ${link('new-stats.csv', 'new-stats.csv', csv(advCols, advRows))}</p>` +
@@ -95,12 +130,115 @@ function fillTable(id, cols, rows) {
   $(id).innerHTML = '<thead><tr>' + cols.map(c => `<th>${esc(c)}</th>`).join('') + '</tr></thead><tbody>' +
     rows.map(r => '<tr>' + cols.map(c => `<td>${esc(r[c])}</td>`).join('') + '</tr>').join('') + '</tbody>';
 }
-function showEvents() {
-  const g = games[+$('events_game').value];
-  if (g) fillTable('events_table', modules['extract.js'].COLS.events, g.tables.events);
+// ---------------------------------------------------------------- timeline and frames
+let current = 0;
+const fmt = s => (s < 0 ? '-' : '') + Math.floor(Math.abs(s) / 60) + ':' + (Math.abs(s) % 60).toFixed(2).padStart(5, '0');
+const parseTime = t => { t = t.trim(); const neg = t[0] === '-', [a, b] = t.replace('-', '').split(':'); const s = b === undefined ? +a : +a * 60 + +b; return neg ? -s : s; };
+
+// per game: each player's positions in time order, their team, when they were on the field
+function prepare(g) {
+  g.tracks = new Map();
+  for (const r of g.tables.positions) { if (!g.tracks.has(r.player)) g.tracks.set(r.player, []); g.tracks.get(r.player).push(r); }
+  g.team = new Map(); g.field = new Map();
+  for (const e of g.tables.events) {
+    if (!e.player) continue;
+    const f = g.field.get(e.player) || [];
+    if (e.event === 'join' || e.event === 'rejoin') { g.team.set(e.player, e.team); f.push([e.seconds, Infinity]); }
+    else if (e.event === 'switch team') g.team.set(e.player, e.details.replace('now ', ''));
+    else if (e.event === 'leave' && f.length) f[f.length - 1][1] = e.seconds;
+    g.field.set(e.player, f);
+  }
 }
 
-$('events_game').onchange = showEvents;
+// the last position update at or before t
+function lastAt(rows, t) {
+  let lo = 0, hi = rows.length;
+  while (lo < hi) { const m = (lo + hi) >> 1; if (rows[m].seconds <= t) lo = m + 1; else hi = m; }
+  return lo ? rows[lo - 1] : null;
+}
+
+const TILE_COLORS = { 0: '#000', 2: '#3a3a3a', 3: '#3a3a3a', 4: '#3a3a3a', 16: '#3a3a3a', 11: '#5a3434', 12: '#34405a', 17: '#6a3030', 18: '#30406a' };
+function drawFrame() {
+  const g = games[+$('timeline_game').value];
+  if (!g) return;
+  const tiles = g.tables.tiles, W = tiles.length, H = tiles[0].length, canvas = $('frame_canvas');
+  const size = Math.max(4, Math.floor(Math.min(canvas.parentElement.clientWidth / W, window.innerHeight * 0.7 / H)));
+  canvas.width = W * size; canvas.height = H * size;
+  const c = canvas.getContext('2d');
+  // the map as it was at the time: used boosts, bombs and portals dimmed, live pups shown
+  const state = new Map();
+  for (const e of g.tables.events) {
+    if (e.seconds > current) break;
+    if (e.x === '' || !/ (used|ready)$|^pup (spawn|taken)$/.test(e.event)) continue;
+    state.set(`${Math.floor(e.x)},${Math.floor(e.y)}`, e.event.endsWith('used') || e.event === 'pup taken' ? 'off' : 'on');
+  }
+  const square = (x, y, color, inset = 0) => { c.fillStyle = color; c.fillRect(x * size + inset, y * size + inset, size - 2 * inset, size - 2 * inset); };
+  const dot = (x, y, color, r) => { c.fillStyle = color; c.beginPath(); c.arc((x + 0.5) * size, (y + 0.5) * size, r * size, 0, 2 * Math.PI); c.fill(); };
+  for (let x = 0; x < W; x++) for (let y = 0; y < H; y++) {
+    const v = tiles[x][y], base = Math.floor(v), on = state.get(`${x},${y}`) !== 'off';
+    square(x, y, TILE_COLORS[base] || '#3a3a3a');
+    if (base === 1) {
+      const d = Math.round((v - 1) * 10), x0 = x * size, y0 = y * size, x1 = x0 + size, y1 = y0 + size;
+      c.fillStyle = '#808080'; c.beginPath();
+      if (d === 0) c.rect(x0, y0, size, size);
+      else { const corners = { 1: [[x0, y0], [x0, y1], [x1, y1]], 2: [[x0, y0], [x1, y0], [x0, y1]], 3: [[x0, y0], [x1, y0], [x1, y1]], 4: [[x1, y0], [x1, y1], [x0, y1]] }[d] || [];
+        corners.forEach(([px, py], i) => i ? c.lineTo(px, py) : c.moveTo(px, py)); }
+      c.fill();
+    } else if (base === 5) dot(x, y, on ? '#e0c000' : '#5a5020', 0.3);
+    else if (base === 14 || base === 15) dot(x, y, on ? (base === 14 ? '#ff5050' : '#5080ff') : '#444', 0.3);
+    else if (base === 6) { if (state.get(`${x},${y}`) === 'on') dot(x, y, '#40e040', 0.4); else dot(x, y, '#2a3a2a', 0.2); }
+    else if (base === 7) dot(x, y, '#c03030', 0.35);
+    else if (base === 8) dot(x, y, '#bbb', 0.2);
+    else if (base === 9) square(x, y, { 0: '#555', 1: '#3a7a3a', 2: '#8a3030', 3: '#30408a' }[Math.round((v - 9) * 10)] || '#555', 1);
+    else if (base === 10) dot(x, y, on ? '#111' : '#2a2a2a', 0.35);
+    else if (base === 13) dot(x, y, on ? '#c060ff' : '#4a305a', 0.4);
+  }
+  // players: last update moved on by its speed (updates come 4 times a second)
+  const carried = new Set(), shown = [];
+  for (const [name, rows] of g.tracks) {
+    const r = lastAt(rows, current), field = g.field.get(name) || [];
+    if (!r || !r.alive || r.alive === 'no' || !field.some(([a, b]) => a <= current && current <= b)) continue;
+    const dt = Math.min(0.25, current - r.seconds), x = r.x + r.vx * dt, y = r.y + r.vy * dt;
+    if (r.flag) carried.add(r.flag);
+    shown.push([name, x, y, r]);
+  }
+  for (const [v, flag, color] of [[3, 'red flag', '#ff4040'], [4, 'blue flag', '#4070ff'], [16, 'yellow flag', '#ffe040']])
+    for (let x = 0; x < W; x++) for (let y = 0; y < H; y++) if (Math.floor(tiles[x][y]) === v && !carried.has(flag)) { c.fillStyle = color; c.fillRect((x + 0.3) * size, (y + 0.15) * size, 0.45 * size, 0.4 * size); }
+  c.font = `${Math.max(9, size * 0.45)}px sans-serif`; c.textAlign = 'center';
+  for (const [name, x, y, r] of shown) {
+    const team = g.team.get(name);
+    c.fillStyle = team === 'red' ? '#e03030' : '#3060e0'; c.beginPath(); c.arc(x * size, y * size, 0.48 * size, 0, 2 * Math.PI); c.fill();
+    if (r.flag) { c.strokeStyle = r.flag === 'red flag' ? '#ff9090' : r.flag === 'blue flag' ? '#90b0ff' : '#ffe040'; c.lineWidth = Math.max(2, size * 0.12); c.stroke(); }
+    if (r.powerups) { c.strokeStyle = '#40e040'; c.lineWidth = 1; c.beginPath(); c.arc(x * size, y * size, 0.62 * size, 0, 2 * Math.PI); c.stroke(); }
+    c.fillStyle = '#fff'; c.fillText(name, x * size, (y - 0.7) * size);
+  }
+  $('frame_text').textContent = `${fmt(current)} (${current.toFixed(2)} s). Ring = carrying a flag, green ring = has a powerup.`;
+}
+
+function showTimeline() {
+  const g = games[+$('timeline_game').value];
+  if (!g) return;
+  const list = $('timeline_list').value, cols = modules['extract.js'].COLS[list];
+  const rows = list === 'events' ? g.tables.events : g.tables[list].filter(r => r.seconds >= current - 5 && r.seconds <= current + 20);
+  const table = $('timeline_table'), esc = v => String(v ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;');
+  let at = rows.findIndex(r => r.seconds >= current);
+  if (at < 0) at = rows.length - 1;
+  table.innerHTML = '<thead><tr><th>clock</th>' + cols.map(c => `<th>${c}</th>`).join('') + '</tr></thead><tbody>' +
+    rows.map((r, i) => `<tr data-s="${r.seconds}"${i === at ? ' class="at"' : ''}><td>${fmt(r.seconds)}</td>` + cols.map(c => `<td>${esc(r[c])}</td>`).join('') + '</tr>').join('') + '</tbody>';
+  const row = table.querySelector('tr.at');
+  if (row) table.parentElement.scrollTop = row.offsetTop - table.tHead.offsetHeight;
+  $('time_input').value = fmt(current);
+  drawFrame();
+}
+function jump(t) { if (Number.isFinite(t)) { current = t; showTimeline(); } }
+
+$('timeline_game').onchange = () => jump(0);
+$('timeline_list').onchange = showTimeline;
+$('time_go').onclick = () => jump(parseTime($('time_input').value));
+$('time_input').onkeydown = e => { if (e.key === 'Enter') $('time_go').click(); };
+document.querySelectorAll('[data-step]').forEach(b => b.onclick = () => jump(current + +b.dataset.step));
+$('timeline_table').onclick = e => { const tr = e.target.closest('tbody tr'); if (tr) jump(+tr.dataset.s); };
+window.onresize = drawFrame;
 $('replay_files').onchange = async e => run(await Promise.all([...e.target.files].map(f => readReplay(f.name, f))));
 $('preview_button').onclick = async () => {
   const file = $('preview_select').value;
