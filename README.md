@@ -43,9 +43,6 @@ You need [Node.js](https://nodejs.org) 20 or newer. Nothing else needs installin
 
 Yellow-flag (neutral flag) games are skipped by `new-stats.js`, since there's no red and blue base.
 
-**Downloading replays:** the TagPro developers ask for no more than one replay download every
-5 seconds. Please keep to that if you script downloads.
-
 ## Checks
 
 - `extract.js` matches the server's own grab, cap and return totals for every player, and its event times
